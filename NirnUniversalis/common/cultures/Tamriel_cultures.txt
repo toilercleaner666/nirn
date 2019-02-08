@@ -817,7 +817,79 @@ Xercles	Xerdes	Xerdorus	Xergulus	Xerlus	Xermean	Xermus	Xernes	Xersar	Xerseus	Xer
 }
 
 
-
+Akaviri = {
+	graphical_culture = westerngfx
+	
+	Tang-Mo = {
+		male_names = {
+		
+		}
+		
+		female_names = {
+		
+		}
+		
+		dynasty_names = {
+		
+		}
+	}
+	
+	Kamal = {
+		male_names = {
+			"Ada'Soom"
+		}
+		
+		female_names = {
+			"Ada'Soom"
+		}
+		
+		dynasty_names = {
+			"Dir-Kamal"
+		}
+	}
+	
+	Ka'Po'Tun = {
+		male_names = {
+			Tosh
+		}
+		
+		female_names = {
+			Tosh
+		}
+		
+		dynasty_names = {
+			Raka
+		}
+	}
+	
+	Tsaesci = {
+		male_names = {
+			Mishaxhi, Xhaferi Dinieras-Ves, Kalien, Sadineras-Kor, Savirien-Chorak, Sidri-Ashak, Sylaj, Vershu, Versidue-Shaie
+		}
+		
+		female_names = {
+			Vata
+		}
+		
+		dynasty_names = {
+			
+		}
+	}
+	
+	Akaviri Human = {
+		male_names = {
+			
+		}
+		
+		female_names = {
+		
+		}
+		
+		dynasty_names = {
+		
+		}
+	}
+}
 
 
 
@@ -918,7 +990,7 @@ Thrassian = {
 			N'Gasta B'Korgen K'Tora 
 		}
 
-		female_names = { 
+		female_names = {
 			K'Garza Z'Maja Q'fura
 			}
 
