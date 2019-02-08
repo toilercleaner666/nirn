@@ -827,29 +827,29 @@ Old Cultures = {
 	
 Falmer = {
 		male_names = {
-			
+			Athring Celegriath Edhelbor Engwe Gelebor Mirtil Nirilor Serenarth Sidanyis Vyrthur
 		}
 
 		female_names = { 
-
+			Faire Lilyrel
 			}
 
 		dynasty_names = {
-			
+			Agarwen Angoth Emeloth
 		}
 	}  
 
 Alyeid = {
 		male_names = {
-			
+			Anumaril Calinden Cenedelin Ceyran Filestis Gordhaur Haromir Nilichi Tjurhane Uluscant Uuril Endarre Fenlord Hadhuul Hergor Laloriaran Malyon Narilmor Odilon Ostarand Quaronaldil Talkynd Varondil Umaril Nym
 		}
 
 		female_names = { 
-
+			Curano Elanwe Faranwe Lanath Morilye Nuralanya Palolel Urenenya Valasha Wynaldia Anurraame Lannessa
 			}
 
 		dynasty_names = {
-			
+			Unfeathered Duure Dynar Fire-King Fyrre Shaper Singer
 		}
 	} 
   
@@ -872,7 +872,20 @@ Dwemer = {
 }
 
 
+Chimer = {
+		male_names = {
+			
+		}
 
+		female_names = { 
+
+			}
+
+		dynasty_names = {
+			
+		}
+	} 
+}
 
 
 
