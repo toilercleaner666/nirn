@@ -870,3 +870,27 @@ Dwemer = {
 		}
 	} 
 }
+
+
+
+
+
+
+
+Thrassian = {
+	graphical_culture = westerngfx
+	
+Sload = {
+		male_names = {
+			
+		}
+
+		female_names = { 
+
+			}
+
+		dynasty_names = {
+			
+		}
+	}  
+}
