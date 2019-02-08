@@ -827,42 +827,59 @@ Old Cultures = {
 	
 Falmer = {
 		male_names = {
-			
+			Athring Celegriath Edhelbor Engwe Gelebor Mirtil Nirilor Serenarth Sidanyis Vyrthur
 		}
 
 		female_names = { 
-
+			Faire Lilyrel
 			}
 
 		dynasty_names = {
-			
+			Agarwen Angoth Emeloth
 		}
 	}  
 
 Alyeid = {
 		male_names = {
-			
+			Anumaril Calinden Cenedelin Ceyran Filestis Gordhaur Haromir Nilichi Tjurhane Uluscant Uuril Endarre Fenlord Hadhuul Hergor Laloriaran Malyon Narilmor Odilon Ostarand Quaronaldil Talkynd Varondil Umaril Nym
 		}
 
 		female_names = { 
-
+			Curano Elanwe Faranwe Lanath Morilye Nuralanya Palolel Urenenya Valasha Wynaldia Anurraame Lannessa
 			}
 
 		dynasty_names = {
-			
+			"the Unfeathered" Duure Dynar "Fire King" Fyrre "the Shaper" "the Singer" "Flower King" "of Copper and Tea"
 		}
 	} 
   
 
 
 
-Dwemer = {
+Chimer = {
 		male_names = {
-			
+			Vivec Divayth Balreth Genvis Hedyn Radrathren Mavos Sadal Arslic Athynic Nerevar Sil Veloth Voryn
 		}
 
 		female_names = { 
+			Almalexia Aspera Enuse Farena Levisii Malvari Rathila Nall Nilae Turoni
+			}
 
+		dynasty_names = {
+			Andrano Faledran Siloreth "the Forgotten" Dagoth Indoril Oan Sotha
+		}
+	} 
+}
+
+
+Dragon = {
+		male_names = {
+			Skakmat Nafaalilargus Alduin Durnehviir Krosulhah Kruziikrel Mirmulnir Naaslaarum Nahagliiv Odahviing Paarthurnax Relonikiv Sahloknir Sahrotaar Viinturuth Voslaarum Vuljotnaak Vulthuryol Thurvokun Ahbiilok Boziikkodstrun Debudjen Dukaanfinsot Grahkrindrog Krahjotdaan Lodunost Nahfahlaar Numinex Papre
+
+		}
+
+		female_names = { 
+			Skakmat Nafaalilargus Alduin Durnehviir Krosulhah Kruziikrel Mirmulnir Naaslaarum Nahagliiv Odahviing Paarthurnax Relonikiv Sahloknir Sahrotaar Viinturuth Voslaarum Vuljotnaak Vulthuryol Thurvokun Ahbiilok Boziikkodstrun Debudjen Dukaanfinsot Grahkrindrog Krahjotdaan Lodunost Nahfahlaar Numinex Papre
 			}
 
 		dynasty_names = {
@@ -873,24 +890,40 @@ Dwemer = {
 
 
 
+Dwemer = {
+		male_names = {
+			Dahrk Radac Yagrum Anchard Brazzefk Bthuand Cuolec Dalen-Zanchu Dumac Gharen Ihlendam Jnaggo Kagrenac Klathzgar Mithas Mzulchond Nbthld Nchylbar Nchunak Nevith Razak Rkungthunch Sthovin
+		}
+
+		female_names = { 
+			Bluthanch Kamdida Uurthehnchenthyalft
+			}
+
+		dynasty_names = {
+			Bagarn Mezalf Stungnthumz Mzahnch
+		}
+	} 
+}
+
 
 
 
 
 Thrassian = {
+
 	graphical_culture = westerngfx
 	
-Sload = {
+	Sload = {
 		male_names = {
-			
+			N'Gasta B'Korgen K'Tora 
 		}
 
 		female_names = { 
-
+			K'Garza Z'Maja Q'fura
 			}
 
 		dynasty_names = {
-			
+			"the Pendulous"
 		}
 	}  
 }
