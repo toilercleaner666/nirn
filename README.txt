@@ -18,7 +18,7 @@ Nirn Universalis repository guidelines:
 	- When writing the title, think of it like asking "If this commit is done, it will [...]"
 		An example would be 'add provinces to Skyrim superregion', or 'weaken army professionalism effects'
 		This results in clear, concise and uniform notes, keeping them easily readable in what will be a long list
-	- When writing the comment, keep single lines below 72 characters. Use the preview function to check that no words are cut off like this.
+	- When writing the comment, keep single lines below 72 characters. Use the preview function to check the format.
 	
 
 ################################
