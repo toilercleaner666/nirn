@@ -849,7 +849,7 @@ Alyeid = {
 			}
 
 		dynasty_names = {
-			Unfeathered Duure Dynar Fire-King Fyrre Shaper Singer
+			"the Unfeathered" Duure Dynar "Fire King" Fyrre "the Shaper" "the Singer" "Flower King" "of Copper and Tea"
 		}
 	} 
   
