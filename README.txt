@@ -3,24 +3,25 @@
 ############################################################
 
 Nirn Universalis repository guidelines:
-	Structure:
-	- Any mod content should be in the NirnUniversalis folder
-	- The folder structure should resemble the structure in the vanilla installation (Steam library -> show local files)
-	- If you are adding events, decisions, scripted effects, localisations or similar things that do not depend on file
-		names, add them on to existing files that match the theme closely. 
-		If there is no close match, put them in a new file.
-	
-	Code:
-	- Code files should be indented with tabs, set GitHub to 'Tabs' in the top right corner for code files
-		The usual indent size is 4, but you can choose any size you want as long as you use tabs.
-		YAML files (.yml) are exempt from this, they require precise whitespace formatting with single spaces.
-	
+
 	Git:
 	- Commits should have a title that says what the commit is about, and a comment that outlines what it does
 	- When writing the title, think of it like asking "If this commit is done, it will [...]"
 		An example would be 'add provinces to Skyrim superregion', or 'weaken army professionalism effects'
 		This results in clear, concise and uniform notes, keeping them easily readable in what will be a long list
 	- When writing the comment, keep single lines below 72 characters. Use the preview function to check the format.
+
+	Structure:
+	- Any mod content should be in the NirnUniversalis folder
+	- The folder structure should resemble the structure in the vanilla installation (Steam library -> show local files)
+	- If you are adding events, decisions, scripted effects, localisations or similar things that do not depend on file
+		names, add them on to existing files that match the theme closely. 
+		If there is no close match, put them in a new file.
+
+	Code:
+	- [indentation format]
+	- [useful scripted effects]
+	- [useful province groups]
 	
 
 ################################
