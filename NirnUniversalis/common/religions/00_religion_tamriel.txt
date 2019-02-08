@@ -48,7 +48,7 @@ divines_group = {
 	}
 
 9_divines = {
-		color = { 253 93 93 }
+		color = { 255 29 29 }
 		icon = 2
 		country = {
 			stability_cost_modifier = -0.1
