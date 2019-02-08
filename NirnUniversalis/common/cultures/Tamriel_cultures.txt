@@ -910,9 +910,10 @@ Dwemer = {
 
 
 Thrassian = {
+
 	graphical_culture = westerngfx
 	
-Sload = {
+	Sload = {
 		male_names = {
 			N'Gasta B'Korgen K'Tora 
 		}
