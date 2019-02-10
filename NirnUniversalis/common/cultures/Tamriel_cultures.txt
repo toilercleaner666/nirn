@@ -844,7 +844,10 @@ Xercles	Xerdes	Xerdorus	Xergulus	Xerlus	Xermean	Xermus	Xernes	Xersar	Xerseus	Xer
 }
 
 
-Akaviri = {
+
+#### AKAVIR
+
+Tang-Mo = {
 	graphical_culture = westerngfx
 	
 	Tang-Mo = {
@@ -860,7 +863,11 @@ Akaviri = {
 		
 		}
 	}
+}
 	
+Kamal = {
+graphical_culture = westerngfx
+
 	Kamal = {
 		male_names = {
 			"Ada'Soom"
@@ -874,6 +881,11 @@ Akaviri = {
 			"Dir-Kamal"
 		}
 	}
+}
+
+
+Ka'Po'Tun = {
+graphical_culture = westerngfx
 	
 	Ka'Po'Tun = {
 		male_names = {
@@ -888,6 +900,12 @@ Akaviri = {
 			Raka
 		}
 	}
+}
+
+
+
+Tsaesci = {
+graphical_culture = westerngfx
 	
 	Tsaesci = {
 		male_names = {
@@ -902,6 +920,11 @@ Akaviri = {
 			
 		}
 	}
+}
+
+
+Akaviri Human = {
+graphical_culture = westerngfx
 	
 	Akaviri Human = {
 		male_names = {
