@@ -1,4 +1,4 @@
-#Religions of Tamriel
+e#Religions of Tamriel
 
 divines_group = {
 	defender_of_faith = yes
@@ -475,16 +475,15 @@ riddle_thar = {
 			
 		}
 		country = {
-			tolerance_own = 1
-			tolerance_heretic = -1
+			global_trade_power = 0.1
+			missionaries = 1
 		}
 		
 		country_as_secondary = {
-			diplomatic_reputation = 1
-			advisor_pool = 1
+			global_spy_defence = 0.1
 		}
 		
-		hre_religion = yes
+		hre_religion = no
 		
 		on_convert = {
 			change_religion = riddle_thar
