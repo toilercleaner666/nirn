@@ -36,7 +36,10 @@ miraak_desc: "Miraak is the First Dragonborn, although that term would not becom
 
 alinor_religion: "Auri-El"
 alinor_religion_religion_desc: "The Altmeri pantheon venerates eight key deities, led by Auri-El, who many scholars equate with Akatosh. However, others consider Akatosh a distinct deity within the Altmeri pantheon."
+khajiit_group: "Khajiit Religions"
+riddle_thar: "Riddle'Thar"
+riddle_thar_religion_desc: "A monomythic society, the Khajiit are led in their beliefs by mysterious figures known as "Clan Mothers", whose duty it is to disseminate the cultural myths among their kind, and who maintain autonomy from the Mane and the disparate tribal leaders. On the origin of their species, the Khajiit believe that life originated with two litter-mates, Ahnurr and Fadomai, who gave birth to the first cat, Alkosh. To Alkosh was given the guardianship of time, and whose birth prompted Ahnurr and Fadomai to bring forth further life into the world"
 
-khajiit_group: "Khajiit Religion"
-khajiit_religion: "Riddle'Thar"
-khajiit_religion_religion_desc: "A monomythic society, the Khajiit are led in their beliefs by mysterious figures known as "Clan Mothers", whose duty it is to disseminate the cultural myths among their kind, and who maintain autonomy from the Mane and the disparate tribal leaders. On the origin of their species, the Khajiit believe that life originated with two litter-mates, Ahnurr and Fadomai, who gave birth to the first cat, Alkosh. To Alkosh was given the guardianship of time, and whose birth prompted Ahnurr and Fadomai to bring forth further life into the world"
+hist_group: "Argonian Religions"
+hist_rel: "Hist"
+hist_rel_religion_desc: "Except for the more deeply assimilated, the Argonians do not formally recognize or worship any type of Tamrielic deity.[58] Some believe that they worship their creators, the Hist, although Argonians themselves state that they only perform rituals in their honor instead of fully worshipping them. The Argonians also revere Sithis, a being that even the Hist acknowledges."

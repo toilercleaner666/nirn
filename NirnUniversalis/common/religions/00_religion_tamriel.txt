@@ -12,215 +12,7 @@ divines_group = {
 
 
 
-riddle_thar = {
-		color = { 189 190 113 }
-		icon = 5
-		allowed_conversion = {
-			
-		}
-		country = {
-			tolerance_own = 1
-			tolerance_heretic = -1
-		}
-		
-		country_as_secondary = {
-			diplomatic_reputation = 1
-			advisor_pool = 1
-		}
-		
-		hre_religion = yes
-		
-		on_convert = {
-			change_religion = riddle_thar
-			add_prestige = -100
-			
-			remove_country_modifier = the_test_act
-			remove_country_modifier = superintendent_office
-			remove_country_modifier = the_popery_act
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}			
-		
-		}
-		
-		heretic = { ALKOSH }
-		
-		papacy = {
-			papal_tag = CAS
-			election_cost = 5
-			seat_of_papacy = 217 # rome
-			
-			levy_church_tax = {
-				cost = 50
-				potential = {
-					NOT = { tag = CAS }
-				}
-				allow = {
-					NOT = { war_with = CAS }
-					NOT = { has_country_modifier = papal_sanction_for_church_taxes }
-				}
-				effect = {
-					add_country_modifier = {
-						name = "papal_sanction_for_church_taxes"
-						duration = 7300
-					}
-				}
-				ai_will_do = {
-					factor = 1
-				}				
-			}			
-			bless_monarch = {
-				cost = 50
-				potential = {
-					NOT = { tag = CAS }
-				}
-				allow = {
-					NOT = { war_with = CAS }
-					NOT = { prestige = 100 }
-					NOT = { has_country_modifier = papal_blessing }
-				}
-				effect = {
-					add_country_modifier = {
-						name = "papal_blessing"
-						duration = 7300
-					}
-				}
-				ai_will_do = {
-					factor = 1
-				}
-			}
-			indulgence_for_sins = {
-				cost = 50
-				potential = {
-					government = monarchy
-					NOT = { tag = CAS }
-				}
-				allow = {
-					NOT = { war_with = CAS }
-					NOT = { legitimacy = 100 }
-					NOT = { has_country_modifier = papal_indulgence }
-				}
-				effect = {
-					add_country_modifier = {
-						name = "papal_indulgence"
-						duration = 7300
-					}
-				}
-				ai_will_do = {
-					factor = 1
-				}
-			}	
-			local_saint = {
-				cost = 100
-				potential = {
-					NOT = { tag = CAS }
-				}
-				allow = {
-					NOT = { war_with = CAS }
-					NOT = { stability = 3 }
-				}
-				effect = {
-					add_stability = 1
-				}
-				ai_will_do = {
-					factor = 1
-					modifier = {
-						factor = 2
-						NOT = { stability = 0 }
-					}
-				}
-			}
-			forgiveness_for_usury = {
-				cost = 50
-				potential = {
-					NOT = { tag = CAS }
-				}
-				allow = {
-					NOT = { war_with = CAS }
-					NOT = { has_country_modifier = usury_forgiven }
-				}
-				effect = {
-					add_country_modifier = {
-						name = "usury_forgiven"
-						duration = 7300
-					}
-				}
-				ai_will_do = {
-					factor = 1
-					modifier = {
-						factor = 0
-						NOT = { num_of_loans = 1 }
-					}
-				}
-			}			
-			proclaim_holy_war = {
-				cost = 50
-				potential = {
-					NOT = { tag = CAS }
-				}
-				allow = {
-					is_at_war = yes
-					NOT = { war_with = CAS }
-					NOT = { has_country_modifier = papal_sanction_for_holy_war }
-				}
-				effect = {
-					add_country_modifier = {
-						name = "papal_sanction_for_holy_war"
-						duration = 7300
-					}
-				}
-				ai_will_do = {
-					factor = 1
-					modifier = {
-						factor = 0
-						manpower_percentage = 0.5
-					}
-				}
-			}
-			send_papal_legate = {
-				cost = 50
-				potential = {
-					NOT = { tag = CAS }
-				}
-				allow = {
-					NOT = { war_with = CAS }
-					NOT = { has_country_modifier = papal_legate }
-				}
-				effect = {
-					add_country_modifier = {
-						name = "papal_legate"
-						duration = 7300
-					}
-				}
-				ai_will_do = {
-					factor = 1
-				}
-			}	
-			sanction_commercial_monopoly = {
-				cost = 50
-				potential = {
-					NOT = { tag = PAP }
-				}
-				allow = {
-					NOT = { war_with = CAS }
-					NOT = { mercantilism = 100 }
-				}
-				effect = {
-					add_mercantilism = 1
-				}
-				ai_will_do = {
-					factor = 1
-					modifier = {
-						factor = 0
-						NOT = { has_idea_group = trade_ideas }
-					}
-				}
-			}			
-		}
-	}
-}
+
 
 
 
@@ -720,7 +512,42 @@ hist_rel = {
 
 
 
+khajiit_group = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
 
+	# Flag emblem values - Used for Dynamic Setup of Random Nations.
+	# Emblem texture: game/gfx/interface/client_state_symbols_large.dds
+	# Can be overridden per religion.
+	flags_with_emblem_percentage = 0 # default == 0
+	flag_emblem_index_range = { 1 57 }
+
+
+
+riddle_thar = {
+		color = { 189 190 113 }
+		icon = 5
+		allowed_conversion = {
+			
+		}
+		country = {
+			land_morale = 0.15
+			infantry_power = 0.15
+                        hostile_attrition = 2
+		}
+		country_as_secondary = {
+			prestige = 0.5
+		}
+		province = {
+			local_missionary_strength = -0.03
+		}
+		
+		
+
+    heretic = { DAEDRA }
+
+
+}
 
 
 
