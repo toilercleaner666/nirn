@@ -550,7 +550,36 @@ riddle_thar = {
 }
 
 
+morrowind_group = {
+	defender_of_faith = yes
+	can_form_personal_unions = no
 
+	# Flag emblem values - Used for Dynamic Setup of Random Nations.
+	# Emblem texture: game/gfx/interface/client_state_symbols_large.dds
+	# Can be overridden per religion.
+	flags_with_emblem_percentage = 0 # default == 0
+	flag_emblem_index_range = { 1 57 }
+
+tribunal_rel = {
+		icon = 3
+		color = { 255 147 33 }
+		country = {
+			diplomatic_reputation = 1 
+                        prestige = 0.5
+		}
+		country_as_secondary = {
+			prestige = 0.5
+		}
+		province = {
+			local_missionary_strength = -0.03
+		}
+		
+		
+
+    heretic = { DAEDRA }
+
+       }
+}
 
 
 
