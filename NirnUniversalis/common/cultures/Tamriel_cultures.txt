@@ -800,7 +800,7 @@ Maomer = {
 	graphical_culture = westerngfx
 
 
-Maomer = {
+Phyrrani = {
 		male_names = { 
 Crenaam
 Cranas
@@ -921,6 +921,375 @@ Thromaire	Thromal	Thrombinder	Thromian	Thromire	Thromius	Thromlock	Thromor	Throm
 			
 		}
 	}  
+
+Khaelish = {
+		male_names = { 
+Crenaam
+Cranas
+Rysholnior
+Cyclirliol
+Vasloth
+Zyldyrnildu
+Ysleddos
+Qrenvah
+Uusnelrer
+Milyrloh 
+Cedhe
+Raphes
+Isnes
+Orelnyel
+Crangaa
+Cradreiddyrnes
+Ynwosni
+Vylgyslom
+Imrylreirner
+Ycon
+Qylgum
+Lenveddaal
+Johmolnyoan
+Leke
+Asluuldus
+Lydal
+Nomlivalron
+Ceklemeslal
+Jonwondas
+Pikalnyyldioh
+Jacluulvisno
+Iras
+Iklam
+Zylgi
+Qiriu
+Pyrgolnen
+Qrenriur
+Crire
+Jolgas
+Ocio
+Qralrir
+Nihmytolror
+Qashon
+Padrur
+Rylium
+
+			
+		}
+
+		female_names = { 
+Chydion
+Chrusnornas
+Ictolwyn
+Chrohlei
+Hyres
+Nuhy
+Zesmalluol
+Jurhollah
+Ilysseeslul
+Uhnullihal
+Oryrnysrys
+Enlundo
+Omush
+Elyrlos
+Dhehydy
+Narhei
+Yryrla
+Isysreeren
+Emeermes
+Anondunyl
+Ishohir
+Chathoht
+Tihlyh
+Sorhan
+Humny
+Dimnynvish
+Yurlu
+Hectellyh
+Esmoht
+Vinron
+Seelmos
+Donho
+Ylelwahoht
+Jecanniry
+Vore
+Zyhle
+Asneerno
+Osynwirnes
+Dharherah
+Ysullyrmiht
+Zutshady
+Chadur
+Tyrlil
+Olmiar
+Ilnorlu
+Irlandah
+Athyslys
+Cushyr
+Yulnenna
+Ytsherdilwy
+
+
+			}
+
+		dynasty_names = { Adaire	Adal	Adbinder	Adian	Adire	Adius	Adlock	Ador	Adorin	Adthar	Adus	Adwatch
+Caemaire	Caemal	Caembinder	Caemian	Caemire	Caemius	Caemlock	Caemor	Caemorin	Caemthar	Caemus	Caemwatch
+Elsinaire	Elsinal	Elsinbinder	Elsinian	Elsinire	Elsinius	Elsinlock	Elsinor	Elsinorin	Elsinthar	Elsinus	Elsinwatch
+Gaeaire	Gaeal	Gaebinder	Gaeian	Gaeire	Gaeius	Gaelock	Gaeor	Gaeorin	Gaethar	Gaeus	Gaewatch
+Grayaire	Grayal	Graybinder	Grayian	Grayire	Grayius	Graylock	Grayor	Grayorin	Graythar	Grayus	Graywatch
+Highaire	Highal	Highbinder	Highian	Highire	Highius	Highlock	Highor	Highorin	Highthar	Highus	Highwatch
+Joraire	Joral	Jorbinder	Jorian	Jorire	Jorius	Jorlock	Joror	Jororin	Jorthar	Jorus	Jorwatch
+Larethaire	Larethal	Larethbinder	Larethian	Larethire	Larethius	Larethlock	Larethor	Larethorin	Lareththar	Larethus	Larethwatch
+Silinaire	Silinal	Silinbinder	Silinian	Silinire	Silinius	Silinlock	Silinor	Silinorin	Silinthar	Silinus	Silinwatch
+Spellaire	Spellal	Spellbinder	Spellian	Spellire	Spellius	Spelllock	Spellor	Spellorin	Spellthar	Spellus	Spellwatch
+Stormaire	Stormal	Stormbinder	Stormian	Stormire	Stormius	Stormlock	Stormor	Stormorin	Stormthar	Stormus	Stormwatch
+Thromaire	Thromal	Thrombinder	Thromian	Thromire	Thromius	Thromlock	Thromor	Thromorin	Thromthar	Thromus	Thromwatch
+			
+		}
+	} 
+
+Bondarian = {
+		male_names = { 
+Crenaam
+Cranas
+Rysholnior
+Cyclirliol
+Vasloth
+Zyldyrnildu
+Ysleddos
+Qrenvah
+Uusnelrer
+Milyrloh 
+Cedhe
+Raphes
+Isnes
+Orelnyel
+Crangaa
+Cradreiddyrnes
+Ynwosni
+Vylgyslom
+Imrylreirner
+Ycon
+Qylgum
+Lenveddaal
+Johmolnyoan
+Leke
+Asluuldus
+Lydal
+Nomlivalron
+Ceklemeslal
+Jonwondas
+Pikalnyyldioh
+Jacluulvisno
+Iras
+Iklam
+Zylgi
+Qiriu
+Pyrgolnen
+Qrenriur
+Crire
+Jolgas
+Ocio
+Qralrir
+Nihmytolror
+Qashon
+Padrur
+Rylium
+
+			
+		}
+
+		female_names = { 
+Chydion
+Chrusnornas
+Ictolwyn
+Chrohlei
+Hyres
+Nuhy
+Zesmalluol
+Jurhollah
+Ilysseeslul
+Uhnullihal
+Oryrnysrys
+Enlundo
+Omush
+Elyrlos
+Dhehydy
+Narhei
+Yryrla
+Isysreeren
+Emeermes
+Anondunyl
+Ishohir
+Chathoht
+Tihlyh
+Sorhan
+Humny
+Dimnynvish
+Yurlu
+Hectellyh
+Esmoht
+Vinron
+Seelmos
+Donho
+Ylelwahoht
+Jecanniry
+Vore
+Zyhle
+Asneerno
+Osynwirnes
+Dharherah
+Ysullyrmiht
+Zutshady
+Chadur
+Tyrlil
+Olmiar
+Ilnorlu
+Irlandah
+Athyslys
+Cushyr
+Yulnenna
+Ytsherdilwy
+
+
+			}
+
+		dynasty_names = { Adaire	Adal	Adbinder	Adian	Adire	Adius	Adlock	Ador	Adorin	Adthar	Adus	Adwatch
+Caemaire	Caemal	Caembinder	Caemian	Caemire	Caemius	Caemlock	Caemor	Caemorin	Caemthar	Caemus	Caemwatch
+Elsinaire	Elsinal	Elsinbinder	Elsinian	Elsinire	Elsinius	Elsinlock	Elsinor	Elsinorin	Elsinthar	Elsinus	Elsinwatch
+Gaeaire	Gaeal	Gaebinder	Gaeian	Gaeire	Gaeius	Gaelock	Gaeor	Gaeorin	Gaethar	Gaeus	Gaewatch
+Grayaire	Grayal	Graybinder	Grayian	Grayire	Grayius	Graylock	Grayor	Grayorin	Graythar	Grayus	Graywatch
+Highaire	Highal	Highbinder	Highian	Highire	Highius	Highlock	Highor	Highorin	Highthar	Highus	Highwatch
+Joraire	Joral	Jorbinder	Jorian	Jorire	Jorius	Jorlock	Joror	Jororin	Jorthar	Jorus	Jorwatch
+Larethaire	Larethal	Larethbinder	Larethian	Larethire	Larethius	Larethlock	Larethor	Larethorin	Lareththar	Larethus	Larethwatch
+Silinaire	Silinal	Silinbinder	Silinian	Silinire	Silinius	Silinlock	Silinor	Silinorin	Silinthar	Silinus	Silinwatch
+Spellaire	Spellal	Spellbinder	Spellian	Spellire	Spellius	Spelllock	Spellor	Spellorin	Spellthar	Spellus	Spellwatch
+Stormaire	Stormal	Stormbinder	Stormian	Stormire	Stormius	Stormlock	Stormor	Stormorin	Stormthar	Stormus	Stormwatch
+Thromaire	Thromal	Thrombinder	Thromian	Thromire	Thromius	Thromlock	Thromor	Thromorin	Thromthar	Thromus	Thromwatch
+			
+		}
+	}  
+
+
+
+Kituni = {
+		male_names = { 
+Crenaam
+Cranas
+Rysholnior
+Cyclirliol
+Vasloth
+Zyldyrnildu
+Ysleddos
+Qrenvah
+Uusnelrer
+Milyrloh 
+Cedhe
+Raphes
+Isnes
+Orelnyel
+Crangaa
+Cradreiddyrnes
+Ynwosni
+Vylgyslom
+Imrylreirner
+Ycon
+Qylgum
+Lenveddaal
+Johmolnyoan
+Leke
+Asluuldus
+Lydal
+Nomlivalron
+Ceklemeslal
+Jonwondas
+Pikalnyyldioh
+Jacluulvisno
+Iras
+Iklam
+Zylgi
+Qiriu
+Pyrgolnen
+Qrenriur
+Crire
+Jolgas
+Ocio
+Qralrir
+Nihmytolror
+Qashon
+Padrur
+Rylium
+
+			
+		}
+
+		female_names = { 
+Chydion
+Chrusnornas
+Ictolwyn
+Chrohlei
+Hyres
+Nuhy
+Zesmalluol
+Jurhollah
+Ilysseeslul
+Uhnullihal
+Oryrnysrys
+Enlundo
+Omush
+Elyrlos
+Dhehydy
+Narhei
+Yryrla
+Isysreeren
+Emeermes
+Anondunyl
+Ishohir
+Chathoht
+Tihlyh
+Sorhan
+Humny
+Dimnynvish
+Yurlu
+Hectellyh
+Esmoht
+Vinron
+Seelmos
+Donho
+Ylelwahoht
+Jecanniry
+Vore
+Zyhle
+Asneerno
+Osynwirnes
+Dharherah
+Ysullyrmiht
+Zutshady
+Chadur
+Tyrlil
+Olmiar
+Ilnorlu
+Irlandah
+Athyslys
+Cushyr
+Yulnenna
+Ytsherdilwy
+
+
+			}
+
+		dynasty_names = { Adaire	Adal	Adbinder	Adian	Adire	Adius	Adlock	Ador	Adorin	Adthar	Adus	Adwatch
+Caemaire	Caemal	Caembinder	Caemian	Caemire	Caemius	Caemlock	Caemor	Caemorin	Caemthar	Caemus	Caemwatch
+Elsinaire	Elsinal	Elsinbinder	Elsinian	Elsinire	Elsinius	Elsinlock	Elsinor	Elsinorin	Elsinthar	Elsinus	Elsinwatch
+Gaeaire	Gaeal	Gaebinder	Gaeian	Gaeire	Gaeius	Gaelock	Gaeor	Gaeorin	Gaethar	Gaeus	Gaewatch
+Grayaire	Grayal	Graybinder	Grayian	Grayire	Grayius	Graylock	Grayor	Grayorin	Graythar	Grayus	Graywatch
+Highaire	Highal	Highbinder	Highian	Highire	Highius	Highlock	Highor	Highorin	Highthar	Highus	Highwatch
+Joraire	Joral	Jorbinder	Jorian	Jorire	Jorius	Jorlock	Joror	Jororin	Jorthar	Jorus	Jorwatch
+Larethaire	Larethal	Larethbinder	Larethian	Larethire	Larethius	Larethlock	Larethor	Larethorin	Lareththar	Larethus	Larethwatch
+Silinaire	Silinal	Silinbinder	Silinian	Silinire	Silinius	Silinlock	Silinor	Silinorin	Silinthar	Silinus	Silinwatch
+Spellaire	Spellal	Spellbinder	Spellian	Spellire	Spellius	Spelllock	Spellor	Spellorin	Spellthar	Spellus	Spellwatch
+Stormaire	Stormal	Stormbinder	Stormian	Stormire	Stormius	Stormlock	Stormor	Stormorin	Stormthar	Stormus	Stormwatch
+Thromaire	Thromal	Thrombinder	Thromian	Thromire	Thromius	Thromlock	Thromor	Thromorin	Thromthar	Thromus	Thromwatch
+			
+		}
+	}  
+
 }
 
 Grahtian = {
