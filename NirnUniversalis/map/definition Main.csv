@@ -3004,12 +3004,12 @@
 3003;50;50;50;Shearpoint;x
 3004;51;51;51;Eldersblood Peak;x
 3005;52;52;52;Bleak Falls Mountains;x
-3006;53,53,53;Throat of the World;x
+3006;53,53,53;Throat of the World;x;;
 3007;54;54;54;Western Jerall Mountains;x
-3008;55,55,55;Eastern Jerall Mountains;x
+3008;55,55,55;Eastern Jerall Mountains;x;;
 3009;56;56;56;Velothi Mountains;x
 3010;57;57;57;North Cheydnal Mountains;x
-3011;58;58;58;South Cheydnal Mountains
+3011;58;58;58;South Cheydnal Mountains;
 3012;59;59;59;North Valus Mountains;x
 3013;60;60;60;South Valus Mountains;x
 3014;61;61;61;Deep Marsh;x
@@ -3189,12 +3189,12 @@
 3187;207;140;136;Unused174;
 3188;207;140;137;Unused175;
 3189;207;140;138;Unused176;
-3190;174;57;247;3190;
-3191;125;61;152;3191;
-3192;69;97;50;3192;
-3193;179;238;148;3193;
-3194;70;205;123;3194;
-3195;156;203;42;3195;
+3190;174;57;247;USED;
+3191;125;61;152;USED;
+3192;69;97;50;USED;
+3193;179;238;148;USED;
+3194;70;205;123;USED;
+3195;156;203;42;USED;
 3196;219;32;6;UnusedLand6;
 3197;219;32;7;UnusedLand7;
 3198;219;32;8;UnusedLand8;
