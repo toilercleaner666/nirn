@@ -1,0 +1,11 @@
+# A region can only belong to one super region.
+
+india_superregion = {
+	bengal_region
+	hindusthan_region
+	west_india_region
+	deccan_region
+	coromandel_region
+}
+
+

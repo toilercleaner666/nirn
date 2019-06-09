@@ -1,0 +1,26 @@
+# A province can only belong to one region!
+
+
+########################################
+# EUROPE                               #
+########################################
+
+france_region = {
+	areas = {
+		brittany_area
+		normandy_area
+		provence_area
+		guyenne_area
+		languedoc_area
+		massif_central_area
+		savoy_dauphine_area
+		lorraine_area
+		picardy_area
+		champagne_area
+		ile_de_france_area
+		loire_area
+		bourgogne_area
+		pyrenees_area
+		poitou_area
+	}
+}

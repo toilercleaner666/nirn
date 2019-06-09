@@ -1,0 +1,12 @@
+﻿# A province can only belong to one area!
+
+#Sea Areas:
+#No restriction on size.
+
+# Example
+# western_mediterrenean_area = {
+#	1293 1294 1295 1296 1297 1298 1300 1301 1302 1303 1304 1305 1307 }
+
+
+
+
