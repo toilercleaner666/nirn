@@ -131,3 +131,110 @@ winterhold_skyrim_region = {
 	winterhold_area
 	anthor_pass_area
 }
+
+########################################
+# BLACK MARSH                          #
+########################################
+
+shadowfen_argonia_region = {
+
+stormhold_area
+reticulated_spine_area
+leafwater_area
+venomous_fens_area
+	
+}
+
+oliis_bay_argonia_region = {
+
+lilmoth_area
+gator_glades_area
+rockpark_area
+archon_area
+branchgrove_area
+
+	
+}
+
+murkmire_argonia_region = {
+
+blackrose_area
+longmont_area
+alten_meirhall_area
+seaspring_area
+northern_murkwood_area
+southern_murkwood_area
+	
+}
+
+
+deep_marshes_argonia_region = {
+
+greenspring_area
+helstrom_area
+alten_markmont_area
+inner_marshes_area
+outer_marshes_area
+
+	
+}
+
+black_marsh_argonia_region = {
+
+black_marsh_area
+western_stormwood_area
+eastern_stormwood_area
+
+
+	
+}
+
+greater_thornmarsh_argonia_region = {
+
+thornmarsh_area
+riverwalk_area
+branchmont_area
+arnesia_area
+
+	
+}
+
+padomaic_coast_argonia_region = {
+
+portdun_mont_area
+seafalls_area
+crimson_coast_area
+foggy_bog_area
+
+	
+}
+
+greenglade_argonia_region = {
+
+greenglade_area
+wamasus_area
+riverbridge_area
+rockpoint_area
+
+	
+}
+
+topal_coast_argonia_region = {
+
+gideon_area
+glenbridge_area
+rockgrove_area
+stonewastes_area
+
+	
+}
+
+moonmarshes_argonia_region = {
+
+moonmarsh_area
+soulrest_area
+darkmoot_area
+marauder_coast_area
+rockspring_area
+	
+}

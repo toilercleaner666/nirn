@@ -18,3 +18,18 @@ skyrim_superregion = {
 	whiterun_skyrim_region
 	winterhold_skyrim_region
 }
+
+black_marsh_superregion = {
+
+shadowfen_argonia_region
+oliis_bay_argonia_region
+murkmire_argonia_region
+deep_marshes_argonia_region
+black_marsh_argonia_region
+greater_thornmarsh_argonia_region
+padomaic_coast_argonia_region
+greenglade_argonia_region
+topal_coast_argonia_region
+moonmarshes_argonia_region
+
+}
