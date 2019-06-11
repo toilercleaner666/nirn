@@ -4,7 +4,7 @@
 # VALENWOOD                            #
 ########################################
 
-malabal_tor_region = {
+malabal_tor_valenwood_region = {
 	areas = {
 		broken_coast_area
 		deepwoods_area
@@ -15,7 +15,7 @@ malabal_tor_region = {
 	}
 }
 
-grahtwood_region = {
+grahtwood_valenwood_region = {
 	areas = {
 		moonmont_shrines_area
 		remans_bluff_area
@@ -33,7 +33,7 @@ grahtwood_region = {
 	}
 }
 
-greenshade_region = {
+greenshade_valenwood_region = {
 	areas = {
 		emperors_run_area
 		whisperwoods_area
@@ -49,7 +49,7 @@ greenshade_region = {
 	}
 }
 
-northern_valenwood_region = {
+northern_valenwood_valenwood_region = {
 	areas = {
 		arenthian_borderlands_area
 		northern_woods_area
@@ -59,4 +59,75 @@ northern_valenwood_region = {
 		southern_strid_basin_area
 		malalbal_vallies_area
 	}
+}
+
+########################################
+# SKYRIM                               #
+########################################
+
+haafingar_skyrim_region = {
+	arch_of_solitude_area
+	northern_haafingar_area
+	dragon_bridge_area
+}
+
+eastmarch_skyrim_region = {
+	windhelm_area
+	kynesgrove_area
+	mistwatch_springs_area
+	bonestrewn_springs_area
+	shors_cliffs_area
+}
+
+falkreath_skyrim_region = {
+	southfringe_pass_area
+	ilinalta_forest_area
+	falkreath_area
+}
+
+hjaalmarch_skyrim_region = {
+	hjall_bog_area
+	morthal_area
+	hjall_pass_area
+	karth_delta_area
+	snowhawk_swamps_area
+	southern_hjaalmarch_area
+}
+
+pale_skyrim_region = {
+	dawnstar_port_area
+	labyrinthian_area
+	red_road_pass_area
+	yogrim_area
+	uttering_hills_area
+}
+
+reach_skyrim_region = {
+	karthwasten_area
+	markarth_area
+	southern_reach_area
+	central_reach_area
+	granite_cliffs_area
+	bannermist_forest_area
+}
+
+rift_skyrim_region = {
+	nimalten_area
+	riften_area
+	autumnwatch_woods_area
+	witchmist_area
+	corigate_ferns_area
+}
+
+whiterun_skyrim_region = {
+	rorikstead_area
+	whiterun_area
+	whiterun_plains_area
+	bleak_falls_valley_area
+}
+
+winterhold_skyrim_region = {
+	frozen_wastes_area
+	winterhold_area
+	anthor_pass_area
 }

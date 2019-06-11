@@ -1,9 +1,9 @@
 ﻿# A province can only belong to one area!
 #No restriction on size.
 
-
+######################################
 # BLACK MARSH
-
+######################################
 lilmoth_area = { 
 1248 1249 1250
 }
@@ -180,8 +180,10 @@ foggy_bog_area = { 1322 1323 1324 1325
 
 }
 
+######################################
+# VALENWOOD
+######################################
 
-#VALENWOOD
 
 arenthian_borderlands_area = {
 	1610 1611 1612 1613 1616
@@ -331,3 +333,167 @@ long_coast_area = {
 	1519 1521 1522 1523 1536
 }
 
+######################################
+# SKYRIM
+######################################
+
+
+arch_of_solitude_area = {
+	991 992 993
+}
+
+northern_haafingar_area = {
+	71 72 73
+}
+
+dragon_bridge_area = {
+	74 101 102 103
+}
+
+karthwasten_area = {
+	111 110 112 113
+}
+
+markarth_area = {
+	114 118 127
+}
+
+southern_reach_area = {
+	128 129 130
+}
+
+central_reach_area = {
+	115 119 122 121
+}
+
+granite_cliffs_area = {
+	120 123 126
+}
+
+hjaal_bog_area = {
+	42 41 40 43
+}
+
+morthal_area = {
+	44 99 47
+}
+
+hjall_pass_area = {
+	91 92 98
+}
+
+karth_delta_area = {
+	45 46 106 105
+}
+
+snowhawk_swamps_area= {
+	104 109 108 107
+}
+
+southern_hjaalmarch_area = {
+	116 117 100	
+}
+
+dawnstar_port_area= {
+	39 31 32
+}
+
+labyrinthian_area = {
+	90 48 37
+}
+
+red_road_pass_area = {
+	38 24 36
+}
+
+yorgim_area = {
+	25 26 35
+}
+
+frozen_wastes_area = {
+	23 22 15
+}
+
+winterhold_area = {
+	14 16 17
+}
+
+anthor_pass_area = {
+	21 20 19
+}
+
+rorikstead_area = {
+	124 97 125
+}
+
+whiterun_area = {
+	84 85 86 89
+}
+
+whiterun_plains_area = {
+	93 94 95 96
+}
+
+bleak_falls_valley_area = {
+	83 87 88
+}
+
+southfringe_pass_area = {
+	138 139 137
+}
+
+ilinalta_forest_area= {
+	134 135 136 141 142
+}
+
+falkreth_area = {
+	140 143 144
+}
+
+bannermist_forest_area = {
+	131 132 133
+}
+
+windhelm_area = {
+	18 28 29
+}
+
+uttering_hills_area = {
+	27 33 34
+}
+
+kynesgrove_area = {
+	30 49 50 55
+}
+
+mistwatch_springs_area = {
+	56 57 65
+}
+
+bonestrewn_springs_area = {
+	70 69 68 67 66
+}
+
+shors_cliffs_area = {
+	51 58 52
+}
+
+nimalten_area = {
+	82 78 79
+}
+
+riften_area = {
+	60 61 62
+}
+
+autumnwatch_woods_area = {
+	80 81 75 76
+}
+
+witchmist_area = {
+	53 54 59
+}
+
+corigate_ferns_area = {
+	63 64 77
+}

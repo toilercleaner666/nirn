@@ -1,8 +1,20 @@
 # A region can only belong to one super region.
 
 valenwood_superregion = {
-	malabal_tor_region
-	grahtwood_region
-	greenshade_region
-	northern_valenwood_region
+	malabal_tor_valenwood_region
+	grahtwood_valenwood_region
+	greenshade_valenwood_region
+	northern_valenwood_valenwood_region
+}
+
+skyrim_superregion = {
+	haafingar_skyrim_region
+	eastmarch_skyrim_region
+	falkreath_skyrim_region
+	hjaalmarch_skyrim_region
+	pale_skyrim_region
+	reach_skyrim_region
+	rift_skyrim_region
+	whiterun_skyrim_region
+	winterhold_skyrim_region
 }
