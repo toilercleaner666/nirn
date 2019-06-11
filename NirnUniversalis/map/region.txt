@@ -1,26 +1,62 @@
 # A province can only belong to one region!
 
-
 ########################################
-# EUROPE                               #
+# VALENWOOD                            #
 ########################################
 
-france_region = {
+malabal_tor_region = {
 	areas = {
-		brittany_area
-		normandy_area
-		provence_area
-		guyenne_area
-		languedoc_area
-		massif_central_area
-		savoy_dauphine_area
-		lorraine_area
-		picardy_area
-		champagne_area
-		ile_de_france_area
-		loire_area
-		bourgogne_area
-		pyrenees_area
-		poitou_area
+		broken_coast_area
+		deepwoods_area
+		xylo_basin_area
+		silvenar_vale_area
+		longvale_area
+		silvenar_marches_area
+	}
+}
+
+grahtwood_region = {
+	areas = {
+		moonmont_shrines_area
+		remans_bluff_area
+		tarlain_heights_area
+		tarlain_coast_area
+		akhay_plains_area
+		lynpan_march_area
+		greenhall_area
+		green_heights_area
+		cormount_area
+		eldenroot_area
+		southpoint_area
+		eagle_vale_area
+		long_coast_area
+	}
+}
+
+greenshade_region = {
+	areas = {
+		emperors_run_area
+		whisperwoods_area
+		two_rocks_vale_area
+		elden_grove_area
+		golden_grove_area
+		drowned_coast_area
+		woodhearth_area
+		marbuk_area
+		wilderkings_court_area
+		wildercoast_area
+		greenheart_area
+	}
+}
+
+northern_valenwood_region = {
+	areas = {
+		arenthian_borderlands_area
+		northern_woods_area
+		eastern_jodewood_area
+		western_jodewood_area
+		strid_coast_area
+		southern_strid_basin_area
+		malalbal_vallies_area
 	}
 }
