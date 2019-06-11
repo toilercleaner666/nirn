@@ -2,7 +2,6 @@
 #No restriction on size.
 
 
-
 # BLACK MARSH
 
 lilmoth_area = { 
@@ -182,15 +181,153 @@ foggy_bog_area = { 1322 1323 1324 1325
 }
 
 
+#VALENWOOD
 
+arenthian_borderlands_area = {
+	1610 1611 1612 1613 1616
+}
 
+northern_woods_area = {
+	1609 1614 1615
+}
 
+strid_coast_area = {
+	1617 1618 1619 1620
+}
 
+eastern_jodewood_area = {
+	1607 1608 1621 3047
+}
 
+western_jodewood_area = {
+	1563 1606 1622
+}
 
+malalbal_vallies_area = {
+	1604 1605 1625 1626 1627
+}
 
+southern_strid_basin_area = {
+	1623 1624 1637 1638
+}
 
+xylo_basin_area = {
+	1636 1639 1640 1641
+}
 
+broken_coast_area = {
+	1644 1645 1646 1650
+}
 
+deepwoods_area = {
+	1634 1635 1642 1643
+}
 
+emperors_run_area = {
+	1649 1651 1652
+}
+
+whisperwoods_area = {
+	1580 1597 1598 1654
+}
+
+drowned_coast_area = {
+	1553 1593 1595
+}
+
+golden_grove_area = {
+	1589 1592 1594 1596
+}
+
+elden_grove_area = {
+	1578 1579 1582 1583
+}
+
+woodhearth_area = {
+	1587 1588 1590 1591
+}
+
+wilderkings_court_area = {
+	1576 1584 1585
+}
+
+wildercoast_area = {
+	1561 1562 1568 1570 1586
+}
+
+greenheart_area = {
+	1564 1571 1572 1573 1574
+}
+
+marbuk_area = {
+	1575 1577 1581 3048 3049 3050
+}
+
+remans_bluff_area = {
+	1553 3051 3052 3054
+}
+
+two_rocks_vale_area = {
+	1599 1600 1647 1648
+}
+
+longvale_area = {
+	1601 1602 1633
+}
+
+silvenar_vale_area = {
+	1628 1629 1630 1631 1632
+}
+
+silvenar_marches_area = {
+	1565 1566 1567 1603
+}
+
+moonmont_shrines_area = {
+	1560 3053 3055
+}
+
+lynpan_march_area = {
+	1557 3056 3057
+}
+
+green_heights_area = {
+	1546 1547 1556
+}
+
+greenhall_area = {
+	1548 1554 1555 1558 1559
+}
+
+tarlain_heights_area = {
+	1549 1550 1551 1552
+}
+
+tarlain_coast_area = {
+	1541 1543 1544 1569
+}
+
+akhay_plains_area = {
+	1534 1535 1542
+}
+
+eldenroot_area = {
+	1529 1530 1531 1533
+}
+
+cormount_area = {
+	1526 1527 1528 1545
+}
+
+eagle_vale_area = {
+	1520 1524 1525 1532
+}
+
+southpoint_area = {
+	1537 1538 1539 1540
+}
+
+long_coast_area = {
+	1519 1521 1522 1523 1536
+}
 
