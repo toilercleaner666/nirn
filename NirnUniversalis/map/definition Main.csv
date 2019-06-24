@@ -662,7 +662,7 @@
 661;156;24;80;Wildeye;x
 662;154;168;177;Gnoll Mountain;x
 663;187;128;173;Frostcrag Spire;x
-664;197;123;21;Dragonclaw Rock;x
+664;197;123;21;Fort Dragonclaw;x
 665;221;151;158;Cloud Ruler Temple;x
 666;177;169;153;Rielle;x
 667;91;251;114;Boreal Stone;x
@@ -676,9 +676,9 @@
 675;153;86;211;Bruma;x
 676;227;108;164;Plundered Gates;x
 677;163;102;235;Toadstool Hollow;x
-678;204;117;79;UNNAMED;x
+678;204;117;79;Bleaker's Outpost;x
 679;40;109;52;Anga;x
-680;95;27;93;UNNAMED;x
+680;95;27;93;Ice-Heart;x
 681;185;237;121;Bleaker's Way;x
 682;80;79;192;Endre;x
 683;23;216;194;Piukanda;x
@@ -743,12 +743,12 @@
 742;219;127;129;Infested Clearing;x
 743;109;234;88;Varondo;x
 744;89;221;200;Talwinque;x
-745;62;181;106;Shardrock;x
+745;62;181;106;Shetcombe;x
 746;162;237;139;Fallen Rock;x
 747;232;111;194;Miscarcand;x
 748;245;65;126;Gnoll's Meeting;x
 749;235;114;172;Fort Istirus;x
-750;106;30;69;Shetcombe;x
+750;106;30;69;Shardrock;x
 751;235;159;26;Dasek Moor;x
 752;188;82;34;Troll Candle Camp;x
 753;186;129;185;Ra'sava;x
@@ -757,7 +757,7 @@
 756;3;177;78;Ales;x
 757;103;198;169;Fort Hastrel;x
 758;221;19;170;Fort Linchal;x
-759;147;94;132;Sandstone;x
+759;147;94;132;Wariel;x
 760;33;166;215;Kvatch;x
 761;180;239;130;Shattered Mine;x
 762;112;145;192;Sithian Rock;x
@@ -768,8 +768,8 @@
 767;205;169;212;Gottshaw;x
 768;163;128;3;Belletor's Folly;x
 769;2;15;140;Jodestone;x
-770;229;96;29;Eldenroot;x
-771;47;194;130;SmokeHole;x
+770;229;96;29;Egriril (M);x
+771;47;194;130;Keenspite (M);x
 772;111;134;143;Gweden Farm;x
 773;118;14;122;Dunbarrow Cove;x
 774;106;234;160;Fort Strand;x
@@ -780,7 +780,7 @@
 779;98;38;112;Atrene;x
 780;223;78;91;Golden Lighthouse;x
 781;185;209;130;Garlas Malatar;x
-782;111;180;138;Crowhaven;x
+782;111;180;138;Fort Crowhaven;x
 783;160;17;61;Fort Sutch;x
 784;246;50;9;Drad Estate;x
 785;187;152;188;Beldaburo;x
@@ -788,11 +788,11 @@
 787;182;166;204;Fanacasecul;x
 788;137;142;38;Vindasel;x
 789;36;224;72;Felgageldt;x
-790;206;192;24;UNNAMED;x
+790;206;192;24;Vlastarus;x
 791;124;213;212;gro-Bak;x
 792;255;35;0;Collarbone;x
 793;37;63;71;Nisin;x
-794;92;42;171;UNNAMED;x
+794;92;42;171;Castle Roebeck;x
 795;238;244;212;Priory of the Nine;x
 796;19;68;29;Old Bridge;x
 797;237;235;183;Fort Homestead;x
@@ -800,7 +800,7 @@
 799;176;124;181;Hircine's Rock;x
 800;52;114;159;Sweetwater Camp;x
 801;245;131;41;Robber's Glen;x
-802;165;231;16;UNNAMED;x
+802;165;231;16;Castle Faregyl;x
 803;242;102;192;Harcane Grove;x
 804;32;209;194;Fort Black Foot;x
 805;100;240;167;Wenyandawik;x
@@ -835,8 +835,8 @@
 834;250;167;174;Telepe;x
 835;243;15;171;Leyawiin;x
 836;20;162;112;Greyland;x
-837;67;154;236;Forasken Min;x
-838;86;248;160;UNNAMED;x
+837;67;154;236;Somberstorm (M);x
+838;86;248;160;Forasken Min;x
 839;103;224;228;Deepscorn Hollow;x
 840;135;40;234;Tidewater Cove;x
 841;23;9;87;Fort Blueblood;x
@@ -850,13 +850,13 @@
 849;246;143;190;Blankenmarch;x
 850;148;122;197;Fieldhouse;x
 851;30;76;176;Marsh's Edge;x
-852;35;197;129;bilegulch mine;x
+852;35;197;129;Bilegulch;x
 853;111;178;152;Fort Doublecross;x
 854;231;74;24;Mara's Rest;x
 855;152;120;109;Arpenia ;x
 856;173;95;122;Vinthak;x
-857;231;216;132;Brackishville;x
-858;193;233;191;Mouth of the Panter;x
+857;231;216;132;Brackishville (M);x
+858;193;233;191;Panter's Spill;x
 859;212;208;104;Magnus rock;x
 860;128;245;122;Barren Mine;x
 861;93;195;21;Atatar;x
@@ -871,7 +871,7 @@
 870;180;112;162;Leafrot;x
 871;221;49;220;Seran Camp;x
 872;127;72;132;Wendelbek;x
-873;27;30;4;UNNAMED;x
+873;27;30;4;Mir Corrup;x
 874;216;10;137;Fort Cuptor;x
 875;140;111;29;Nayon Camp;x
 876;171;136;71;Panterville;x
@@ -879,16 +879,16 @@
 878;157;108;138;Fort Grief;x
 879;12;166;197;Nenalata;x
 880;24;126;73;Imperial Bridge;x
-881;80;95;217;UNNAMED;x
-882;217;233;25;UNNAMED;x
+881;80;95;217;Fort Warden;x
+882;217;233;25;Waxmoth Fort;x
 883;187;236;218;Sundercliff Watch;x
-884;157;122;227;UNNAMED;x
+884;157;122;227;West Septim's Gate;x
 885;100;130;158;Malada;x
 886;82;28;228;Lost Boy;x
 887;246;104;143;Collapsed Mines;x
 888;55;72;93;Arrowshaft Caves;x
-889;11;225;98;Bedrock Break;x
-890;170;133;247;Ondo;x
+889;11;225;98;Bedrock Caverns;x
+890;170;133;247;Ondo Ruins;x
 891;124;101;116;Fort Flecia;x
 892;77;100;38;Cadlew Chapel;x
 893;47;247;173;Crestbridge Camp;x
@@ -909,7 +909,7 @@
 908;252;196;168;Cracked Wood;x
 909;28;229;6;Vanua;x
 910;137;79;238;Fort Magia;x
-911;184;135;155;Empty Mine;x
+911;184;135;155;Blue Road Keep;x
 912;96;204;105;Nagastani;x
 913;131;67;46;Memorial Barrow;x
 914;245;38;18;Fort Magia;x
@@ -921,12 +921,12 @@
 920;10;125;152;Roxeyville;x
 921;215;14;148;Frostfire Glade  ;x
 922;29;38;223;Highlands;x
-923;140;113;52;RedRuby;x
+923;140;113;52;Chalman Keep;x
 924;253;136;64;Silver Tooth;x
 925;124;32;244;Fort Horuun;x
 926;254;166;127;Blaze Rock;x
 927;13;34;87;Beast Maw;x
-928;102;153;179;Jenseric's Estate;x
+928;102;153;179;White Fall Ranges;x
 929;185;2;147;Steed Valley;x
 930;180;83;172;Entin;x
 931;8;137;187;Arkved's Tower;x
@@ -956,14 +956,14 @@
 955;69;4;251;Rugdumph's Estate;x
 956;116;42;254;Dive Rock;x
 957;183;220;112;Ancestor Moth Hill;x
-958;29;75;78;Fort Farragut;x
+958;29;75;78;Farragut Keep;x
 959;142;80;117;Kemen;x
 960;205;91;132;Rickety Mine;x
 961;65;62;225;Akatosh's Rock;x
 962;35;142;9;Fort Scinia;x
 963;142;78;144;Arrius;x
-964;18;36;126;First aloinor;x
-965;89;32;175;Errinome Isle first allinor;x
+964;18;36;126;Hal Verovar;x
+965;89;32;175;Stirk;x
 966;241;193;134;Skywatch;x
 967;48;67;11;967;x
 968;34;241;132;968;x
@@ -4268,7 +4268,7 @@
 4267;67;180;159;4267;x
 4268;53;111;201;LAST LAKE;x
 #Missed Cyrodiil Province;;;;;
-4269;214;159;143;MISSED CYRODIIL PROVINCE;x
+4269;214;159;143;Contramantraci;x
 #BASE GAME PROVINCES;;;;;
 4270;209;227;59;Azraq;x
 4271;91;196;33;Suwayda;x
