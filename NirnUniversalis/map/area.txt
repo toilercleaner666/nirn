@@ -658,5 +658,55 @@ skingard_area = {
 }
 
 north_weald_area = {
-	
+	731 791 792 793 4270
 }
+
+colovian_lowlands_area = {
+	795 804 805
+}
+
+#Nibenay Valley
+
+southern_niben_valley = {
+	802 803 806 810
+}
+
+bravils_shores_area = {
+	807 808 825 918
+}
+
+panters_mouth_area = {
+	858 868 872 877 878
+}
+
+#Heartlands
+
+imperial_isle_area = {
+	814 815 816 817 818 819 820 821 823 824
+}
+
+southwestern_shore_area = {
+	797 811 812 813 
+}
+
+western_shore_area = {
+	702 787 788 796
+}
+
+northern_shore_area = {
+	701 686 917
+}
+
+cyrodiil_western_rise_area = {
+	914 915 916 919 920
+}
+
+steed_valley_area = {
+	911 912 928 929 930
+}
+
+southeastern_shore_area = {
+	905 906 909 910 913
+}
+
+
