@@ -497,3 +497,166 @@ witchmist_area = {
 corigate_ferns_area = {
 	63 64 77
 }
+
+
+######################################
+# CYRODIIL
+######################################
+
+#Gold Coast
+
+striks_coast_area = {
+	780 781 965
+}
+
+anvils_coast_area = {
+	770 772 773 775
+}
+
+brena_basin_area = {
+	763 784 785
+}
+
+jarol_stronghold_area = {
+	778 782 783
+}
+
+brena_river_ruins_area = {
+	761 764 765
+}
+
+kvatch_area = {
+	760 766 767 778
+}
+
+strand_plains_area = {
+	771 774 776 777
+}
+
+#Colovian Highlands
+
+cyrodiil_black_hills_area = {
+	747 753 754 759
+}
+
+linchal_stronghold_area = {
+	755 756 757 758 762
+}
+
+linchals_hamlets_area = {
+	737 744 745
+}
+
+colovian_crags_area = {
+	739 740 741 742 743
+}
+
+mist_morrow_vale_area = {
+	713 720 721 738
+}
+
+chorrol_hills_area = {
+	714 715 716 717 718 719
+}
+
+amber_woodland_area = {
+	670 693 694 695
+}
+
+lonely_hills_area = {
+	669 671 691 692 696
+}
+
+#Jerall Mountains
+
+jerall_steps_area = {
+	586 667 668
+}
+
+autumn_ranges_area = {
+	666 672 673 675 690
+}
+
+echo_cliffs_area = {
+	660 661 662 665 676
+}
+
+evergreen_crags_area = {
+	663 664 925 953 954
+}
+
+horunn_pass_area = {
+	950 951 952 963
+}
+
+cyrodiil_frost_fields_area = {
+	949 955 956 957
+}
+
+#Great Forest
+
+winters_reach_area = {
+	921 922 923 924 926 927
+}
+
+anga_valley_area = {
+	677 678 679 680
+}
+
+applewatch_wood_area = {
+	674 681 682 689
+}
+
+glademist_fields_area = {
+	683 684 685 687 688
+}
+
+twilight_woods_area = {
+	697 698 705 711 712
+}
+
+sercen_hills_area = {
+	699 700 703 704
+}
+
+bloody_grasslands_area = {
+	722 723 724 736
+}
+
+greenmead_area = {
+	706 707 708 709 710
+}
+
+cyrodiil_southern_woodlands_area = {
+	727 786 789 790 794
+}
+
+northern_niben_valley_area = {
+	798 799 800 801 809
+}
+
+#West Weald
+
+shardrock_farms_area = {
+	750 768 964
+}
+
+northern_strid_basin_area = {
+	748 751 752 769
+}
+
+gold_road_passes_area = {
+	734 735 746
+}
+
+arenthian_ruins_area = {
+	730 732 749
+}
+
+skingard_area = {
+	725 726 728 729 733
+}
+
+north_weald_area = {
+	
+}
