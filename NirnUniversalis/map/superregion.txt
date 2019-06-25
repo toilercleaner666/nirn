@@ -1,6 +1,7 @@
 # A region can only belong to one super region.
 
 valenwood_superregion = {
+
 	malabal_tor_valenwood_region
 	grahtwood_valenwood_region
 	greenshade_valenwood_region
@@ -8,6 +9,7 @@ valenwood_superregion = {
 }
 
 skyrim_superregion = {
+
 	haafingar_skyrim_region
 	eastmarch_skyrim_region
 	falkreath_skyrim_region
@@ -21,15 +23,28 @@ skyrim_superregion = {
 
 black_marsh_superregion = {
 
-shadowfen_argonia_region
-oliis_bay_argonia_region
-murkmire_argonia_region
-deep_marshes_argonia_region
-black_marsh_argonia_region
-greater_thornmarsh_argonia_region
-padomaic_coast_argonia_region
-greenglade_argonia_region
-topal_coast_argonia_region
-moonmarshes_argonia_region
+	shadowfen_argonia_region
+	oliis_bay_argonia_region
+	murkmire_argonia_region
+	deep_marshes_argonia_region
+	black_marsh_argonia_region
+	greater_thornmarsh_argonia_region
+	padomaic_coast_argonia_region
+	greenglade_argonia_region
+	topal_coast_argonia_region
+	moonmarshes_argonia_region
+}
 
+cyrodiil_superregion = {
+	
+	gold_coast_cyrodiil_region
+	colovian_highlands_cyrodiil_region
+	jerall_mountains_cyrodiil_region
+	great_forest_cyrodiil_region
+	west_weald_cyrodiil_region
+	nibenay_valley_cyrodiil_region
+	heartlands_cyrodiil_region
+	nibenay_basin_cyrodiil_region
+	valus_mountains_cyrodiil_region
+	blackwood_cyrodiil_region
 }

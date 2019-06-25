@@ -709,4 +709,108 @@ southeastern_shore_area = {
 	905 906 909 910 913
 }
 
+#Nibenay Basin
 
+broken_picks_ravine_area = {
+	945 946 947
+}
+
+cheydinhal_foothills_area = {
+	942 943 944 948 963
+}
+
+upper_niben_basin_area = {
+	931 932 933 934 941
+}
+
+sejanus_hunting_grounds_area = {
+	902 903 907 908
+}
+
+niben_basin_beaches_area = {
+	893 894 900 901 904
+}
+
+cadred_plains_area = {
+	889 890 895 896 899
+}
+
+warden_hills_area = {
+	881 882 886 888
+}
+
+flecia_coast_area = {
+	879 880 891 892
+}
+
+mir_corrup_area = {
+	869 873 876
+}
+
+morrowind_pass_area = {
+	875 883 884
+}
+
+greatforest_marshes_area = {
+	870 871 874
+}
+
+#Valus Mountains
+
+white_fall_valley_area = {
+	958 959 960 961
+}
+
+summers_pasture_area = {
+	938 939 940 962
+}
+
+sheltered_hills_area = {
+	898 935 936 937
+}
+
+silentridge_cliffs_area = {
+	885 887 897
+}
+
+#Blackwood
+
+border_marshes_area = {
+	863 864 865 866 867
+}
+
+deep_blackwoods_area = {
+	852 860 861 862
+}
+
+bragoven_farms_area = {
+	854 855 857 859
+}
+
+invom_bog_area = {
+	847 849 850 853
+}
+
+swamp_glades_area = {
+	843 845 846 851
+}
+
+elsweyr_border_watch_area = {
+	826 828 830 832
+}
+
+eastern_niben_shore_area = {
+	827 829 831 833 835
+}
+
+topal_gap_area = {
+	834 836 837 838
+}
+
+western_niben_shore_area_area = {
+	848 856 4269
+}
+
+niben_deltas_area = {
+	839 840 841 842 844
+}
