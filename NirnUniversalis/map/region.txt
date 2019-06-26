@@ -327,3 +327,33 @@ blackwood_cyrodiil_region = {
 	western_niben_shore_area
 	niben_deltas_area
 }
+
+########################################
+# YOKUDA                               #
+########################################
+
+akos_kasaz_yokuda_region = {
+	herd_mothers_grasslands_area
+	yokuda_outlying_coast_area
+	yokuda_desert_bend_area
+	totambu_coast_area
+	arranhu_coast_area
+	eastern_islands_area
+	yath_area
+	makan_area
+	kanesh_area
+}
+
+nalonga_ravan_yokuda_region = {
+	nalonga_area
+	ydur_coast_area
+	ravan_area
+}
+
+########################################
+# THRAS                                #
+########################################
+
+thras_region = {
+	thras_area
+}

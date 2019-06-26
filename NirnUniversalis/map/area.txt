@@ -8,39 +8,48 @@ lilmoth_area = {
 1248 1249 1250
 }
 
-alten_meirhall_area = { 1251 1252 1253 4601
+alten_meirhall_area = {
+	1251 1252 1253 4601
 
 }
 
-longmont_area = { 1254 1256 4600
+longmont_area = {
+	1254 1256 4600
 
 }
 
-blackrose_area = { 1255 1257 1258 1259 1261
+blackrose_area = { 
+	1255 1257 1258 1259 1261
 
 }
 
-rockpark_area = { 1288 1287 1288 1289
+rockpark_area = { 
+	1288 1287 1288 1289
 
 }
 
-moonmarsh_area = { 1264 1265 1267 1268
+moonmarsh_area = {
+	1264 1265 1267 1268
 
 }
 
-soulrest_area = { 1277 1278 1279 1280
+soulrest_area = {
+	1277 1278 1279 1280
 
 }
 
-stonewastes_area = { 1281 1282 1283 1284 1285
+stonewastes_area = {
+	1281 1282 1283 1284 1285
 
 }
 
-archon_area = { 1293 1294 1296 1297 1298
+archon_area = {
+	1293 1294 1296 1297 1298
 
 }
 
-branchgrove_area = { 1299 1300 1301
+branchgrove_area = {
+	1299 1300 1301
 
 }
 
@@ -813,4 +822,68 @@ western_niben_shore_area_area = {
 
 niben_deltas_area = {
 	839 840 841 842 844
+}
+
+######################################
+# Yokuda
+######################################
+
+#Akos Kasaz
+
+herd_mothers_grasslands_area = {
+	1715 1717 1720 1721
+}
+
+yokuda_outlying_coast_area = {
+	1714 1716 1718 1719 1722
+}
+
+yokuda_desert_bend_area = {
+	1711 1712 1713
+}
+
+totambu_coast_area = {
+	1698 1705 1706 1707 1710
+}
+
+arranhu_coast_area = {
+	1703 1704 1708 1709
+}
+
+eastern_islands_area = {
+	1699 1700 1701 1702
+}
+
+yath_area = {
+	1690 1695 1696 1697
+}
+
+makan_area = {
+	1691 1692 1693 1694
+}
+
+kanesh_area = {
+	2222 2223 2224 2225 2226
+}
+
+#Nalonga-Ravan
+
+nalonga_area = {
+	1683 1684 1685 1686 1689
+}
+
+ydur_coast_area = {
+	1679 1680 1681 1682
+}
+
+ravan_area = {
+	1675 1676 1677 1678
+}
+
+######################################
+# Thras
+######################################
+
+thras_area = {
+	1672 1673 1674
 }

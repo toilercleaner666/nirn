@@ -48,3 +48,8 @@ cyrodiil_superregion = {
 	valus_mountains_cyrodiil_region
 	blackwood_cyrodiil_region
 }
+
+yokuda_superregion = {
+	akos_kasaz_yokuda_region
+	nalonga_ravan_yokuda_region
+}
