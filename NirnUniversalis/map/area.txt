@@ -5,7 +5,7 @@
 # BLACK MARSH
 ######################################
 lilmoth_area = { 
-1248 1249 1250
+	1248 1249 1250
 }
 
 alten_meirhall_area = {
@@ -886,4 +886,204 @@ ravan_area = {
 
 thras_area = {
 	1672 1673 1674
+}
+
+######################################
+# Morrowind
+######################################
+
+solstheim_area = {
+	10 11 12 13
+}
+
+west_gash_area = {
+	475 476 477 480
+}
+
+sheogorad_area = {
+	411 412 413
+}
+
+ashlands_area = {
+	478 479 481 482 483
+}
+
+lower_gash_area = {
+	471 472 473 474
+}
+
+bitter_coast_area = {
+	283 462 463 467 470
+}
+
+western_ashlands_area = {
+	465 466 468 469
+}
+
+balmora_area = {
+	459 460 461 464
+}
+
+ascadian_coast_area = {
+	456 457 458
+}
+
+ascadian_islands_area = {
+	449 453 454 455
+}
+
+nabia_lowlands_area_area = {
+	447 448 450 451 452
+}
+
+branora_peninsula_area = {
+	440 441 442 443 444
+}
+
+odirniran_area = {
+	437 438 439
+}
+
+azuras_coast_area = {
+	428 429 430 435 436
+}
+
+molag_amur_area = {
+	431 432 433 434 445 446
+}
+
+indoranyon_area = {
+	415 416 417 418
+}
+
+lower_grazelands_area = {
+	423 424 425 426 427
+}
+
+upper_grazelands_area = {
+	414 419 420 421 422
+}
+
+telvanni_islands_area = {
+	401 402 409 410
+}
+
+port_telvannis_area = {
+	399 400 403 404
+}
+
+upper_telvanni_area = {
+	405 406 407 408
+}
+
+morrowind_great_valley_area = {
+	276 278 279
+}
+
+lower_velothi_area = {
+	280 281 282 285
+}
+
+velothi_pass_area = {
+	284 286 287 289
+}
+
+inner_sea_area = {
+	288 290 291 292 293 294
+}
+
+ebonheart_coast_area = {
+	295 305 314 315
+}
+
+karstlands_area = {
+	296 297 298 299 300 301
+}
+
+thirr_area = {
+	303 306 311
+}
+
+oreleth_area = {
+	302 307 308 309 310
+}
+
+central_siltreen_area = {
+	321 322 323 325 327
+}
+
+clockwork_marshes_area = {
+	324 328 329 330
+}
+
+tear_peninsula_area = {
+	334 335 336 337
+}
+
+siltreen_bogs_area = {
+	326 331 332 333 340 341
+}
+
+oroynyon_bay_area = {
+	338 339 342 345
+}
+
+deshaan_plains_area = {
+	318 319 320 343 344
+}
+
+mournhold_area = {
+	347 348 350 351
+}
+
+ashpalit_hills_area = {
+	304 312 313 316 317 349
+}
+
+ashpalit_plains_area = {
+	357 358 359
+}
+
+azuras_bay_area = {
+	360 365 375
+}
+
+mephalain_mountains_area = {
+	362 363 364 366 372
+}
+
+telvanni_highlands_area = {
+	393 396 397 398
+}
+
+boethian_mountains_area = {
+	389 391 392 395
+}
+
+sadrith_mora_area = {
+	385 386 390 395
+}
+
+velothi_coast_area = {
+	384 387 388
+}
+
+praloris_area = {
+	378 380 381 382 383
+}
+
+greenheights_bay_area = {
+	373 374 376 377 379
+}
+
+necrom_peninsula_area = {
+	368 369 370 371
+}
+
+amber_coast_area = {
+	346 352 354 355 367
+}
+
+taldeic_hills_area = {
+	353 356 361
 }

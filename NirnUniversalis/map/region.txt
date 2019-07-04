@@ -66,70 +66,88 @@ northern_valenwood_valenwood_region = {
 ########################################
 
 haafingar_skyrim_region = {
-	arch_of_solitude_area
-	northern_haafingar_area
-	dragon_bridge_area
+	areas = {
+		arch_of_solitude_area
+		northern_haafingar_area
+		dragon_bridge_area
+	}
 }
 
 eastmarch_skyrim_region = {
-	windhelm_area
-	kynesgrove_area
-	mistwatch_springs_area
-	bonestrewn_springs_area
-	shors_cliffs_area
+	areas = {
+		windhelm_area
+		kynesgrove_area
+		mistwatch_springs_area
+		bonestrewn_springs_area
+		shors_cliffs_area
+	}
 }
 
 falkreath_skyrim_region = {
-	southfringe_pass_area
-	ilinalta_forest_area
-	falkreath_area
+	areas = {
+		southfringe_pass_area
+		ilinalta_forest_area
+		falkreath_area
+	}
 }
 
 hjaalmarch_skyrim_region = {
-	hjall_bog_area
-	morthal_area
-	hjall_pass_area
-	karth_delta_area
-	snowhawk_swamps_area
-	southern_hjaalmarch_area
+	areas = {
+		hjall_bog_area
+		morthal_area
+		hjall_pass_area
+		karth_delta_area
+		snowhawk_swamps_area
+		southern_hjaalmarch_area
+	}
 }
 
 pale_skyrim_region = {
-	dawnstar_port_area
-	labyrinthian_area
-	red_road_pass_area
-	yogrim_area
-	uttering_hills_area
+	areas = {
+		dawnstar_port_area
+		labyrinthian_area
+		red_road_pass_area
+		yogrim_area
+		uttering_hills_area
+	}
 }
 
 reach_skyrim_region = {
-	karthwasten_area
-	markarth_area
-	southern_reach_area
-	central_reach_area
-	granite_cliffs_area
-	bannermist_forest_area
+	areas = {
+		karthwasten_area
+		markarth_area
+		southern_reach_area
+		central_reach_area
+		granite_cliffs_area
+		bannermist_forest_area
+	}
 }
 
 rift_skyrim_region = {
-	nimalten_area
-	riften_area
-	autumnwatch_woods_area
-	witchmist_area
-	corigate_ferns_area
+	areas = {
+		nimalten_area
+		riften_area
+		autumnwatch_woods_area
+		witchmist_area
+		corigate_ferns_area
+	}
 }
 
 whiterun_skyrim_region = {
-	rorikstead_area
-	whiterun_area
-	whiterun_plains_area
-	bleak_falls_valley_area
+	areas = {
+		rorikstead_area
+		whiterun_area
+		whiterun_plains_area
+		bleak_falls_valley_area
+	}
 }
 
 winterhold_skyrim_region = {
-	frozen_wastes_area
-	winterhold_area
-	anthor_pass_area
+	areas = {
+		frozen_wastes_area
+		winterhold_area
+		anthor_pass_area
+	}
 }
 
 ########################################
@@ -137,88 +155,108 @@ winterhold_skyrim_region = {
 ########################################
 
 shadowfen_argonia_region = {
+	areas = {
 
-	stormhold_area
-	reticulated_spine_area
-	leafwater_area
-	venomous_fens_area	
+		stormhold_area
+		reticulated_spine_area
+		leafwater_area
+		venomous_fens_area	
+	}
 }
 
 oliis_bay_argonia_region = {
+	areas = {
 
-	lilmoth_area
-	gator_glades_area
-	rockpark_area
-	archon_area
-	branchgrove_area	
+		lilmoth_area
+		gator_glades_area
+		rockpark_area
+		archon_area
+		branchgrove_area	
+	}
 }
 
 murkmire_argonia_region = {
+	areas = {
 
-	blackrose_area
-	longmont_area
-	alten_meirhall_area
-	seaspring_area
-	northern_murkwood_area
-	southern_murkwood_area	
+		blackrose_area
+		longmont_area
+		alten_meirhall_area
+		seaspring_area
+		northern_murkwood_area
+		southern_murkwood_area	
+	}
 }
 
 
 deep_marshes_argonia_region = {
+	areas = {
 
-	greenspring_area
-	helstrom_area
-	alten_markmont_area
-	inner_marshes_area
-	outer_marshes_area	
+		greenspring_area
+		helstrom_area
+		alten_markmont_area
+		inner_marshes_area
+		outer_marshes_area	
+	}
 }
 
 black_marsh_argonia_region = {
+	areas = {
 
-	black_marsh_area
-	western_stormwood_area
-	eastern_stormwood_area	
+		black_marsh_area
+		western_stormwood_area
+		eastern_stormwood_area	
+	}
 }
 
 greater_thornmarsh_argonia_region = {
+	areas = {
 
-	thornmarsh_area
-	riverwalk_area
-	branchmont_area
-	arnesia_area
+		thornmarsh_area
+		riverwalk_area
+		branchmont_area
+		arnesia_area
+	}
 }
 
 padomaic_coast_argonia_region = {
+	areas = {
 
-	portdun_mont_area
-	seafalls_area
-	crimson_coast_area
-	foggy_bog_area
+		portdun_mont_area
+		seafalls_area
+		crimson_coast_area
+		foggy_bog_area
+	}
 }
 
 greenglade_argonia_region = {
+	areas = {
 
-	greenglade_area
-	wamasus_area
-	riverbridge_area
-	rockpoint_area	
+		greenglade_area
+		wamasus_area
+		riverbridge_area
+		rockpoint_area	
+	}
 }
 
 topal_coast_argonia_region = {
+	areas = {
 
-	gideon_area
-	glenbridge_area
-	rockgrove_area
-	stonewastes_area	
+		gideon_area
+		glenbridge_area
+		rockgrove_area
+		stonewastes_area	
+	}
 }
 
 moonmarshes_argonia_region = {
+	areas = {
 
-	moonmarsh_area
-	soulrest_area
-	darkmoot_area
-	marauder_coast_area
-	rockspring_area	
+		moonmarsh_area
+		soulrest_area
+		darkmoot_area
+		marauder_coast_area
+		rockspring_area	
+	}
 }
 
 ########################################
@@ -226,106 +264,126 @@ moonmarshes_argonia_region = {
 ########################################
 
 gold_coast_cyrodiil_region = {
-	striks_coast_area
-	anvils_coast_area
-	brena_basin_area
-	jarol_stronghold_area
-	brena_river_ruins_area
-	kvatch_area
-	strand_plains_area
+	areas = {
+		striks_coast_area
+		anvils_coast_area
+		brena_basin_area
+		jarol_stronghold_area
+		brena_river_ruins_area
+		kvatch_area
+		strand_plains_area
+	}
 }
 
 colovian_highlands_cyrodiil_region = {
-	cyrodiil_black_hills_area
-	linchal_stronghold_area
-	linchals_hamlets_area
-	colovian_crags_area
-	mist_morrow_vale_area
-	chorrol_hills_area
-	amber_woodland_area
-	lonely_hills_area
+	areas = {
+		cyrodiil_black_hills_area
+		linchal_stronghold_area
+		linchals_hamlets_area
+		colovian_crags_area
+		mist_morrow_vale_area
+		chorrol_hills_area
+		amber_woodland_area
+		lonely_hills_area
+	}
 }
 
 jerall_mountains_cyrodiil_region = {
-	jerall_steps_area
-	autumn_ranges_area
-	echo_cliffs_area
-	evergreen_crags_area
-	horunn_pass_area
-	cyrodiil_frost_fields_area
+	areas = {
+		jerall_steps_area
+		autumn_ranges_area
+		echo_cliffs_area
+		evergreen_crags_area
+		horunn_pass_area
+		cyrodiil_frost_fields_area
+	}
 }
 
 great_forest_cyrodiil_region = {
-	winters_reach_area
-	anga_valley_area
-	applewatch_wood_area
-	glademist_fields_area
-	twilight_woods_area
-	sercen_hills_area
-	bloody_grasslands_area
-	greenmead_area
-	cyrodiil_southern_woodlands_area
-	northern_niben_valley_area
+	areas = {
+		winters_reach_area
+		anga_valley_area
+		applewatch_wood_area
+		glademist_fields_area
+		twilight_woods_area
+		sercen_hills_area
+		bloody_grasslands_area
+		greenmead_area
+		cyrodiil_southern_woodlands_area
+		northern_niben_valley_area
+	}
 }
 
 west_weald_cyrodiil_region = {
-	shardrock_farms_area
-	northern_strid_basin_area
-	gold_road_passes_area
-	arenthian_ruins_area
-	skingard_area
-	north_weald_area
-	colovian_lowlands_area
+	areas = {
+		shardrock_farms_area
+		northern_strid_basin_area
+		gold_road_passes_area
+		arenthian_ruins_area
+		skingard_area
+		north_weald_area
+		colovian_lowlands_area
+	}
 }
 
 nibenay_valley_cyrodiil_region = {
-	southern_niben_valley_area
-	bravils_shores_area
-	panters_mouth_area
+	areas = {
+		southern_niben_valley_area
+		bravils_shores_area
+		panters_mouth_area
+	}
 }
 
 heartlands_cyrodiil_region = {
-	imperial_isle_area
-	southwestern_shore_area
-	western_shore_area
-	northern_shore_area
-	cyrodiil_western_rise_area
-	steed_valley_area
-	southeastern_shore_area
+	areas = {
+		imperial_isle_area
+		southwestern_shore_area
+		western_shore_area
+		northern_shore_area
+		cyrodiil_western_rise_area
+		steed_valley_area
+		southeastern_shore_area
+	}
 }
 
 nibenay_basin_cyrodiil_region = {
-	broken_picks_ravine_area
-	cheydinhal_foothills_area
-	upper_niben_basin_area
-	sejanus_hunting_grounds_area
-	niben_basin_beaches_area
-	cadred_plains_area
-	warden_hills_area
-	flecia_coast_area
-	mir_corrup_area
-	morrowind_pass_area
-	greatforest_marshes_area
+	areas = {
+		broken_picks_ravine_area
+		cheydinhal_foothills_area
+		upper_niben_basin_area
+		sejanus_hunting_grounds_area
+		niben_basin_beaches_area
+		cadred_plains_area
+		warden_hills_area
+		flecia_coast_area
+		mir_corrup_area
+		morrowind_pass_area
+		greatforest_marshes_area
+	}
 }
 
 valus_mountains_cyrodiil_region = {
-	white_fall_valley_area
-	summers_pasture_area
-	sheltered_hills_area
-	silentridge_cliffs_area
+	areas = {
+		white_fall_valley_area
+		summers_pasture_area
+		sheltered_hills_area
+		silentridge_cliffs_area
+	}
 }
 
 blackwood_cyrodiil_region = {
-	border_marshes_area
-	deep_blackwoods_area
-	bragoven_farms_area
-	invom_bog_area
-	swamp_glades_area
-	elsweyr_border_watch_area
-	eastern_niben_shore_area
-	topal_gap_area
-	western_niben_shore_area
-	niben_deltas_area
+	areas = {
+		border_marshes_area
+		deep_blackwoods_area
+		bragoven_farms_area
+		invom_bog_area
+		swamp_glades_area
+		elsweyr_border_watch_area
+		eastern_niben_shore_area
+		topal_gap_area
+		western_niben_shore_area
+		niben_deltas_area
+	}
 }
 
 ########################################
@@ -333,21 +391,25 @@ blackwood_cyrodiil_region = {
 ########################################
 
 akos_kasaz_yokuda_region = {
-	herd_mothers_grasslands_area
-	yokuda_outlying_coast_area
-	yokuda_desert_bend_area
-	totambu_coast_area
-	arranhu_coast_area
-	eastern_islands_area
-	yath_area
-	makan_area
-	kanesh_area
+	areas = {
+		herd_mothers_grasslands_area
+		yokuda_outlying_coast_area
+		yokuda_desert_bend_area
+		totambu_coast_area
+		arranhu_coast_area
+		eastern_islands_area
+		yath_area
+		makan_area
+		kanesh_area
+	}
 }
 
 nalonga_ravan_yokuda_region = {
-	nalonga_area
-	ydur_coast_area
-	ravan_area
+	areas = {
+		nalonga_area
+		ydur_coast_area
+		ravan_area
+	}
 }
 
 ########################################
@@ -355,5 +417,95 @@ nalonga_ravan_yokuda_region = {
 ########################################
 
 thras_region = {
-	thras_area
+	areas = {
+		thras_area
+	}
+}
+
+########################################
+# MORROWIND                            #
+########################################
+
+velothi_foothills_morrowind_region = {
+	areas = {
+		solstheim_area
+		morrowind_great_valley_area
+		lower_velothi_area
+		velothi_pass_area
+	}
+}
+
+telvanni_isles_morrowind_region = {
+	areas = {
+		telvanni_islands_area
+		port_telvannis_area
+		upper_telvanni_area
+	}
+}
+
+telvanni_peninsula_morrowind_region = {
+	areas = {
+		telvanni_highlands_area
+		boethian_mountains_area
+		sadrith_mora_area
+		praloris_area
+		greenheights_bay_area
+		necrom_peninsula_area
+		amber_coast_area
+		taldeic_hills_area
+		mournhold_area
+		ashpalit_plains_area
+		azuras_bay_area
+		mephalain_mountains_area
+		velothi_coast_area
+	}
+}
+
+stonefalls_morrowind_region = {
+	areas = {
+		inner_sea_area
+		ebonheart_coast_area
+		ashpalit_hills_area
+		karstlands_area
+	}
+}
+
+greater_deshaan_morrowind_region = {
+	areas = {
+		thirr_area
+		oreleth_area
+		central_siltreen_area
+		clockwork_marshes_area
+		siltreen_bogs_area
+		tear_peninsula_area
+		deshaan_plains_area
+		oroynyon_bay_area
+	}
+}
+
+west_vvardenfell_morrowind_region = {
+	areas = {
+		ashlands_area
+		west_gash_area
+		lower_gash_area
+		western_ashlands_area
+		bitter_coast_area
+		balmora_area
+		ascadian_coast_area
+		ascadian_islands_area
+		nabia_lowlands_area
+	}
+}
+
+east_vvardenfell_morrowind_region = {
+	areas = {
+		sheogorad_area
+		upper_grazelands_area
+		indoranyon_area
+		lower_grazelands_area
+		azuras_coast_area
+		molag_amur_area
+		branora_peninsula_area
+		odirniran_area
+	}
 }

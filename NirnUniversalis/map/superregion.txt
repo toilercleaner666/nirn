@@ -53,3 +53,13 @@ yokuda_superregion = {
 	akos_kasaz_yokuda_region
 	nalonga_ravan_yokuda_region
 }
+
+morrowind_superregion = {
+	velothi_foothills_morrowind_region
+	telvanni_isles_morrowind_region
+	telvanni_peninsula_morrowind_region
+	stonefalls_morrowind_region
+	greater_deshaan_morrowind_region
+	west_vvardenfell_morrowind_region
+	east_vvardenfell_morrowind_region
+}
