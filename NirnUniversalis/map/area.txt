@@ -1087,3 +1087,141 @@ amber_coast_area = {
 taldeic_hills_area = {
 	353 356 361
 }
+
+######################################
+# HIGH ROCK
+######################################
+daenia_area = { 
+	273 274 277 4271
+}
+
+cambray_hills_area = {
+	250 251 252 264 265
+
+}
+
+glenpoint_area = {
+	266 267 268 272
+
+}
+
+aldcroft_area = {
+	262 263 269 270 271
+
+}
+
+urvaius_area = {
+   258 259 260 261
+	
+}
+
+bhoriane_area = {
+   216 255 256 257
+	
+}
+
+camlorn_area = {
+   245 246 247 248 249
+	
+}
+
+kambria_area = {
+   222 223 240 253 254
+	
+}
+
+northern_shores_area = {
+   237 239 241 242 243 244
+	
+}
+
+
+western_reach_area = {
+   159 160 161 162 163
+	
+}
+
+ephesus_area = {
+   170 171 181 182
+	
+}
+
+mournoth_area = {
+   169 172 173 175 180
+	
+}
+
+orsinium_area = {
+   148 151 152 153 158
+	
+}
+
+jahanna_area = {
+   145 146 147 150 155
+	
+}
+
+farrun_area = {
+   149 156 157 166 167
+	
+}
+
+central_wrothgar_area = {
+   154 164 165 168 174
+	
+}
+
+old_orsinium_area = {
+   176 177 178 185 186 187
+	
+}
+
+menevia_area = {
+   209 210 211 214 215
+	
+}
+
+wayrest_area = {
+   206 207 208 212 213
+	
+}
+
+gavaudon_area = {
+   189 190 191 192 205
+	
+}
+
+upper_wrothgar_area = {
+   179 183 184 188 193
+	
+}
+
+northpoint_area = {
+   196 201 202 203 204
+	
+}
+
+boralis_area = {
+   220 227 228 229 236
+	
+}
+
+shornhelm_area = {
+   219 221 226 230 231 235
+	
+}
+
+white_haven_area = {
+   232 233 234 238 4272
+	
+}
+
+markwasten_moor_area = {
+   195 197 200 217 218
+	
+}
+
+lower_wrothgar_area = {
+   194 198 199 224 225
+	
+}
