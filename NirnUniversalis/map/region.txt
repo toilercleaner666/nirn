@@ -511,7 +511,7 @@ east_vvardenfell_morrowind_region = {
 }
 
 ########################################
-# MORROWIND                            #
+# High Rock                            #
 ########################################
 
 glenumbra_highrock_region = {
@@ -520,11 +520,11 @@ glenumbra_highrock_region = {
 		aldcroft_area
 		glenpoint_area
 		cambray_hills_area
-                camlorn_area
-                urvaius_area
-                bhoriane_area
-                kambria_area
-                northern_shores_area
+        camlorn_area
+        urvaius_area
+        bhoriane_area
+        kambria_area
+        northern_shores_area
 	}
 }
 
@@ -533,7 +533,6 @@ northern_bangkorai_highrock_region = {
 		western_reach_area
 		ephesus_area
 		mournoth_area
-		
 	}
 }
 
@@ -543,9 +542,8 @@ wrothgar_highrock_region = {
 		jahanna_area
 		farrun_area
 		central_wrothgar_area
-                old_orsinium_area
-                upper_wrothgar_area
-                
+        old_orsinium_area
+        upper_wrothgar_area
 	}
 }
 
@@ -555,9 +553,8 @@ rivenspire_highrock_region = {
 		boralis_area
 		shornhelm_area
 		white_haven_area
-                markwasten_moor_area
-                lower_wrothgar_area
-                
+        markwasten_moor_area
+        lower_wrothgar_area
 	}
 }
 
