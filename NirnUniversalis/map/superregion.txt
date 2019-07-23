@@ -63,3 +63,17 @@ morrowind_superregion = {
 	west_vvardenfell_morrowind_region
 	east_vvardenfell_morrowind_region
 }
+
+highrock_superregion = {
+	glenumbra_highrock_region
+	northern_bangkorai_highrock_region
+	wrothgar_highrock_region
+	rivenspire_highrock_region
+}
+
+padomaic_superregion = {
+	cathnoquey_padomaic_region
+	yneslea_padomaic_region
+	esroniet_padomaic_region
+	
+}

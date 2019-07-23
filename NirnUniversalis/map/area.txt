@@ -1225,3 +1225,66 @@ lower_wrothgar_area = {
    194 198 199 224 225
 	
 }
+
+
+
+######################################
+# PADOMAIC ISLANDS
+######################################
+
+# CATHNOQUEY
+
+northern_cathnoquey_area = { 
+	1785 1786 1788 1789
+}
+
+southern_cathnoquey_area = { 
+	1773 1774 1778 1777 1776 1784
+}
+
+
+azure_chain_area = { 
+	1781 1782 1783 1780 1779 1775
+}
+
+
+# YNESLEA
+
+broken_horn_area = { 
+	1797 1796 1795 1794 1798
+}
+
+farrocks_area = { 
+	1790 1791 1792 1793 1799 1800
+}
+
+# ESRONIET
+
+southern_spear_area = { 
+	1801 1802 1803 1804 1841
+}
+
+black_harbor_area = { 
+	1805 1806 1807 1808
+}
+
+elvastonia_area = { 
+	1809 1810 1811 1812
+}
+
+the_filthbog_area = { 
+	1813 1814 1815 1816 1817 1818
+}
+
+the_filthbog_area = { 
+	1813 1814 1815 1816 1817 1818
+}
+
+cape_of_good_faith_area = { 
+	1824 1825 1826 1827
+}
+
+richfield_area = { 
+	1819 1820 1821 1822 1823
+}
+

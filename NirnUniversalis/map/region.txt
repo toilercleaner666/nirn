@@ -558,4 +558,41 @@ rivenspire_highrock_region = {
 	}
 }
 
+########################################
+# PADOMAIC ISLANDS                     #
+########################################
 
+cathnoquey_padomaic_region = {
+	areas = {
+	
+        northern_cathnoquey_area
+        southern_cathnoquey_area
+        azure_chain_area
+
+
+	}
+}
+
+yneslea_padomaic_region = {
+	areas = {
+	
+        broken_horn_area
+        farrocks_area
+
+
+	}
+}
+
+esroniet_padomaic_region = {
+	areas = {
+	
+        southern_spear_area
+        black_harbor_area
+        elvastonia_area
+        the_filthbog_area
+        the_filthbog_area
+        cape_of_good_faith_area
+        richfield_area
+
+	}
+}
