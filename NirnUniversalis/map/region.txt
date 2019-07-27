@@ -596,3 +596,58 @@ esroniet_padomaic_region = {
 
 	}
 }
+
+########################################
+# PYANDONEA                            #
+########################################
+
+northern_pyandonea_pyandonea_region = {
+	areas = {
+	
+        westpoint_area
+        toran_area
+        pirate_coast_area
+        fields_of_maka_area
+        glowing_jungle_area
+        neklak_area
+        eastern_coast_area
+        the_lost_valley_area
+        covered_cliffs_area
+        
+
+	}
+}
+
+pillar_isles_pyandonea_region = {
+	areas = {
+	
+        fisherman_isle_area
+        jiguna_area
+        roa_area
+        misty_isles_area
+        isle_of_riches_area
+        kowaht_area
+        crab_coast_area
+       
+        
+
+	}
+}
+
+southern_pyandonea_pyandonea_region = {
+	areas = {
+	
+        vos_area
+        jungle_of_bones_area
+        cursewood_area
+        orgnums_realm_area
+        forgotten_rainwood_area
+        coral_coast_area
+        bay_of_bones_area
+        bamboo_valley_area
+        pearlwater_area
+        raful_area
+        hilapos_area
+
+	}
+}
