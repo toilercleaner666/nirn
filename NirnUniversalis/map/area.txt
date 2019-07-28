@@ -1235,7 +1235,7 @@ lower_wrothgar_area = {
 # CATHNOQUEY
 
 northern_cathnoquey_area = { 
-	1785 1786 1788 1789
+	1785 1786 1787 1788 1789
 }
 
 southern_cathnoquey_area = { 
