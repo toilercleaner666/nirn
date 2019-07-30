@@ -77,3 +77,9 @@ padomaic_superregion = {
 	esroniet_padomaic_region
 	
 }
+
+pyandonea_superregion = {
+	northern_pyandonea_pyandonea_region
+	pillar_isles_pyandonea_region
+	southern_pyandonea_pyandonea_region
+}
