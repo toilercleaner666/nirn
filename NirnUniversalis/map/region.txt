@@ -651,3 +651,15 @@ southern_pyandonea_pyandonea_region = {
 
 	}
 }
+
+########################################
+# Atmora                               #
+########################################
+
+atmora_atmora_region = {
+	areas = {
+	
+		atmora_area
+		roscrea_area
+	}
+}
