@@ -1,16 +1,33 @@
 #  Welcome to the GitHub repository for Nirn Universalis!
 
-## Nirn Universalis contribution and guidelines:
+## About our mod: 
+Nirn Universalis is a Work In Progress mod for Europa Universalis IV, based on the Elder Scrolls world of Nirn, and its map, mechanics, and history.
+
+Current Progress: We have completed the Map and definition files, and are working on province names, as well as dividing up the world into areas and regions. We have also completed cultures, and started work on religions, advisor portraits, and colormaps.
+
+We have no predictable date for release, however, work on the mod continues and we have a team of 4 developers and 3 artists making sure the mod reaches the steam workshop as soon as is possible. Since work on the mod is during our own free time, we can afford to give no gaurentees regarding time.
+
+Join our discord server if you have any further questions about the direction the mod is taking, progress in specific areas, or suggestions. https://discord.gg/Spsh9pA
+
+We post regular updates on our subreddit: https://www.reddit.com/r/nirnuniversallis/
+
+## Nirn Universalis contribution guidelines:
 
 Feel free to contribute to our mod! Read on if you know how GitHub works, otherwise go check out the introduction section below this first.
 If you want to contribute, please either join our discord server and contribute through there, or alternatively make a fork of the repository, make your changes, and send us a merge request so we can evaluate your changes and make sure they fit in with our goal for the mod.
 
 Some guidelines:
-Commits messages should be relevant to the commit, and it should be easy to understand from the message what issue it refers to (referenced through the issue number), what problem it fixes, or what feature (events, decisions, etc) it adds. We highly recommend few and frequent commits, with every working batch of code committed individually. If you want to commit a lot of work in bulk, we would also ask you to include a detailed description with the message telling us more about what you did.
+
+Commit messages should be relevant to the commit, and it should be easy to understand from the message what issue it refers to (referenced through the issue number), what problem it fixes, or what feature (events, decisions, etc) it adds. We highly recommend few and frequent commits, with every working batch of code committed individually. If you want to commit a lot of work in bulk, we would also ask you to include a detailed description with the message telling us more about what you did.
 
 All mod content should be within the NirnUniversalis folder, and should mimic the placement of files in the vanilla installation directory. Files such as paint.net files for the map, non-eu4 scripts to make file writing less tedious, etc. or any other useful file that does not belong in the game files themselves, should be placed in the main directory.
+
 When adding events, decisions, scripted effects, localisations or similar things that do not depend on file names, add them on to existing files that match the theme closely. If there is no close match, put them in a new file. This keeps the mod organized.
-Please indent all code, and comment everything you write (a # symbol starts a line comment in the game files)  
+Please indent all code, and comment everything you write (a # symbol starts a line comment in the game files)
+
+## Suggestions / Bug reports:
+
+For any suggestions you want to make, or bugs you want to report, please open up a new issue. Write a detailed and relevant issue, with steps to reproduce if it's a bug, or details about the suggested feature if itss a suggestion. We are open to all suggestions for the mod, from potential events, to National Ideas, to disasters; but we would request all suggestions you make are true to the lore (and provide relevant wiki links wherever possible)
 	
 
 ## GitHub introduction for new people:
@@ -45,3 +62,9 @@ And once your branch has done its job and is fully playable, start a pull reques
 (Of course, we would much prefer it if you make a fork of the repository and edit in that, then send a merge request for your code back to the main repository, and all of that can be easily done through the browser window; however, using a branch is much easier if you are just starting off learning Git)
 	
 You can always just use GitHub Desktop, which has a similar UI, or alternatively a terminal interface (or Git-Bash on windows) to really make your life easier if you know how to use it.
+
+## Useful Scripts / Applications:
+These are a list of external programs we have used while working on this mod.
+
+Paint.net (image editor): https://www.getpaint.net
+EU4 Area File Program (made by Anurag-Shah, used to generate formatted files): https://github.com/Anurag-Shah/EU4AreaFileProgram
