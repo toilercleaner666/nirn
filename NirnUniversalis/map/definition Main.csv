@@ -503,32 +503,32 @@
 502;155;186;128;Bangkorai Garrison;x
 503;131;36;174;Northglen;x
 504;23;166;216;Blighted Coast;x
-505;183;164;166;Blighted Coast;x
+505;183;164;166;Blighted Highlands;x
 506;15;35;5;Viridian Woods;x
 507;44;142;110;Blackheart;x
 508;103;119;68;Strastnoc Landing;x
 509;209;77;35;Thorstad;x
 510;53;146;140;Evermore Straits;x
 511;48;247;135;Satakalaam;x
-512;156;183;0;Lainlyn;x
-513;145;158;25;Volenfell;x
+512;156;183;0;Pothago;x
+513;145;158;25;Kozanset;x
 514;50;185;43;Na-Totambu's City;x
 515;150;34;141;Hallin's Stand;x
 516;141;149;140;Verkarth;x
-517;194;43;229;Kozanset;x
-518;134;54;69;Tigonus;x
+517;194;43;229;Volenfell;x
+518;134;54;69;Lainlyn;x
 519;224;188;46;Motalion;x
-520;124;149;201;Pothago;x
+520;124;149;201;Tigonus;x
 521;168;102;84;Cybiades;x
 522;191;145;29;Myrkwasa;x
 523;221;74;49;Sentinel;x
 524;87;28;225;Chastown;x
-525;204;194;125;Abibon-Gora;x
-526;230;56;84;Na-Totambu Landing;x
+525;204;194;125;Na-Totambu Landing;x
+526;230;56;84;Abibon-Gora;x
 527;239;240;236;Kelps Yat;x
 528;222;36;78;Nohotoghra;x
-529;124;149;201;Hegathe;x
-530;95;113;92;Oldroren (M);x
+529;124;149;201;Oldroren (M);x
+530;95;113;92;Hegathe;x
 531;206;187;236;HoonDing;x
 532;204;152;249;Sunkeep;x
 533;132;57;182;Bingketh (M);x
@@ -574,7 +574,7 @@
 573;15;163;172;Hogon (M);x
 574;162;72;227;Rihath (M);x
 575;173;115;118;Strangkin (M);x
-576;217;71;142;Vongker (M);x
+576;217;71;142;Brenaswatch (M);x
 577;178;26;32;Webhelm (M);x
 578;29;11;70;Lonedale (M);x
 579;44;142;110;Ongkaleth (M);x
@@ -606,7 +606,7 @@
 605;123;146;139;Strigdive (M);x
 606;149;253;158;Ralamhos (M);x
 607;119;194;103;Fort Allhawk (M);x
-608;6;25;111;Cartmont;x
+608;6;25;111;Corten Mont;x
 609;221;151;208;Helland;x
 610;99;175;76;Fenroln (M);x
 611;151;120;217;Zodren (M);x
