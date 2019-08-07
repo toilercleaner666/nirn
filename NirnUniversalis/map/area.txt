@@ -1422,3 +1422,179 @@ atmora_area = {
 roscrea_area = {
 	7 8 9
 }
+
+########################################
+# Hammerfell                           #
+########################################
+
+western_abecean_isles_area = {
+	1668 1669 1670 1671
+}
+
+eastern_abecean_isles_area = {
+	1658 1659 1660 1666
+}
+
+gilane_area = {
+	536 539 541 549
+}
+
+riverview_coast_area = {
+	537 538 551 554
+}
+
+princegate_barriers_area = {
+	540 542 543 544
+}
+
+abahs_landing_area = {
+	545 546 547 548 550
+}
+
+lainlyn_area = {
+	517 518 519
+}
+
+kozanset_area = {
+	513 564 565
+}
+
+tigonus_area = {
+	520 521 522
+}
+
+sentinel_area = {
+	523 524 525
+}
+
+abibon_gora_area = {
+	526 527 528 529 532
+}
+
+hegathe_coast_area = {
+	530 531 533 534
+}
+
+bergama_area = {
+	535 552 553
+}
+
+taneth_area = {
+	555 556 557 568
+}
+
+roseguard_area = {
+	558 559 560 571
+}
+
+chaseguard_area = {
+	561 562 563
+}
+
+kheferem_highlands_area = {
+	570 572 573 602 604
+}
+
+brenas_watch_area = {
+	574 575 576 577 603
+}
+
+central_sunforge_area = {
+	605 606 618 619 622
+}
+
+dragontail_mountains_area = {
+	566 567 569 620 621
+}
+
+fallen_wastes_area = {
+	623 624 626 631 655
+}
+
+broken_canyons_area = {
+	614 615 616 617 632
+}
+
+satakalaam_area = {
+	508 509 510 511 512
+}
+
+blighted_coast_area = {
+	495 496 503 504 505 507
+}
+
+southern_bangkorai_area = {
+	497 502 506 630
+}
+
+totambu_area = {
+	514 515 516 629
+}
+
+ephesus_area = {
+	625 627 628
+}
+
+dragonstar_area = {
+	484 485 492 493 494
+}
+
+bangkorai_pass_area = {
+	498 501 656
+}
+
+skyreach_area = {
+	490 491 499 500 652
+}
+
+tear_area = {
+	653 658 657 659
+}
+
+craglorn_passes_area = {
+	486 487 488 489 645
+}
+
+lanistas_crags_area = {
+	644 646 647 650 651
+}
+
+elinhir_area = {
+	587 588 641 642 643
+}
+
+belkarth_area = {
+	589 590 638 639 640
+}
+
+ogondar_area = {
+	635 636 637 648
+}
+
+hel_ra_ravines_area = {
+	633 634 649 654
+}
+
+sparhills_area = {
+	583 584 600 601
+}
+
+corten_mont_foothills_area = {
+	598 599 607 608
+}
+
+cortenhad_border_watch_area = {
+	578 579 580 581 582
+}
+
+helland_badlands_area = {
+	595 596 597 609 610
+}
+
+helkati_wastes_area = {
+	594 611 612 613
+}
+
+stonemoor_passes_area = {
+	585 591 592 593
+}

@@ -83,3 +83,14 @@ pyandonea_superregion = {
 	pillar_isles_pyandonea_region
 	southern_pyandonea_pyandonea_region
 }
+
+hammerfell_superregion = {
+
+	hews_bane_hammerfell_region
+	alikr_desert_hammerfell_region
+	kheferem_hammerfell_region
+	sunforge_hammerfell_region
+	southern_bangkorai_hammerfell_region
+	craglorn_hammerfell_region
+	weeping_desert_hammerfell_region
+}

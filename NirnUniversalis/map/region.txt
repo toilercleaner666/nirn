@@ -663,3 +663,85 @@ atmora_atmora_region = {
 		roscrea_area
 	}
 }
+
+########################################
+# Hammerfell                           #
+########################################
+
+hews_bane_hammerfell_region = {
+	areas = {
+		western_abecean_isles_area
+		eastern_abecean_isles_area
+		gilane_area
+		riverview_coast_area
+		princegate_barriers_area
+		abahs_landing_area
+	}
+}
+
+alikr_desert_hammerfell_region = {
+	areas = {
+		lainlyn_area
+		kozanset_area
+		tigonus_area
+		sentinel_area
+		abibon_gora_area
+		hegathe_coast_area
+		bergama_area
+	}
+}
+
+kheferem_hammerfell_region = {
+	areas = {
+		taneth_area
+		roseguard_area
+		chaseguard_area
+		kheferem_highlands_area
+		brenas_watch_area
+	}
+}
+
+sunforge_hammerfell_region = {
+	areas = {
+		central_sunforge_area
+		dragontail_mountains_area
+		fallen_wastes_area
+		broken_canyons_area
+	}
+}
+
+southern_bangkorai_hammerfell_region = {
+	areas = {
+		satakalaam_area
+		blighted_coast_area
+		southern_bangkorai_area
+		totambu_area
+		ephesus_area
+	}
+}
+
+craglorn_hammerfell_region = {
+	areas = {
+		dragonstar_area
+		bangkorai_pass_area
+		skyreach_area
+		tear_area
+		craglorn_passes_area
+		lanistas_crags_area
+		elinhir_area
+		belkarth_area
+		ogondar_area
+		hel_ra_ravines_area
+	}
+}
+
+weeping_desert_hammerfell_region = {
+	areas = {
+		sparhills_area
+		corten_mont_foothills_area
+		cortenhad_border_watch_area
+		helland_badlands_area
+		helkati_wastes_area
+		stonemoor_passes_area
+	}
+}
