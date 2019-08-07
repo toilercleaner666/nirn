@@ -1,4 +1,7 @@
 ﻿l_english:
+ ########################################
+ # Hammerfell                           #
+ ########################################
  western_abecean_isles_area: "Western Abecean Isles"
  western_abecean_isles_area_name: "Western Abecean Isles"
  western_abecean_isles_area_adj: "Western Abecean"
@@ -14,11 +17,11 @@
  princegate_barriers_area: "Princegate Barriers"
  princegate_barriers_area_name: "Princegate Barriers"
  princegate_barriers_area_adj: "Princegate"
- abahs_landing_area: "Abahs Landing"
- abahs_landing_area_name: "Abahs Landing"
+ abahs_landing_area: "Abah's Landing"
+ abahs_landing_area_name: "Abah's Landing"
  abahs_landing_area_adj: "Abahian"
- hews_bane_hammerfell_region: "Hews Bane"
- hews_bane_hammerfell_region_name: "Hews Bane"
+ hews_bane_hammerfell_region: "Hew's Bane"
+ hews_bane_hammerfell_region_name: "Hew's Bane"
  hews_bane_hammerfell_region_adj: "Hewan"
  lainlyn_area: "Lainlyn"
  lainlyn_area_name: "Lainlyn"
@@ -41,9 +44,9 @@
  bergama_area: "Bergama"
  bergama_area_name: "Bergama"
  bergama_area_adj: "Bergaman"
- alikr_desert_hammerfell_region: "Alikr Desert"
- alikr_desert_hammerfell_region_name: "Alikr Desert"
- alikr_desert_hammerfell_region_adj: "Alikr"
+ alikr_desert_hammerfell_region: "Alik'r Desert"
+ alikr_desert_hammerfell_region_name: "Alik'r Desert"
+ alikr_desert_hammerfell_region_adj: "Alik'r"
  taneth_area: "Taneth"
  taneth_area_name: "Taneth"
  taneth_area_adj: "Tanethian"
