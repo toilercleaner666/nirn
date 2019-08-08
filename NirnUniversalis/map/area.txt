@@ -1598,3 +1598,147 @@ helkati_wastes_area = {
 stonemoor_passes_area = {
 	585 591 592 593
 }
+
+########################################
+# Summerset Isles                      #
+########################################
+
+firsthold_area = {
+	1009 1010 1017 1018 1019
+}
+
+shimmering_beaches_area = {
+	1002 1013 1020 1021
+}
+
+vafe_area = {
+	1011 1012 1014 1015 1016
+}
+
+beacon_coves_area = {
+	967 1005 1006 1008
+}
+
+west_guard_area = {
+	968 1003 1004 1007
+}
+
+skywatch_area = {
+	966 974 1000 1687
+}
+
+calambar_area = {
+	969 970 971 972 973
+}
+
+gilsailen_bay_area = {
+	988 989 1001
+}
+
+iluvamir_area = {
+	983 984 985
+}
+
+southern_auridon_area = {
+	979 981 986 987
+}
+
+eastern_auridon_shores_area = {
+	978 980 982
+}
+
+ondil_hills_area = {
+	975 976 977
+}
+
+sea_keep_area = {
+	1044 1047 1049 1050
+}
+
+lillandril_coast_area = {
+	1039 1041 1042 1043 1045
+}
+
+gradden_shores_area = {
+	1035 1036 1037 1038 1040
+}
+
+northern_summerset_area = {
+	1030 1031 1032 1033
+}
+
+krandar_beaches_area = {
+	1022 1024 1025 1026
+}
+
+crystal_tower_area = {
+	1027 1028 1029 1034
+}
+
+cloudrest_area = {
+	1051 1061 1062 1065
+}
+
+northern_vinyards_area = {
+	1063 1064 1066 1069 1070
+}
+
+shimmerene_coast_area = {
+	1023 1059 1075 1118
+}
+
+malten_woods_area = {
+	1071 1072 1074 1119
+}
+
+clemora_beaches_area = {
+	1105 1110 1111 1112
+}
+
+mountain_rests_area = {
+	1079 1080 1114 1116 1117
+}
+
+syldarim_foothills_area = {
+	1055 1056 1113 1115 1120
+}
+
+dusk_area = {
+	1107 1108 1109
+}
+
+gangrove_beaches_area = {
+	1053 1054 1103 1104 1106
+}
+
+alinor_area = {
+	1058 1084 1085 1087 1089
+}
+
+ebon_coast_area = {
+	1046 1048 1060 1086
+}
+
+laurenel_fields_area = {
+	1067 1068 1073 1076
+}
+
+rosefield_peaks_area = {
+	1077 1078 1082 1083 1088
+}
+
+isque_crags_area = {
+	1057 1081 1090 1091
+}
+
+welekin_coves_area = {
+	1099 1100 1101 1102
+}
+
+southern_sands_area = {
+	1095 1096 1097 1098
+}
+
+sunhold_shores_area = {
+	1052 1092 1093 1094
+}

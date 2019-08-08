@@ -745,3 +745,67 @@ weeping_desert_hammerfell_region = {
 		stonemoor_passes_area
 	}
 }
+
+########################################
+# Summerset Isles                      #
+########################################
+
+firsthold_summerset_isles_region = {
+	areas = {
+		firsthold_area
+		shimmering_beaches_area
+		vafe_area
+		beacon_coves_area
+		west_guard_area
+	}
+}
+
+skywatch_summerset_isles_region = {
+	areas = {
+		skywatch_area
+		calambar_area
+		gilsailen_bay_area
+		iluvamir_area
+		southern_auridon_area
+		eastern_auridon_shores_area
+		ondil_hills_area
+	}
+}
+
+cloudrest_summerset_isles_region = {
+	areas = {
+		sea_keep_area
+		lillandril_coast_area
+		gradden_shores_area
+		northern_summerset_area
+		krandar_beaches_area
+		crystal_tower_area
+		cloudrest_area
+		northern_vinyards_area
+		shimmerene_coast_area
+	}
+}
+
+dusk_summerset_isles_region = {
+	areas = {
+		malten_woods_area
+		clemora_beaches_area
+		mountain_rests_area
+		syldarim_foothills_area
+		dusk_area
+		gangrove_beaches_area
+	}
+}
+
+alinor_summerset_isles_region = {
+	areas = {
+		alinor_area
+		ebon_coast_area
+		laurenel_fields_area
+		rosefield_peaks_area
+		isque_crags_area
+		welekin_coves_area
+		southern_sands_area
+		sunhold_shores_area
+	}
+}

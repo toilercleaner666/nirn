@@ -94,3 +94,12 @@ hammerfell_superregion = {
 	craglorn_hammerfell_region
 	weeping_desert_hammerfell_region
 }
+
+summerset_isles_superregion = {
+
+	firsthold_summerset_isles_region
+	skywatch_summerset_isles_region
+	cloudrest_summerset_isles_region
+	dusk_summerset_isles_region
+	alinor_summerset_isles_region
+}
