@@ -103,3 +103,11 @@ summerset_isles_superregion = {
 	dusk_summerset_isles_region
 	alinor_summerset_isles_region
 }
+
+elsweyr_superregion = {
+
+	ne_quinal_elsweyr_region
+	reapers_march_elsweyr_region
+	paalatiin_elsweyr_region
+	quinrawl_elsweyr_region
+}

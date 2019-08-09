@@ -809,3 +809,48 @@ alinor_summerset_isles_region = {
 		sunhold_shores_area
 	}
 }
+
+########################################
+# Elsweyr                              #
+########################################
+
+ne_quinal_elsweyr_region = {
+	areas = {
+		riverhold_area
+		parched_frontiers_area
+		ne_quinal_hills_area
+		rimmen_area
+		telepe_plains_area
+	}
+}
+
+reapers_march_elsweyr_region = {
+	areas = {
+		northern_ne_quinal_area
+		orcrest_area
+		dune_area
+		western_deadlands_area
+	}
+}
+
+paalatiin_elsweyr_region = {
+	areas = {
+		deserts_edge_area
+		western_paaltaiin_area
+		harthel_area
+		manes_domain_area
+		corinth_area
+		central_steppes_area
+		alabaster_sands_area
+	}
+}
+
+quinrawl_elsweyr_region = {
+	areas = {
+		topal_coves_area
+		tenmar_forest_area
+		quinrawl_coast_area
+		quinrawl_peninsula_area
+		khenarthis_roost_area
+	}
+}

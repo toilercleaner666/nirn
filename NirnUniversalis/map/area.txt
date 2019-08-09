@@ -1742,3 +1742,91 @@ southern_sands_area = {
 sunhold_shores_area = {
 	1052 1092 1093 1094
 }
+
+########################################
+# Elsweyr                              #
+########################################
+
+riverhold_area = {
+	1433 1434 1435 1442 1800
+}
+
+parched_frontiers_area = {
+	1441 1443 1444 1445
+}
+
+ne_quinal_hills_area = {
+	1439 1440 1447 1448
+}
+
+rimmen_area = {
+	1446 1449 1450 1451
+}
+
+telepe_plains_area = {
+	1452 1453 1454 1455
+}
+
+northern_ne_quinal_area = {
+	1432 1510 1511 1512 1514
+}
+
+orcrest_area = {
+	1436 1437 1438 1513
+}
+
+dune_area = {
+	1506 1507 1508 1509
+}
+
+western_deadlands_area = {
+	1500 1503 1504 1505
+}
+
+deserts_edge_area = {
+	1490 1492 1493 1501 1502
+}
+
+western_paaltaiin_area = {
+	1495 1496 1497 1498 1499
+}
+
+harthel_area = {
+	1464 1489 1491 1494
+}
+
+manes_domain_area = {
+	1481 1482 1487 1488
+}
+
+corinth_area = {
+	1483 1484 1485 1486
+}
+
+central_steppes_area = {
+	1461 1462 1463 1465
+}
+
+alabaster_sands_area = {
+	1456 1457 1458
+}
+
+topal_coves_area = {
+	1459 1460 1466 1467
+}
+
+tenmar_forest_area = {
+	1475 1476 1478 1479 1480
+}
+
+quinrawl_coast_area = {
+	1473 1474 1477
+}
+
+quinrawl_peninsula_area = {
+	1468 1469 1470 1471 1472
+}
+
+khenarthis_roost_area = {
+	1515 1516 1517 1518
+}
