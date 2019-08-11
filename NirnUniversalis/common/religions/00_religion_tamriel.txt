@@ -441,7 +441,14 @@ icon_talos = {
 
 
 		}
+
+
 	}
+
+harmonized_modifier = harmonized_divines
+	
+	crusade_name = Crusade
+
 }
 
 dragon_group = {
@@ -472,7 +479,14 @@ dragon_cult = {
 
     heretic = { DAEDRA }
 
+
        }
+
+
+harmonized_modifier = harmonized_dragon
+	
+	crusade_name = Crusade
+
 }
 
 
@@ -505,6 +519,11 @@ hist_rel = {
 		
 
     heretic = { DAEDRA }
+
+
+harmonized_modifier = harmonized_hist
+	
+	crusade_name = Crusade
 
        }
 }
@@ -546,40 +565,14 @@ riddle_thar = {
 
     heretic = { DAEDRA }
 
+harmonized_modifier = harmonized_cat
+	
+	crusade_name = Crusade
+
 
 }
 
 
-morrowind_group = {
-	defender_of_faith = yes
-	can_form_personal_unions = no
-
-	# Flag emblem values - Used for Dynamic Setup of Random Nations.
-	# Emblem texture: game/gfx/interface/client_state_symbols_large.dds
-	# Can be overridden per religion.
-	flags_with_emblem_percentage = 0 # default == 0
-	flag_emblem_index_range = { 1 57 }
-
-tribunal_rel = {
-		icon = 3
-		color = { 255 147 33 }
-		country = {
-			diplomatic_reputation = 1 
-                        prestige = 0.5
-		}
-		country_as_secondary = {
-			prestige = 0.5
-		}
-		province = {
-			local_missionary_strength = -0.03
-		}
-		
-		
-
-    heretic = { DAEDRA }
-
-       }
-}
 
 
 }
@@ -903,10 +896,31 @@ daedra_religion_group = {
 		uses_piety = yes				# Uses piety mechanics
 	}
 
-	
-	harmonized_modifier = harmonized_muslim
+
+
+cult_of_malacath = {
+		color = { 83 130 74 }
+		icon = 5
+		country = {
+			global_manpower_modifier = 0.1
+			heir_chance = 1.0
+		}
+		country_as_secondary = {
+			heir_chance = 2.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { TRINIMAC MAULOCH }
+		
+		fervor = yes				# Uses Fervor Mechanics
+	}
+
+	harmonized_modifier = harmonized_daedra
 	
 	crusade_name = Crusade
+
 }	
 
 
@@ -972,45 +986,12 @@ chimer_rel = {
 			}
 		}
 		
-		heretic = { BHAKTI }
+		heretic = { Chimer }
 	}
 
-	sikhism = {
-		color = { 0 153 153 }
-		icon = 15
-		allowed_conversion = {
-			hinduism
-			sunni
-			shiite
-		}
-		country = {
-			mil_tech_cost_modifier = -0.1
-			land_morale = 0.1
-		}
-		country_as_secondary = {
-			land_morale = 0.05
-			global_unrest = -1
-		}
-		province = {
-			local_missionary_strength = -0.01
-		}
-		
-		on_convert = {
-			change_religion = sikhism
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-
-		heretic = { MASANDIS }
-
-		date = 1499.01.01
-	}
 	
-	harmonized_modifier = harmonized_dharmic
+	
+	harmonized_modifier = harmonized_chimer
 	
 	crusade_name = CRUSADE
 }
