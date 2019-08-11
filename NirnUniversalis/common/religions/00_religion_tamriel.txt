@@ -1,6 +1,6 @@
 #Religions of Tamriel
 
-divines_group = {
+divines_religion_group = {
 	defender_of_faith = yes
 	can_form_personal_unions = yes
 
@@ -12,57 +12,13 @@ divines_group = {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-alinor_religion = {
-		color = { 251 226 16 }
-		icon = 4
-		country = {
-			land_morale = 0.1
-                        prestige = 0.5
-		}
-		province = {
-			local_missionary_strength = -0.02
-		}
-		country_as_secondary = {
-			global_unrest = -1
-		}
-		heretic = { DAEDRA }
-		uses_isolationism = yes
-		
-		
-		
-	}
-
-
-
-
-
-
-
-	
 	
 
-8_divines = {
-		color = { 248 249 224 }
+8_divines_rel = {
+		color = { 247 232 118 }
 		icon = 1
 allowed_conversion = {
-			9_divines
+			9_divines_rel
 		}
 		country = {
 			vassal_income = 0.1
@@ -238,13 +194,23 @@ icon_zenithar = {
 			}
 
 		}
+
+on_convert = {
+			change_religion = 8_divines_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+
 	}
 
 
 
 
 
-9_divines = {
+9_divines_rel = {
 		color = { 255 29 29 }
 		icon = 2
 allowed_conversion = {
@@ -442,6 +408,15 @@ icon_talos = {
 
 		}
 
+on_convert = {
+			change_religion = 9_divines_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+
 
 	}
 
@@ -451,7 +426,7 @@ harmonized_modifier = harmonized_divines
 
 }
 
-dragon_group = {
+dragon_religion_group = {
 	defender_of_faith = no
 	can_form_personal_unions = no
 
@@ -461,7 +436,7 @@ dragon_group = {
 	flags_with_emblem_percentage = 0 # default == 0
 	flag_emblem_index_range = { 1 57 }
 
-dragon_cult = {
+dragon_cult_rel = {
 		icon = 3
 		color = { 10 10 10 }
 		country = {
@@ -479,6 +454,15 @@ dragon_cult = {
 
     heretic = { DAEDRA }
 
+on_convert = {
+			change_religion = dragon_cult_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+
 
        }
 
@@ -491,7 +475,7 @@ harmonized_modifier = harmonized_dragon
 
 
 
-hist_group = {
+hist_religion_group = {
 	defender_of_faith = yes
 	can_form_personal_unions = no
 
@@ -515,23 +499,35 @@ hist_rel = {
 		province = {
 			local_missionary_strength = -0.03
 		}
+
+on_convert = {
+			change_religion = hist_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
 		
 		
 
     heretic = { DAEDRA }
 
 
+
+
+       }
+
 harmonized_modifier = harmonized_hist
 	
 	crusade_name = Crusade
 
-       }
 }
 
 
 
 
-khajiit_group = {
+khajiit_religion_group = {
 	defender_of_faith = yes
 	can_form_personal_unions = yes
 
@@ -543,7 +539,7 @@ khajiit_group = {
 
 
 
-riddle_thar = {
+riddle_thar_rel = {
 		color = { 189 190 113 }
 		icon = 5
 		allowed_conversion = {
@@ -560,19 +556,199 @@ riddle_thar = {
 		province = {
 			local_missionary_strength = -0.03
 		}
+
+on_convert = {
+			change_religion = riddle_thar_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
 		
 		
 
     heretic = { DAEDRA }
 
-harmonized_modifier = harmonized_cat
-	
-	crusade_name = Crusade
+papacy = {
+			papal_tag = PAP
+			election_cost = 5
+			seat_of_papacy = 118 # rome
+			
+			levy_church_tax = {
+				cost = 50
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { has_country_modifier = papal_sanction_for_church_taxes }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "papal_sanction_for_church_taxes"
+						duration = 7300
+					}
+				}
+				ai_will_do = {
+					factor = 1
+				}				
+			}			
+			bless_monarch = {
+				cost = 50
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { prestige = 100 }
+					NOT = { has_country_modifier = papal_blessing }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "papal_blessing"
+						duration = 7300
+					}
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}
+			indulgence_for_sins = {
+				cost = 50
+				potential = {
+					government = monarchy
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { legitimacy = 100 }
+					NOT = { has_country_modifier = papal_indulgence }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "papal_indulgence"
+						duration = 7300
+					}
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}	
+			local_saint = {
+				cost = 100
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { stability = 3 }
+				}
+				effect = {
+					add_stability = 1
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 2
+						NOT = { stability = 0 }
+					}
+				}
+			}
+			forgiveness_for_usury = {
+				cost = 50
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { has_country_modifier = usury_forgiven }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "usury_forgiven"
+						duration = 7300
+					}
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = { num_of_loans = 1 }
+					}
+				}
+			}			
+			proclaim_holy_war = {
+				cost = 50
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					is_at_war = yes
+					NOT = { war_with = PAP }
+					NOT = { has_country_modifier = papal_sanction_for_holy_war }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "papal_sanction_for_holy_war"
+						duration = 7300
+					}
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						manpower_percentage = 0.5
+					}
+				}
+			}
+			send_papal_legate = {
+				cost = 50
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { has_country_modifier = papal_legate }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "papal_legate"
+						duration = 7300
+					}
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}	
+			sanction_commercial_monopoly = {
+				cost = 50
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { mercantilism = 100 }
+				}
+				effect = {
+					add_mercantilism = 1
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = { has_idea_group = trade_ideas }
+					}
+				}
+			}			
+		}
 
 
 }
 
-
+harmonized_modifier = harmonized_cat
+	
+	crusade_name = Crusade
 
 
 }
@@ -876,7 +1052,7 @@ daedra_religion_group = {
 		
 	}
 	
-	daedra_cult = {
+	daedra_cult_rel = {
 		color = { 161 38 255 }
 		icon = 5
 		country = {
@@ -890,6 +1066,18 @@ daedra_religion_group = {
 		province = {
 			local_missionary_strength = -0.02
 		}
+
+on_convert = {
+			change_religion = daedra_cult_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+
+
+
 		
 		heretic = { AEDRA }
 		
@@ -898,7 +1086,7 @@ daedra_religion_group = {
 
 
 
-cult_of_malacath = {
+cult_of_malacath_rel = {
 		color = { 83 130 74 }
 		icon = 5
 		country = {
@@ -914,7 +1102,20 @@ cult_of_malacath = {
 		
 		heretic = { TRINIMAC MAULOCH }
 		
-		fervor = yes				# Uses Fervor Mechanics
+		fervor = yes	# Uses Fervor Mechanics
+
+on_convert = {
+			change_religion = cult_of_malacath_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+
+
+
+			
 	}
 
 	harmonized_modifier = harmonized_daedra
@@ -925,12 +1126,12 @@ cult_of_malacath = {
 
 
 
-bosmer_religion_group = {
+aldmer_religion_group = {
 
 	flags_with_emblem_percentage = 0
 	flag_emblem_index_range = { 83 96 }
 
-	green_pact = {
+	green_pact_rel = {
 		color = { 127 0 0 }
 		icon = 11
 		country = {
@@ -944,9 +1145,47 @@ bosmer_religion_group = {
 		province = {
 			local_missionary_strength = -0.03
 		}
+
+on_convert = {
+			change_religion = green_pact_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
 		
 		heretic = { SNAKE_CLAN }
 	}
+
+alinor_religion = {
+		color = { 251 226 16 }
+		icon = 4
+		country = {
+			land_morale = 0.1
+                        prestige = 0.5
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			global_unrest = -1
+		}
+		heretic = { DAEDRA }
+		uses_isolationism = yes
+		
+on_convert = {
+			change_religion = alinor_religion
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		
+		
+	}
+
 	
 	
 	crusade_name = CRUSADE
@@ -954,12 +1193,12 @@ bosmer_religion_group = {
 }
 
 
-chimer_rel = {
+chimer_religion_group = {
 
 	flags_with_emblem_percentage = 0
 	flag_emblem_index_range = { 61 82 } 
 
-	tribunal_temple = {
+	tribunal_temple_rel = {
 		color = { 255 253 224 }
 		icon = 8
 		allowed_conversion = {
@@ -977,7 +1216,7 @@ chimer_rel = {
 		personal_deity = yes
 		
 		on_convert = {
-			change_religion = chimer_religion_group
+			change_religion = tribunal_temple_rel
 			add_prestige = -100
 			
 			add_country_modifier = {
@@ -996,4 +1235,88 @@ chimer_rel = {
 	crusade_name = CRUSADE
 }
 
+yokuda_religion_group = {
+
+	flags_with_emblem_percentage = 0
+	flag_emblem_index_range = { 61 82 } 
+
+	yokudan_rel = {
+		color = { 255 253 224 }
+		icon = 8
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_heathen = 1
+			tolerance_own = 1
+		}
+		country_as_secondary = {
+			tolerance_heretic = 1
+			tolerance_heathen = 2
+		}
+		
+		
+		
+		on_convert = {
+			change_religion = yokudan_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { SEP MALOOC LEKI }
+	}
+
+	
+	
+	harmonized_modifier = harmonized_yokudan
+	
+	crusade_name = CRUSADE
+}
+
+
+nordic_religion_group = {
+
+	flags_with_emblem_percentage = 0
+	flag_emblem_index_range = { 61 82 } 
+
+	nordic_rel = {
+		color = { 255 253 224 }
+		icon = 8
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_heathen = 1
+			tolerance_own = 1
+		}
+		country_as_secondary = {
+			tolerance_heretic = 1
+			tolerance_heathen = 2
+		}
+		
+		
+		
+		on_convert = {
+			change_religion = nordic_rel
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { TESTING_GODS DEAD_GOD  }
+	}
+
+	
+	
+	harmonized_modifier = harmonized_nordic
+	
+	crusade_name = CRUSADE
+}
 
