@@ -1531,7 +1531,7 @@ totambu_area = {
 	514 515 516 629
 }
 
-ephesus_area = {
+nilata_area = {
 	625 627 628
 }
 

@@ -716,7 +716,7 @@ southern_bangkorai_hammerfell_region = {
 		blighted_coast_area
 		southern_bangkorai_area
 		totambu_area
-		ephesus_area
+		nilata_area
 	}
 }
 
