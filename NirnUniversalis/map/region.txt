@@ -558,4 +558,299 @@ rivenspire_highrock_region = {
 	}
 }
 
+########################################
+# PADOMAIC ISLANDS                     #
+########################################
 
+cathnoquey_padomaic_region = {
+	areas = {
+	
+        northern_cathnoquey_area
+        southern_cathnoquey_area
+        azure_chain_area
+
+
+	}
+}
+
+yneslea_padomaic_region = {
+	areas = {
+	
+        broken_horn_area
+        farrocks_area
+
+
+	}
+}
+
+esroniet_padomaic_region = {
+	areas = {
+	
+        southern_spear_area
+        black_harbor_area
+        elvastonia_area
+        the_filthbog_area
+        the_filthbog_area
+        cape_of_good_faith_area
+        richfield_area
+
+	}
+}
+
+########################################
+# PYANDONEA                            #
+########################################
+
+northern_pyandonea_pyandonea_region = {
+	areas = {
+	
+        westpoint_area
+        toran_area
+        pirate_coast_area
+        fields_of_maka_area
+        glowing_jungle_area
+        neklak_area
+        eastern_coast_area
+        the_lost_valley_area
+        covered_cliffs_area
+        
+
+	}
+}
+
+pillar_isles_pyandonea_region = {
+	areas = {
+	
+        fisherman_isle_area
+        jiguna_area
+        roa_area
+        misty_isles_area
+        isle_of_riches_area
+        kowaht_area
+        crab_coast_area
+       
+        
+
+	}
+}
+
+southern_pyandonea_pyandonea_region = {
+	areas = {
+	
+        vos_area
+        jungle_of_bones_area
+        cursewood_area
+        orgnums_realm_area
+        forgotten_rainwood_area
+        coral_coast_area
+        bay_of_bones_area
+        bamboo_valley_area
+        pearlwater_area
+        raful_area
+        hilapos_area
+
+	}
+}
+
+########################################
+# Atmora                               #
+########################################
+
+atmora_atmora_region = {
+	areas = {
+	
+		atmora_area
+		roscrea_area
+	}
+}
+
+########################################
+# Hammerfell                           #
+########################################
+
+hews_bane_hammerfell_region = {
+	areas = {
+		western_abecean_isles_area
+		eastern_abecean_isles_area
+		gilane_area
+		riverview_coast_area
+		princegate_barriers_area
+		abahs_landing_area
+	}
+}
+
+alikr_desert_hammerfell_region = {
+	areas = {
+		lainlyn_area
+		kozanset_area
+		tigonus_area
+		sentinel_area
+		abibon_gora_area
+		hegathe_coast_area
+		bergama_area
+	}
+}
+
+kheferem_hammerfell_region = {
+	areas = {
+		taneth_area
+		roseguard_area
+		chaseguard_area
+		kheferem_highlands_area
+		brenas_watch_area
+	}
+}
+
+sunforge_hammerfell_region = {
+	areas = {
+		central_sunforge_area
+		dragontail_mountains_area
+		fallen_wastes_area
+		broken_canyons_area
+	}
+}
+
+southern_bangkorai_hammerfell_region = {
+	areas = {
+		satakalaam_area
+		blighted_coast_area
+		southern_bangkorai_area
+		totambu_area
+		nilata_area
+	}
+}
+
+craglorn_hammerfell_region = {
+	areas = {
+		dragonstar_area
+		bangkorai_pass_area
+		skyreach_area
+		tear_area
+		craglorn_passes_area
+		lanistas_crags_area
+		elinhir_area
+		belkarth_area
+		ogondar_area
+		hel_ra_ravines_area
+	}
+}
+
+weeping_desert_hammerfell_region = {
+	areas = {
+		sparhills_area
+		corten_mont_foothills_area
+		cortenhad_border_watch_area
+		helland_badlands_area
+		helkati_wastes_area
+		stonemoor_passes_area
+	}
+}
+
+########################################
+# Summerset Isles                      #
+########################################
+
+firsthold_summerset_isles_region = {
+	areas = {
+		firsthold_area
+		shimmering_beaches_area
+		vafe_area
+		beacon_coves_area
+		west_guard_area
+	}
+}
+
+skywatch_summerset_isles_region = {
+	areas = {
+		skywatch_area
+		calambar_area
+		gilsailen_bay_area
+		iluvamir_area
+		southern_auridon_area
+		eastern_auridon_shores_area
+		ondil_hills_area
+	}
+}
+
+cloudrest_summerset_isles_region = {
+	areas = {
+		sea_keep_area
+		lillandril_coast_area
+		gradden_shores_area
+		northern_summerset_area
+		krandar_beaches_area
+		crystal_tower_area
+		cloudrest_area
+		northern_vinyards_area
+		shimmerene_coast_area
+	}
+}
+
+dusk_summerset_isles_region = {
+	areas = {
+		malten_woods_area
+		clemora_beaches_area
+		mountain_rests_area
+		syldarim_foothills_area
+		dusk_area
+		gangrove_beaches_area
+	}
+}
+
+alinor_summerset_isles_region = {
+	areas = {
+		alinor_area
+		ebon_coast_area
+		laurenel_fields_area
+		rosefield_peaks_area
+		isque_crags_area
+		welekin_coves_area
+		southern_sands_area
+		sunhold_shores_area
+	}
+}
+
+########################################
+# Elsweyr                              #
+########################################
+
+ne_quinal_elsweyr_region = {
+	areas = {
+		riverhold_area
+		parched_frontiers_area
+		ne_quinal_hills_area
+		rimmen_area
+		telepe_plains_area
+	}
+}
+
+reapers_march_elsweyr_region = {
+	areas = {
+		northern_ne_quinal_area
+		orcrest_area
+		dune_area
+		western_deadlands_area
+	}
+}
+
+paalatiin_elsweyr_region = {
+	areas = {
+		deserts_edge_area
+		western_paaltaiin_area
+		harthel_area
+		manes_domain_area
+		corinth_area
+		central_steppes_area
+		alabaster_sands_area
+	}
+}
+
+quinrawl_elsweyr_region = {
+	areas = {
+		topal_coves_area
+		tenmar_forest_area
+		quinrawl_coast_area
+		quinrawl_peninsula_area
+		khenarthis_roost_area
+	}
+}

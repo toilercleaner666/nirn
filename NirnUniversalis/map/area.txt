@@ -1225,3 +1225,608 @@ lower_wrothgar_area = {
    194 198 199 224 225
 	
 }
+
+
+
+######################################
+# PADOMAIC ISLANDS
+######################################
+
+# CATHNOQUEY
+
+northern_cathnoquey_area = { 
+	1785 1786 1787 1788 1789
+}
+
+southern_cathnoquey_area = { 
+	1773 1774 1778 1777 1776 1784
+}
+
+
+azure_chain_area = { 
+	1781 1782 1783 1780 1779 1775
+}
+
+
+# YNESLEA
+
+broken_horn_area = { 
+	1797 1796 1795 1794 1798
+}
+
+farrocks_area = { 
+	1790 1791 1792 1793 1799 1800
+}
+
+# ESRONIET
+
+southern_spear_area = { 
+	1801 1802 1803 1804 1841
+}
+
+black_harbor_area = { 
+	1805 1806 1807 1808
+}
+
+elvastonia_area = { 
+	1809 1810 1811 1812
+}
+
+the_filthbog_area = { 
+	1813 1814 1815 1816 1817 1818
+}
+
+the_filthbog_area = { 
+	1813 1814 1815 1816 1817 1818
+}
+
+cape_of_good_faith_area = { 
+	1824 1825 1826 1827
+}
+
+richfield_area = { 
+	1819 1820 1821 1822 1823
+}
+
+
+######################################
+# PYANDONEA
+######################################
+
+#Northern Pyandonea
+
+westpoint_area = { 
+	1131 1132 1134 1135 1136
+}
+
+toran_area = { 
+	1243 1244 1245 1246 1247
+}
+
+pirate_coast_area = { 
+	1133 1140 1141 1142
+}
+
+fields_of_maka_area = { 
+	1137 1138 1139 1145
+}
+
+glowing_jungle_area = { 
+	1143 1144 1153 1154 1167
+}
+
+neklak_area = { 
+	1155 1156 1157 1158
+}
+
+eastern_coast_area = { 
+	1152 1168 1169 1172 1173
+}
+
+the_lost_valley_area = { 
+	1150 1162 1164 1165 1166
+} 
+
+covered_cliffs_area = { 
+	1146 1147 1148 1149
+} 
+
+#Pillar Isles
+
+fisherman_isle_area = { 
+	1127 1128 1129 1130
+} 
+
+jiguna_area = { 
+	1121 1122 1123 1124
+} 
+
+roa_area = { 
+	1236 1237 1238 1239
+} 
+
+misty_isles_area = { 
+	1125 1126 1240 1241 1242
+} 
+
+isle_of_riches_area = { 
+	1222 1231 1232 1233 1234 1235
+} 
+
+kowaht_area = { 
+	1220 1221 1225 1226
+}   
+
+crab_coast_area = { 
+	1218 1219 1227 1228 1229 1230
+}   
+
+sea_serpent_cove_area = { 
+	1214 1216 1223 1224
+}   
+
+#Southern Pyandonea
+
+vos_area = { 
+	1191 1192 1193 1194
+}   
+
+jungle_of_bones_area = { 
+	1151 1170 1171 1176
+}   
+
+cursewood_area = { 
+	1160 1161 1163 1178
+}   
+
+orgnums_realm_area = { 
+	1159 1177 1179 1180 1181
+}  
+
+forgotten_rainwood_area = { 
+	1174 1175 1185 1187 1188
+}    
+
+coral_coast_area = { 
+	1189 1190 1195 1198
+}   
+
+bay_of_bones_area = { 
+	1182 1183 1184 1208 1209
+}   
+
+bamboo_valley_area = { 
+	1210 1212 1213 1215
+}   
+
+pearlwater_area = { 
+	1204 1205 1211 1217
+}   
+
+raful_area = { 
+	1186 1197 1199 1200 1206 1207
+}   
+
+hilapos_area = { 
+	1196 1201 1202 1203
+}   
+
+########################################
+# Atmora                               #
+########################################
+
+atmora_area = {
+	1 2 3 4 5 6
+}
+
+roscrea_area = {
+	7 8 9
+}
+
+########################################
+# Hammerfell                           #
+########################################
+
+western_abecean_isles_area = {
+	1668 1669 1670 1671
+}
+
+eastern_abecean_isles_area = {
+	1658 1659 1660 1666
+}
+
+gilane_area = {
+	536 539 541 549
+}
+
+riverview_coast_area = {
+	537 538 551 554
+}
+
+princegate_barriers_area = {
+	540 542 543 544
+}
+
+abahs_landing_area = {
+	545 546 547 548 550
+}
+
+lainlyn_area = {
+	517 518 519
+}
+
+kozanset_area = {
+	513 564 565
+}
+
+tigonus_area = {
+	520 521 522
+}
+
+sentinel_area = {
+	523 524 525
+}
+
+abibon_gora_area = {
+	526 527 528 529 532
+}
+
+hegathe_coast_area = {
+	530 531 533 534
+}
+
+bergama_area = {
+	535 552 553
+}
+
+taneth_area = {
+	555 556 557 568
+}
+
+roseguard_area = {
+	558 559 560 571
+}
+
+chaseguard_area = {
+	561 562 563
+}
+
+kheferem_highlands_area = {
+	570 572 573 602 604
+}
+
+brenas_watch_area = {
+	574 575 576 577 603
+}
+
+central_sunforge_area = {
+	605 606 618 619 622
+}
+
+dragontail_mountains_area = {
+	566 567 569 620 621
+}
+
+fallen_wastes_area = {
+	623 624 626 631 655
+}
+
+broken_canyons_area = {
+	614 615 616 617 632
+}
+
+satakalaam_area = {
+	508 509 510 511 512
+}
+
+blighted_coast_area = {
+	495 496 503 504 505 507
+}
+
+southern_bangkorai_area = {
+	497 502 506 630
+}
+
+totambu_area = {
+	514 515 516 629
+}
+
+nilata_area = {
+	625 627 628
+}
+
+dragonstar_area = {
+	484 485 492 493 494
+}
+
+bangkorai_pass_area = {
+	498 501 656
+}
+
+skyreach_area = {
+	490 491 499 500 652
+}
+
+tear_area = {
+	653 658 657 659
+}
+
+craglorn_passes_area = {
+	486 487 488 489 645
+}
+
+lanistas_crags_area = {
+	644 646 647 650 651
+}
+
+elinhir_area = {
+	587 588 641 642 643
+}
+
+belkarth_area = {
+	589 590 638 639 640
+}
+
+ogondar_area = {
+	635 636 637 648
+}
+
+hel_ra_ravines_area = {
+	633 634 649 654
+}
+
+sparhills_area = {
+	583 584 600 601
+}
+
+corten_mont_foothills_area = {
+	598 599 607 608
+}
+
+cortenhad_border_watch_area = {
+	578 579 580 581 582
+}
+
+helland_badlands_area = {
+	595 596 597 609 610
+}
+
+helkati_wastes_area = {
+	594 611 612 613
+}
+
+stonemoor_passes_area = {
+	585 591 592 593
+}
+
+########################################
+# Summerset Isles                      #
+########################################
+
+firsthold_area = {
+	1009 1010 1017 1018 1019
+}
+
+shimmering_beaches_area = {
+	1002 1013 1020 1021
+}
+
+vafe_area = {
+	1011 1012 1014 1015 1016
+}
+
+beacon_coves_area = {
+	967 1005 1006 1008
+}
+
+west_guard_area = {
+	968 1003 1004 1007
+}
+
+skywatch_area = {
+	966 974 1000 1687
+}
+
+calambar_area = {
+	969 970 971 972 973
+}
+
+gilsailen_bay_area = {
+	988 989 1001
+}
+
+iluvamir_area = {
+	983 984 985
+}
+
+southern_auridon_area = {
+	979 981 986 987
+}
+
+eastern_auridon_shores_area = {
+	978 980 982
+}
+
+ondil_hills_area = {
+	975 976 977
+}
+
+sea_keep_area = {
+	1044 1047 1049 1050
+}
+
+lillandril_coast_area = {
+	1039 1041 1042 1043 1045
+}
+
+gradden_shores_area = {
+	1035 1036 1037 1038 1040
+}
+
+northern_summerset_area = {
+	1030 1031 1032 1033
+}
+
+krandar_beaches_area = {
+	1022 1024 1025 1026
+}
+
+crystal_tower_area = {
+	1027 1028 1029 1034
+}
+
+cloudrest_area = {
+	1051 1061 1062 1065
+}
+
+northern_vinyards_area = {
+	1063 1064 1066 1069 1070
+}
+
+shimmerene_coast_area = {
+	1023 1059 1075 1118
+}
+
+malten_woods_area = {
+	1071 1072 1074 1119
+}
+
+clemora_beaches_area = {
+	1105 1110 1111 1112
+}
+
+mountain_rests_area = {
+	1079 1080 1114 1116 1117
+}
+
+syldarim_foothills_area = {
+	1055 1056 1113 1115 1120
+}
+
+dusk_area = {
+	1107 1108 1109
+}
+
+gangrove_beaches_area = {
+	1053 1054 1103 1104 1106
+}
+
+alinor_area = {
+	1058 1084 1085 1087 1089
+}
+
+ebon_coast_area = {
+	1046 1048 1060 1086
+}
+
+laurenel_fields_area = {
+	1067 1068 1073 1076
+}
+
+rosefield_peaks_area = {
+	1077 1078 1082 1083 1088
+}
+
+isque_crags_area = {
+	1057 1081 1090 1091
+}
+
+welekin_coves_area = {
+	1099 1100 1101 1102
+}
+
+southern_sands_area = {
+	1095 1096 1097 1098
+}
+
+sunhold_shores_area = {
+	1052 1092 1093 1094
+}
+
+########################################
+# Elsweyr                              #
+########################################
+
+riverhold_area = {
+	1433 1434 1435 1442 1800
+}
+
+parched_frontiers_area = {
+	1441 1443 1444 1445
+}
+
+ne_quinal_hills_area = {
+	1439 1440 1447 1448
+}
+
+rimmen_area = {
+	1446 1449 1450 1451
+}
+
+telepe_plains_area = {
+	1452 1453 1454 1455
+}
+
+northern_ne_quinal_area = {
+	1432 1510 1511 1512 1514
+}
+
+orcrest_area = {
+	1436 1437 1438 1513
+}
+
+dune_area = {
+	1506 1507 1508 1509
+}
+
+western_deadlands_area = {
+	1500 1503 1504 1505
+}
+
+deserts_edge_area = {
+	1490 1492 1493 1501 1502
+}
+
+western_paaltaiin_area = {
+	1495 1496 1497 1498 1499
+}
+
+harthel_area = {
+	1464 1489 1491 1494
+}
+
+manes_domain_area = {
+	1481 1482 1487 1488
+}
+
+corinth_area = {
+	1483 1484 1485 1486
+}
+
+central_steppes_area = {
+	1461 1462 1463 1465
+}
+
+alabaster_sands_area = {
+	1456 1457 1458
+}
+
+topal_coves_area = {
+	1459 1460 1466 1467
+}
+
+tenmar_forest_area = {
+	1475 1476 1478 1479 1480
+}
+
+quinrawl_coast_area = {
+	1473 1474 1477
+}
+
+quinrawl_peninsula_area = {
+	1468 1469 1470 1471 1472
+}
+
+khenarthis_roost_area = {
+	1515 1516 1517 1518
+}

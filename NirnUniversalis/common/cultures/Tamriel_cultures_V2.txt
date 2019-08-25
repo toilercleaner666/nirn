@@ -1,0 +1,39 @@
+
+###KHAJIIT
+
+anequinian_culture_group = { 
+                  graphical_culture = westerngfx
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+pellitinian_culture_group = {
+                 graphical_culture = westerngfx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

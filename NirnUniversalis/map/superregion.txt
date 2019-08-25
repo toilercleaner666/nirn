@@ -63,3 +63,51 @@ morrowind_superregion = {
 	west_vvardenfell_morrowind_region
 	east_vvardenfell_morrowind_region
 }
+
+highrock_superregion = {
+	glenumbra_highrock_region
+	northern_bangkorai_highrock_region
+	wrothgar_highrock_region
+	rivenspire_highrock_region
+}
+
+padomaic_superregion = {
+	cathnoquey_padomaic_region
+	yneslea_padomaic_region
+	esroniet_padomaic_region
+	
+}
+
+pyandonea_superregion = {
+	northern_pyandonea_pyandonea_region
+	pillar_isles_pyandonea_region
+	southern_pyandonea_pyandonea_region
+}
+
+hammerfell_superregion = {
+
+	hews_bane_hammerfell_region
+	alikr_desert_hammerfell_region
+	kheferem_hammerfell_region
+	sunforge_hammerfell_region
+	southern_bangkorai_hammerfell_region
+	craglorn_hammerfell_region
+	weeping_desert_hammerfell_region
+}
+
+summerset_isles_superregion = {
+
+	firsthold_summerset_isles_region
+	skywatch_summerset_isles_region
+	cloudrest_summerset_isles_region
+	dusk_summerset_isles_region
+	alinor_summerset_isles_region
+}
+
+elsweyr_superregion = {
+
+	ne_quinal_elsweyr_region
+	reapers_march_elsweyr_region
+	paalatiin_elsweyr_region
+	quinrawl_elsweyr_region
+}

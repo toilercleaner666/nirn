@@ -1,0 +1,4655 @@
+     ;red;green;blue;x;x
+1;104;154;101;Jylkurfyk ;x
+2;229;162;120;Skorraholt (M);x
+3;241;191;154;Kolssonafell (M);x
+4;179;232;3;Hroarsholt (M);x
+5;0;234;14;Helgavatn (M);x
+6;145;194;38;Fellsskogar (M);x
+7;19;137;60;Hestfjoror (M);x
+8;9;154;195;Alost (M);x
+9;88;172;13;Blondukvislir (M);x
+10;33;141;202;Castle Karstaag;x
+11;163;152;11;Skaal;x
+12;241;97;16;Fort Frostmoth;x
+13;227;168;230;Raven Rock;x
+14;120;30;2;Winterhold;x
+15;250;53;177;Saarthal;x
+16;73;57;239;Snowpoint Beacon;x
+17;211;90;232;Amol;x
+18;180;2;177;Snow Veil Sanctum;x
+19;121;35;238;Snow Veil;x
+20;142;87;29;Fort Kastav;x
+21;148;227;118;Yorgim Overlook;x
+22;154;239;141;Drifshade Ridge;x
+23;47;176;148;Yngvild;x
+24;62;112;55;Fort  Fellhammer;x
+25;111;34;44;Nightgate;x
+26;9;62;218;Laintar Dale;x
+27;48;144;115;Angaheim;x
+28;137;192;100;Windhelm;x
+29;38;127;108;Dragon Wood;x
+30;87;152;57;Kynesgrove;x
+31;132;94;64;Dawnstar;x
+32;158;164;243;Helarchan Creek;x
+33;216;159;222;Morvunskar;x
+34;59;255;176;Uttering Hills;x
+35;95;24;88;Shrouded Grove;x
+36;98;247;53;Silverdrift;x
+37;109;6;8;Dunpar Hill;x
+38;27;85;56;Windward;x
+39;134;37;211;Stone Hills;x
+40;131;74;252;High Gate;x
+41;229;167;97;Ustengrav;x
+42;2;53;52;Marsh;x
+43;255;109;97;Myrwatch;x
+44;203;206;223;Morthal;x
+45;16;26;78;Fort Snowhawk;x
+46;239;37;243;Winstad;x
+47;198;82;114;Dunstad Grove;x
+48;253;31;131;Fort Dunstad;x
+49;143;1;117;Narzbul;x
+50;206;31;215;Vernim Wood;x
+51;84;14;176;Stony Creek;x
+52;142;45;232;Shor's Watchtower;x
+53;114;185;7;Shor's Stone;x
+54;86;194;135;Greenwood;x
+55;13;127;159;Witchmist Grove;x
+56;60;184;28;Cragslane;x
+57;196;169;129;Northwind Summit;x
+58;119;187;216;Reich Corigate;x
+59;67;38;231;Fort Greenwall;x
+60;117;236;40;Riften;x
+61;2;0;61;Snow-Shod;x
+62;235;82;198;Faldar's Tooth;x
+63;12;244;170;Autumnshade Clearing;x
+64;120;48;127;Clearspring Tarn;x
+65;92;233;216;Mistwatch;x
+66;10;35;123;Darkwater Crossing;x
+67;28;16;134;Paragon Village;x
+68;101;23;133;Bonestrewn Crest;x
+69;200;95;41;Mixwater;x
+70;67;106;127;Gallow's Rock;x
+71;254;194;47;Northwatch Keep;x
+72;27;27;200;Pinefrost Tower;x
+73;70;106;49;Deepwood Redoubt;x
+74;166;147;47;Dragon's Bridge;x
+75;12;222;171;Greenwall;x
+76;219;47;88;Treva's Watch;x
+77;87;183;253;Nilhelm;x
+78;3;68;251;Sunguard;x
+79;235;195;96;Ivarstead;x
+80;6;240;120;Arcwind Point;x
+81;232;46;13;Autumnwatch Tower;x
+82;190;11;248;Nimalten City;x
+83;86;168;74;Valtheim;x
+84;220;136;237;Fellglow Keep;x
+85;45;147;172;Whitewatch Tower;x
+86;253;161;98;Whiterun;x
+87;46;239;89;Riverwood;x
+88;139;249;50;Oakwood;x
+89;22;59;135;Halted Stream;x
+90;53;81;217;Stonehill Bluff;x
+91;246;16;157;Cold Rock Pass;x
+92;60;211;215;Crabber's Shanty;x
+93;45;104;187;Greenspring Hollow;x
+94;109;13;131;Whiterun's Farms;x
+95;93;89;14;Western Watchtower;x
+96;192;57;23;Fort Greymoor;x
+97;54;158;96;Rorik's Steading;x
+98;101;108;151;Orotheim;x
+99;223;151;250;Frostfall Fishery;x
+100;236;23;184;Sundered Towers;x
+101;206;231;244;Karthstream;x
+102;208;131;186;UNNAMED;x
+103;177;129;98;Bruca's Leap;x
+104;149;110;148;Dragon's Bridge Overlook;x
+105;168;171;119;Forbearer's Holdout;x
+106;6;158;107;Fort Lilnheild;x
+107;254;3;44;Broken Tower Dedoubt;x
+108;2;125;11;Snowhawk;x
+109;229;183;14;Karth Crossing;x
+110;159;180;126;Cliffside Retreat;x
+111;127;64;16;Mor Khazgur;x
+112;215;137;80;Drudach Redoubt;x
+113;240;53;119;Harmugstahl;x
+114;201;135;183;Ragnvald;x
+115;10;116;182;Karthwasten;x
+116;96;245;185;Red Eagle's Redoubt;x
+117;3;214;11;Cragrock;x
+118;224;129;136;Markarth;x
+119;227;253;80;Amberguard;x
+120;107;53;158;Old Hrol'dan;x
+121;243;114;0;Karthspire;x
+122;119;250;186;Lainalten;x
+123;244;137;189;Serpent's Bluff;x
+124;39;217;214;Fort Sungard;x
+125;217;102;144;Black Moor;x
+126;116;202;141;Granite Hall;x
+127;195;223;7;Hagrock Redoubt;x
+128;249;67;52;Fort Reachcliff;x
+129;104;191;68;Dushink Yal;x
+130;48;202;104;Cradlestone Tower;x
+131;203;137;14;North Keep;x
+132;187;192;56;Bannermist Tower;x
+133;213;90;156;Hunter's Rest;x
+134;67;211;93;Evergreen Grove;x
+135;36;70;69;River Crossing;x
+136;46;39;90;Pinewood;x
+137;13;44;125;Helgen;x
+138;44;85;140;Fort Neugard;x
+139;24;145;238;Pinewatch;x
+140;52;44;253;Peak's Shade;x
+141;111;178;75;Shriekwind Bastion;x
+142;173;120;133;Falkreath Watchtower;x
+143;204;29;194;Cracked Tusk Keep;x
+144;31;224;212;Falkreath;x
+145;199;198;220;Jehanna;x
+146;248;141;140;Sorrow;x
+147;121;200;122;Dunlain;x
+148;36;74;26;Rkindaleft;x
+149;185;254;150;Farrun;x
+150;42;8;213;Cloud Spring;x
+151;104;130;145;Shatul;x
+152;177;254;192;Orsinium;x
+153;78;245;154;Frostbreak Fortress;x
+154;193;17;157;Torug's Arch;x
+155;247;54;5;Zthenganaz;x
+156;124;181;56;Northwood;x
+157;224;190;245;Frozen Fleet;x
+158;108;59;15;Snowline;x
+159;254;172;31;Jackdaw;x
+160;240;182;154;Kerbol's Hollow;x
+161;139;100;193;Troll's Toothpick;x
+162;95;166;137;Azra's Crossing;x
+163;229;252;212;Tumnosh;x
+164;251;207;117;Corvelda;x
+165;193;7;82;Argent;x
+166;167;120;21;Morkul;x
+167;151;120;159;Exile's Barrow;x
+168;219;111;102;Karthgran Vale;x
+169;177;157;210;Dunkarn Haven;x
+170;240;135;253;Silaseli;x
+171;47;217;26;Fallen Grotto;x
+172;171;130;177;Evermore;x
+173;96;195;64;Murcien's Hamlet;x
+174;27;37;42;Aquaduct Rock;x
+175;84;159;62;Ridgefire;x
+176;203;128;91;Encampment Coast;x
+177;152;181;210;Thukhozod's Sanctum;x
+178;121;252;115;Shipwreck Cove;x
+179;38;134;116;Black Wastes;x
+180;87;112;131;Strasnoc's Landing;x
+181;132;143;144;Sunken Road;x
+182;78;38;60;Weeping Giant;x
+183;10;161;46;Grim Dyke;x
+184;80;97;223;Fort Redman;x
+185;113;17;72;Thukhozod;x
+186;25;205;106;Treasure Rock;x
+187;74;233;91;Old Orsinium;x
+188;63;63;130;Grudge-Rock;x
+189;165;66;193;Sjinji's Scarp;x
+190;88;28;146;Windkeep;x
+191;31;92;202;Nornalhorst;x
+192;120;153;226;Norvulk;x
+193;251;132;135;Portdun;x
+194;55;233;31;Sanguine Barrows;x
+195;112;127;44;Mermaid Bay;x
+196;245;14;5;Fishman;x
+197;64;194;103;Markwasten Moor;x
+198;169;115;32;Moira's Hope;x
+199;189;187;37;Trader's Rest;x
+200;213;19;242;Edrald;x
+201;3;231;96;Fell's Run;x
+202;165;98;150;East-Rock;x
+203;185;82;173;Normar Heights;x
+204;208;206;68;Northpoint;x
+205;60;250;45;Gavaudon;x
+206;44;245;112;Cumberland's Watch;x
+207;74;116;136;Moonlit Maw;x
+208;101;141;105;Fragel's Landing;x
+209;230;242;149;Pariah;x
+210;38;8;14;Friendship Gate;x
+211;9;130;237;Firebrand;x
+212;134;12;77;Wayrest;x
+213;16;197;191;Hammerdeath;x
+214;69;67;222;Dreughwaters;x
+215;130;249;168;Menevia;x
+216;26;157;139;Balfiera;x
+217;231;197;253;Thorkan Park;x
+218;23;101;64;Hoarfrost Downs;x
+219;220;34;171;Old Shorhelm;x
+220;111;68;1;Siren's Cove;x
+221;145;60;133;Shorfields;x
+222;120;5;18;Koeglin;x
+223;231;81;196;Windridge;x
+224;93;208;218;Wrothgaria;x
+225;213;110;25;Old Gate;x
+226;51;204;107;Hinault;x
+227;3;80;27;Old Gate;x
+228;209;6;192;Westwind;x
+229;130;33;125;Veawend Ede;x
+230;209;164;156;Shorhelm;x
+231;40;152;11;Valeguard;x
+232;154;95;237;White Haven;x
+233;162;89;19;Crestshade;x
+234;6;7;144;Meir Thorvale;x
+235;60;44;124;Doomcrag;x
+236;116;44;248;Erokii;x
+237;242;60;132;Par Molag;x
+238;151;113;109;Meir Darguard;x
+239;109;140;190;Cath Bedraud;x
+240;198;236;98;Crosswych;x
+241;71;108;122;Flyleaf;x
+242;79;238;135;King's Guard;x
+243;174;101;5;Eaglebrook;x
+244;114;96;81;Dwynnarth;x
+245;149;217;160;Gaudet;x
+246;12;43;231;Merovec's Folly;x
+247;243;246;81;Camlorn;x
+248;172;65;15;Cambray Pass;x
+249;62;55;17;Enduum;x
+250;124;181;56;Westtry;x
+251;154;124;78;Cambray Hills;x
+252;25;30;90;Northmoor;x
+253;100;239;252;Kambria;x
+254;164;45;10;Alcaire;x
+255;55;230;169;Trapjaw's Cove;x
+256;126;205;72;Bhoriane;x
+257;219;91;19;Spindleclutch;x
+258;241;204;165;Dywnenn;x
+259;223;160;2;Urvaius;x
+260;51;195;128;Phrygias;x
+261;201;199;1;Phrygias;x
+262;202;136;158;Anitclere;x
+263;198;2;226;Mire Falls;x
+264;80;46;92;Hillford;x
+265;43;12;122;Glenumbra Moors;x
+266;253;250;149;Dresan;x
+267;55;11;144;Vale Of The Guardians;x
+268;186;183;241;Shrieking Scar;x
+269;214;8;34;Shalgora;x
+270;178;22;180;Aldcroft;x
+271;148;219;135;Dourstone;x
+272;59;103;225;Glenpoint;x
+273;108;87;64;Daggerfall;x
+274;48;174;66;Ilessan Tower;x
+275;86;108;231;Betony;x
+276;13;2;3;Blacklight;x
+277;26;110;170;Tulune;x
+278;200;132;122;Soluthis;x
+279;190;94;12;Cormaris View;x
+280;92;187;191;Rhun Huk;x
+281;88;67;143;Silgrad Tower;x
+282;110;84;110;Kogomar;x
+283;59;25;26;Firemoth Island;x
+284;94;249;24;Veranis Hall;x
+285;129;168;242;Kogotel;x
+286;206;80;29;Septim's Gate Pass;x
+287;4;143;203;Verarchen;x
+288;102;75;107;Bodrum;x
+289;162;10;104;Zaelbalmiran;x
+290;4;7;200;Omayni;x
+291;231;164;234;Bodrum;x
+292;123;35;206;Knocker's Neck Pass;x
+293;4;254;44;Kartur;x
+294;251;149;242;UNNAMED;x
+295;36;30;163;Balfalls;x
+296;6;108;96;Ngelfltingth;x
+297;172;56;153;Kragenmoor;x
+298;234;216;226;Heimlyn;x
+299;77;173;97;Ishanuran;x
+300;17;185;212;Magmaflow Overlook;x
+301;33;96;95;Shadowgate Pass;x
+302;239;198;38;Hlarud;x
+303;32;97;137;Indalruhn;x
+304;177;213;12;Almas Thirr;x
+305;127;110;143;Andotrhen;x
+306;115;179;106;Hlan Oek;x
+307;2;35;96;Rivergridge;x
+308;144;163;3;Juilek Pass;x
+309;21;20;2;Oaktown;x
+310;69;51;142;ShortTusk Plains;x
+311;109;38;144;Nav Andaram;x
+312;138;171;121;Brahma's Grove;x
+313;87;199;165;Mephala's Nest;x
+314;110;129;238;Ebonheart;x
+315;172;56;153;Davon's Watch;x
+316;187;135;92;Emberflint Mine;x
+317;5;194;84;Fort Arand;x
+318;47;178;213;Steamlake Camp;x
+319;110;123;192;Shad Astula;x
+320;221;135;204;Bthanual;x
+321;107;199;13;Nov Andaram;x
+322;28;250;47;Othmura;x
+323;232;183;230;Uld Hleryn;x
+324;174;220;219;Narun;x
+325;221;67;109;Dres Horak;x
+326;6;175;145;Old Keep;x
+327;193;38;162;Dres Hairab;x
+328;133;114;61;Muth Gnaar;x
+329;136;129;243;Narsis;x
+330;122;4;118;Shipal Sharai;x
+331;202;191;107;Silnim Dale;x
+332;47;230;142;An'drev Bog;x
+333;98;167;228;Ald'Mora;x
+334;175;73;9;Dres Yengrith;x
+335;52;26;58;Taj'Xa'thaxi;x
+336;136;219;182;Tear;x
+337;93;83;24;El'vratus Beach;x
+338;62;8;51;Dres Cove;x
+339;11;236;112;Corkarth Run;x
+340;125;82;81;Kithendis Falls;x
+341;137;155;58;Arnesia;x
+342;188;147;200;Oroynyon Bay;x
+343;123;160;172;Deepcrag Den;x
+344;172;173;97;Selfora;x
+345;67;142;138;Silent Mirr;x
+346;170;129;204;Aldsotha;x
+347;78;246;165;Almalexia;x
+348;112;117;69;Obsidian Gorge;x
+349;80;1;114;Othrenis;x
+350;87;61;178;Mzithumz;x
+351;220;222;54;Selfora;x
+352;178;10;88;Bosmora;x
+353;58;45;191;Tal'Deic Fortress;x
+354;68;56;13;Amber Forest;x
+355;20;223;156;Ghorne;x
+356;60;195;128;Bosmora;x
+357;197;248;225;Dreynim;x
+358;41;90;139;Meralog;x
+359;215;29;131;Dondril Vhul;x
+360;90;224;53;Bal Foyen;x
+361;63;24;87;Greenheights;x
+362;186;16;220;St Veloth Temple;x
+363;90;111;47;Dhalmora;x
+364;79;42;254;Dragon Glade;x
+365;241;249;75;Illdrim;x
+366;117;60;68;Sailen Vulgate;x
+367;146;186;194;Enamor Dayn;x
+368;154;26;223;Salen Vulgate;x
+369;246;158;119;Rephan Coast;x
+370;115;231;45;Necrom;x
+371;97;7;51;Rephan Cove;x
+372;120;52;63;Mephala Temple;x
+373;199;62;88;Aldr Cove;x
+374;195;191;59;Salen;x
+375;242;44;179;Darnim Watch;x
+376;68;156;98;Green Beach;x
+377;100;167;63;Greenheights;x
+378;33;177;218;Ammar;x
+379;236;6;73;Greenheight Lighthouse;x
+380;238;81;97;Praloris;x
+381;33;123;135;Marog;x
+382;67;231;138;Nelnim;x
+383;75;183;208;Mount Melpha;x
+384;47;242;76;Velothi Beach;x
+385;253;203;157;Sadrith Hills;x
+386;112;55;172;Sadrith Woods;x
+387;45;160;206;Velothi's Haven;x
+388;42;153;161;Port Velothi;x
+389;254;223;246;Tel Mothriva;x
+390;224;136;1;Ingun's Run;x
+391;121;59;191;Llolanthis Heights;x
+392;132;221;142;Tel Drew Beachs;x
+393;166;121;127;Firewatch;x
+394;121;150;45;Sadrith Mora;x
+395;139;231;208;Tel Aranyon;x
+396;126;235;48;Tel Aranyon;x
+397;168;135;164;Tel Obada;x
+398;192;205;43;Bal Oyra;x
+399;228;248;175;Bthzundcheft;x
+400;218;160;245;Gah Sadrith;x
+401;85;22;66;Sadas Plantation;x
+402;106;99;132;Yashazmus;x
+403;171;226;120;Port Telvannis;x
+404;52;45;43;Dwenven Beach;x
+405;253;173;110;Telish Hills;x
+406;28;203;56;Mount Tel;x
+407;204;21;185;Tel Forests;x
+408;172;9;109;Halaran;x
+409;196;191;74;Shad Island;x
+410;131;147;59;Bahrammu;x
+411;37;85;228;Ald Daedroth;x
+412;136;99;228;Dagon Fel;x
+413;11;51;59;Ald Redaynia;x
+414;209;101;234;Ahemmusa;x
+415;80;30;232;Vos;x
+416;233;254;1;Indoranyon;x
+417;41;84;26;Hanud;x
+418;44;30;82;Tel Aruhn;x
+419;226;204;86;Kushtashpi;x
+420;116;239;230;Tel Vos;x
+421;165;242;123;Nchuleft;x
+422;82;201;64;Venim Meadow;x
+423;102;133;136;Zainab Camp;x
+424;255;244;252;Aralen Grasslands ;x
+425;87;180;183;Sethan Groves;x
+426;102;170;238;Falensarano;x
+427;73;165;63;Lenith Cliffs;x
+428;79;114;154;Tel Aruhn;x
+429;93;246;30;Tel Fyr;x
+430;52;109;244;Kaushtarari;x
+431;205;74;179;Uvirith's Grave;x
+432;18;217;180;Erabenimsun Camp;x
+433;175;144;182;Arethan Cliffs;x
+434;182;4;101;Tusenend;x
+435;63;147;175;Shashpilamat;x
+436;0;101;189;Holyamayan Monastery;x
+437;169;104;241;Azura's Shrine;x
+438;85;66;253;Odirniran;x
+439;60;187;28;Mawia;x
+440;62;165;194;Molag Mar;x
+441;205;89;70;Tel Branora;x
+442;29;11;47;Telasero;x
+443;175;111;153;Mount Kand;x
+444;160;91;24;Mzahnch;x
+445;196;86;171;Mababi;x
+446;207;55;32;Nchuleftingth;x
+447;53;210;28;Shishara;x
+448;74;82;53;Suran;x
+449;94;215;134;Omani Manor;x
+450;116;208;253;Marandus;x
+451;188;211;63;Sulipund;x
+452;20;164;124;UNNAMED;x
+453;191;162;56;Dren Plantation;x
+454;108;2;123;Vivec;x
+455;41;151;144;Ebonheart;x
+456;110;146;228;Seyda Neen;x
+457;222;163;149;Pelagiad;x
+458;44;55;100;Hla Oad;x
+459;66;210;41;Balmora;x
+460;184;110;223;Assarnatamat;x
+461;163;109;71;Caldera;x
+462;47;247;102;Hlormaren;x
+463;27;252;173;Hla Oad;x
+464;142;176;249;Nilthog's Hollow;x
+465;24;123;26;Buckmoth Fort;x
+466;212;35;200;Ald'ruhn;x
+467;224;66;103;Gnaar Mok;x
+468;65;245;216;Odibaal;x
+469;71;4;24;Bal Isra;x
+470;209;157;61;Andasreth;x
+471;168;151;104;Ashimanu;x
+472;103;96;72;Dushariran;x
+473;0;136;17;Ashalmawia;x
+474;154;105;244;Berandas;x
+475;135;157;96;Gnisis;x
+476;241;96;109;Ald Velothi;x
+477;246;215;212;Maelkashishi;x
+478;167;159;152;Maar Gan;x
+479;83;37;84;Shishi;x
+480;247;223;105;Khuu;x
+481;139;53;254;Falasmaryon;x
+482;24;8;205;Valenvaryon;x
+483;125;119;150;Urshilaku ;x
+484;74;167;207;Snowline;x
+485;41;13;115;Dragon Gate;x
+486;92;163;4;Darastra;x
+487;115;172;116;Valley of Scars;x
+488;128;178;176;Chiselshriek;x
+489;201;145;158;Ghast's Pass;x
+490;30;29;177;Twiceborn Star;x
+491;46;28;206;Skyreach;x
+492;145;15;196;Loth'Na;x
+493;127;5;9;Dragonstar;x
+494;69;63;99;Heldorn;x
+495;187;241;62;Silaseli;x
+496;75;120;147;Azra's Crossing;x
+497;40;70;206;Kerbol;x
+498;164;82;119;Heldorn Mount;x
+499;51;177;23;Skyreach Catacombs;x
+500;154;212;2;Kardala;x
+501;94;96;236;Bangkorai North Pass;x
+502;155;186;128;Bangkorai Garrison;x
+503;131;36;174;Northglen;x
+504;23;166;216;Blighted Coast;x
+505;183;164;166;Blighted Highlands;x
+506;15;35;5;Viridian Woods;x
+507;44;142;110;Blackheart;x
+508;103;119;68;Strastnoc Landing;x
+509;209;77;35;Thorstad;x
+510;53;146;140;Evermore Straits;x
+511;48;247;135;Satakalaam;x
+512;156;183;0;Pothago;x
+513;145;158;25;Kozanset;x
+514;50;185;43;Na-Totambu's City;x
+515;150;34;141;Hallin's Stand;x
+516;141;149;140;Verkarth;x
+517;194;43;229;Volenfell;x
+518;134;54;69;Lainlyn;x
+519;224;188;46;Motalion;x
+520;124;149;201;Tigonus;x
+521;168;102;84;Cybiades;x
+522;191;145;29;Myrkwasa;x
+523;221;74;49;Sentinel;x
+524;87;28;225;Chastown;x
+525;204;194;125;Na-Totambu Landing;x
+526;230;56;84;Abibon-Gora;x
+527;239;240;236;Kelps Yat;x
+528;222;36;78;Nohotoghra;x
+529;124;149;201;Oldroren (M);x
+530;95;113;92;Hegathe;x
+531;206;187;236;HoonDing;x
+532;204;152;249;Sunkeep;x
+533;132;57;182;Bingketh (M);x
+534;16;232;189;Shady Grove;x
+535;113;244;161;Rachlane;x
+536;80;248;28;Gilane;x
+537;46;169;227;Laine;x
+538;83;112;45;Dragonrock (M);x
+539;174;197;90;Conorrol (M);x
+540;217;74;239;Princegate Pass;x
+541;23;52;201;Shutteredtomb;x
+542;132;74;186;Rhilmir (M);x
+543;251;209;219;Skilgin (M);x
+544;135;147;30;Hubalajad's Reflection;x
+545;117;134;227;No Shira Citadel;x
+546;229;193;169;Allavod (M);x
+547;61;253;92;Abah's Landing;x
+548;172;165;209;Deepwell (M);x
+549;226;226;149;Hewsport (M);x
+550;171;89;73;Ihras (M);x
+551;91;85;103;Cersorn (M);x
+552;44;118;240;Bergama;x
+553;205;236;157;Dak'fron;x
+554;71;140;98;Riverview;x
+555;229;75;38;Taneth;x
+556;117;225;28;Dustfront (M);x
+557;191;29;66;Karrnver Falls;x
+558;22;202;139;Olmer (M);x
+559;103;117;151;Roseguard;x
+560;146;94;207;Valon (M);x
+561;100;127;72;Chaseguard;x
+562;224;110;89;Denolorn (M);x
+563;138;24;44;Rihad;x
+564;54;119;109;Santaki;x
+565;151;88;7;Abasa;x
+566;48;190;107;Dragontail;x
+567;231;213;34;Qharroa;x
+568;28;180;99;Ohran Keep (M);x
+569;217;139;82;Kamver;x
+570;143;8;34;Moonview (M);x
+571;154;184;215;Gongath (M);x
+572;57;177;65;Arlimahera (M);x
+573;15;163;172;Hogon (M);x
+574;162;72;227;Rihath (M);x
+575;173;115;118;Strangkin (M);x
+576;217;71;142;Brenaswatch (M);x
+577;178;26;32;Webhelm (M);x
+578;29;11;70;Lonedale (M);x
+579;44;142;110;Ongkaleth (M);x
+580;19;124;104;Billemir (M);x
+581;231;106;16;Halene (M);x
+582;173;22;198;Cortenhad;x
+583;141;114;35;Ehimhid (M);x
+584;176;175;26;Fort Smokefork (M);x
+585;177;72;233;Lumreva (M);x
+586;83;177;59;Dusty Pass;x
+587;60;220;51;Eastern Pass;x
+588;16;16;163;Skangar (M);x
+589;159;184;205;Lightunhold (M);x
+590;236;240;0;Vehehod Vurn (M);x
+591;155;3;14;Tildrilith (M);x
+592;177;144;223;Skahler (M);x
+593;127;18;110;Stonemoor;x
+594;10;249;54;Helkati;x
+595;4;145;159;Skegdith (M);x
+596;197;123;178;Skorid (M);x
+597;246;240;4;Amrennin (M);x
+598;76;5;29;Nokelos;x
+599;25;196;121;Sunstar (M);x
+600;78;19;5;Illesid (M);x
+601;253;80;188;Helgar (M);x
+602;32;73;95;Strahrones (M);x
+603;203;151;41;Northpost (M);x
+604;162;72;227;Fomnillon (M);x
+605;123;146;139;Strigdive (M);x
+606;149;253;158;Ralamhos (M);x
+607;119;194;103;Fort Allhawk (M);x
+608;6;25;111;Corten Mont;x
+609;221;151;208;Helland;x
+610;99;175;76;Fenroln (M);x
+611;151;120;217;Zodren (M);x
+612;77;232;65;Zangin (M);x
+613;242;51;117;Ronasis (M);x
+614;122;227;108;Vel M'kai;x
+615;196;193;12;North Hall;x
+616;36;98;171;Arbol (M);x
+617;43;93;119;Odomirn (M);x
+618;155;64;159;Riverpoint;x
+619;72;126;114;Hogdith (M);x
+620;88;163;217;Bepghei (M);x
+621;218;125;130;Ash'abhas;x
+622;63;30;217;Telesubi;x
+623;73;114;202;Tarkasus;x
+624;181;95;197;Vulnim Gate;x
+625;239;185;232;Nilata;x
+626;112;139;166;Klathzgar;x
+627;4;4;73;Bangkorai South Pass;x
+628;137;80;98;Lakewatch;x
+629;202;12;53;Vulkenu Town;x
+630;158;201;126;Cliff Keep;x
+631;167;118;175;Skaven;x
+632;132;184;174;FangLair Spire;x
+633;241;237;203;Na-Totambu Catacombs;x
+634;201;102;209;Bleakview Keep (M);x
+635;109;101;185;Earthtear;x
+636;106;147;72;Buried Sands;x
+637;247;232;83;Ogondar;x
+638;221;21;144;Haddocksmarket;x
+639;95;233;41;Molavar;x
+640;208;211;49;Belkarth;x
+641;171;16;213;Elinhir;x
+642;219;97;227;Hakkvild;x
+643;107;79;138;Nimbel;x
+644;127;188;201;Adamant;x
+645;117;172;100;Ankara;x
+646;87;75;174;Spellscar;x
+647;123;7;182;Zalgaz;x
+648;53;124;148;Gahlovi (M);x
+649;146;104;58;Scorpion Ravines;x
+650;252;240;230;Tehla (M);x
+651;118;241;189;Lanista;x
+652;117;152;118;Rkhardahrk;x
+653;32;199;111;Twilight Temple;x
+654;141;21;127;Hel-Ra Citadel;x
+655;162;46;50;Damar;x
+656;120;58;93;Cilla-Karak;x
+657;212;150;41;Fearfrost;x
+658;37;28;89;Rahni'Za;x
+659;75;189;126;Tear;x
+660;130;142;3;Pale Pass;x
+661;156;24;80;Wildeye;x
+662;154;168;177;Gnoll Mountain;x
+663;187;128;173;Frostcrag Spire;x
+664;197;123;21;Fort Dragonclaw;x
+665;221;151;158;Cloud Ruler Temple;x
+666;177;169;153;Rielle;x
+667;91;251;114;Boreal Stone;x
+668;247;249;210;Alessia's Rest;x
+669;168;108;229;Jagged Hills;x
+670;254;221;12;Lipsand Tarn;x
+671;32;74;207;Sancre Tor;x
+672;172;148;151;Ninendava;x
+673;126;112;244;Applewatch;x
+674;12;204;118;Underpall;x
+675;153;86;211;Bruma;x
+676;227;108;164;Plundered Gates;x
+677;163;102;235;Toadstool Hollow;x
+678;204;117;79;Bleaker's Outpost;x
+679;40;109;52;Anga;x
+680;95;27;93;Ice-Heart;x
+681;185;237;121;Bleaker's Way;x
+682;80;79;192;Endre;x
+683;23;216;194;Piukanda;x
+684;141;71;116;Fort Coldcom;x
+685;225;122;0;Sheltered Leaves;x
+686;92;164;58;Sercen;x
+687;169;253;70;Aleswell;x
+688;38;226;134;Glademist;x
+689;101;235;244;Orange Cliff;x
+690;196;208;90;Moranda;x
+691;30;38;219;Windy Highlands;x
+692;245;6;47;Shaderton;x
+693;198;230;97;Cloud Top;x
+694;60;6;254;Fort Rayles;x
+695;77;249;208;Hrotanda Vale;x
+696;162;22;122;Journeyman's Clearing;x
+697;57;85;214;Odiil;x
+698;189;49;182;Forrest Glades;x
+699;199;174;33;Chorrol Forrest;x
+700;90;247;252;Yellow Tick;x
+701;68;40;8;Fort Empire;x
+702;17;88;58;Weye;x
+703;228;29;126;Wawnet;x
+704;165;175;116;Breakneck;x
+705;104;226;135;Narfinsel;x
+706;64;82;55;Brindle Home;x
+707;185;37;38;Gottlesfont Priory;x
+708;203;157;51;Haynote;x
+709;125;97;31;Grayrock;x
+710;145;208;95;Fort Wooden Hand;x
+711;220;41;14;Elenglynn;x
+712;145;71;250;Fort Ash;x
+713;139;156;170;Dibella's Pond;x
+714;110;218;132;Weynon Priory;x
+715;10;230;170;Chorrol;x
+716;31;97;74;Nonungalo;x
+717;73;117;27;Fort Ontus;x
+718;121;47;153;Rickare;x
+719;67;179;213;Everteen;x
+720;179;201;169;Anderian;x
+721;238;18;237;Fort Carmala;x
+722;139;156;170;Sanguine's Log;x
+723;217;101;188;Kynareth's Hills;x
+724;40;206;131;Gottlesfont Priory;x
+725;153;125;169;Grateful Pass;x
+726;62;184;200;Shadeleaf Copse;x
+727;44;115;152;Ceyatatar;x
+728;21;32;137;Skingrad;x
+729;97;3;211;Bloodcrust;x
+730;143;90;240;Silorn;x
+731;181;20;220;Arkay's Pillars;x
+732;5;6;115;Fat Ramp Camp;x
+733;175;141;221;Cursed Cliffs;x
+734;102;105;92;Fyrelight;x
+735;84;162;96;Bleak Flats;x
+736;25;8;143;Fort Dirich;x
+737;67;228;21;Balley View;x
+738;196;228;47;Dusty ;x
+739;189;54;83;Brotch;x
+740;2;42;179;Echo Hills;x
+741;142;224;76;Pitch Cliff;x
+742;219;127;129;Infested Clearing;x
+743;109;234;88;Varondo;x
+744;89;221;200;Talwinque;x
+745;62;181;106;Shetcombe;x
+746;162;237;139;Fallen Rock;x
+747;232;111;194;Miscarcand;x
+748;245;65;126;Gnoll's Meeting;x
+749;235;114;172;Fort Istirus;x
+750;106;30;69;Shardrock;x
+751;235;159;26;Dasek Moor;x
+752;188;82;34;Troll Candle Camp;x
+753;186;129;185;Ra'sava;x
+754;26;46;12;Mongrel's Tooth;x
+755;133;133;158;Dagny;x
+756;3;177;78;Ales;x
+757;103;198;169;Fort Hastrel;x
+758;221;19;170;Fort Linchal;x
+759;147;94;132;Wariel;x
+760;33;166;215;Kvatch;x
+761;180;239;130;Shattered Mine;x
+762;112;145;192;Sithian Rock;x
+763;2;68;151;Last Chance;x
+764;160;178;159;Niryastare;x
+765;255;110;63;Trumbe;x
+766;187;185;255;Fort Wariel;x
+767;205;169;212;Gottshaw;x
+768;163;128;3;Belletor's Folly;x
+769;2;15;140;Jodestone;x
+770;229;96;29;Egriril (M);x
+771;47;194;130;Keenspite (M);x
+772;111;134;143;Gweden Farm;x
+773;118;14;122;Dunbarrow Cove;x
+774;106;234;160;Fort Strand;x
+775;132;27;171;Anvil;x
+776;64;105;81;Garlas Agea;x
+777;143;101;164;Whitmond Farm;x
+778;252;188;168;Bodean;x
+779;98;38;112;Atrene;x
+780;223;78;91;Golden Lighthouse;x
+781;185;209;130;Garlas Malatar;x
+782;111;180;138;Fort Crowhaven;x
+783;160;17;61;Fort Sutch;x
+784;246;50;9;Drad Estate;x
+785;187;152;188;Beldaburo;x
+786;223;110;16;Fort Virtue;x
+787;182;166;204;Fanacasecul;x
+788;137;142;38;Vindasel;x
+789;36;224;72;Felgageldt;x
+790;206;192;24;Vlastarus;x
+791;124;213;212;gro-Bak;x
+792;255;35;0;Collarbone;x
+793;37;63;71;Nisin;x
+794;92;42;171;Castle Roebeck;x
+795;238;244;212;Priory of the Nine;x
+796;19;68;29;Old Bridge;x
+797;237;235;183;Fort Homestead;x
+798;189;201;222;Pell's Gate;x
+799;176;124;181;Hircine's Rock;x
+800;52;114;159;Sweetwater Camp;x
+801;245;131;41;Robber's Glen;x
+802;165;231;16;Castle Faregyl;x
+803;242;102;192;Harcane Grove;x
+804;32;209;194;Fort Black Foot;x
+805;100;240;167;Wenyandawik;x
+806;248;46;92;Anutwyll;x
+807;72;237;245;Bravil;x
+808;202;163;68;Bloodmayne;x
+809;152;221;72;Zenithar's Chapel;x
+810;111;104;74;Flooded Mine;x
+811;69;185;83;Veyond ;x
+812;37;149;213;Fort Variela;x
+813;64;190;116;Fort Alessia;x
+814;100;161;69;Fatback;x
+815;245;133;19;Arcane University;x
+816;249;99;228;Waterfront District;x
+817;70;151;111;Arboretum ;x
+818;116;194;94;White Gold Tower;x
+819;49;68;109;Imperial Sewers;x
+820;111;31;83;Arena District;x
+821;252;24;73;Market District;x
+822;38;163;32;Garden District;x
+823;196;11;67;Rumare Gatehouse;x
+824;37;131;99;Dzonot;x
+825;199;90;34;Fort Irony;x
+826;48;53;79;Bawn;x
+827;3;80;186;Reedstand Cave;x
+828;12;202;177;Fort Nomore;x
+829;48;85;181;Rockmilk;x
+830;177;98;164;Border Watch;x
+831;32;183;79;Water's Edge;x
+832;159;206;152;White Stallion;x
+833;240;94;59;Undertow ;x
+834;250;167;174;Telepe;x
+835;243;15;171;Leyawiin;x
+836;20;162;112;Greyland;x
+837;67;154;236;Somberstorm (M);x
+838;86;248;160;Forasken Min;x
+839;103;224;228;Deepscorn Hollow;x
+840;135;40;234;Tidewater Cove;x
+841;23;9;87;Fort Blueblood;x
+842;110;148;33;Topal's Rest;x
+843;234;23;25;Swampwraith;x
+844;29;2;162;Darkfathom;x
+845;172;87;24;Onyx Hamlet;x
+846;101;26;30;Misty Glades;x
+847;103;41;188;Veyond;x
+848;108;16;106;Fisherman's Rock;x
+849;246;143;190;Blankenmarch;x
+850;148;122;197;Fieldhouse;x
+851;30;76;176;Marsh's Edge;x
+852;35;197;129;Bilegulch;x
+853;111;178;152;Fort Doublecross;x
+854;231;74;24;Mara's Rest;x
+855;152;120;109;Arpenia ;x
+856;173;95;122;Vinthak;x
+857;231;216;132;Brackishville (M);x
+858;193;233;191;Panter's Spill;x
+859;212;208;104;Magnus rock;x
+860;128;245;122;Barren Mine;x
+861;93;195;21;Atatar;x
+862;0;237;45;Marsh-Punk;x
+863;135;77;167;Fort Bulwark;x
+864;243;82;205;Marshwatch;x
+865;217;161;13;Murky waters;x
+866;103;204;94;Garnet Camp;x
+867;35;73;17;Haunted Mine;x
+868;241;76;131;Morahame;x
+869;77;208;148;Redwater;x
+870;180;112;162;Leafrot;x
+871;221;49;220;Seran Camp;x
+872;127;72;132;Wendelbek;x
+873;27;30;4;Mir Corrup;x
+874;216;10;137;Fort Cuptor;x
+875;140;111;29;Nayon Camp;x
+876;171;136;71;Panterville;x
+877;251;117;3;Nenalata;x
+878;157;108;138;Fort Grief;x
+879;12;166;197;Nenalata;x
+880;24;126;73;Imperial Bridge;x
+881;80;95;217;Fort Warden;x
+882;217;233;25;Waxmoth Fort;x
+883;187;236;218;Sundercliff Watch;x
+884;157;122;227;West Septim's Gate;x
+885;100;130;158;Malada;x
+886;82;28;228;Lost Boy;x
+887;246;104;143;Collapsed Mines;x
+888;55;72;93;Arrowshaft Caves;x
+889;11;225;98;Bedrock Caverns;x
+890;170;133;247;Ondo Ruins;x
+891;124;101;116;Fort Flecia;x
+892;77;100;38;Cadlew Chapel;x
+893;47;247;173;Crestbridge Camp;x
+894;6;188;193;Mackamentain;x
+895;100;254;239;Trossan Camp;x
+896;232;197;35;Fort Entius;x
+897;252;121;10;Mage's Gathering;x
+898;64;57;10;Forestville;x
+899;170;241;195;Deserted Mine;x
+900;222;247;91;Crayfish ;x
+901;57;221;255;Fort Cedrian;x
+902;75;55;141;Riverglade;x
+903;61;105;230;Souzare;x
+904;53;141;151;Newt Caverns;x
+905;168;116;89;Timberscarn Hollow;x
+906;252;178;171;Culotte;x
+907;4;144;169;Cropsford;x
+908;252;196;168;Cracked Wood;x
+909;28;229;6;Vanua;x
+910;137;79;238;Fort Magia;x
+911;184;135;155;Blue Road Keep;x
+912;96;204;105;Nagastani;x
+913;131;67;46;Memorial Barrow;x
+914;245;38;18;Fort Magia;x
+915;76;77;136;Fort Urasek;x
+916;54;38;107;Vilverin;x
+917;98;4;208;Fort Caractacus;x
+918;12;72;32;Fathis Aren's Tower;x
+919;4;144;169;Aleswell;x
+920;10;125;152;Roxeyville;x
+921;215;14;148;Frostfire Glade  ;x
+922;29;38;223;Highlands;x
+923;140;113;52;Chalman Keep;x
+924;253;136;64;Silver Tooth;x
+925;124;32;244;Fort Horuun;x
+926;254;166;127;Blaze Rock;x
+927;13;34;87;Beast Maw;x
+928;102;153;179;White Fall Ranges;x
+929;185;2;147;Steed Valley;x
+930;180;83;172;Entin;x
+931;8;137;187;Arkved's Tower;x
+932;25;37;128;Nornal;x
+933;61;128;187;Wenderbek ;x
+934;103;190;51;Drakelowe;x
+935;204;135;76;Fort Facian;x
+936;229;39;92;Sheltered Hills;x
+937;171;240;6;Hame;x
+938;195;95;112;Boethia's Peaks;x
+939;246;89;164;Fort Naso;x
+940;9;149;178;Carbo;x
+941;129;69;12;Muck Valley;x
+942;238;173;25;Poppod Hamlet;x
+943;173;234;43;Harlun's Watch;x
+944;39;171;168;Knights of the Thorn Lodge;x
+945;103;141;84;Quick-Water;x
+946;37;181;63;Barren Falls;x
+947;9;172;194;Wind Range;x
+948;109;99;146;Cheydinhal;x
+949;121;209;142;Jerral Hills;x
+950;182;190;135;Hidden Camp;x
+951;109;109;189;Mountain Camp;x
+952;0;144;84;Sedor;x
+953;72;79;162;Frostbitten Hills;x
+954;177;247;138;Gnoll Mountain;x
+955;69;4;251;Rugdumph's Estate;x
+956;116;42;254;Dive Rock;x
+957;183;220;112;Ancestor Moth Hill;x
+958;29;75;78;Farragut Keep;x
+959;142;80;117;Kemen;x
+960;205;91;132;Rickety Mine;x
+961;65;62;225;Akatosh's Rock;x
+962;35;142;9;Fort Scinia;x
+963;142;78;144;Arrius;x
+964;18;36;126;Hal Verovar;x
+965;106;190;194;Stirk;x
+966;241;193;134;Skywatch;x
+967;48;67;11;Ezduiin;x
+968;34;241;132;West Guard;x
+969;166;66;108;Lover's Temple;x
+970;19;252;99;Entila's Folly;x
+971;217;173;69;Shattered Grove;x
+972;6;293;137;Toothmaul Gully;x
+973;251;10;64;Auridon Hills;x
+974;134;202;230;Mathiisen;x
+975;176;26;252;Mathiisen Manor;x
+976;112;36;72;Ondil;x
+977;84;93;173;Tanzelwil;x
+978;113;181;169;Potansa;x
+979;191;174;229;Phaer;x
+980;148;114;164;Silsailen;x
+981;73;215;182;Del's Claim;x
+982;201;229;195;East Shore Islet;x
+983;123;97;104;Harborage;x
+984;171;81;3;Vulkhel Guard;x
+985;253;31;80;South Beacon;x
+986;170;96;146;Illuvamir Dolmen;x
+987;90;167;132;Monkey's Rest;x
+988;196;43;92;Gilsailen;x
+989;122;210;122;Scarp Camp;x
+990;202;248;144;Shattered Sword Hills;x
+991;21;4;173;Solitude;x
+992;238;75;0;Shadowgreen;x
+993;218;244;239;Fort Hraggstad;x
+994;175;196;102;UNUSED;x
+995;241;31;32;UNUSED;x
+996;212;60;54;UNUSED;x
+997;40;112;176;UNUSED;x
+998;154;226;69;UNUSED;x
+999;151;106;79;UNUSED;x
+1000;13;97;27;Buraniim Isle;x
+1001;138;233;250;Glister Vale;x
+1002;70;91;8;Raptor's Cove;x
+1003;148;17;70;Heritance Proving;x
+1004;101;68;220;Quendeluun;x
+1005;8;203;169;Almarchet;x
+1006;41;155;105;Topal's Landing;x
+1007;23;18;74;Wansalen;x
+1008;5;225;162;Beacon Falls;x
+1009;44;78;231;North Beacon;x
+1010;162;113;81;Nine-Prow Landing;x
+1011;193;233;61;College of Aldmeri;x
+1012;176;64;188;Dawnbreak;x
+1013;115;125;78;Nelanya;x
+1014;7;135;57;Torinaan;x
+1015;132;98;238;Heritance Foothills;x
+1016;52;143;231;Panersewen;x
+1017;255;175;252;Firsthold;x
+1018;147;139;77;Greenwater Wayshrine;x
+1019;24;235;40;Mehrunes' Spite;x
+1020;30;229;250;Shimmering Beaches;x
+1021;179;111;48;Greenwater Cove;x
+1022;144;100;189;Camdia;x
+1023;227;139;157;Old Hall;x
+1024;186;26;0;Belotte;x
+1025;28;99;254;Krandar Watch;x
+1026;4;20;225;Springbreeze;x
+1027;101;201;218;Direnni Acropolis;x
+1028;7;184;185;Gryphon Aerie;x
+1029;183;128;198;Gryphon Run;x
+1030;164;202;210;Belport Run;x
+1031;123;121;112;Veyond Wyte;x
+1032;196;70;144;Kingshaven;x
+1033;29;142;221;Crystal Groves;x
+1034;4;181;177;Crystal-Like-Law;x
+1035;8;200;7;Graddun Spring;x
+1036;21;199;87;Congrad Wastes;x
+1037;161;102;204;Gradden;x
+1038;177;213;76;Corgrad Geyser;x
+1039;162;176;132;Malabria;x
+1040;55;114;206;Illumination Academy;x
+1041;254;77;192;Cathedral of Webs;x
+1042;243;218;241;Lillandril;x
+1043;32;162;180;Keelsplitter's Nest;x
+1044;65;131;247;Arata;x
+1045;34;149;12;Karnahrn;x
+1046;104;58;233;Ebon Stadmont;x
+1047;143;119;195;Sea Keep;x
+1048;154;43;119;Sarulas;x
+1049;18;82;222;Pastelin;x
+1050;30;152;188;College of Spiarchs;x
+1051;204;14;54;Slaughter;x
+1052;210;43;8;Sunhold;x
+1053;215;0;75;Alaxon'ald;x
+1054;224;26;13;Cunelyi;x
+1055;142;98;136;Terim;x
+1056;125;94;251;Varumil;x
+1057;138;102;143;Holly Falls;x
+1058;19;44;6;Holifal;x
+1059;106;49;172;Shimmerene;x
+1060;33;168;123;Ebonsamon;x
+1061;38;140;46;Rellenthil;x
+1062;147;139;77;Cloudrest;x
+1063;224;39;15;Eton Nir Grotto;x
+1064;32;24;61;Eldbur Ruins;x
+1065;250;21;73;Riverfeld;x
+1066;237;63;225;Russafeld;x
+1067;149;130;207;Ald Mora;x
+1068;88;168;91;Mossy Archer's Grove;x
+1069;187;28;220;Rosfeld;x
+1070;33;179;50;Stephanis Vineyards;x
+1071;174;83;122;Eldbur Sanctuary;x
+1072;64;144;49;Cambrian Crag;x
+1073;214;236;144;Auriel's Forest;x
+1074;184;4;17;Kingdom Fields;x
+1075;120;219;222;Shimmering Docks;x
+1076;56;211;247;Sungai;x
+1077;123;63;113;Rosefield;x
+1078;111;161;120;Auriel's Grove;x
+1079;247;199;46;Eton Nir Peaks;x
+1080;93;12;55;Mountain Shadows;x
+1081;179;37;117;High Garden;x
+1082;147;139;77;Hulkhod (M);x
+1083;106;80;43;Suhnor (M);x
+1084;235;192;172;Brightheart Woods (M);x
+1085;145;66;170;Alinor;x
+1086;13;250;211;Ornandel;x
+1087;224;246;21;Cey-Tarn Keep;x
+1088;237;48;159;Eton Nir Groves;x
+1089;103;112;182;Scutters Pond;x
+1090;161;178;40;Ruinspire;x
+1091;132;248;250;Isque;x
+1092;166;91;83;Eton Nir Foothills;x
+1093;63;190;247;Glenvia;x
+1094;162;208;254;Marnor;x
+1095;33;127;38;Shadow Groves;x
+1096;102;96;121;Aldmeri Docks;x
+1097;55;231;183;Je'r Beach;x
+1098;199;174;242;The Pearls;x
+1099;200;251;149;Alinor Crest;x
+1100;241;104;193;Felballin;x
+1101;136;151;179;Welenkin Cove;x
+1102;153;4;108;Sun's Path;x
+1103;125;187;5;Bright Beach;x
+1104;109;144;133;Sunhold Geyesers;x
+1105;184;239;142;Celemora;x
+1106;14;86;61;Archen Gangrove;x
+1107;55;56;80;Colossal Aldmeri Grotto;x
+1108;177;248;85;Dusk;x
+1109;64;85;125;Jilted Geyeser;x
+1110;111;68;213;Sollicich;x
+1111;53;0;127;Thorheim Guard;x
+1112;26;5;94;Silver Wood;x
+1113;69;141;196;Sorcalin's Hills;x
+1114;223;83;109;Ayrenn's Meadow;x
+1115;133;31;95;Syldarim;x
+1116;175;177;161;Tor-Hame-Khard;x
+1117;195;59;49;Keep of the Elven Forces;x
+1118;138;219;90;Topal's Beach;x
+1119;132;141;151;Indrik Frolic;x
+1120;240;248;17;Graveld's Hideway;x
+1121;228;139;204;Tiguna;x
+1122;191;119;242;Jiguna;x
+1123;159;90;38;Kaleano;x
+1124;81;131;91;Dis-Valenta;x
+1125;57;203;60;Terzana;x
+1126;23;130;174;Bonefolds;x
+1127;240;224;170;Keanos;x
+1128;163;11;46;Maran;x
+1129;179;163;56;Mantu;x
+1130;234;163;119;Daferms;x
+1131;90;3;22;Dal-Falen;x
+1132;198;138;152;Reslonka;x
+1133;41;132;137;Peanu;x
+1134;104;74;153;Islasa;x
+1135;234;179;169;Germae;x
+1136;134;85;22;Indosne;x
+1137;186;162;142;Noines;x
+1138;76;206;160;Palesti;x
+1139;166;192;208;Daferti;x
+1140;126;93;226;Ehua;x
+1141;225;228;181;Secula;x
+1142;2;43;14;Artinea;x
+1143;193;29;45;Norfeasta;x
+1144;15;212;37;Pontu;x
+1145;152;236;189;Grenbogs;x
+1146;196;101;192;Wirmati;x
+1147;20;247;145;Abbarbas;x
+1148;73;96;39;Kun-Lo;x
+1149;142;118;232;Wylala;x
+1150;228;118;47;Colcasta;x
+1151;206;234;54;Yisisa;x
+1152;56;210;170;Borne;x
+1153;51;86;94;Orcana;x
+1154;69;195;36;Aldamar;x
+1155;41;83;160;Gaddu;x
+1156;107;158;125;Ne-Angla;x
+1157;200;239;183;Caneticea;x
+1158;26;113;32;Yurkon;x
+1159;222;22;70;Californea;x
+1160;121;16;153;Tratrita;x
+1161;157;218;138;Pulonsa;x
+1162;20;62;174;Tar-Tara;x
+1163;193;137;30;Wal-Aldas;x
+1164;140;1;189;Desers;x
+1165;100;83;235;Takula;x
+1166;77;203;117;Lizah;x
+1167;214;212;89;Bryano;x
+1168;204;75;56;Falaka;x
+1169;88;167;251;Ocura;x
+1170;146;158;192;Sipsoco;x
+1171;73;248;249;Bestafiv;x
+1172;12;87;215;Halowa;x
+1173;70;20;238;Walaksas;x
+1174;235;4;222;Haaiiora;x
+1175;0;133;15;Wesocra;x
+1176;90;163;235;Borans;x
+1177;195;202;212;Eternal Palace;x
+1178;173;104;241;Spilan;x
+1179;26;197;16;Rescae;x
+1180;170;183;10;Paraman;x
+1181;127;186;76;Jagae;x
+1182;196;143;14;Wega;x
+1183;6;18;1;Orarog;x
+1184;84;243;110;Riscea;x
+1185;100;22;134;Midae;x
+1186;104;100;68;Fealaka;x
+1187;104;127;145;Castarara;x
+1188;193;135;252;Rakinka;x
+1189;98;221;115;Lika-Anua;x
+1190;205;234;249;Kituna;x
+1191;112;22;11;Jimatusa;x
+1192;132;122;6;Vos;x
+1193;58;217;107;Haewai;x
+1194;165;207;18;Hwasa;x
+1195;78;105;238;Omaga;x
+1196;128;83;241;Wadara;x
+1197;241;188;2;Pretenta;x
+1198;162;211;112;Inconstar;x
+1199;210;23;218;Raful;x
+1200;2;78;163;Nanetet;x
+1201;13;82;78;Strikanjat;x
+1202;34;139;34;Hilapa;x
+1203;255;228;225;Gruv;x
+1204;183;100;212;Verygren;x
+1205;252;176;120;Nervas;x
+1206;196;254;177;Vallas Bor;x
+1207;177;187;97;Anoyias;x
+1208;31;205;98;Stransas;x
+1209;211;70;203;Wadaruk;x
+1210;134;201;39;Wyudo;x
+1211;137;109;89;Tahana;x
+1212;30;248;213;Daluksrog;x
+1213;104;207;105;Anyclos;x
+1214;198;142;19;Porgoy;x
+1215;9;178;183;Ukala;x
+1216;63;43;242;Amarere;x
+1217;108;202;139;Yoleftim;x
+1218;123;104;238;Bondar;x
+1219;240;128;128;Hewasma;x
+1220;255;218;185;Velu;x
+1221;255;250;205;Arcantys;x
+1222;38;3;76;Portinmas;x
+1223;225;78;254;Baga;x
+1224;20;222;199;Koranta;x
+1225;1;106;134;Kowaht;x
+1226;100;149;237;Opandow;x
+1227;220;220;220;Borfar;x
+1228;186;85;211;Fulisronin;x
+1229;255;250;205;Wataplan;x
+1230;91;57;62;Captmor;x
+1231;23;99;60;Clerar;x
+1232;202;38;177;Comana;x
+1233;29;137;158;Beyonu;x
+1234;223;235;235;Lehua;x
+1235;27;96;123;Pyrrhan;x
+1236;134;173;36;Onmorchan;x
+1237;85;154;216;Abondos;x
+1238;171;195;110;Wilisos;x
+1239;138;253;238;Roa;x
+1240;124;139;190;Khael;x
+1241;15;110;12;Bjecha;x
+1242;75;103;250;Cato Ydur;x
+1243;174;35;192;Ygonsur;x
+1244;176;224;230;Etho Sul;x
+1245;41;132;137;Nowanbela;x
+1246;132;8;102;Nomee;x
+1247;98;178;92;Survila;x
+1248;74;76;23;Ixtaxh;x
+1249;194;209;228;Xinchei-Konu;x
+1250;212;128;221;Lilmoth;x
+1251;119;252;132;Hidings;x
+1252;56;199;109;Alten Meirhall;x
+1253;56;196;188;Swamplung;x
+1254;39;145;157;Longmont;x
+1255;177;225;118;Prisridge;x
+1256;76;252;200;Redbram;x
+1257;30;39;106;Blackrose;x
+1258;120;128;235;Piy-Sah;x
+1259;251;176;126;Oliis;x
+1260;116;107;10;Knazil;x
+1261;84;93;212;Colban;x
+1262;56;43;22;Fleshpoint;x
+1263;87;59;143;Dirtwarden;x
+1264;63;69;78;Leviathan's Grasp;x
+1265;93;98;40;Moonmarch;x
+1266;243;215;77;Nonxis;x
+1267;183;243;208;Oleed;x
+1268;10;238;216;Riverchange;x
+1269;18;246;26;Sunwood;x
+1270;28;219;193;Histspeaker;x
+1271;75;254;200;Muddermest;x
+1272;42;184;125;Blueleaf;x
+1273;81;126;117;Larvastones;x
+1274;140;206;73;Flynnel;x
+1275;247;48;198;Clannontar;x
+1276;100;220;58;Pirate Bay;x
+1277;129;186;158;Chasepoint;x
+1278;0;138;7;Wronghills;x
+1279;61;77;212;Shadowmarsh;x
+1280;241;19;161;Soulrest;x
+1281;9;163;234;Topal Isle;x
+1282;230;28;217;Topalbeach;x
+1283;0;143;37;Mearavan;x
+1284;5;244;173;Cortas;x
+1285;158;77;86;Stonewastes;x
+1286;54;155;0;Deepmont;x
+1287;20;139;141;Rockpark;x
+1288;106;7;98;Gemflood;x
+1289;40;148;65;Saltwater;x
+1290;59;212;172;Padomest;x
+1291;39;51;48;Fest;x
+1292;238;48;187;Arl-Anx;x
+1293;41;77;56;Archon;x
+1294;68;120;64;Dialoss;x
+1295;168;254;171;Corfille;x
+1296;216;129;188;Stonehill;x
+1297;247;7;57;Manklegrove;x
+1298;95;79;166;Westick;x
+1299;63;246;108;Branchgrove;x
+1300;120;243;86;Brightbog;x
+1301;38;242;95;Reedwash;x
+1302;55;200;14;Seaspring;x
+1303;125;211;48;Kanx;x
+1304;42;86;192;Portdun Mont;x
+1305;162;22;10;Darkwood;x
+1306;245;183;43;Glimmermont;x
+1307;67;78;137;Geyser-Hill;x
+1308;146;56;68;Seafalls;x
+1309;8;172;185;Glowguar Bay;x
+1310;89;28;251;Crim-Ax;x
+1311;81;212;249;Kothringos;x
+1312;180;202;135;Festfal;x
+1313;46;156;12;The Worms;x
+1314;67;34;98;Bloodback;x
+1315;220;43;58;Salwa;x
+1316;190;70;3;Padmasa;x
+1317;185;154;97;Slivec;x
+1318;58;253;224;Streamlands;x
+1319;85;15;159;Xanxaer;x
+1320;160;68;67;Limbuta;x
+1321;88;47;162;Lakedrop;x
+1322;122;86;22;Trenchfest;x
+1323;18;173;128;Dryplains;x
+1324;76;20;15;Filthcreek;x
+1325;237;136;215;Oldrock;x
+1326;150;39;130;Daconza;x
+1327;206;233;63;Riverbridge;x
+1328;132;73;125;Xanmeer Mon;x
+1329;91;219;210;Flybog;x
+1330;237;189;127;Xan-Kar;x
+1331;184;137;253;Grenrif;x
+1332;244;213;18;Murkwater Point;x
+1333;44;211;0;Wamasu's Roost;x
+1334;215;145;78;Arnesia;x
+1335;128;219;36;Bonewoods;x
+1336;131;2;167;Turtledens;x
+1337;114;196;121;Branchmont;x
+1338;187;54;243;Trodhpools;x
+1339;104;11;65;Cisternsi;x
+1340;131;120;157;Greenglade;x
+1341;233;88;254;Torashin;x
+1342;100;120;217;Meraud;x
+1343;237;202;241;Plarast;x
+1344;224;158;10;Alten  Barasa;x
+1345;56;83;63;Riverwalk;x
+1346;189;205;6;Velen;x
+1347;108;90;5;Thorn;x
+1348;138;215;164;Farwellon;x
+1349;1;252;135;Chainwalk;x
+1350;208;180;95;Anka-Tirana;x
+1351;20;231;152;Jatzis;x
+1352;31;199;174;Baelors;x
+1353;102;197;41;Ax-Sizla;x
+1354;85;214;158;Rockpoint;x
+1355;104;0;171;Gloomshik;x
+1356;23;199;197;Rookmoth;x
+1357;217;190;113;Alten Corimont;x
+1358;11;193;62;Chasecreek;x
+1359;238;32;124;Dirvitst;x
+1360;154;45;62;Purpistal;x
+1361;163;1;32;Branch;x
+1362;85;41;134;Zic-Zak;x
+1363;58;192;224;Frontoff;x
+1364;186;105;176;Bogmother;x
+1365;97;19;190;Mountainmother;x
+1366;173;73;224;Stormhold;x
+1367;11;149;133;Knahatan;x
+1368;171;246;251;Puss;x
+1369;86;148;247;Nisses;x
+1370;51;172;60;Scaleshriek;x
+1371;65;101;97;Tenmar;x
+1372;92;95;178;Muskorts;x
+1373;183;12;24;Sapgrove;x
+1374;2;63;14;Yokook;x
+1375;244;16;202;Histmother;x
+1376;139;67;246;Terrorvern;x
+1377;201;245;19;An-Anzax;x
+1378;126;37;41;Wasbax;x
+1379;209;11;227;Korinthixisa;x
+1380;184;228;152;Endspring;x
+1381;52;78;83;Rockguard;x
+1382;244;151;167;Overwater;x
+1383;180;77;16;Black Marsh;x
+1384;40;37;214;The Cries;x
+1385;218;226;20;Traveler's Luck;x
+1386;108;133;191;Lilothi;x
+1387;103;54;208;Toothridge;x
+1388;16;255;55;Berrylest;x
+1389;139;48;250;An-Lilaak;x
+1390;241;75;211;Bettysra;x
+1391;165;112;45;Finalsix;x
+1392;188;212;15;Sonsded;x
+1393;90;80;133;The Sticks;x
+1394;254;80;30;Carnivoris;x
+1395;130;34;91;Barnbuild;x
+1396;151;186;13;Streambridge;x
+1397;216;221;201;Floodrow;x
+1398;166;221;6;Helstrom;x
+1399;108;237;254;Narstrom;x
+1400;105;127;65;Halucix;x
+1401;62;32;236;Stickville;x
+1402;133;143;47;Tamedwalk;x
+1403;124;90;116;Greenglade;x
+1404;53;97;4;Fishcreek;x
+1405;206;157;218;Lost Gems;x
+1406;74;130;105;Alten Markmont;x
+1407;248;89;7;Oakwater;x
+1408;243;154;151;Lowbanks;x
+1409;82;173;202;Obsidris;x
+1410;48;216;32;Greenspring;x
+1411;190;237;2;Rotcorpse;x
+1412;163;236;240;Deepvalley;x
+1413;55;70;133;Hackfort;x
+1414;148;246;9;Hidden Bay;x
+1415;253;27;190;Mirecrossing;x
+1416;203;208;212;Riverwind;x
+1417;41;108;205;Rockspring;x
+1418;81;80;190;Old Palace;x
+1419;200;31;207;Ruinza;x
+1420;198;62;201;Murksedge;x
+1421;83;154;56;Filthfolk;x
+1422;72;105;212;Nagis;x
+1423;15;251;123;Glenbridge;x
+1424;114;31;18;Gloomhollow;x
+1425;222;180;193;Rockgrove;x
+1426;174;192;36;Spikmont;x
+1427;39;57;248;Fishfoks;x
+1428;186;207;129;Yellow Coast;x
+1429;151;110;152;Bambwood;x
+1430;10;176;190;Gideon;x
+1431;236;127;152;Giovesse;x
+1432;254;133;160;Tardorn Wood;x
+1433;193;246;53;Riverhold;x
+1434;192;45;227;King's Walk ;x
+1435;118;31;109;Semrit (M);x
+1436;86;145;197;Dragonscour;x
+1437;127;114;12;The Tangle;x
+1438;109;237;12;Tenmar Temple;x
+1439;163;195;104;Chasemoor;x
+1440;197;254;156;Bone Dry Hills (M);x
+1441;33;165;253;Meir Lynmount;x
+1442;164;173;65;Sandswirl Manor;x
+1443;4;250;4;Nede Watch (M);x
+1444;209;234;33;Sandy Pass (M);x
+1445;101;89;26;Duneville (M);x
+1446;245;47;17;Hall of the Colossus;x
+1447;241;132;50;Sweltering Cliffs (M);x
+1448;227;65;247;D'al Dunes (M);x
+1449;105;175;89;Rimmen;x
+1450;23;177;67;Valley Guard;x
+1451;148;238;189;River Keep;x
+1452;251;31;143;Eastern Wastes (M);x
+1453;83;178;186;Parched Hills (M);x
+1454;212;109;243;Travler's Rest (M);x
+1455;33;230;198;Blistering Sands (M);x
+1456;148;237;49;Darkam ;x
+1457;252;132;37;Alabaster;x
+1458;127;17;54;Shimmering Sands (M);x
+1459;91;115;182;Tilllams Cove (M);x
+1460;101;210;135;Tortoise Cove (M);x
+1461;70;203;53;Brukreich Bridge;x
+1462;201;139;104;The Southern Steppes (M);x
+1463;112;201;205;River Keep;x
+1464;56;25;137;Rathran (M);x
+1465;50;134;44;Sunspire Oasis (M);x
+1466;68;2;204;Hebsend Shores (M);x
+1467;174;100;92;Topal Beach (M);x
+1468;53;203;160;Ellistry Wharf (M);x
+1469;131;173;73;Baymouth Harbor (M);x
+1470;221;105;230;Senchal;x
+1471;206;4;24;South Guard;x
+1472;147;141;214;Bariwak Jungle (M);x
+1473;38;43;46;Darvulk Haven (M);x
+1474;0;45;30;Markgran Brook (M);x
+1475;125;106;191;Scorching Glades (M);x
+1476;97;204;73;Jungle Dunes (M);x
+1477;119;32;165;Port Quin (M);x
+1478;164;149;104;Tenmar;x
+1479;239;46;72;Black Heights;x
+1480;246;59;59;Chasegrove;x
+1481;236;196;158;Chapawa Beach (M);x
+1482;44;110;220;Torval;x
+1483;121;174;17;Duncori Walk;x
+1484;1;90;145;Corinth;x
+1485;89;69;220;Portneu View;x
+1486;122;194;100;Kapsajid Gardens (M);x
+1487;67;3;218;Weslin Delta (M);x
+1488;90;42;102;Ra'an Delta (M);x
+1489;132;55;243;Vonkreshar (M);x
+1490;107;104;186;Scorched hills (M);x
+1491;235;47;6;Tiskhan (M);x
+1492;76;218;83;Arid Frontier (M);x
+1493;146;150;5;Sandyego (M);x
+1494;41;253;116;Harthel (M);x
+1495;6;73;102;Jungle's Watch (M);x
+1496;169;45;77;Valenwood Gate (M);x
+1497;111;213;0;Anchorhead (M);x
+1498;37;137;163;Toshe (M) ;x
+1499;198;76;199;Jungle's End (M);x
+1500;128;45;79;Ein Meirvale;x
+1501;110;105;143;Flatlands (M);x
+1502;214;205;226;Helkarn Land;x
+1503;201;139;104;Greenvale;x
+1504;143;149;81;Rawl'kha;x
+1505;200;67;234;Heimthor Mount;x
+1506;248;9;245;Verkarth Hills;x
+1507;115;110;215;Neumar Walk ;x
+1508;75;11;88;Dune;x
+1509;25;194;48;Cori Darglade;x
+1510;92;47;160;Dawnshadow;x
+1511;228;217;14;Star Haven;x
+1512;76;238;175;Starlight;x
+1513;151;129;233;Orcrest;x
+1514;57;6;181;Abode of Ignominy;x
+1515;105;250;174;Mistral;x
+1516;104;194;196;Mourning Springs;x
+1517;43;8;98;Windcatcher Plantation;x
+1518;251;166;212;Moomirth;x
+1519;195;245;22;Brackenleaf;x
+1520;0;247;87;Heimdar;x
+1521;193;233;79;Haven;x
+1522;31;215;242;Fort Eaglemoth;x
+1523;221;113;201;Aeval;x
+1524;19;119;22;Eagle Vale;x
+1525;150;55;102;Brithwood (M);x
+1526;44;236;221;Root Sunder;x
+1527;166;91;108;New Joy;x
+1528;65;222;217;Karthdar;x
+1529;155;166;167;Cormeir;x
+1530;126;135;246;Wasten Brukbrook;x
+1531;202;206;237;Ballimar;x
+1532;155;159;161;Green Hall;x
+1533;142;216;202;Elden Root;x
+1534;198;177;13;Stonesquare;x
+1535;3;223;210;Rekran (M);x
+1536;181;193;160;Long Coast;x
+1537;186;2;1;Gray Mire;x
+1538;89;249;204;Eplearswood (M);x
+1539;231;156;218;Southpoint;x
+1540;15;151;80;Raincross (M);x
+1541;77;231;183;Runcibae;x
+1542;16;101;252;Falinesti (Winter);x
+1543;235;224;107;Redrash (M);x
+1544;234;75;147;Tarlain Malex;x
+1545;106;137;158;Cormount;x
+1546;215;22;205;Tarlain Heights Keep;x
+1547;137;47;229;Alithim;x
+1548;179;242;151;Malgek (M);x
+1549;133;152;254;Gil-Var-Delle;x
+1550;175;74;32;Mossgreen Pike (M);x
+1551;68;107;54;Andhres (M);x
+1552;51;44;211;Rillan (M);x
+1553;82;4;27;Allhearth (M);x
+1554;98;242;112;Goldfolly;x
+1555;38;159;166;Selene's Web;x
+1556;216;47;19;Fangcrest (M);x
+1557;6;149;229;Lissendran (M);x
+1558;70;165;234;Oakhold Fort (M);x
+1559;244;88;115;Redfur;x
+1560;254;208;230;Moonmont Approach;x
+1561;126;145;81;Longhaven;x
+1562;218;242;200;Fort Bluewatch;x
+1563;105;106;92;Shaagravine;x
+1564;19;90;176;Greenheart;x
+1565;227;192;124;Elmhearth (M);x
+1566;154;182;235;Grenos;x
+1567;80;174;11;Moliva;x
+1568;190;52;47;Haserma;x
+1569;249;129;172;Seaside Sanctuary;x
+1570;102;140;192;Vulain;x
+1571;15;107;20;Rheli Sul (M);x
+1572;27;106;225;Spinner's Village;x
+1573;195;95;240;Shrouded Vale;x
+1574;4;93;234;Bramblebreach;x
+1575;101;213;110;Camp Gushnukbar;x
+1576;62;211;79;Rootwater Grove;x
+1577;95;39;206;Driladan Pass;x
+1578;109;175;1;Verrant Morass;x
+1579;242;152;175;Falinesti (Spring);x
+1580;50;182;158;Odossair;x
+1581;67;188;6;Glynneri;x
+1582;231;6;145;Dakdran (M);x
+1583;60;149;152;Elden Grove;x
+1584;167;173;126;Hectahame;x
+1585;187;202;246;Silverpine (M);x
+1586;87;76;77;Shademist Moors;x
+1587;249;191;172;Vulain Haven;x
+1588;169;170;67;Dilgras (M);x
+1589;9;61;26;Rainbrush (M);x
+1590;198;167;151;Rulanyil's Fall;x
+1591;92;187;116;Woodhearth;x
+1592;76;154;93;Runcibae;x
+1593;230;204;137;Castle Hearthfire;x
+1594;95;233;153;Ferbrathig (M);x
+1595;5;173;39;Diss;x
+1596;137;93;81;Cori Siladha;x
+1597;164;54;97;Dread Vulain;x
+1598;132;133;11;Mildradash (M);x
+1599;64;158;110;Two Rocks Vale;x
+1600;216;146;150;Smokemoor (M);x
+1601;220;70;51;Archen;x
+1602;233;209;234;Fort Blackvale;x
+1603;122;88;236;Abamath;x
+1604;14;193;35;Belarata;x
+1605;85;199;224;Jathsogur;x
+1606;145;140;211;Vehem;x
+1607;183;147;202;Falinesti (Autumn);x
+1608;152;225;187;Thormar Keep;x
+1609;238;153;159;Fort Greenhill;x
+1610;32;191;110;Vindisi;x
+1611;223;230;35;Arenthia;x
+1612;32;27;168;Vullar (M);x
+1613;55;119;151;Fort Grimwatch;x
+1614;175;245;170;Willowgrove;x
+1615;83;208;106;Senalana;x
+1616;167;11;234;Athay;x
+1617;77;62;89;Strid Estuary;x
+1618;161;161;25;Lalgith (M);x
+1619;220;222;19;Ildrum (M);x
+1620;217;21;181;Treehenge;x
+1621;141;17;199;Ouze;x
+1622;20;163;198;Thromil;x
+1623;234;148;200;Ebon Ro;x
+1624;172;170;4;Four Quarry Islet;x
+1625;46;8;154;Bloodtoil Valley;x
+1626;251;119;255;Valeguard;x
+1627;133;224;24;Nacdik (M);x
+1628;104;155;140;Tanglehaven;x
+1629;181;50;84;Shael;x
+1630;254;23;92;Silvenar;x
+1631;64;54;93;Riel Rehlem;x
+1632;158;219;23;Zagrasha (M);x
+1633;90;69;194;Longvale;x
+1634;252;150;114;Black Park;x
+1635;110;30;182;Tomb of the Apostates;x
+1636;40;102;40;Wulkwasten;x
+1637;86;38;53;Strid Basin;x
+1638;211;227;192;Baandari;x
+1639;238;44;131;Ogrim's Yawn;x
+1640;254;38;167;Dra'bul;x
+1641;123;144;39;Wilding Run;x
+1642;51;21;30;Vekres (M);x
+1643;113;124;243;Deepwoods;x
+1644;141;195;253;Tempest Island;x
+1645;223;190;230;Ilayas;x
+1646;250;133;138;Falinesti (Summer);x
+1647;251;38;69;Glenpoint;x
+1648;92;79;191;Matthild;x
+1649;112;89;194;Starwalk;x
+1650;70;108;77;Velyn Harbor;x
+1651;132;53;17;Virimoor;x
+1652;131;84;91;Emperor's Run;x
+1653;38;6;51;Con Silmoor;x
+1654;181;87;250;Whisper Grove;x
+1655;98;213;132;Nilaga;x
+1656;96;127;155;Torlen;x
+1657;208;27;72;Samsun;x
+1658;215;211;5;Stros M'kai;x
+1659;215;31;190;Stros Pier;x
+1660;197;70;34;East Chain;x
+1661;28;253;253;UNUSED 1;x
+1662;29;203;203;UNUSED 2;x
+1663;30;203;253;UNUSED 3;x
+1664;31;223;253;UNUSED 4;x
+1665;32;253;253;UNUSED 5;x
+1666;8;225;54;West Chain;x
+1667;34;203;253;UNUSED 6;x
+1668;239;107;188;North Caspar;x
+1669;197;5;66;South Caspar;x
+1670;79;89;137;North Herne;x
+1671;110;179;45;South Herne;x
+1672;152;56;237;The Systres;x
+1673;240;188;163;Agowle;x
+1674;66;82;122;Vandor;x
+1675;254;123;225;First Yokuda;x
+1676;220;82;95;1676;x
+1677;22;191;246;Ravan;x
+1678;47;149;20;1678;x
+1679;15;178;225;Asul Ydur;x
+1680;39;0;208;1680;x
+1681;64;89;223;Seuol Ydur;x
+1682;122;138;109;Siol;x
+1683;91;76;126;1683;x
+1684;14;129;36;Zanzar;x
+1685;105;71;76;1685;x
+1686;18;59;19;Nalonga;x
+1687;89;32;175;Errinome Isle;x
+1688;240;129;52;UNUSED;
+1689;153;167;53;Klithi;x
+1690;204;181;177;Kamksh;x
+1691;5;127;32;1691;x
+1692;10;235;56;1692;x
+1693;193;40;253;1693;x
+1694;171;187;211;Makan;x
+1695;218;144;73;1695;x
+1696;215;10;52;Yath;x
+1697;34;27;144;1697;x
+1698;79;30;62;Khubi;x
+1699;208;228;77;Moni;x
+1700;133;222;163;Bahia;x
+1701;253;129;185;1701;x
+1702;122;138;109;Somara;x
+1703;33;232;140;Arranhu;x
+1704;178;34;34;Tull;x
+1705;218;165;32;Yul;x
+1706;0;255;255;Totambu (Capital);x
+1707;124;182;181;Tagon;x
+1708;138;245;122;1708;x
+1709;11;192;214;1709;x
+1710;45;61;177;Tigon;x
+1711;196;247;244;1711;x
+1712;135;68;184;1712;x
+1713;21;119;24;1713;x
+1714;93;236;48;1714;x
+1715;5;55;237;1715;x
+1716;226;101;203;1716;x
+1717;28;169;154;1717;x
+1718;14;67;225;1718;x
+1719;191;31;26;1719;x
+1720;144;149;185;1720;x
+1721;80;93;227;Taleskan;x
+1722;138;183;243;Kruzka;x
+1723;91;223;253;UNUSED 7;x
+1724;92;253;253;UNUSED 8;x
+1725;93;203;203;UNUSED 9;x
+1726;94;203;253;UNUSED 10;x
+1727;95;223;253;UNUSED 11;x
+1728;96;253;253;UNUSED 12;x
+1729;97;203;203;UNUSED 13;x
+1730;98;203;253;UNUSED 14;x
+1731;99;223;253;UNUSED 15;x
+1732;100;253;253;UNUSED 16;x
+1733;101;203;203;UNUSED 17;x
+1734;102;203;253;UNUSED 18;x
+1735;103;223;253;UNUSED 19;x
+1736;104;203;203;UNUSED 20;x
+1737;106;203;253;UNUSED 21;x
+1738;107;223;253;UNUSED 22;x
+1739;108;253;253;UNUSED 23;x
+1740;109;203;203;UNUSED 24;x
+1741;110;203;253;UNUSED 25;x
+1742;66;68;126;UNUSED 26;x
+1743;194;70;173;UNUSED 27;x
+1744;66;72;32;UNUSED 28;x
+1745;195;74;79;UNUSED 29;x
+1746;67;76;126;UNUSED 30;x
+1747;195;78;173;UNUSED 31;x
+1748;67;80;32;UNUSED 32;x
+1749;195;82;79;UNUSED 33;x
+1750;67;84;126;UNUSED 34;x
+1751;195;86;173;UNUSED 35;x
+1752;68;88;32;UNUSED 36;x
+1753;196;90;79;UNUSED 37;x
+1754;68;92;126;UNUSED 38;x
+1755;196;94;173;UNUSED 39;x
+1756;68;96;32;UNUSED 40;x
+1757;196;98;79;UNUSED 41;x
+1758;68;100;126;UNUSED 42;x
+1759;197;102;173;UNUSED 43;x
+1760;69;104;32;UNUSED 44;x
+1761;197;106;79;UNUSED 45;x
+1762;69;108;126;UNUSED 46;x
+1763;197;110;173;UNUSED 47;x
+1764;69;112;32;UNUSED 48;x
+1765;197;114;79;UNUSED 49;x
+1766;70;116;126;UNUSED 50;x
+1767;198;118;173;UNUSED 51;x
+1768;70;120;32;UNUSED 52;x
+1769;198;122;79;UNUSED 53;x
+1770;70;124;126;UNUSED 54;x
+1771;198;126;173;UNUSED 55;x
+1772;70;128;32;UNUSED 56;x
+1773;187;187;218;Caraibos;x
+1774;229;252;239;Ulm;x
+1775;114;182;128;Omane;x
+1776;52;93;118;Denheni;x
+1777;45;71;201;Senzeterg;x
+1778;81;181;236;Staufens;x
+1779;18;175;45;Geraldu;x
+1780;219;205;184;Nutels;x
+1781;223;166;175;Indes;x
+1782;71;17;112;Mera;x
+1783;107;188;87;Genzin;x
+1784;40;163;72;Lemos;x
+1785;83;14;248;Bradber;x
+1786;253;113;202;Endelk;x
+1787;215;226;58;Benerbi;x
+1788;57;90;92;Losta;x
+1789;141;68;201;Blekmir;x
+1790;173;248;155;The Sisters;x
+1791;171;253;26;Wetras;x
+1792;163;178;96;Slimesro;x
+1793;57;217;164;Newah;x
+1794;129;138;9;Coldhaven;x
+1795;101;20;248;Iseal;x
+1796;76;226;197;Falmoth;x
+1797;73;158;6;Postma;x
+1798;36;61;44;Fortsev;x
+1799;70;145;141; Bone Isle;x
+1800;83;182;103;Goldcrown;x
+1801;74;230;108;Southpoint;x
+1802;87;56;207;Vroom;x
+1803;147;106;73;Worcshir;x
+1804;205;65;255;Gadalfos;x
+1805;56;155;199;Black Harbor;x
+1806;223;7;27;Solinv;x
+1807;159;226;67;Sciengu;x
+1808;30;194;80;Marm;x
+1809;117;12;74;Adredh;x
+1810;118;24;136;Elvast;x
+1811;132;197;161;Fiz;x
+1812;233;87;2;Assagiris;x
+1813;159;141;136;Seelow;x
+1814;226;232;1;Bog;x
+1815;244;157;232;Mushroma;x
+1816;80;127;1;Xanadu;x
+1817;86;19;107;Todhow;x
+1818;217;212;109;Toileclen;x
+1819;60;38;21;Farshore;x
+1820;25;132;0;Dragonsrest;x
+1821;31;58;203;Tyran;x
+1822;91;106;84;Minolka;x
+1823;224;75;200; Trinid;x
+1824;156;233;59; Kalenko;x
+1825;182;146;200;Kalenza;x
+1826;245;211;90;Narhas;x
+1827;204;21;231;Last Sight;x
+1828;216;125;76;First Akavir??;x
+1829;71;26;185;1829;x
+1830;68;155;205;1830;x
+1831;206;233;251;1831;x
+1832;187;148;94;1832;x
+1833;105;56;2;1833;x
+1834;22;165;202;1834;x
+1835;31;105;139;1835;x
+1836;247;178;32;1836;x
+1837;154;9;248;1837;x
+1838;38;112;115;1838;x
+1839;183;49;217;1839;x
+1840;31;228;109;1840;x
+1841;161;145;36;Mahakala;x
+1842;70;213;170;1842;x
+1843;174;221;2;1843;x
+1844;165;225;86;1844;x
+1845;7;42;208;1845;x
+1846;81;220;177;1846;x
+1847;76;11;147;1847;x
+1848;28;75;234;1848;x
+1849;125;253;148;1849;x
+1850;197;167;96;1850;x
+1851;203;116;239;1851;x
+1852;233;59;20;1852;x
+1853;70;215;243;1853;x
+1854;99;26;0;1854;x
+1855;226;192;178;1855;x
+1856;141;18;173;1856;x
+1857;4;27;156;1857;x
+1858;78;59;21;1858;x
+1859;237;252;55;1859;x
+1860;46;193;192;1860;x
+1861;94;187;32;1861;x
+1862;83;51;8;1862;x
+1863;224;156;239;1863;x
+1864;218;155;184;1864;x
+1865;29;136;156;1865;x
+1866;51;134;207;1866;x
+1867;69;125;115;1867;x
+1868;159;109;44;1868;x
+1869;90;170;144;1869;x
+1870;114;191;86;1870;x
+1871;165;250;232;1871;x
+1872;165;225;86;1872;x
+1873;2;93;233;1873;x
+1874;218;155;184;1874;x
+1875;67;199;157;1875;x
+1876;62;166;247;1876;x
+1877;198;76;108;1877;x
+1878;69;156;22;1878;x
+1879;112;38;74;1879;x
+1880;112;155;145;1880;x
+1881;117;161;208;1881;x
+1882;248;19;99;1882;x
+1883;42;164;237;1883;x
+1884;62;163;118;1884;x
+1885;41;100;222;1885;x
+1886;218;155;184;1886;x
+1887;237;161;189;1887;x
+1888;231;48;156;1888;x
+1889;243;139;160;1889;x
+1890;92;204;179;1890;x
+1891;124;24;154;1891;x
+1892;120;195;81;1892;x
+1893;14;225;250;1893;x
+1894;26;254;75;1894;x
+1895;126;144;128;1895;x
+1896;108;198;84;1896;x
+1897;227;36;68;1897;x
+1898;200;212;125;1898;x
+1899;27;228;79;1899;x
+1900;233;59;20;1900;x
+1901;111;150;207;1901;x
+1902;110;210;160;1902;x
+1903;82;221;185;1903;x
+1904;156;42;148;1904;x
+1905;225;242;76;1905;x
+1906;88;188;35;1906;x
+1907;17;81;198;1907;x
+1908;99;9;68;1908;x
+1909;76;6;145;1909;x
+1910;232;196;215;1910;x
+1911;255;0;220;1911;x
+1912;134;81;111;1912;x
+1913;120;2;233;1913;x
+1914;217;140;217;1914;x
+1915;218;155;184;1915;x
+1916;186;62;209;1916;x
+1917;34;235;142;1917;x
+1918;197;93;141;1918;x
+1919;128;171;196;1919;x
+1920;177;182;70;1920;x
+1921;225;122;128;1921;x
+1922;40;173;248;1922;x
+1923;220;114;241;1923;x
+1924;124;119;214;1924;x
+1925;137;200;57;1925;x
+1926;218;125;205;1926;x
+1927;237;162;30;1927;x
+1928;188;9;60;1928;x
+1929;215;11;124;1929;x
+1930;92;8;125;1930;x
+1931;27;152;168;1931;x
+1932;138;180;174;1932;x
+1933;33;234;219;1933;x
+1934;229;203;42;1934;x
+1935;40;207;1;1935;x
+1936;62;167;190;1936;x
+1937;31;72;239;1937;x
+1938;51;158;243;1938;x
+1939;241;226;165;1939;x
+1940;176;171;204;1940;x
+1941;200;113;46;1941;x
+1942;29;18;3;1942;x
+1943;245;50;227;1943;x
+1944;67;20;72;1944;x
+1945;17;81;198;1945;x
+1946;163;17;158;1946;x
+1947;39;58;26;1947;x
+1948;91;55;88;1948;x
+1949;233;59;20;1949;x
+1950;143;203;18;1950;x
+1951;242;50;171;1951;x
+1952;171;210;38;1952;x
+1953;35;132;226;1953;x
+1954;61;182;186;1954;x
+1955;110;137;20;1955;x
+1956;106;15;186;1956;x
+1957;99;37;115;1957;x
+1958;223;59;20;1958;x
+1959;104;44;81;1959;x
+1960;198;14;175;1960;x
+1961;206;209;33;1961;x
+1962;216;175;5;1962;x
+1963;16;73;23;1963;x
+1964;115;8;120;1964;x
+1965;173;105;150;1965;x
+1966;87;25;253;1966;x
+1967;216;150;107;1967;x
+1968;213;221;238;1968;x
+1969;238;176;122;1969;x
+1970;233;59;20;1970;x
+1971;190;147;12;1971;x
+1972;165;225;86;1972;x
+1973;65;13;82;1973;x
+1974;161;174;106;1974;x
+1975;149;117;63;1975;x
+1976;61;31;45;1976;x
+1977;206;238;118;1977;x
+1978;218;155;184;1978;x
+1979;4;6;80;1979;x
+1980;40;14;204;1980;x
+1981;159;21;231;1981;x
+1982;32;190;249;1982;x
+1983;32;123;163;1983;x
+1984;87;10;123;1984;x
+1985;123;101;218;1985;x
+1986;78;189;94;1986;x
+1987;79;239;183;1987;x
+1988;78;162;199;1988;x
+1989;56;210;186;1989;x
+1990;93;170;117;1990;x
+1991;165;225;86;1991;x
+1992;223;59;20;1992;x
+1993;17;81;198;1993;x
+1994;106;203;135;1994;x
+1995;152;198;60;1995;x
+1996;32;154;117;1996;x
+1997;41;172;24;1997;x
+1998;233;59;20;1998;x
+1999;238;195;187;1999;x
+2000;65;141;129;2000;x
+2001;99;185;13;2001;x
+2002;145;108;187;2002;x
+2003;171;91;125;2003;X
+2004;54;1;173;2004;x
+2005;5;237;154;2005;x
+2006;80;123;224;2006;x
+2007;98;31;8;2007;x
+2008;190;105;142;2008;x
+2009;115;209;236;2009;x
+2010;75;245;65;2010;x
+2011;230;19;142;2011;x
+2012;69;28;236;107;x
+2013;253;78;169;2013;x
+2014;232;18;9;2014;x
+2015;218;155;184;2015;x
+2016;138;60;243;2016;x
+2017;118;189;208;2017;x
+2018;71;195;119;2018;x
+2019;108;107;211;2019;x
+2020;233;218;32;2020;x
+2021;129;231;244;2021;x
+2022;234;230;76;2022;x
+2023;95;119;247;2023;x
+2024;100;144;149;2024;x
+2025;174;213;146;2025;x
+2026;159;12;181;2026;x
+2027;127;23;249;2027;x
+2028;8;229;82;2028;x
+2029;96;189;6;2029;x
+2030;42;85;44;2030;x
+2031;157;245;67;2031;x
+2032;240;69;61;2032;x
+2033;237;1;7;2033;x
+2034;70;165;247;2034;x
+2035;215;155;30;2035;x
+2036;251;78;199;2036;x
+2037;87;107;239;2037;x
+2038;245;104;200;2038;x
+2039;221;93;166;2039;x
+2040;233;205;111;2040;x
+2041;42;157;214;2041;x
+2042;185;37;131;2042;x
+2043;58;42;199;2043;x
+2044;141;35;37;2044;x
+2045;255;1;173;2045;x
+2046;189;224;201;2046;x
+2047;209;103;110;2047;x
+2048;127;58;107;LastKangsun;x
+2049;73;18;169;Khurda;x
+2050;156;13;214;First   Kahkan;x
+2051;5;92;68;2051;x
+2052;140;169;62;2052;x
+2053;120;104;6;2053;x
+2054;229;56;196;2054;x
+2055;18;76;50;2055;x
+2056;131;28;190;2056;x
+2057;151;197;29;2057;x
+2058;59;56;222;2058;x
+2059;149;161;58;2059;x
+2060;122;160;115;2060;x
+2061;100;221;250;2061;x
+2062;133;2;108;2062;x
+2063;119;66;228;2063;x
+2064;236;79;193;2064;x
+2065;29;246;254;2065;x
+2066;245;82;46;2066;x
+2067;104;249;129;2067;x
+2068;19;83;243;2068;x
+2069;44;99;113;2069;x
+2070;2;240;56;2070;x
+2071;111;45;6;2071;x
+2072;111;127;170;2072;x
+2073;202;2;177;2073;x
+2074;229;22;16;2074;x
+2075;185;148;150;2075;x
+2076;126;195;230;2076;x
+2077;6;15;49;2077;x
+2078;189;135;96;2078;x
+2079;133;44;228;2079;x
+2080;85;24;93;2080;x
+2081;124;121;5;2081;x
+2082;20;238;180;2082;x
+2083;196;220;121;2083;x
+2084;127;251;202;2084;x
+2085;186;171;40;2085;x
+2086;13;141;211;2086;x
+2087;78;120;153;2087;x
+2088;182;148;41;2088;x
+2089;106;255;102;2089;x
+2090;92;122;179;2090;x
+2091;113;160;169;2091;x
+2092;102;189;224;2092;x
+2093;43;96;178;2093;x
+2094;92;22;233;2094;x
+2095;141;245;234;2095;x
+2096;245;18;211;2096;x
+2097;188;199;98;2097;x
+2098;52;8;98;2098;x
+2099;91;121;122;2099;x
+2100;160;171;121;2100;x
+2101;14;228;197;2101;x
+2102;182;221;166;2102;x
+2103;89;124;202;2103;x
+2104;9;55;0;2104;x
+2105;114;196;18;2105;x
+2106;99;174;117;2106;x
+2107;15;97;125;2107;x
+2108;2;157;131;2108;x
+2109;92;117;53;2109;x
+2110;249;89;92;2110;x
+2111;32;154;201;2111;x
+2112;75;174;253;2112;x
+2113;128;253;86;2113;x
+2114;25;16;29;2114;x
+2115;196;81;102;2115;x
+2116;34;220;171;2116;x
+2117;167;95;149;2117;x
+2118;193;47;198;2118;x
+2119;74;142;192;2119;x
+2120;141;82;209;2120;x
+2121;147;5;107;2121;x
+2122;88;63;151;2122;x
+2123;24;128;100;2123;x
+2124;54;120;120;2124;x
+2125;198;215;16;2125;x
+2126;180;240;219;2126;x
+2127;141;152;189;2127;x
+2128;156;150;70;2128;x
+2129;107;43;166;2129;x
+2130;90;165;42;2130;x
+2131;149;38;157;2131;x
+2132;73;126;28;2132;x
+2133;206;57;118;2133;x
+2134;129;105;255;2134;x
+2135;123;193;138;2135;x
+2136;139;185;115;2136;x
+2137;60;99;247;2137;x
+2138;84;129;216;2138;x
+2139;12;74;234;2139;x
+2140;38;174;113;2140;x
+2141;102;200;176;2141;x
+2142;178;44;37;2142;x
+2143;189;245;49;2143;x
+2144;200;55;184;2144;x
+2145;118;162;49;2145;x
+2146;127;39;177;2146;x
+2147;21;56;93;2147;x
+2148;19;202;32;2148;x
+2149;144;70;253;2149;x
+2150;247;31;183;2150;x
+2151;247;146;199;2151;x
+2152;187;226;75;2152;x
+2153;32;31;72;2153;x
+2154;83;147;151;2154;x
+2155;179;54;12;2155;x
+2156;18;66;48;2156;x
+2157;34;36;7;2157;x
+2158;19;204;219;2158;x
+2159;34;101;203;2159;x
+2160;85;116;19;2160;x
+2161;105;21;32;2161;x
+2162;147;193;25;2162;x
+2163;21;1;132;2163;x
+2164;66;169;221;2164;x
+2165;39;66;224;2165;x
+2166;36;188;150;2166;x
+2167;186;109;32;2167;x
+2168;133;163;152;2168;x
+2169;81;13;16;2169;x
+2170;186;131;232;2170;x
+2171;87;1;51;2171;x
+2172;198;103;126;2172;x
+2173;169;202;18;2173;x
+2174;78;187;14;2174;x
+2175;83;53;221;2175;x
+2176;112;117;126;2176;x
+2177;40;147;86;2177;x
+2178;239;38;110;2178;x
+2179;42;128;234;2179;x
+2180;141;191;249;2180;x
+2181;174;123;47;2181;x
+2182;24;200;11;2182;x
+2183;171;241;216;2183;x
+2184;160;244;18;2184;x
+2185;64;86;12;2185;x
+2186;95;176;5;2186;x
+2187;189;99;13;2187;x
+2188;201;36;227;2188;x
+2189;218;160;233;2189;x
+2190;161;188;230;2190;x
+2191;114;220;170;2191;x
+2192;174;37;154;2192;x
+2193;165;114;243;2193;x
+2194;8;153;9;2194;x
+2195;95;198;213;2195;x
+2196;215;110;100;2196;x
+2197;69;249;44;2197;x
+2198;118;94;175;2198;x
+2199;245;30;55;2199;x
+2200;147;228;102;2200;x
+2201;96;191;53;2201;x
+2202;91;110;173;2202;x
+2203;183;73;165;2203;x
+2204;85;83;107;2204;x
+2205;222;44;140;2205;x
+2206;126;104;226;2206;x
+2207;100;206;96;2207;x
+2208;224;61;184;2208;x
+2209;173;208;194;2209;x
+2210;129;118;99;2210;x
+2211;151;161;244;2211;x
+2212;209;225;82;2212;x
+2213;195;119;209;2213;x
+2214;17;31;69;2214;x
+2215;220;182;134;2215;x
+2216;250;240;95;2216;x
+2217;36;111;181;2217;x
+2218;148;116;123;2218;x
+2219;211;154;178;2219;x
+2220;85;121;118;2220;x
+2221;4;233;46;Last Kahkan;x
+2222;203;24;61;Kanesh;x
+2223;239;29;158;Lumut;x
+2224;13;112;254;2224;x
+2225;25;32;241;2225;x
+2226;213;108;75;LAST YOKUDA;x
+2227;100;251;97;First Mihuang;x
+2228;39;125;131;2228;x
+2229;137;142;46;2229;x
+2230;193;205;179;2230;x
+2231;45;1;245;2231;x
+2232;141;123;248;2232;x
+2233;1;27;84;2233;x
+2234;43;42;28;2234;x
+2235;39;153;60;2235;x
+2236;103;128;36;2236;x
+2237;41;16;31;2237;x
+2238;181;58;185;2238;x
+2239;208;120;144;2239;x
+2240;26;136;98;2240;x
+2241;44;135;246;2241;x
+2242;158;226;42;2242;x
+2243;104;188;42;2243;x
+2244;159;185;105;2244;x
+2245;254;247;34;2245;x
+2246;191;128;203;2246;x
+2247;119;42;217;2247;x
+2248;233;163;168;2248;x
+2249;2;55;137;2249;x
+2250;174;183;187;2250;x
+2251;101;0;145;2251;x
+2252;247;237;63;2252;x
+2253;58;128;246;2253;x
+2254;141;255;114;2254;x
+2255;187;61;233;2255;x
+2256;216;47;218;2256;x
+2257;142;88;44;2257;x
+2258;175;8;239;2258;x
+2259;110;171;116;2259;x
+2260;135;8;18;2260;x
+2261;178;94;223;2261;x
+2262;211;38;8;2262;x
+2263;179;103;168;2263;x
+2264;57;91;153;2264;x
+2265;209;80;89;2265;x
+2266;96;121;143;2266;x
+2267;5;56;182;2267;x
+2268;137;99;97;2268;x
+2269;19;247;61;2269;x
+2270;108;177;66;2270;x
+2271;70;28;34;2271;x
+2272;56;214;135;2272;x
+2273;211;223;40;2273;x
+2274;25;181;12;2274;x
+2275;51;37;67;2275;x
+2276;161;180;162;2276;x
+2277;1;239;123;2277;x
+2278;200;228;145;2278;x
+2279;120;23;175;2279;x
+2280;78;53;76;2280;x
+2281;230;57;243;2281;x
+2282;28;80;167;2282;x
+2283;61;133;217;2283;x
+2284;211;76;246;2284;x
+2285;110;58;87;2285;x
+2286;54;143;50;2286;x
+2287;18;224;164;2287;x
+2288;203;219;14;2288;x
+2289;28;48;217;2289;x
+2290;44;10;102;2290;x
+2291;181;126;175;2291;x
+2292;46;74;12;2292;x
+2293;255;12;233;2293;x
+2294;73;195;53;2294;x
+2295;205;198;61;2295;x
+2296;54;60;108;2296;x
+2297;71;177;69;2297;x
+2298;177;205;145;2298;x
+2299;101;136;42;2299;x
+2300;27;230;77;2300;x
+2301;190;74;213;2301;x
+2302;193;164;126;2302;x
+2303;244;213;116;2303;x
+2304;210;83;185;2304;x
+2305;8;2;124;2305;x
+2306;137;251;57;2306;x
+2307;170;135;178;2307;x
+2308;78;209;65;2308;x
+2309;176;176;146;2309;x
+2310;42;124;31;2310;x
+2311;209;48;177;2311;x
+2312;15;30;197;2312;x
+2313;140;132;157;2313;x
+2314;30;61;126;2314;x
+2315;128;128;48;2315;x
+2316;52;6;28;2316;x
+2317;161;114;158;2317;x
+2318;25;102;156;2318;x
+2319;156;17;243;2319;x
+2320;140;61;112;2320;x
+2321;62;3;57;Last Mihuang;x
+2322;99;46;46;First Astrallah;x
+2323;212;62;88;2323;x
+2324;213;216;27;2324;x
+2325;253;240;26;2325;x
+2326;71;135;135;2326;x
+2327;218;67;105;2327;x
+2328;112;36;12;2328;x
+2329;179;182;241;2329;x
+2330;253;254;157;2330;x
+2331;90;223;216;2331;x
+2332;49;196;154;2332;x
+2333;127;88;151;2333;x
+2334;215;66;77;2334;x
+2335;35;159;152;2335;x
+2336;26;73;240;2336;x
+2337;13;241;176;2337;x
+2338;182;103;50;2338;x
+2339;157;187;183;2339;x
+2340;79;118;42;2340;x
+2341;126;226;237;2341;x
+2342;246;191;216;2342;x
+2343;14;83;41;2343;x
+2344;114;255;14;2344;x
+2345;105;203;19;2345;x
+2346;123;228;185;2346;x
+2347;237;74;171;2347;x
+2348;246;107;222;2348;x
+2349;19;92;93;2349;x
+2350;235;202;244;2350;x
+2351;65;52;249;2351;x
+2352;51;65;44;2352;x
+2353;195;81;69;2353;x
+2354;235;234;116;2354;x
+2355;210;128;5;2355;x
+2356;11;16;108;2356;x
+2357;8;162;11;2357;x
+2358;9;224;203;2358;x
+2359;81;255;117;2359;x
+2360;194;180;40;2360;x
+2361;51;170;138;2361;x
+2362;102;176;208;2362;x
+2363;34;41;56;2363;x
+2364;99;32;149;2364;x
+2365;138;205;72;2365;x
+2366;187;196;129;2366;x
+2367;74;140;16;2367;x
+2368;220;1;8;2368;x
+2369;211;202;226;2369;x
+2370;90;170;242;2370;x
+2371;140;71;200;2371;x
+2372;62;45;200;2372;x
+2373;234;165;152;2373;x
+2374;64;221;97;2374;x
+2375;8;202;179;2375;x
+2376;53;177;120;2376;x
+2377;194;81;228;2377;x
+2378;214;102;148;2378;x
+2379;102;36;123;2379;x
+2380;207;19;14;2380;x
+2381;187;30;133;2381;x
+2382;212;67;10;2382;x
+2383;152;121;240;2383;x
+2384;170;97;194;2384;x
+2385;28;95;233;2385;x
+2386;219;219;215;2386;x
+2387;234;180;67;2387;x
+2388;238;235;145;2388;x
+2389;253;230;158;2389;x
+2390;208;58;67;2390;x
+2391;54;188;23;2391;x
+2392;100;210;19;2392;x
+2393;236;213;238;2393;x
+2394;248;171;146;2394;x
+2395;29;200;249;2395;x
+2396;161;65;39;2396;x
+2397;96;217;51;2397;x
+2398;233;179;216;2398;x
+2399;37;63;202;2399;x
+2400;235;140;201;2400;x
+2401;172;105;196;2401;x
+2402;75;93;85;2402;x
+2403;223;7;69;2403;x
+2404;248;215;243;2404;x
+2405;48;216;243;2405;x
+2406;35;200;128;2406;x
+2407;144;73;45;2407;x
+2408;172;186;123;2408;x
+2409;22;73;67;2409;x
+2410;26;86;58;2410;x
+2411;95;1;235;2411;x
+2412;101;74;1;2412;x
+2413;235;208;120;2413;x
+2414;5;11;41;2414;x
+2415;58;247;27;2415;x
+2416;175;187;137;2416;x
+2417;32;178;183;2417;x
+2418;59;175;83;2418;x
+2419;237;176;234;2419;x
+2420;214;107;137;2420;x
+2421;1;24;35;2421;x
+2422;183;255;107;2422;x
+2423;59;117;33;2423;x
+2424;47;177;226;2424;x
+2425;100;195;134;2425;x
+2426;150;142;57;2426;x
+2427;48;48;48;Wasteland 2427;x
+2428;10;18;188;2428;x
+2429;96;210;36;2429;x
+2430;199;69;56;2430;x
+2431;75;115;217;2431;x
+2432;120;97;17;2432;x
+2433;139;114;21;2433;x
+2434;81;247;154;2434;x
+2435;90;221;24;2435;x
+2436;242;116;247;2436;x
+2437;199;145;27;2437;x
+2438;184;132;173;2438;x
+2439;211;51;148;2439;x
+2440;77;75;174;2440;x
+2441;53;36;17;2441;x
+2442;175;94;123;2442;x
+2443;2;97;245;2443;x
+2444;232;62;128;2444;x
+2445;9;209;85;2445;x
+2446;252;97;45;2446;x
+2447;216;93;79;2447;x
+2448;128;223;52;2448;x
+2449;50;246;95;2449;x
+2450;156;246;112;2450;x
+2451;10;36;235;2451;x
+2452;250;186;222;2452;x
+2453;27;170;182;2453;x
+2454;90;213;212;2454;x
+2455;190;56;34;2455;x
+2456;21;141;143;2456;x
+2457;213;15;156;2457;x
+2458;62;149;137;2458;x
+2459;161;127;132;2459;x
+2460;96;108;30;2460;x
+2461;76;175;177;2461;x
+2462;149;146;27;2462;x
+2463;5;91;70;2463;x
+2464;121;218;162;2464;x
+2465;168;17;225;2465;x
+2466;214;209;35;2466;x
+2467;188;94;95;2467;x
+2468;169;242;50;2468;x
+2469;21;131;127;2469;x
+2470;149;67;177;2470;x
+2471;244;36;86;2471;x
+2472;254;1;113;2472;x
+2473;33;197;70;2473;x
+2474;219;142;189;2474;x
+2475;92;2;94;2475;x
+2476;91;132;197;2476;x
+2477;105;155;210;2477;x
+2478;39;171;192;2478;x
+2479;44;22;36;2479;x
+2480;71;240;48;2480;x
+2481;178;137;157;2481;x
+2482;167;140;109;2482;x
+2483;104;110;255;2483;x
+2484;147;224;87;2484;x
+2485;11;117;82;2485;x
+2486;9;112;106;2486;x
+2487;226;66;197;2487;x
+2488;233;46;149;2488;x
+2489;203;164;194;2489;x
+2490;192;92;12;2490;x
+2491;241;198;116;2491;x
+2492;238;79;239;2492;x
+2493;83;198;193;2493;x
+2494;61;68;176;2494;x
+2495;220;198;153;2495;x
+2496;88;238;198;2496;x
+2497;213;233;169;2497;x
+2498;3;251;125;2498;x
+2499;162;66;111;2499;x
+2500;34;147;242;2500;x
+2501;253;116;193;2501;x
+2502;6;29;235;2502;x
+2503;253;181;147;2503;x
+2504;60;0;61;2504;x
+2505;185;149;6;2505;x
+2506;115;2;127;2506;x
+2507;22;80;102;2507;x
+2508;1;191;116;2508;x
+2509;79;209;27;2509;x
+2510;86;51;234;2510;x
+2511;248;198;85;2511;x
+2512;235;204;19;2512;x
+2513;170;228;142;2513;x
+2514;83;130;62;2514;x
+2515;83;201;49;2515;x
+2516;234;132;162;2516;x
+2517;139;190;36;2517;x
+2518;27;88;165;2518;x
+2519;187;246;190;2519;x
+2520;223;228;36;2520;x
+2521;155;116;47;2521;x
+2522;177;118;63;2522;x
+2523;112;65;202;2523;x
+2524;145;248;199;2524;x
+2525;4;31;159;2525;x
+2526;31;198;34;2526;x
+2527;123;3;3;Last Astrallah;x
+2528;225;247;226;First Krishan;x
+2529;139;110;46;2529;x
+2530;118;220;237;2530;x
+2531;196;94;64;2531;x
+2532;1;72;76;2532;x
+2533;57;28;109;2533;x
+2534;137;8;120;2534;x
+2535;198;79;30;2535;x
+2536;159;60;30;2536;x
+2537;170;233;26;2537;x
+2538;229;15;162;2538;x
+2539;61;92;11;2539;x
+2540;147;32;47;2540;x
+2541;112;59;10;2541;x
+2542;57;67;174;2542;x
+2543;6;176;43;2543;x
+2544;72;99;246;2544;x
+2545;28;131;191;2545;x
+2546;133;226;148;2546;x
+2547;162;102;228;2547;x
+2548;207;15;194;2548;x
+2549;62;168;169;2549;x
+2550;123;28;208;2550;x
+2551;163;63;222;2551;x
+2552;188;180;56;2552;x
+2553;185;48;225;2553;x
+2554;6;62;198;2554;x
+2555;209;12;132;2555;x
+2556;211;132;250;2556;x
+2557;29;83;51;2557;x
+2558;97;30;27;2558;x
+2559;19;229;48;2559;x
+2560;218;63;224;2560;x
+2561;235;4;63;2561;x
+2562;40;108;110;2562;x
+2563;163;238;103;2563;x
+2564;182;86;47;2564;x
+2565;54;115;119;2565;x
+2566;243;227;167;2566;x
+2567;92;240;203;2567;x
+2568;199;47;141;2568;x
+2569;135;209;242;2569;x
+2570;72;99;6;2570;x
+2571;186;156;196;2571;x
+2572;42;172;147;2572;x
+2573;176;140;219;2573;x
+2574;127;204;59;2574;x
+2575;221;149;87;2575;x
+2576;66;140;152;2576;x
+2577;245;38;148;2577;x
+2578;41;147;216;2578;x
+2579;31;219;137;2579;x
+2580;60;223;57;2580;x
+2581;227;245;59;2581;x
+2582;134;174;5;2582;x
+2583;3;39;255;2583;x
+2584;161;186;108;2584;x
+2585;167;220;55;2585;x
+2586;28;222;93;2586;x
+2587;219;3;51;2587;x
+2588;34;90;155;2588;x
+2589;241;21;46;2589;x
+2590;7;142;52;2590;x
+2591;125;41;220;2591;x
+2592;203;35;95;2592;x
+2593;152;157;47;2593;x
+2594;152;45;236;2594;x
+2595;223;48;173;2595;x
+2596;239;18;145;2596;x
+2597;190;51;100;2597;x
+2598;222;220;232;2598;x
+2599;254;187;49;2599;x
+2600;97;218;96;2600;x
+2601;141;123;155;2601;x
+2602;104;200;248;2602;x
+2603;174;34;49;2603;x
+2604;54;221;8;2604;x
+2605;159;25;57;2605;x
+2606;132;147;64;2606;x
+2607;238;63;56;2607;x
+2608;162;158;102;2608;x
+2609;199;23;61;2609;x
+2610;182;140;117;2610;x
+2611;41;182;183;2611;x
+2612;101;101;94;2612;x
+2613;88;186;178;Last  Krishan;x
+2614;98;31;196;First Kamal;x
+2615;4;72;169;2615;x
+2616;237;154;7;2616;x
+2617;99;37;221;2617;x
+2618;128;225;18;2618;x
+2619;23;92;124;2619;x
+2620;98;199;218;2620;x
+2621;65;192;209;2621;x
+2622;45;126;92;2622;x
+2623;116;40;82;2623;x
+2624;183;242;59;2624;x
+2625;230;166;100;2625;x
+2626;247;236;11;2626;x
+2627;6;226;182;2627;x
+2628;61;218;203;2628;x
+2629;105;21;225;2629;x
+2630;204;125;71;2630;x
+2631;211;69;216;2631;x
+2632;213;123;25;2632;x
+2633;191;90;230;2633;x
+2634;147;248;159;2634;x
+2635;173;77;10;2635;x
+2636;238;174;141;2636;x
+2637;45;18;6;2637;x
+2638;19;90;179;2638;x
+2639;101;208;247;2639;x
+2640;165;91;124;2640;x
+2641;179;124;136;2641;x
+2642;185;105;17;2642;x
+2643;87;68;139;2643;x
+2644;71;217;175;2644;x
+2645;151;232;181;2645;x
+2646;250;252;246;2646;x
+2647;39;53;134;2647;x
+2648;241;243;118;2648;x
+2649;174;57;160;2649;x
+2650;238;55;245;2650;x
+2651;1;146;79;2651;x
+2652;221;219;126;2652;x
+2653;218;35;116;2653;x
+2654;169;76;33;2654;x
+2655;104;31;50;2655;x
+2656;224;136;187;2656;x
+2657;89;215;39;2657;x
+2658;227;242;113;2658;x
+2659;101;62;97;2659;x
+2660;74;240;180;2660;x
+2661;39;35;71;2661;x
+2662;165;173;31;2662;x
+2663;29;22;193;2663;x
+2664;71;44;92;2664;x
+2665;186;28;254;2665;x
+2666;242;137;249;2666;x
+2667;165;65;7;2667;x
+2668;148;15;146;2668;x
+2669;49;81;150;2669;x
+2670;81;122;51;2670;x
+2671;251;5;88;2671;x
+2672;216;184;73;2672;x
+2673;114;194;51;2673;x
+2674;63;57;120;2674;x
+2675;181;138;126;2675;x
+2676;20;32;182;2676;x
+2677;55;85;198;2677;x
+2678;221;55;68;2678;x
+2679;207;52;52;2679;x
+2680;113;82;110;2680;x
+2681;152;253;236;2681;x
+2682;177;200;200;2682;x
+2683;70;105;250;2683;x
+2684;162;17;82;2684;x
+2685;126;247;183;2685;x
+2686;176;237;83;2686;x
+2687;185;115;179;2687;x
+2688;172;107;110;2688;x
+2689;150;246;113;2689;x
+2690;186;113;49;2690;x
+2691;172;113;139;2691;x
+2692;222;28;123;2692;x
+2693;52;136;92;2693;x
+2694;188;254;241;2694;x
+2695;67;166;187;2695;x
+2696;209;82;135;2696;x
+2697;152;213;91;2697;x
+2698;188;99;32;2698;x
+2699;228;235;137;2699;x
+2700;9;227;17;2700;x
+2701;213;3;227;2701;x
+2702;151;51;243;2702;x
+2703;234;213;139;2703;x
+2704;38;72;57;2704;x
+2705;150;223;102;2705;x
+2706;158;242;19;2706;x
+2707;56;73;33;2707;x
+2708;66;220;71;2708;x
+2709;172;217;122;2709;x
+2710;225;88;41;2710;x
+2711;180;243;178;2711;x
+2712;14;20;162;2712;x
+2713;83;37;147;2713;x
+2714;199;145;200;2714;x
+2715;238;143;178;2715;x
+2716;191;191;166;2716;x
+2717;206;250;51;2717;x
+2718;149;144;242;2718;x
+2719;123;122;185;2719;x
+2720;97;160;244;2720;x
+2721;9;105;235;2721;x
+2722;161;197;205;2722;x
+2723;214;92;126;2723;x
+2724;21;243;194;2724;x
+2725;11;19;194;2725;x
+2726;62;204;246;2726;x
+2727;205;18;238;2727;x
+2728;197;127;80;2728;x
+2729;101;89;130;2729;x
+2730;161;41;165;2730;x
+2731;137;62;185;2731;x
+2732;61;183;80;2732;x
+2733;176;16;227;2733;x
+2734;97;133;18;last Kamal;x
+2735;226;226;129;First onkey isles;x
+2736;196;228;35;2736;x
+2737;131;189;94;2737;x
+2738;5;67;216;2738;x
+2739;118;152;0;2739;x
+2740;111;50;125;2740;x
+2741;98;182;198;2741;x
+2742;186;213;110;2742;x
+2743;126;16;53;2743;x
+2744;109;165;112;2744;x
+2745;210;36;187;2745;x
+2746;89;33;185;2746;x
+2747;225;88;133;2747;x
+2748;25;1;65;2748;x
+2749;97;141;84;2749;x
+2750;148;41;32;2750;x
+2751;243;229;245;2751;x
+2752;176;241;32;2752;x
+2753;114;246;68;2753;x
+2754;103;52;54;2754;x
+2755;1;162;191;2755;x
+2756;87;93;179;2756;x
+2757;55;38;22;2757;x
+2758;177;224;224;2758;x
+2759;247;115;188;2759;x
+2760;172;126;21;2760;x
+2761;227;168;169;2761;x
+2762;61;32;67;2762;x
+2763;40;172;189;2763;x
+2764;32;61;32;2764;x
+2765;222;147;129;2765;x
+2766;65;183;234;2766;x
+2767;78;29;10;2767;x
+2768;219;98;43;2768;x
+2769;152;216;67;2769;x
+2770;110;121;91;2770;x
+2771;149;90;14;2771;x
+2772;215;75;86;2772;x
+2773;216;191;35;2773;x
+2774;52;220;111;2774;x
+2775;200;22;215;2775;x
+2776;120;111;109;2776;x
+2777;240;170;94;2777;x
+2778;223;211;70;2778;x
+2779;183;73;215;2779;x
+2780;230;175;101;2780;x
+2781;152;193;182;2781;x
+2782;3;106;141;2782;x
+2783;39;31;25;2783;x
+2784;153;144;193;2784;x
+2785;57;147;85;2785;x
+2786;41;75;145;2786;x
+2787;33;2;41;2787;x
+2788;140;32;21;2788;x
+2789;231;14;23;2789;x
+2790;122;151;121;2790;x
+2791;161;178;194;2791;x
+2792;26;136;10;2792;x
+2793;8;238;29;2793;x
+2794;132;181;127;2794;x
+2795;133;72;144;2795;x
+2796;108;17;65;2796;x
+2797;228;82;154;2797;x
+2798;249;71;148;2798;x
+2799;14;207;118;2799;x
+2800;66;84;102;2800;x
+2801;177;11;241;2801;x
+2802;28;125;17;2802;x
+2803;183;70;16;2803;x
+2804;212;108;141;2804;x
+2805;88;83;140;2805;x
+2806;3;221;77;2806;x
+2807;248;42;171;2807;x
+2808;121;165;152;2808;x
+2809;166;193;44;2809;x
+2810;210;135;180;2810;x
+2811;58;9;65;2811;x
+2812;159;11;147;2812;x
+2813;16;11;110;2813;x
+2814;158;4;140;2814;x
+2815;132;41;164;2815;x
+2816;87;133;179;2816;x
+2817;119;132;219;2817;x
+2818;53;168;15;2818;x
+2819;228;177;184;2819;x
+2820;189;175;214;2820;x
+2821;177;130;145;2821;x
+2822;74;105;31;2822;x
+2823;165;166;85;2823;x
+2824;163;47;219;2824;x
+2825;117;86;201;2825;x
+2826;250;223;109;2826;x
+2827;97;225;203;2827;x
+2828;75;104;216;2828;x
+2829;191;234;11;2829;x
+2830;204;106;140;2830;x
+2831;241;92;28;2831;x
+2832;59;149;47;2832;x
+2833;250;6;9;2833;x
+2834;181;174;135;2834;x
+2835;48;154;107;2835;x
+2836;184;118;112;2836;x
+2837;42;167;4;2837;x
+2838;217;216;194;2838;x
+2839;51;140;48;2839;x
+2840;57;44;155;2840;x
+2841;218;175;137;2841;x
+2842;135;25;222;2842;x
+2843;1;162;191;2843;x
+2844;180;213;175;2844;x
+2845;126;130;140;2845;x
+2846;247;242;4;2846;x
+2847;20;31;146;2847;x
+2848;168;37;32;2848;x
+2849;120;152;251;2849;x
+2850;78;168;138;2850;x
+2851;250;71;98;2851;x
+2852;112;229;41;2852;x
+2853;46;202;181;2853;x
+2854;205;119;160;2854;x
+2855;93;161;148;2855;x
+2856;111;57;204;2856;x
+2857;225;99;213;2857;x
+2858;64;113;213;2858;x
+2859;179;226;48;2859;x
+2860;97;124;248;2860;x
+2861;245;68;200;2861;x
+2862;153;61;14;2862;x
+2863;226;76;53;2863;x
+2864;187;12;250;2864;x
+2865;177;209;209;2865;x
+2866;12;65;22;2866;x
+2867;110;106;82;2867;x
+2868;176;250;250;2868;x
+2869;234;76;46;2869;x
+2870;252;167;212;2870;x
+2871;178;20;248;2871;x
+2872;52;22;1;2872;x
+2873;35;53;11;2873;x
+2874;164;146;101;2874;x
+2875;133;7;89;2875;x
+2876;163;11;13;2876;x
+2877;44;28;58;2877;x
+2878;168;111;190;2878;x
+2879;23;102;155;2879;x
+2880;215;155;127;2880;x
+2881;41;157;64;2881;x
+2882;117;7;139;2882;x
+2883;153;103;185;2883;x
+2884;125;162;217;2884;x
+2885;16;145;136;2885;x
+2886;18;199;22;2886;x
+2887;207;112;89;2887;x
+2888;102;90;17;2888;x
+2889;238;35;111;2889;x
+2890;253;33;73;2890;x
+2891;30;78;97;2891;x
+2892;40;11;47;2892;x
+2893;23;107;243;2893;x
+2894;99;202;226;2894;x
+2895;91;86;134;2895;x
+2896;179;91;178;2896;x
+2897;228;219;167;2897;x
+2898;116;104;109;2898;x
+2899;183;197;249;2899;x
+2900;22;91;46;2900;x
+2901;234;40;94;2901;x
+2902;50;153;130;2902;x
+2903;175;237;144;2903;x
+2904;178;151;151;2904;x
+2905;238;135;87;2905;x
+2906;84;180;205;2906;x
+2907;165;24;208;2907;x
+2908;55;216;99;2908;x
+2909;183;204;212;2909;x
+2910;202;205;251;2910;x
+2911;234;206;141;2911;x
+2912;214;21;75;2912;x
+2913;80;16;173;2913;x
+2914;241;48;206;2914;x
+2915;212;11;126;2915;x
+2916;100;35;192;2916;x
+2917;10;81;236;2917;x
+2918;55;34;181;2918;x
+2919;92;68;76;2919;x
+2920;8;117;212;2920;x
+2921;122;101;41;2921;x
+2922;130;173;168;2922;x
+2923;79;156;121;2923;x
+2924;12;151;55;2924;x
+2925;245;174;78;2925;x
+2926;117;121;66;2926;x
+2927;128;201;252;2927;x
+2928;44;123;81;2928;x
+2929;198;51;24;2929;x
+2930;29;53;213;2930;x
+2931;81;184;53;2931;x
+2932;106;32;247;2932;x
+2933;217;213;87;2933;x
+2934;138;214;72;2934;x
+2935;102;207;107;2935;x
+2936;122;226;133;2936;x
+2937;147;70;115;2937;x
+2938;138;118;86;2938;x
+2939;39;149;254;2939;x
+2940;14;218;85;2940;x
+2941;203;52;113;2941;x
+2942;171;221;208;2942;x
+2943;224;199;250;2943;x
+2944;185;213;227;2944;x
+2945;166;51;15;2945;x
+2946;10;247;129;2946;x
+2947;239;6;227;2947;x
+2948;121;110;168;2948;x
+2949;48;120;11;2949;x
+2950;190;138;65;2950;x
+2951;150;13;73;2951;x
+2952;135;24;96;2952;x
+2953;102;20;112;2953;x
+2954;94;18;163;2954;x
+2955;219;244;111;2955;x
+2956;78;78;38;2956;x
+2957;146;94;107;2957;x
+2958;168;203;220;2958;x
+2959;153;237;21;2959;x
+2960;130;13;207;2960;x
+2961;95;88;224;2961;x
+2962;2;83;154;2962;x
+2963;175;88;49;2963;x
+2964;164;84;95;2964;x
+2965;116;175;38;2965;x
+2966;132;184;147;2966;x
+2967;89;221;93;2967;x
+2968;156;222;231;2968;x
+2969;107;187;216;2969;x
+2970;20;129;243;2970;x
+2971;30;93;41;2971;x
+2972;3;128;89;2972;x
+2973;197;99;238;2973;x
+2974;79;148;120;2974;x
+2975;116;237;76;2975;x
+2976;93;96;96;2976;x
+2977;206;240;110;2977;x
+2978;91;110;210;2978;x
+2979;40;78;79;2979;x
+2980;88;145;156;2980;x
+2981;222;2;57;2981;x
+2982;51;203;52;2982;x
+2983;167;255;241;2983;x
+2984;111;49;157;2984;x
+2985;126;138;159;2985;x
+2986;225;253;20;2986;x
+2987;69;43;244;2987;x
+2988;181;158;55;2988;x
+2989;52;80;168;2989;x
+2990;254;161;70;2990;x
+2991;235;242;138;2991;x
+2992;42;32;51;2992;x
+2993;197;210;126;2993;x
+2994;91;169;247;2994;x
+2995;101;177;114;2995;x
+2996;48;251;106;2996;x
+2997;210;118;24;2997;x
+2998;250;226;232;2998;x
+2999;137;233;64;2999;x
+3000;179;60;90;Last monkey Isles;x
+3001;48;48;48;Atmora;x
+3002;49;49;49;Mount Anthor;x
+3003;50;50;50;Shearpoint;x
+3004;51;51;51;Eldersblood Peak;x
+3005;52;52;52;Bleak Falls Mountains;x
+3006;53,53,53;Throat of the World;x;;
+3007;54;54;54;Western Jerall Mountains;x
+3008;55,55,55;Eastern Jerall Mountains;x;;
+3009;56;56;56;Velothi Mountains;x
+3010;57;57;57;North Cheydnal Mountains;x
+3011;58;58;58;South Cheydnal Mountains;
+3012;59;59;59;North Valus Mountains;x
+3013;60;60;60;South Valus Mountains;x
+3014;61;61;61;Murkmire;x
+3015;62;62;62;Red Mountain;x
+3016;63;63;63;Northern Highlands;x
+3017;64;64;64;Southern Highlands;x
+3018;65;65;65;Corten Mont;x
+3019;66;66;66;Alikir Desert;x
+3020;67;67;67;West Dragontail Mountains;x
+3021;68;68;68;East Dragontail Mountains;x
+3022;69;69;69;Drudach Mountains;x
+3023;70;70;70;Stornhelm Mountains;x
+3024;71;71;71;Daggerfall Mountains;x
+3025;72;72;72;Kazmiral;x
+3026;73;73;73;Zorthruman;x
+3027;74;74;74;Aquanian Desert;x
+3028;75;75;75;Mazkrunud;x
+3029;76;76;76;Kaznamar;x
+3030;77;77;77;Groz-Norum;x
+3031;78;78;78;Krass Mirtul;x
+3032;79;79;79;Malsakrah;x
+3033;80;80;80;Dead Coast;x
+3034;81;81;81;Drasaphar;x
+3035;82;82;82;Septhras Mountains;x
+3036;83;83;83;Eastern Grey Mountains;x
+3037;84;84;84;Central Grey Mountains;x
+3038;85;85;85;Western Grey Mountains;x
+3039;86;86;86;North Hijim Mountains;x
+3039;87;87;87;South Hijim Mountains;x
+3040;88;88;88;Mount Lamhi;x
+3041;89;89;89;Honlam Mountains;x
+3042;90;90;90;North Korzaad;x
+3043;91;91;91;South Korzaad;x
+3044;92;92;92;Mizidir Wastes;x
+3045;93;93;93;Kastrav Mountains;x
+3046;94;94;94;Peadonay Mountains;x
+3047;133;107;126;Vinedusk;x
+3048;233;189;16;Marbuk Field;x
+3049;211;38;149;Wonderrush (M);x
+3050;10;70;95;Marbuk;x
+3051;60;250;14;Barkbite Stronghold;x
+3052;231;220;32;Meadow Run;x
+3053;193;255;88;Marathorin;x
+3054;8;3;95;Reman's Bluff;x
+3055;137;92;16;Moonmont;x
+3056;11;129;217;Lynpan March;x
+3057;149;127;210;Fort Crowfeather;x
+#The Far Sea;;;;;
+3058;30;179;182;FIRST OCEAN;x
+3059;58;92;184;3059;x
+3060;39;141;218;3060;x
+3061;40;128;235;3061;x
+3062;28;148;207;3062;x
+3063;21;85;131;3063;x
+3064;78;157;142;3064;x
+3065;22;169;207;3065;x
+3066;57;169;183;3066;x
+3067;33;109;232;3067;x
+3068;86;87;159;3068;x
+3069;25;193;121;3069;x
+3070;86;117;188;3070;x
+3071;68;148;189;3071;x
+3072;65;100;229;3072;x
+3073;54;119;185;3073;x
+3074;23;150;221;3074;x
+3075;89;152;176;3075;x
+3076;133;183;112;3076;x
+3077;82;155;111;3077;x
+3078;75;191;229;3078;x
+3079;133;88;223;3079;x
+3080;83;83;156;3080;x
+3081;64;147;126;3081;x
+3082;53;118;161;3082;x
+3083;73;141;135;3083;x
+3084;28;183;185;3084;x
+3085;124;92;184;3085;x
+3086;132;154;126;3086;x
+3087;116;78;110;3087;x
+3088;99;151;221;3088;x
+3089;37;182;221;3089;x
+3090;57;141;202;3090;x
+3091;102;75;159;3091;x
+3092;106;105;113;3092;x
+3093;137;184;171;3093;x
+3094;40;132;196;3094;x
+3095;102;144;185;3095;x
+3096;139;70;207;3096;x
+3097;132;107;160;3097;x
+3098;118;171;157;3098;x
+3099;134;181;136;3099;x
+3100;45;149;135;3100;x
+3101;115;83;199;3101;x
+3102;43;191;184;3102;x
+3103;89;99;155;3103;x
+3104;91;104;176;3104;x
+3105;17;79;179;3105;x
+3106;114;167;228;3106;x
+3107;22;183;188;3107;x
+3108;107;158;180;3108;x
+3109;91;117;147;3109;x
+3110;16;117;125;3110;x
+3111;55;84;127;3111;x
+3112;90;129;111;3112;x
+3113;54;132;213;3113;x
+3114;26;88;134;3114;x
+3115;67;141;128;3115;x
+3116;68;166;185;3116;x
+3117;101;188;166;3117;x
+3118;19;137;147;3118;x
+3119;139;95;169;3119;x
+3120;113;110;182;3120;x
+3121;36;89;204;3121;x
+3122;13;113;120;3122;x
+3123;34;91;167;3123;x
+3124;106;85;128;3124;x
+3125;42;180;169;3125;x
+3126;121;135;215;3126;x
+3127;110;154;146;3127;x
+3128;79;85;150;3128;x
+3129;100;101;216;3129;x
+3130;49;148;191;3130;x
+3131;124;146;186;3131;x
+3132;111;153;231;3132;x
+3133;123;109;211;3133;x
+3134;131;154;159;3134;x
+3135;66;191;218;3135;x
+3136;44;93;161;3136;x
+3137;118;163;237;3137;x
+3138;120;171;160;3138;x
+3139;99;115;120;3139;x
+3140;63;192;174;3140;x
+3141;54;125;113;3141;x
+3142;133;135;207;3142;x
+3143;111;135;187;3143;x
+3144;65;88;179;3144;x
+3145;59;78;143;3145;x
+3146;49;96;151;3146;x
+3147;96;188;126;3147;x
+3148;52;163;156;3148;x
+3149;61;135;198;3149;x
+3150;25;154;123;3150;x
+3151;139;137;207;3151;x
+3152;63;98;172;3152;x
+3153;97;165;209;3153;x
+3154;17;170;182;3154;x
+3155;16;104;232;3155;x
+3156;53;92;168;3156;x
+3157;69;194;138;3157;x
+3158;80;104;226;3158;x
+3159;43;161;219;3159;x
+3160;38;108;235;3160;x
+3161;73;164;175;3161;x
+3162;129;89;174;3162;x
+3163;99;80;216;3163;x
+3164;111;122;154;3164;x
+3165;57;185;159;3165;x
+3166;18;125;174;3166;x
+3167;37;161;237;3167;x
+3168;26;141;126;3168;x
+3169;126;110;146;3169;x
+3170;82;79;124;3170;x
+3171;98;176;128;3171;x
+3172;45;144;148;3172;x
+3173;81;74;148;3173;x
+3174;97;164;234;3174;x
+3175;103;143;119;3175;x
+3176;19;190;193;3176;x
+3177;14;74;181;3177;x
+3178;31;139;145;3178;x
+3179;125;80;203;3179;x
+3180;134;109;131;3180;x
+3181;19;181;114;3181;x
+3182;75;91;123;3182;x
+3183;123;144;132;3183;x
+3184;30;89;146;3184;x
+3185;61;153;219;3185;x
+3186;57;163;222;3186;x
+3187;137;88;120;3187;x
+3188;140;155;219;3188;x
+3189;124;159;155;3189;x
+3190;85;167;206;3190;x
+3191;127;192;218;3191;x
+3192;115;90;213;3192;x
+3193;27;179;211;3193;x
+3194;138;101;221;3194;x
+3195;119;124;183;3195;x
+3196;79;192;181;3196;x
+3197;113;164;198;3197;x
+3198;36;141;212;3198;x
+3199;102;125;189;3199;x
+3200;58;132;214;3200;x
+3201;16;151;113;3201;x
+3202;105;122;197;3202;x
+3203;22;150;228;3203;x
+3204;125;113;183;3204;x
+3205;96;127;194;3205;x
+3206;35;99;145;3206;x
+3207;17;78;172;3207;x
+3208;123;86;159;3208;x
+3209;22;145;121;3209;x
+3210;81;80;135;3210;x
+3211;125;99;135;3211;x
+3212;41;150;175;3212;x
+3213;108;134;116;3213;x
+3214;16;96;123;3214;x
+3215;99;161;210;3215;x
+3216;84;161;234;3216;x
+3217;21;77;237;3217;x
+3218;71;193;217;3218;x
+3219;70;120;140;3219;x
+3220;36;132;118;3220;x
+3221;66;157;122;3221;x
+3222;135;183;178;3222;x
+3223;67;166;180;3223;x
+3224;36;163;183;Blacklight Bay;x
+3225;106;184;217;3225;x
+3226;52;134;204;3226;x
+3227;31;110;149;3227;x
+3228;129;104;177;3228;x
+3229;29;133;188;3229;x
+3230;20;159;186;3230;x
+3231;34;123;173;3231;x
+3232;74;109;205;3232;x
+3233;69;117;200;3233;x
+3234;85;161;143;3234;x
+3235;130;124;187;3235;x
+3236;28;126;208;3236;x
+3237;96;69;115;3237;x
+3238;119;185;232;3238;x
+3239;81;106;117;3239;x
+3240;121;181;132;3240;x
+3241;115;135;210;3241;x
+3242;114;77;110;3242;x
+3243;78;99;232;3243;x
+3244;29;171;232;3244;x
+3245;91;174;224;3245;x
+3246;37;92;227;3246;x
+3247;90;122;208;3247;x
+3248;129;177;171;3248;x
+3249;22;91;161;3249;x
+3250;80;169;114;3250;x
+3251;64;135;120;3251;x
+3252;75;191;129;3252;x
+3253;27;183;227;3253;x
+3254;78;147;222;3254;x
+3255;32;128;129;3255;x
+3256;98;168;198;3256;x
+3257;26;75;222;3257;x
+3258;57;144;194;3258;x
+3259;84;89;173;3259;x
+3260;124;95;161;3260;x
+3261;53;98;171;3261;x
+3262;125;90;221;3262;x
+3263;44;173;200;3263;x
+3264;23;123;150;3264;x
+3265;85;95;121;3265;x
+3266;113;81;229;3266;x
+3267;91;191;157;3267;x
+3268;85;150;192;3268;x
+3269;99;107;179;3269;x
+3270;99;178;198;3270;x
+3271;107;84;184;3271;x
+3272;75;180;128;3272;x
+3273;77;183;181;3273;x
+3274;65;80;183;3274;x
+3275;45;158;124;3275;x
+3276;37;180;222;3276;x
+3277;121;128;166;3277;x
+3278;87;80;228;3278;x
+3279;46;105;196;3279;x
+3280;14;68;134;3280;x
+3281;61;153;206;3281;x
+3282;35;174;159;3282;x
+3283;83;94;172;3283;x
+3284;78;184;184;3284;x
+3285;79;96;172;3285;x
+3286;77;89;224;3286;x
+3287;134;89;223;3287;x
+3288;25;117;212;3288;x
+3289;84;135;206;3289;x
+3290;34;182;205;3290;x
+3291;47;152;192;3291;x
+3292;70;80;150;3292;x
+3293;116;81;172;3293;x
+3294;134;180;188;3294;x
+3295;131;172;149;3295;x
+3296;46;185;172;3296;x
+3297;38;109;114;3297;x
+3298;47;179;224;3298;x
+3299;123;87;173;3299;x
+3300;85;140;199;3300;x
+3301;80;79;176;3301;x
+3302;110;132;114;3302;x
+3303;96;104;156;3303;x
+3304;23;100;124;3304;x
+3305;68;68;128;3305;x
+3306;76;166;120;3306;x
+3307;123;193;185;3307;x
+3308;118;127;191;3308;x
+3309;103;141;123;3309;x
+3310;22;111;165;3310;x
+3311;55;107;236;3311;x
+3312;99;71;112;3312;x
+3313;15;127;114;3313;x
+3314;73;110;179;3314;x
+3315;26;101;114;3315;x
+3316;71;114;114;3316;x
+3317;116;80;124;3317;x
+3318;51;106;196;3318;x
+3319;107;136;219;3319;x
+3320;88;75;152;3320;x
+3321;105;190;176;3321;x
+3322;28;146;197;3322;x
+3323;19;170;163;3323;x
+3324;133;142;200;3324;x
+3325;42;101;224;3325;x
+3326;46;166;205;3326;x
+3327;132;141;148;3327;x
+3328;130;76;171;3328;x
+3329;80;117;196;3329;x
+3330;21;87;165;3330;x
+3331;121;157;118;3331;x
+3332;89;150;223;3332;x
+3333;28;181;186;3333;x
+3334;102;121;140;3334;x
+3335;119;151;237;3335;x
+3336;45;158;189;3336;x
+3337;109;82;148;3337;x
+3338;23;117;153;3338;x
+3339;35;75;224;3339;x
+3340;108;177;190;3340;x
+3341;88;193;147;3341;x
+3342;124;87;162;3342;x
+3343;94;156;170;3343;x
+3344;104;153;232;3344;x
+3345;65;125;230;3345;x
+3346;89;155;217;3346;x
+3347;132;138;185;3347;x
+3348;22;123;132;3348;x
+3349;54;191;188;3349;x
+3350;88;123;122;3350;x
+3351;124;174;228;3351;x
+3352;104;82;165;3352;x
+3353;95;91;203;3353;x
+3354;70;110;202;3354;x
+3355;63;108;122;3355;x
+3356;131;133;162;3356;x
+3357;28;109;133;3357;x
+3358;100;189;126;3358;x
+3359;32;100;209;3359;x
+3360;87;192;209;3360;x
+3361;37;127;170;3361;x
+3362;72;159;117;3362;x
+3363;104;72;179;3363;x
+3364;66;92;230;3364;x
+3365;118;155;190;3365;x
+3366;60;80;113;3366;x
+3367;111;136;163;3367;x
+3368;18;67;171;3368;x
+3369;88;141;135;3363;x
+3370;86;183;226;3370;x
+3371;54;154;211;3371;x
+3372;13;108;161;3372;x
+3373;130;149;139;3373;x
+3374;81;86;152;3374;x
+3375;83;87;129;3375;x
+3376;60;81;209;3376;x
+3377;135;178;232;3377;x
+3378;70;188;197;3378;x
+3379;90;105;177;3379;x
+3380;53;100;181;3380;x
+3381;58;101;192;3381;x
+3382;79;107;227;3382;x
+3383;48;180;142;3383;x
+3384;29;163;230;3384;x
+3385;91;165;186;3385;x
+3386;56;115;160;3386;x
+3387;49;168;183;3387;x
+3388;80;99;132;3388;x
+3389;68;125;169;3389;x
+3390;30;172;224;3390;x
+3391;64;169;195;3391;x
+3392;22;138;132;3392;x
+3393;26;160;162;3393;x
+3394;71;176;158;3394;x
+3395;59;147;159;3395;x
+3396;15;132;221;3396;x
+3397;124;86;219;3397;x
+3398;104;180;181;3398;x
+3399;106;122;217;3399;x
+3400;106;126;169;3400;x
+3401;114;69;227;3401;x
+3402;100;134;221;3402;x
+3403;110;121;188;3403;x
+3404;59;154;148;3404;x
+3405;39;171;160;3405;x
+3406;72;156;168;3406;x
+3407;55;91;222;3407;x
+3408;23;162;190;3408;x
+3409;57;154;204;3409;x
+3410;132;141;160;3410;x
+3411;31;72;195;3411;x
+3412;136;123;228;3412;x
+3413;103;123;153;3413;x
+3414;84;144;191;3414;x
+3415;37;154;174;3415;x
+3416;123;141;163;3416;x
+3417;84;119;151;3417;x
+3418;13;145;131;3418;x
+3419;66;142;144;3419;x
+3420;84;171;209;3420;x
+3421;41;144;185;3421;x
+3422;24;94;132;3422;x
+3423;113;182;125;3423;x
+3424;130;90;167;3424;x
+3425;27;126;223;3425;x
+3426;44;173;200;3426;x
+3427;125;90;221;3427;x
+3428;16;180;136;3428;x
+3429;31;151;157;3429;x
+3430;101;140;175;3430;x
+3431;22;156;180;3431;x
+3432;122;103;130;3432;x
+3433;37;174;164;3433;x
+3434;77;135;159;3434;x
+3435;91;146;114;3435;x
+3436;35;189;210;3436;x
+3437;23;168;112;3437;x
+3438;104;119;118;3438;x
+3439;26;103;176;3439;x
+3440;127;73;181;3440;x
+3441;110;186;194;3441;x
+3442;102;192;142;3442;x
+3443;110;165;237;3443;x
+3444;23;94;143;3444;x
+3445;35;128;196;3445;x
+3446;41;170;153;3446;x
+3447;40;78;209;3447;x
+3448;115;113;135;3448;x
+3449;17;171;217;3449;x
+3450;55;86;140;3450;x
+3451;77;109;154;3451;x
+3452;118;182;231;3452;x
+3453;114;188;173;3453;x
+3454;92;73;137;3454;x
+3455;58;89;190;3455;x
+3456;108;152;134;3456;x
+3457;43;186;128;3457;x
+3458;137;108;183;3458;x
+3459;94;84;210;3459;x
+3460;56;164;167;3460;x
+3461;26;141;151;4461;x
+3462;23;78;111;3462;x
+3463;74;173;117;3463;x
+3464;77;115;195;3464;x
+3465;103;104;184;3465;x
+3466;57;110;143;3466;x
+3467;86;137;166;3467;x
+3468;131;133;143;3468;x
+3469;113;186;233;3469;x
+3470;59;180;131;3470;x
+3471;27;116;198;3471;x
+3472;60;164;224;3472;x
+3473;97;88;217;3473;x
+3474;30;184;191;3474;x
+3475;96;102;215;3475;x
+3476;75;139;151;3476;x
+3477;21;75;232;3477;x
+3478;134;168;188;3478;x
+3479;68;124;201;3479;x
+3480;108;93;170;3480;x
+3481;27;165;119;3481;x
+3482;49;147;222;3482;x
+3483;82;107;180;3483;x
+3484;74;154;208;3484;x
+3485;29;131;195;3485;x
+3486;46;105;187;3486;x
+3487;23;129;228;3487;x
+3488;55;135;182;3488;x
+3489;25;131;177;3489;x
+3490;42;148;209;3490;x
+3491;22;120;221;3492;x
+3492;76;105;193;3492;x
+3493;26;125;204;3493;x
+3494;52;157;183;3494;x
+3495;50;128;191;3495;x
+3496;59;105;192;3496;x
+3497;27;101;197;3497;x
+3498;62;107;199;3498;x
+3499;21;152;216;3499;x
+3500;22;117;189;3500;x
+3501;52;159;199;3501;x
+3502;45;158;227;3502;x
+3503;74;104;191;3503;x
+3504;71;145;220;3504;x
+3505;32;107;206;3505;x
+3506;50;153;211;3506;x
+3507;19;101;165;3507;x
+3508;63;164;198;3508;x
+3509;27;141;214;3509;x
+3510;45;147;197;3510;x
+3511;79;139;217;3511;x
+3512;69;103;183;3512;x
+3513;37;149;198;3513;x
+3514;63;143;210;3514;x
+3515;47;151;171;3515;x
+3516;29;104;213;3516;x
+3517;33;123;181;3517;x
+3518;30;116;208;3518;x
+3519;73;164;178;3519;x
+3520;103;106;209;3520;x
+3521;47;138;193;3521;x
+3522;63;125;220;3522;x
+3523;77;158;214;3523;x
+3524;25;140;219;3524;x
+3525;56;155;211;3525;x
+3526;70;141;208;3526;x
+3527;72;140;209;3527;x
+3528;29;106;194;3528;x
+3529;64;159;166;3529;x
+3530;79;140;168;3530;x
+3531;82;103;224;3531;x
+3532;72;152;202;3532;x
+3533;26;125;219;3533;x
+3534;55;109;174;3534;x
+3535;28;155;181;3535;x
+3536;69;107;216;3536;x
+3537;66;144;227;3537;x
+3538;43;131;208;3538;x
+3539;45;131;227;3539;x
+3540;41;122;186;3540;x
+3541;76;147;206;3541;x
+3542;67;144;177;3542;x
+3543;38;156;197;3543;x
+3544;59;112;218;3544;x
+3545;38;133;189;3545;x
+3546;40;157;221;3546;x
+3547;44;144;210;3547;x
+3548;66;145;173;3548;x
+3549;77;148;214;3549;x
+3550;60;121;167;3550;x
+3551;38;153;217;3551;x
+3552;30;140;156;3552;x
+3553;61;186;231;3553;x
+3554;127;103;180;3554;x
+3555;106;131;121;3555;x
+3556;49;67;164;3556;x
+3557;14;107;188;3557;x
+3558;28;158;213;3558;x
+3559;13;67;110;3559;x
+3560;63;71;171;3560;x
+3561;93;150;220;3561;x
+3562;60;106;177;3562;x
+3563;120;166;234;3569;x
+3564;108;70;234;3564;x
+3565;47;191;178;3565;x
+3566;72;122;234;3566;x
+3567;130;118;182;3567;x
+3568;19;128;220;3568;x
+3569;93;115;186;3569;x
+3570;57;109;176;3570;x
+3571;122;79;121;3571;x
+3572;118;126;177;3572;x
+3573;133;83;122;3573;x
+3574;82;142;214;3574;x
+3575;17;180;231;3575;x
+3576;126;129;191;3576;x
+3577;84;176;149;3577;x
+3578;131;169;118;3578;x
+3579;63;123;189;3579;x
+3580;62;90;213;3580;x
+3581;85;166;183;3581;x
+3582;65;94;155;3582;x
+3583;82;130;143;3583;x
+3584;24;80;125;3584;x
+3585;54;160;163;3585;x
+3586;116;120;175;3586;x
+3587;96;151;143;3587;x
+3588;102;180;228;3588;x
+3589;59;97;134;3589;x
+3590;16;95;208;3590;x
+3591;102;78;161;3591;x
+3592;44;165;176;3592;x
+3593;27;173;140;3593;x
+3594;102;75;116;3594;x
+3595;116;187;223;3595;x
+3596;31;79;145;3596;x
+3597;27;193;191;3597;x
+3598;102;185;121;3598;x
+3599;41;152;133;3599;x
+3600;30;87;148;3600;x
+3601;60;80;131;3601;x
+3602;23;134;178;3602;x
+3603;54;182;185;3603;x
+3604;62;96;201;3604;x
+3605;33;82;177;3605;x
+3606;44;188;207;3606;x
+3607;27;172;206;3607;x
+3608;131;68;209;3608;x
+3609;110;70;204;3609;x
+3610;71;108;152;3610;x
+3611;102;128;224;3611;x
+3612;139;101;228;3612;x
+3613;37;159;160;3613;x
+3614;68;130;217;3614;x
+3615;111;129;204;3615;x
+3616;109;116;193;3616;x
+3617;72;174;126;3617;x
+3618;123;68;157;3618;x
+3619;109;89;219;3619;x
+3620;77;149;126;3620;x
+3621;16;151;140;3621;x
+3622;109;116;193;3622;x
+3623;107;130;155;3623;x
+3624;62;148;172;3624;x
+3625;63;143;158;3625;x
+3626;53;190;230;3626;x
+3627;112;101;194;3627;x
+3628;71;151;146;3628;x
+3629;41;191;118;3629;x
+3630;25;8;223;3630;x
+3631;72;160;202;3631;x
+3632;82;69;227;3632;x
+3633;110;96;165;3633;x
+3634;53;175;192;3634;x
+3635;36;161;233;3635;x
+3636;62;160;117;3636;x
+3637;78;166;179;3637;x
+3638;15;152;155;3638;x
+3639;42;189;211;3639;x
+3640;89;122;125;3640;x
+3641;91;151;133;3641;x
+3642;91;126;135;3642;x
+3643;103;95;173;3643;x
+3644;135;99;114;3644;x
+3645;21;163;169;3645;x
+3646;127;88;133;3646;x
+3647;64;135;191;3647;x
+3648;103;150;205;3648;x
+3649;128;114;228;3649;x
+3650;55;118;207;3650;x
+3651;133;110;213;3651;x
+3652;121;106;182;3652;x
+3653;122;104;183;3653;x
+3654;92;115;173;3654;x
+3655;38;143;121;3655;x
+3656;113;103;153;3656;x
+3657;122;100;191;3657;x
+3658;54;96;143;3658;x
+3659;43;76;169;3659;x
+3660;103;93;200;3660;x
+3661;94;143;214;3661;x
+3662;74;83;199;3662;x
+3663;98;115;219;3663;x
+3664;25;135;113;3664;x
+3665;69;166;158;3665;x
+3666;13;75;218;3666;x
+3667;48;157;143;3667;x
+3668;23;93;141;3668;x
+3669;90;157;201;3669;x
+3670;63;90;224;3670;x
+3671;124;174;147;3671;x
+3672;134;167;172;3672;x
+3673;23;145;158;3673;x
+3674;48;108;201;3674;x
+3675;77;97;116;3675;x
+3676;16;111;114;3676;x
+3677;96;83;172;3677;x
+3678;125;110;139;3678;x
+3679;76;129;185;3679;x
+3680;58;183;207;3680;x
+3681;48;118;210;3681;x
+3682;124;171;183;3682;x
+3683;29;106;176;3683;x
+3684;78;82;210;3684;x
+3685;125;138;179;3685;x
+3686;107;68;179;3686;x
+3687;80;147;154;3687;x
+3688;101;168;160;3688;x
+3689;86;166;117;3689;x
+3690;61;111;210;3690;x
+3691;109;179;194;3691;x
+3692;91;89;110;3692;x
+3693;40;188;115;3693;x
+3694;32;190;154;3694;x
+3695;39;159;210;3695;x
+3696;132;96;170;3696;x
+3697;25;175;132;3697;x
+3698;90;80;180;3698;x
+3699;136;82;229;3699;x
+3700;47;75;167;3700;x
+3701;61;82;233;3701;x
+3702;80;143;237;3702;x
+3703;126;165;183;3703;x
+3704;19;101;165;3704;x
+3705;119;177;115;3705;x
+3706;109;105;115;3706;x
+3707;74;120;181;3707;x
+3708;15;120;162;3708;x
+3709;42;67;207;3709;x
+3710;132;151;114;3710;x
+3711;14;134;168;3711;x
+3712;140;180;118;3712;x
+3713;124;97;200;3713;x
+3714;136;163;121;3714;x
+3715;44;70;150;3715;x
+3716;86;173;185;3716;x
+3717;22;180;139;3717;x
+3718;26;141;150;3718;x
+3719;95;76;154;3719;x
+3720;99;118;142;3720;x
+3721;108;101;124;3721;x
+3722;52;97;135;3722;x
+3723;117;84;207;3723;x
+3724;42;82;169;3724;x
+3725;61;137;110;3725;x
+3726;140;99;169;3726;x
+3727;73;150;174;3727;x
+3728;91;140;138;3728;x
+3729;67;125;232;3729;x
+3730;40;109;118;3730;x
+3731;131;114;114;3731;x
+3732;71;106;123;3732;x
+3733;112;177;121;3733;x
+3734;87;72;175;3734;x
+3735;47;95;126;3735;x
+3736;49;128;193;3736;x
+3737;17;151;179;3737;x
+3738;26;92;182;3738;x
+3739;21;93;142;3739;x
+3740;34;127;121;3740;x
+3741;120;97;162;3741;x
+3742;105;159;146;3742;x
+3743;45;117;166;3743;x
+3744;71;166;179;3744;x
+3745;44;105;181;3745;x
+3746;63;173;204;3746;x
+3747;53;94;168;3747;x
+3748;75;135;110;3748;x
+3749;48;97;198;3749;x
+3750;18;124;222;3750;x
+3751;118;158;151;3751;x
+3752;17;104;201;3752;x
+3753;23;68;159;3753;x
+3754;60;124;204;3754;x
+3755;38;118;139;3755;x
+3756;90;97;135;3756;x
+3757;24;193;191;3757;x
+3758;46;73;176;3758;x
+3759;44;79;145;3759;x
+3760;98;83;222;3760;x
+3761;122;76;118;3761;x
+3762;98;186;209;3762;x
+3763;117;145;138;3763;x
+3764;97;125;150;3764;x
+3765;68;143;235;3765;x
+3766;84;145;180;3766;x
+3767;81;181;149;3767;x
+3768;39;151;118;3768;x
+3769;97;115;166;3769;x
+3770;47;82;131;3770;x
+3771;132;101;170;3771;x
+3772;44;130;234;3772;x
+3773;37;119;116;3773;x
+3774;79;128;198;3774;x
+3775;40;142;150;3775;x
+3776;111;98;185;3776;x
+3777;124;154;216;3777;x
+3778;111;102;191;3778;x
+3779;91;136;151;3779;x
+3780;52;115;211;3780;x
+3781;108;130;195;3781;x
+3782;45;174;213;3782;x
+3783;55;94;125;3783;x
+3784;26;104;155;3784;x
+3785;111;129;213;3785;x
+3786;24;108;202;3786;x
+3787;90;80;114;3787;x
+3788;16;119;213;3788;x
+3789;45;148;207;3789;x
+3790;121;89;134;3790;x
+3791;36;120;186;3791;x
+3792;53;117;189;3792;x
+3793;45;148;207;3793;x
+3794;87;110;218;3794;x
+3795;77;138;163;3795;x
+3796;90;192;193;3796;x
+3797;94;78;226;3797;x
+3798;15;74;162;3798;x
+3799;64;161;216;3799;x
+3800;101;162;205;3800;x
+3801;101;115;177;3801;x
+3802;115;154;199;3802;x
+3803;95;71;120;3803;x
+3804;23;183;149;3804;x
+3805;71;97;182;3805;x
+3806;37;108;226;3806;x
+3807;70;155;200;3807;x
+3808;91;116;127;3808;x
+3809;26;135;221;3809;x
+3810;36;89;223;3810;x
+3811;35;118;112;3811;x
+3812;47;74;192;3812;x
+3813;76;88;202;3813;x
+3814;45;103;221;3814;x
+3815;72;104;147;3815;x
+3816;95;117;125;3816;x
+3817;64;161;216;3817;x
+3818;99;94;143;3818;x
+3819;77;102;195;3819;x
+3820;35;83;124;3820;x
+3821;118;143;215;3821;x
+3822;125;89;200;3822;x
+3823;58;131;167;3823;x
+3824;78;146;202;3824;x
+3825;37;176;132;3825;x
+3826;72;135;170;3826;x
+3827;16;138;198;3827;x
+3828;54;68;129;3828;x
+3829;25;121;196;3829;x
+3830;89;143;191;3830;x
+3831;92;86;155;3831;x
+3832;40;163;172;3832;x
+3833;24;144;192;3833;x
+3834;73;100;225;3834;x
+3835;94;125;180;3835;x
+3836;52;82;177;3836;x
+3837;65;131;120;3837;x
+3838;28;112;155;3838;x
+3839;47;104;187;3839;x
+3840;72;159;142;3840;x
+3841;54;100;171;3841;x
+3842;91;156;113;3842;x
+3843;103;192;129;3843;x
+3844;18;157;216;3844;x
+3845;103;101;230;3845;x
+3846;64;72;133;3846;x
+3847;15;85;227;3847;x
+3848;134;95;236;3848;x
+3849;74;169;182;3849;x
+3850;29;103;206;3850;x
+3851;132;142;141;3851;x
+3852;80;158;228;3852;x
+3853;26;165;126;3853;x
+3854;56;90;217;3854;x
+3855;123;190;157;3855;x
+3856;38;118;197;3856;x
+3857;18;85;159;3857;x
+3858;58;108;136;3858;x
+3859;81;165;179;3859;x
+3860;80;126;140;3860;x
+3861;40;158;172;3861;x
+3862;13;90;166;3862;x
+3863;134;162;135;3863;x
+3864;127;123;191;3864;x
+3865;132;181;204;3865;x
+3866;128;156;168;3866;x
+3867;85;104;126;3867;x
+3868;26;136;153;3868;x
+3869;56;87;116;3869;x
+3870;70;136;142;3870;x
+3871;43;133;110;3871;x
+3872;61;191;120;3872;x
+3873;110;128;151;3873;x
+3874;122;150;199;3874;x
+3875;36;112;180;3875;x
+3876;127;98;120;3876;x
+3877;26;107;133;3877;x
+3878;125;117;126;3878;x
+3879;51;76;115;3879;x
+3880;47;77;206;3880;x
+3881;43;125;186;3881;x
+3882;109;133;219;3882;x
+3883;47;189;111;3883;x
+3884;103;183;148;3884;x
+3885;61;88;149;3885;x
+3886;113;169;218;3886;x
+3887;71;150;156;3887;x
+3888;59;166;228;3888;x
+3889;134;133;209;3889;x
+3890;84;189;126;3890;x
+3891;31;68;188;3891;x
+3892;68;112;164;3892;x
+3893;107;84;227;3893;x
+3894;103;188;143;3894;x
+3895;29;159;112;3895;x
+3896;129;87;236;3896;x
+3897;100;89;119;3897;x
+3898;47;103;166;3898;x
+3899;45;155;232;3899;x
+3900;136;140;144;3900;x
+3901;107;187;233;3901;x
+3902;120;88;134;3902;x
+3903;49;191;164;3903;x
+3904;132;80;120;3904;x
+3905;28;133;215;3905;x
+3906;42;72;133;3906;x
+3907;79;154;175;3907;x
+3908;103;154;232;3908;x
+3909;43;86;118;3909;x
+3910;102;152;129;3910;x
+3911;92;192;149;3911;x
+3912;40;149;233;3912;x
+3913;28;188;122;3913;x
+3914;15;150;179;3914;x
+3915;135;161;189;3915;x
+3916;66;131;148;3916;x
+3917;67;187;130;3917;x
+3918;85;93;174;3018;x
+3919;139;97;187;3919;x
+3920;125;159;225;3920;x
+3921;44;122;118;3921;x
+3922;17;104;193;3922;x
+3923;33;172;121;3923;x
+3924;24;194;123;3924;x
+3925;66;181;221;3925;x
+3926;131;82;235;3926;x
+3927;66;131;162;3927;x
+3928;55;120;225;3928;x
+3929;112;179;229;3929;x
+3930;131;118;147;3930;x
+3931;94;112;200;3931;x
+3932;132;161;167;3932;x
+3933;84;92;133;3933;x
+3934;124;104;206;3934;x
+3935;137;159;132;3935;x
+3936;95;131;217;3036;x
+3937;110;150;208;3937;x
+3938;58;148;168;3938;x
+3939;26;188;221;3939;x
+3940;56;147;158;3940;x
+3941;71;176;111;3941;x
+3942;66;139;220;3942;x
+3943;15;131;226;3943;x
+3944;50;184;124;3944;x
+3945;19;183;170;3945;x
+3946;59;166;118;3946;x
+3947;86;148;130;3947;x
+3948;30;125;135;3948;x
+3949;38;69;160;3949;x
+3950;103;99;228;3950;x
+3951;47;176;132;3951;x
+3952;66;162;207;3952;x
+3953;78;137;235;3953;x
+3954;119;77;178;3954;x
+3955;114;153;181;3955;x
+3956;78;178;120;3956;x
+3957;112;144;204;3057;x
+3958;61;136;213;3958;x
+3959;46;67;230;3959;x
+3960;34;189;224;3960;x
+3961;125;189;178;3961;x
+3962;25;169;114;3962;x
+3963;54;185;237;3963;x
+3964;132;180;226;3964;x
+3965;130;82;200;3965;x
+3966;28;93;184;3966;x
+3967;139;152;220;3967;x
+3968;129;165;133;3968;x
+3969;139;104;191;3969;x
+3970;34;179;179;3970;x
+3971;49;174;220;3971;x
+3972;114;180;177;3972;x
+3973;99;112;156;3973;x
+3974;90;139;111;3974;x
+3975;102;134;223;3975;x
+3976;77;128;164;3976;x
+3977;84;93;143;3977;x
+3978;95;99;168;3978;x
+3979;105;146;185;3979;x
+3980;14;98;150;3980;x
+3981;60;151;221;3981;x
+3982;45;108;185;3982;x
+3983;34;137;142;3983;x
+3984;79;162;228;3984;x
+3985;75;158;211;3985;x
+3986;39;189;136;3986;x
+3987;82;129;210;3987;x
+3988;110;112;169;3988;x
+3989;49;176;154;3989;x
+3990;80;161;196;3990;x
+3991;111;183;189;3991;x
+3992;71;111;226;3992;x
+3993;29;80;224;3993;x
+3994;51;98;156;3994;x
+3995;64;125;121;3995;x
+3996;121;158;156;3996;x
+3997;89;68;211;3997;x
+3998;77;114;207;3998;x
+3999;17;148;154;3999;x
+4000;29;84;165;4000;x
+4001;43;130;139;4001;x
+4002;136;164;199;4002;x
+4003;108;95;194;4003;x
+4004;27;170;191;4004;x
+4005;77;167;133;4005;x
+4006;63;187;214;4006;x
+4007;93;110;195;4007;x
+4008;90;102;123;4008;x
+4009;43;129;229;4009;x
+4010;92;113;178;4010;x
+4011;80;183;114;4011;x
+4012;65;112;165;4012;x
+4013;137;133;166;4013;x
+4014;48;174;131;4014;x
+4015;136;118;125;4015;x
+4016;34;192;126;4016;x
+4017;139;118;205;4017;x
+4018;67;118;164;4018;x
+4019;98;133;211;4019;x
+4020;127;127;236;4020;x
+4021;27;152;149;4021;x
+4022;137;160;129;4022;x
+4023;110;144;184;4023;x
+4024;63;148;198;4024;x
+4025;138;159;180;4025;x
+4026;99;81;152;4026;x
+4027;109;147;164;4027;x
+4028;53;183;193;4028;x
+4029;134;180;145;4029;x
+4030;134;136;200;4030;x
+4031;115;104;122;4031;x
+4032;138;94;143;4032;x
+4033;53;101;200;4033;x
+4034;101;112;232;4034;x
+4035;96;94;146;4035;x
+4036;95;77;190;4036;x
+4037;18;176;120;4037;x
+4038;87;169;112;4038;x
+4039;60;119;219;4039;x
+4040;98;94;237;4040;x
+4041;98;75;194;4041;x
+4042;72;168;186;4042;x
+4043;94;167;132;4043;x
+4044;55;166;223;4044;x
+4045;77;112;134;4045;x
+4046;14;68;230;4046;x
+4047;97;166;200;4047;x
+4048;96;185;203;4048;x
+4049;13;125;223;4049;x
+4050;33;105;221;4050;x
+4051;54;119;217;4051;x
+4052;50;147;172;4052;x
+4053;139;157;217;4053;x
+4054;96;181;189;4054;x
+4055;115;193;171;4055;x
+4056;18;117;188;4056;x
+4057;139;78;164;4057;x
+4058;127;185;235;4058;x
+4059;72;71;162;4059;x
+4060;82;116;203;4060;x
+4061;20;141;114;4061;x
+4062;51;169;150;4062;x
+4063;69;190;225;4063;x
+4064;49;145;113;4064;x
+4065;51;194;152;4065;x
+4066;94;95;121;4066;x
+4067;43;135;184;4067;x
+4068;97;182;131;4068;x
+4069;70;128;124;4069;x
+4070;19;166;173;4070;x
+4071;56;121;141;4071;x
+4072;61;117;213;4072;x
+4073;56;132;179;4073;x
+4074;124;134;136;4074;x
+4075;20;186;124;4075;x
+4076;22;189;134;4076;x
+4077;117;180;163;4077;x
+4078;102;189;156;4078;x
+4079;34;118;193;4079;x
+4080;16;120;180;4080;x
+4081;16;120;180;4081;x
+4082;91;134;149;4082;x
+4083;98;126;212;4083;x
+4084;133;106;233;4084;x
+4085;81;93;110;4085;x
+4086;41;164;210;4086;x
+4087;74;71;129;4087;x
+4088;43;183;120;4088;x
+4089;29;149;114;4089;x
+4090;96;67;142;4090;x
+4091;70;120;232;4091;x
+4092;41;143;165;4092;x
+4093;111;98;118;4093;x
+4094;13;74;209;4094;x
+4095;116;99;131;4095;x
+4096;100;167;192;4096;x
+4097;127;150;216;4097;x
+4098;54;91;160;4098;x
+4099;96;105;225;4099;x
+4100;71;107;127;4100;x
+4101;86;128;219;4101;x
+4102;45;169;198;4102;x
+4103;54;108;223;4103;x
+4104;85;166;226;4104;x
+4105;129;87;199;4105;x
+4106;32;170;176;4106;x
+4107;110;73;159;4107;x
+4108;98;122;179;4108;x
+4109;111;78;157;4109;x
+4110;54;69;183;4110;x
+4111;118;74;228;4111;x
+4112;48;139;127;4112;x
+4113;71;95;118;4113;x
+4114;25;100;142;4114;x
+4115;129;135;113;4115;x
+4116;40;178;202;4116;x
+4117;31;150;122;4117;x
+4118;78;159;222;4118;x
+4119;35;123;205;4119;x
+4120;95;129;187;4120;x
+4121;86;184;122;4121;x
+4122;109;155;181;4122;x
+4123;101;163;141;4123;x
+4124;95;67;151;4124;x
+4125;44;72;127;4125;x
+4126;71;186;161;4126;x
+4127;107;172;116;4127;x
+4128;86;145;116;4128;x
+4129;71;167;180;4129;x
+4130;92;192;213;4130;x
+4131;93;181;195;4131;x
+4132;52;163;217;4132;x
+4133;92;183;114;4133;x
+4134;21;146;163;4134;x
+4135;47;178;148;4135;x
+4136;31;170;126;4136;x
+4137;84;174;229;4137;x
+4138;124;157;165;4138;x
+4139;40;80;185;4139;x
+4140;14;120;132;4140;x
+4141;117;143;127;4141;x
+4142;13;143;217;4142;x
+4143;18;110;133;4143;x
+4144;134;163;217;4144;x
+4145;46;141;134;4145;x
+4146;134;111;230;4146;x
+4147;123;183;149;4147;x
+4148;86;149;135;4148;x
+4149;64;90;214;4149;x
+4150;116;178;221;4150;x
+4151;41;167;150;4151;x
+4152;29;171;167;4152;x
+4153;97;72;192;4153;x
+4154;48;156;178;4154;x
+4155;68;162;114;4155;x
+4156;92;110;113;4156;x
+4157;107;119;159;4157;x
+4158;59;86;136;4158;x
+4159;39;190;221;4159;x
+4160;94;106;135;4160;x
+4161;24;137;134;4161;x
+4162;43;150;154;4162;x
+4163;78;79;169;4163;x
+4164;116;131;139;4164;x
+4165;22;155;191;4165;x
+4166;133;193;130;4166;x
+4167;17;136;182;4167;x
+4168;16;156;182;4168;x
+4169;81;194;166;4169;x
+4170;89;126;126;4170;x
+4171;103;99;163;4171;x
+4172;125;162;189;4172;x
+4173;23;160;192;4173;x
+4174;77;155;167;4174;x
+4175;106;104;171;4175;x
+4176;63;150;187;4176;x
+4177;31;192;221;4177;x
+4178;37;94;221;4178;x
+4179;13;121;217;4179;x
+4180;51;172;157;4180;x
+4181;109;101;222;4181;x
+4182;93;96;189;4182;x
+4183;44;177;131;4183;x
+4184;100;125;112;4184;x
+4185;137;95;193;4185;x
+4186;31;168;123;4186;x
+4187;104;106;171;4187;x
+4188;134;150;222;4188;x
+4189;41;167;142;4189;x
+4190;52;97;190;4190;x
+4191;132;107;234;4191;x
+4192;20;182;173;4192;x
+4193;121;192;194;4193;x
+4194;59;177;187;4194;x
+4195;122;160;214;4195;x
+4196;71;132;181;4196;x
+4197;106;183;169;4197;x
+4198;102;146;159;4198;x
+4199;20;164;223;4199;x
+4200;47;128;180;4200;x
+4201;13;95;225;4201;x
+4202;19;161;201;4202;x
+4203;108;139;119;4203;x
+4204;73;99;141;4204;x
+4205;23;187;225;4205;x
+4206;19;125;143;4206;x
+4207;88;94;118;4207;x
+4208;22;172;162;4208;x
+4209;38;143;217;4209;x
+4210;69;118;226;4210;x
+4211;93;127;205;4211;x
+4212;31;116;228;4212;x
+4213;89;73;220;4213;x
+4214;45;109;176;4214;x
+4215;61;100;220;4215;x
+4216;79;161;170;4216;x
+4217;19;132;141;4217;x
+4218;15;179;207;4218;x
+4219;103;75;156;4219;x
+4220;58;177;179;4220;x
+4221;97;167;158;4221;x
+4222;129;136;174;4222;x
+4223;137;175;110;4223;x
+4224;34;143;206;4224;x
+4225;13;76;149;4225;x
+4226;99;167;125;4226;x
+4227;67;169;206;4227;x
+4228;126;78;122;4228;x
+4229;71;138;192;4229;x
+4230;110;75;114;4230;x
+4231;30;189;226;4231;x
+4232;64;193;202;4232;x
+4233;97;161;229;4233;x
+4234;26;185;170;4234;x
+4235;82;126;114;4235;x
+4236;68;173;138;4236;x
+4237;18;88;163;4237;x
+4238;14;89;235;LAST OCEAN;x
+4239;43;113;155;FIRST LAKE;x
+4240;48;113;149;4240;x
+4241;38;179;182;4241;x
+4242;40;188;159;4242;x
+4243;78;87;132;4243;x
+4244;64;140;160;4244;x
+4245;109;69;127;4245;x
+4246;120;184;125;4246;x
+4247;120;184;125;4247;x
+4248;84;138;212;4248;x
+4249;100;155;219;4249;x
+4250;117;102;215;4250;x
+4251;56;93;119;4251;x
+4252;28;94;164;4252;x
+4253;71;165;177;4253;x
+4254;23;70;217;Lake Canulus;x
+4255;52;133;121;Lake Poppad;x
+4256;36;192;210;Lake Arrius;x
+4257;65;107;153;Lake Honrich;x
+4258;39;148;156;Lake Gier;x
+4259;15;150;167;Lake Ilinalta;x
+4260;133;169;176;Lake Camlorn;x
+4261;69;89;177;4261;x
+4262;49;162;111;4262;x
+4263;134;183;127;4263;x
+4264;67;180;159;4264;x
+4265;96;97;206;4265;x
+4266;119;158;189;4266;x
+4267;67;180;159;4267;x
+4268;53;111;201;LAST LAKE;x
+#Missed Cyrodiil Province;;;;;
+4269;214;159;143;Contramantraci;x
+4270;213;143;5;4270;x
+#Missed High Rock Provinces;;;;;
+4271;255;236;119;Rhalta;x
+4272;242;60;132;Ravenwatch;x
+4273;127;84;164;;x
+4274;31;210;90;;x
+4275;53;200;195;;x
+4276;188;102;18;;x
+4277;219;23;88;;x
+4278;69;59;200;;x
+4279;67;107;179;;x
+4280;215;128;24;;x
+4281;67;191;24;;x
+4282;210;179;54;;x
+4283;224;24;38;;x
+4284;99;150;71;;x
+4285;181;124;124;;x
+4286;187;208;10;;x
+4287;200;92;20;;x
+4288;83;203;86;;x
+4289;17;195;138;;x
+4290;79;184;27;XXXX;x
+4291;168;219;32;Qazaniya;x
+4292;53;76;176;Mardin;x
+4293;212;79;154;Arbil;x
+4294;150;146;41;Sulimaniyeh;x
+4295;48;167;51;Hisn Kayfa;x
+4296;116;62;183;Bitlis;x
+4297;99;32;200;Homs;x
+4298;231;78;10;Ayntab;x
+4299;70;198;70;Shamakhi;x
+4300;225;205;36;Mianeh;x
+4301;232;184;55;Gori;x
+4302;13;94;109;Bayazid;x
+4303;213;197;16;Oltu;x
+4304;184;111;111;Khoy;x
+4305;210;42;42;Shaki;x
+4306;117;109;201;Khumuk;x
+4307;134;177;141;Aksaray;x
+4308;69;25;75;Denizli;x
+4309;118;176;123;Aydin;x
+4310;135;155;105;Divrigi;x
+4311;67;121;108;Karahisar;x
+4312;105;195;57;Sultan�n�;x
+4313;94;189;108;Kangiri;x
+4314;159;73;73;Kirshehir;x
+4315;124;60;86;Tokat;x
+4316;51;172;108;Mansura;x
+4317;99;77;195;Buhaira;x
+4318;63;128;27;Atfih;x
+4319;163;183;82;Isna;x
+4320;195;83;191;Girga;x
+4321;121;21;154;Eastern Desert;x
+4322;184;65;29;Eastern Desert;x
+4323;224;40;15;Farafreh;x
+4324;149;186;149;Ghuriyan;x
+4325;222;47;29;Sarakhs;x
+4326;134;196;131;Nishapur;x
+4327;244;221;131;Jask;x
+4328;143;34;255;Chagai;x
+4329;96;128;136;Fasa;x
+4330;54;193;106;Darab;x
+4331;212;14;89;Kazarun;x
+4332;112;120;148;Siraf;x
+4333;104;180;181;Dahlak Archipelago;x
+4334;224;12;72;Tabas;x
+4335;236;112;20;Kashan;x
+4336;215;155;85;Tus;x
+4337;73;158;166;Savah;x
+4338;201;70;30;Soltanieh;x
+4339;208;71;200;Rasht;x
+4340;88;224;142;Astara;x
+4341;191;220;33;Sari;x
+4342;208;198;117;Malamir;x
+4343;208;26;73;Termez;x
+4344;178;231;94;Kish;x
+4345;155;155;198;Saidabad;x
+4346;149;226;227;Qamr Bay;x
+4347;144;206;207;Pirate Coast;x
+4348;198;47;101;Ifuago;x
+4349;105;219;142;Laguna;x
+4350;154;86;212;Mindoro;x
+4351;104;196;152;Buglas;x
+4352;219;168;88;Cebu;x
+4353;89;35;145;Leyte;x
+4354;135;77;125;Zamboanga;x
+4355;248;245;172;Caraga;x
+4356;201;167;29;Taytay;x
+4357;125;226;241;Visayan Sea;x
+4358;112;219;220;Cuyo Archipelago;x
+4359;185;227;40;Ise;x
+4360;235;159;33;Mikawa;x
+4361;203;124;124;East March;x
+4362;220;22;22;West March;x
+4363;212;118;56;Argyll;x
+4364;236;203;22;Inner Hebrides;x
+4365;177;171;135;Mann;x
+4366;196;128;0;Montgomery;x
+4367;219;150;147;Hull;x
+4368;231;51;43;Scarborough;x
+4369;221;244;212;Carmarthen;x
+4370;115;143;176;Cambridgeshire;x
+4371;146;207;152;Sussex;x
+4372;207;182;116;Coventry;x
+4373;161;114;192;Devon;x
+4374;155;153;90;Dorset;x
+4375;229;133;39;Chester;x
+4376;160;66;61;Leicester;x
+4377;91;132;207;Ormond;x
+4378;207;145;145;Kinsale;x
+4379;181;38;38;Middlands;x
+4380;186;74;52;Donegal;x
+4381;24;57;119;Oversticht;x
+4382;213;194;38;Ommeland;x
+4383;220;189;139;Haag;x
+4384;234;156;30;Rennes;x
+4385;206;210;106;Cotentin;x
+4386;153;88;207;Vendee;x
+4387;227;104;55;Angouleme;x
+4388;90;50;219;Chartres;x
+4389;212;131;52;Touraine;x
+4390;154;146;0;Troyes;x
+4391;208;37;117;Vivarais;x
+4392;227;148;148;Auxerrois;x
+4393;181;227;89;Tabayin;x
+4394;223;76;249;Salin;x
+4395;7;183;221;Yamethin;x
+4396;38;227;36;Prome;x
+4397;87;141;35;Yawnghwe;x
+4398;145;54;67;Mawkmai;x
+4399;209;206;232;Dagon;x
+4400;4;138;139;Naga Hills;x
+4401;99;2;220;Arakan Mountains;x
+4402;8;19;70;Gaoligong Mountains;x
+4403;174;133;74;Hengduan Mountains;x
+4404;186;179;78;Minsin;x
+4405;135;83;198;Katha;x
+4406;131;123;246;Mong Kung;x
+4407;231;58;53;Ruhunu;x
+4408;227;170;169;Salavata;x
+4409;154;153;27;Trincomale;x
+4410;166;186;106;Kumari;x
+4411;212;178;42;Samana;x
+4412;133;65;23;Dindigul;x
+4413;198;87;134;Cannanore;x
+4414;52;160;146;Salem;x
+4415;178;189;107;Negapatam;x
+4416;157;72;136;Tranqebar;x
+4417;141;167;109;Kanchipuram;x
+4418;117;239;166;Nelore;x
+4419;38;123;72;Adanki;x
+4420;186;136;135;Chandragiri;x
+4421;139;213;167;Seringapatam;x
+4422;164;123;44;Sira;x
+4423;160;139;213;Gutti;x
+4424;200;161;210;Adavani;x
+4425;41;164;76;Kondavidu;x
+4426;125;191;66;Chitradurg;x
+4427;203;173;64;Honnavara;x
+4428;169;212;66;Mudgal;x
+4429;136;124;77;Rajapur;x
+4430;152;147;85;Daman;x
+4431;179;186;121;Kolhapur;x
+4432;98;169;103;Junir;x
+4433;163;195;165;Nasik;x
+4434;186;154;125;Dharangaon;x
+4435;88;201;147;Sholhapur;x
+4436;136;232;0;Rachakonda;x
+4437;54;129;205;Paithre;x
+4438;205;54;168;Nander;x
+4439;145;107;154;Khamammet;x
+4440;130;111;51;Narayanpur;x
+4441;194;210;199;Ganjam;x
+4442;85;174;169;Washim;x
+4443;149;183;181;Karanja;x
+4444;34;42;215;Manidurg;x
+4445;219;203;71;Kanker;x
+4446;169;171;101;Kalahandi;x
+4447;71;148;48;Patna-Garjat;x
+4448;33;48;2;Parlakhimedi;x
+4449;26;159;60;Jammu;x
+4450;178;193;146;Mahurbanj;x
+4451;177;236;52;Sonpur;x
+4452;201;133;87;Ratanpur;x
+4453;219;144;64;Thalner;x
+4454;181;86;133;Porbandar;x
+4455;185;186;60;Diu;x
+4456;159;60;34;Jhalavad;x
+4457;145;120;59;Cambay;x
+4458;83;131;220;Narbada;x
+4459;175;215;67;Saugor;x
+4460;184;119;42;Handia;x
+4461;110;157;103;Ujjain;x
+4462;117;210;107;Vagad;x
+4463;217;58;31;Bhatnair;x
+4464;75;196;192;Bundi;x
+4465;27;212;53;Ranthambore;x
+4466;169;43;205;Mahoba;x
+4467;123;99;213;Kalinjar;x
+4468;139;196;111;Bandogarh;x
+4469;160;208;76;Rohtasgarh;x
+4470;154;48;40;Soumelpur;x
+4471;167;163;46;Bishnupur;x
+4472;179;62;43;Monghir;x
+4473;113;133;32;Chakla;x
+4474;24;58;154;Sonargaon;x
+4475;143;28;164;Fathabad;x
+4476;203;30;140;Nadia;x
+4477;128;58;103;Satgaon;x
+4478;61;102;20;Haibatnagar;x
+4479;174;31;98;Goraghat;x
+4480;205;97;50;Mahikantha;x
+4481;136;104;42;Punakah;x
+4482;140;34;49;Sikkim;x
+4483;155;64;94;Morung;x
+4484;118;110;21;Makwanpur;x
+4485;193;52;118;Palpa;x
+4486;171;177;19;Purnia;x
+4487;148;81;21;Saran;x
+4488;123;80;42;Champaran;x
+4489;171;132;97;Hajipur;x
+4490;174;36;95;Ghazipur;x
+4491;156;116;221;Dang;x
+4492;13;33;111;Doti;x
+4493;230;154;212;Sirmur;x
+4494;71;99;200;Khairabad;x
+4495;33;52;116;Feyzabad;x
+4496;30;17;88;Kora;x
+4497;54;145;99;Qannauj;x
+4498;255;102;0;Sambhal;x
+4499;82;102;0;Bareily;x
+4500;74;162;0;Bharatpur;x
+4501;57;188;152;Bhilwara;x
+4502;33;53;48;Merta;x
+4503;26;88;92;Mansura;x
+4504;177;200;201;Nasirpur;x
+4505;36;125;131;Khairpur;x
+4506;184;27;108;Barmer;x
+4507;100;83;123;Churu;x
+4508;66;30;116;Bahawalpur;x
+4509;124;37;78;Karor;x
+4510;193;162;69;Shorkot;x
+4511;102;77;89;Bhera;x
+4512;49;208;224;Bharuch;x
+4513;50;71;157;Dipalpur;x
+4514;219;157;116;Sakya;x
+4515;86;55;145;Gyirong;x
+4516;167;66;99;Purang;x
+4517;52;169;90;Nedong;x
+4518;61;145;123;Tsurphu;x
+4519;68;108;100;Damxung;x
+4520;118;126;72;Rutog;x
+4521;63;93;131;Skardu;x
+4522;108;61;52;Aqenganggyai;x
+4523;192;6;69;Inowroclaw;x
+4524;77;251;233;Dobrzyn;x
+4525;152;90;7;Rawa;x
+4526;176;178;68;Gniezno;x
+4527;84;110;247;Checiny;x
+4528;113;193;204;Kuyavia;x
+4529;148;138;245;Iasi;x
+4530;135;97;96;Birlad;x
+4531;56;160;69;Giurgiu;x
+4532;200;147;231;Severin;x
+4533;100;226;85;Wielun;x
+4534;171;8;15;Upita;x
+4535;181;39;199;Wilkimierz;x
+4536;125;175;248;Lida;x
+4537;2;159;164;Nowogrodek;x
+4538;70;186;107;Chelm;x
+4539;79;252;132;Kremenets;x
+4540;174;173;70;Winnica;x
+4541;166;72;55;Drohobycz;x
+4542;216;183;153;Lubnie;x
+4543;3;190;120;Rylsk;x
+4544;235;46;209;Bobrujsk;x
+4545;145;7;164;Sluck;x
+4546;121;225;48;Malaga;x
+4547;155;170;197;Albacete;x
+4548;242;90;38;Huelva;x
+4549;7;115;1;Xativa;x
+4550;217;244;86;Castellon;x
+4551;73;146;227;Avila;x
+4552;130;85;172;Palencia;x
+4553;43;46;167;Zamora;x
+4554;146;111;28;Lugo;x
+4555;183;26;10;Vigo;x
+4556;184;42;69;Aviero;x
+4557;240;89;1;Lleida;x
+4558;155;55;22;Orense;x
+4559;0;63;140;Minorca;x
+4560;118;241;78;Ibiza;x
+4561;1;230;30;Tetouan;x
+4562;182;33;133;Mers el Kebir;x
+4563;7;121;35;Sale;x
+4564;6;134;126;Anfa;x
+4565;227;16;124;Tenerife;x
+4566;105;24;165;Kairwan;x
+4567;81;109;203;Sabha;x
+4568;173;82;127;Demnate;x
+4569;198;135;133;High Atlas3;x
+4570;0;14;150;Texcoco;x
+4571;40;69;175;Tlacopan;x
+4572;80;137;200;Malinalco;x
+4573;120;176;225;Acambaro;x
+4574;160;14;250;Ihuatzio;x
+4575;200;69;150;Puruaran;x
+4576;240;137;175;Amaxocotlan;x
+4577;202;14;175;Tohono;x
+4578;1;176;200;Tzapotzingo;x
+4579;41;14;225;Sayula;x
+4580;81;69;250;Tecoman;x
+4581;121;137;150;Yohualtepec;x
+4582;161;176;175;Teotitlan;x
+4583;201;14;200;Xocotla;x
+4584;241;69;225;Mitla;x
+4585;2;137;250;Tzotzil;x
+4586;42;176;150;Jakaltek;x
+4587;82;14;175;Qumarkaj;x
+4588;122;69;200;Kobox;x
+4589;162;137;225;Moran;x
+4590;202;176;250;Xiu;x
+4591;242;14;150;Sotuta;x
+4592;3;69;175;Ulva;x
+4593;43;137;200;Xicaque;x
+4594;83;176;225;Tzul;x
+4595;123;14;250;Guaymi;x
+4596;163;69;150;Kuna;x
+4597;203;137;175;Talamanca;x
+4598;243;176;200;Cuauhtochco;x
+4599;4;14;225;Sinu;x
+4600;175;196;102;Emmerglade;x
+4601;39;145;157;Trynstaph;x
+4602;124;176;175;4602;x
+4603;164;14;200;4603;x
+4604;204;69;225;4604;x
+4605;244;137;250;4605;x
+4606;242;69;200;4606;x
+4607;5;176;150;4607;x
+4608;55;14;175;4608;x
+4609;85;69;200;4609;x
+4610;125;137;225;4610;x
+4611;165;176;250;4611;x
+4612;205;14;150;4612;x
+4613;245;69;175;4613;x
+4614;6;137;200;4614;x
+4615;66;176;225;4615;x
+4616;86;14;250;4616;x
+4617;126;69;150;4617;x
+4618;166;137;175;4618;x
+4619;206;176;200;4619;x
+4620;246;14;225;4620;x
+4621;7;69;250;4621;x
+4622;67;137;150;4622;x
+4623;87;176;175;4623;x
+4624;127;14;200;4624;x
+4625;167;69;225;4625;x
+4626;247;176;150;4626;x
+4627;8;14;175;4627;x
+4628;68;69;200;4628;x
+4629;88;137;225;4629;x
+4630;128;176;250;4630;x
+4631;168;14;150;4631;x
+4632;208;69;175;4632;x
+4633;248;137;200;4633;x
+4634;9;176;225;4634;x
+4635;69;14;250;4635;x
+4636;89;69;150;4636;x
+4637;129;137;175;4637;x
+4638;169;176;200;4638;x
+4639;209;14;225;4639;x
+4640;249;69;250;4640;x
+4641;1;137;150;4641;x
+4642;61;176;175;4642;x
+4643;81;14;200;4643;x
+4644;121;69;225;4644;x
+4645;161;137;250;4645;x
+4646;201;176;150;4646;x
+4647;241;14;175;4647;x
+4648;2;69;200;4648;x
+4649;62;137;250;4649;x
+4650;82;176;150;4650;x
