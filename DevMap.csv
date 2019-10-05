@@ -133,7 +133,7 @@ Province,Name,Base Tax,Base Production,Base Manpower,Trade Good,Culture,Religion
 25,Nightgate,2,1,1,,,,,
 90,StoneHill Bluff,2,2,1,,,,,
 818, White Gold Tower,13,13,9,,,8 Divines,,
-824, Dzonot,1,2,1,,8 Divines,,,
+824, Dzonot,1,2,1,,,8 Divines,,
 823, Rumare Gatehouse,2,2,3,,,8 Divines,,
 822, Garden District,6,1,1,,,8 Divines,,
 821, Market District,1,6,1,,,8 Divines,,
