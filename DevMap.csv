@@ -105,7 +105,7 @@ Province,Name,Base Tax,Base Production,Base Manpower,Trade Good,Culture,Religion
 21,Yorgim Overlook,1,1,1,,,Nordic,,
 22,Driftshade Refuge,1,1,1,,,Nordic,,
 23,Yngvild,1,1,2,,,Nordic,,
-118,Markarth,6,6,2,,Reachmen,Old Gods,,
+118,Markarth,6,6,2,Gold,Reachmen,Old Gods,,
 112,Druadach Redoubt,1,1,1,,Reachmen,Old Gods,,
 113,Harmugstahl,1,1,1,,Reachmen,Old Gods,,
 114,Ragnvald,1,1,1,,Reachmen,Old Gods,,
