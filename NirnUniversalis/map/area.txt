@@ -595,7 +595,7 @@ evergreen_crags_area = {
 }
 
 horunn_pass_area = {
-	950 951 952 963
+	950 951 952 994
 }
 
 cyrodiil_frost_fields_area = {
