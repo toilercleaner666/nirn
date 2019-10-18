@@ -469,6 +469,40 @@ categories =  {
 			2702 #Philippines
 		}
 	}
+
+	swamp = {
+		color = { 40 255 82 }
+
+		type = marsh
+		sound_type = forest
+
+		movement_cost = 1.5
+		defence = 2
+		local_development_cost = 0.35
+		nation_designer_cost_multiplier = 0.8
+		supply_limit = 3
+
+		terrain_override = {
+
+		}
+	}
+
+	coral_atolls = {
+		color = { 6 187 228 }
+
+		type = marsh
+		sound_type = sea
+
+		movement_cost = 1
+		defence = 1
+		local_development_cost = 0.15
+		nation_designer_cost_multiplier = 0.95
+		supply_limit = 6
+
+		terrain_override = {
+
+		}
+	}
 	
 	desert = {
 		color = { 242 242 111 }
@@ -771,6 +805,8 @@ terrain = {
 
 	terrain_8			= { type = hills			color = { 	8	 } }
 	marsh				= { type = marsh			color = { 	9	 } }
+	swamp				= { type = marsh 			color = {   9	 } }
+	coral_atolls		= { type = marsh 			color = {   9	 } }
 	terrain_10			= { type = farmlands		color = { 	10	 } }
 	terrain_11			= { type = farmlands		color = { 	11	 } }
 
