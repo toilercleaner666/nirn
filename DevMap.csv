@@ -1,7 +1,4 @@
 Province,Name,Base Tax,Base Production,Base Manpower,Trade Good,Culture,Religion,Trade Node,Owner (542 2E)
-#########
-Skyrim
-#########
 68,Solitude,5,5,3,,,Nordic,,Solitude
 69,Shadowgreen,1,1,1,,,Nordic,,Solitude
 70,Fort Hraggstad,1,1,2,,,Nordic,,
@@ -135,9 +132,7 @@ Skyrim
 26,Laintar Dale,2,3,2,,,Nordic,,
 25,Nightgate,2,1,1,,,Nordic,,
 90,StoneHill Bluff,2,2,1,,,Nordic,,
-##################
-Cyrodiil
-##################
+,,,,,,,,
 818, White Gold Tower,13,13,9,,,8 Divines,,
 824, Dzonot,1,2,1,,,8 Divines,,
 823, Rumare Gatehouse,2,2,3,,,8 Divines,,
@@ -447,9 +442,7 @@ Cyrodiil
 880, Imperial Bridge,2,2,3,,,,,
 918, Fathis Aren's Tower,4,2,4,,,,,
 4269, Fort Redman,2,1,6,,,,,
-############
-Morrowind
-############
+,,,,,,,,,,,
 10, Castle Karstaag,2,1,2,,Skaal,,,Solstheim
 11, Skaal,2,2,3,,Skaal,,,Solstheim
 12, Fort Frostmoth,2,1,2,,Skaal,,,Solstheim
