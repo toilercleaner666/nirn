@@ -111,3 +111,18 @@ elsweyr_superregion = {
 	paalatiin_elsweyr_region
 	quinrawl_elsweyr_region
 }
+
+
+#######################################AKAVIR##############################################
+
+mustallah_superregion = {
+
+	
+northern_mustallah_mustallah_region
+astiran_valley_mustallah_region
+southern_coast_mustallah_region
+great_central_dryland_mustallah_region
+west_mustallah_mustallah_region
+
+}
+

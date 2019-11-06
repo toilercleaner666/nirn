@@ -854,3 +854,84 @@ quinrawl_elsweyr_region = {
 		khenarthis_roost_area
 	}
 }
+
+
+################################################################################
+################################################################################
+################################################################################
+AKAVIR 
+################################################################################
+################################################################################
+################################################################################
+
+
+
+
+
+
+
+########################################
+# Mustallah                            #
+########################################
+
+northern_mustallah_mustallah_region = {
+	areas = {
+		rakosh_area 
+adredh_area
+northern_grey_foothills_area
+north_mustallah_coast_area
+lower_rakosh_area
+	}
+}
+
+astiran_valley_mustallah_region = {
+	areas = {
+		astiran_river_delta_area
+lower_astiran_river_area
+south_central_astiran_river_area
+north_central_astiran_river_area
+sol_coast_area
+upper_astiran_river_area
+nacelle_rote_ti_area
+southern_grey_foothills_area
+	}
+}
+
+southern_coast_mustallah_region = {
+	areas = {
+		invictus_coast_area
+dead_sands_area
+rakas_bastion_area
+	}
+}
+
+great_central_dryland_mustallah_region = {
+	areas = {
+		rakas_tail_area
+hastalan_area
+oldris_area
+tencine_area
+touoft_area
+silent_sands_area
+	}
+}
+
+west_mustallah_mustallah_region = {
+	areas = {
+		seelov_area
+endrakir_area
+rakosh_foothills_area
+tastitir_area
+mattarad_area
+assagir_area
+olidorn_area
+aldinivar_area
+horndim_area
+asdiddar_area
+island_of_the_blades_area
+	}
+}
+
+########################################
+# Krishan                              #
+########################################
