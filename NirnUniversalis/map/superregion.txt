@@ -135,8 +135,12 @@ mizidir_krishan_region
 
 }
 
-_superregion = {
+kamal_superregion = {
 
-
+koltorok_kamal_region
+azanmaad_kamal_region
+ada_soom_kamal_region
+halsakal_kamal_region
+falsandraas_kamal_region
 
 }

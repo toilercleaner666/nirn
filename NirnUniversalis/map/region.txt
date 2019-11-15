@@ -976,3 +976,62 @@ west_coast_area
 
 	}
 }
+
+########################################
+# Kamal                                #
+########################################
+
+koltorok_kamal_region = {
+	areas = {
+lon_volum_area
+akasal_area
+	druud_nur_area
+faktal_drras_area
+valdukur_area
+
+	}
+}
+
+azanmaad_kamal_region = {
+	areas = {
+taksraa_area
+poldoros_area
+dir_haldran_area
+silduris_area
+azzetesan_area
+
+	}
+}
+
+ada_soom_kamal_region = {
+	areas = {
+	elkedor_area
+cakad_area
+mindrith_area
+ondikor_area
+
+	}
+}
+
+halsakal_kamal_region = {
+	areas = {
+	boldithor_area
+	kaltathak_area
+	oldrokthon_area
+	aldrek_area
+viridri_area
+
+	}
+}
+
+falsandraas_kamal_region = {
+	areas = {
+wolvorik_area
+ilpinar_area
+jurfiskan_area
+colvolkash_area
+nalderkash_area
+far_reaches_area
+
+	}
+}
