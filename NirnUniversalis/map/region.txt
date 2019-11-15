@@ -160,7 +160,7 @@ shadowfen_argonia_region = {
 		stormhold_area
 		reticulated_spine_area
 		leafwater_area
-		venomous_fens_area	
+		venomous_fens_area
 	}
 }
 
@@ -171,7 +171,7 @@ oliis_bay_argonia_region = {
 		gator_glades_area
 		rockpark_area
 		archon_area
-		branchgrove_area	
+		branchgrove_area
 	}
 }
 
@@ -183,7 +183,7 @@ murkmire_argonia_region = {
 		alten_meirhall_area
 		seaspring_area
 		northern_murkwood_area
-		southern_murkwood_area	
+		southern_murkwood_area
 	}
 }
 
@@ -195,7 +195,7 @@ deep_marshes_argonia_region = {
 		helstrom_area
 		alten_markmont_area
 		inner_marshes_area
-		outer_marshes_area	
+		outer_marshes_area
 	}
 }
 
@@ -204,7 +204,7 @@ black_marsh_argonia_region = {
 
 		black_marsh_area
 		western_stormwood_area
-		eastern_stormwood_area	
+		eastern_stormwood_area
 	}
 }
 
@@ -234,7 +234,7 @@ greenglade_argonia_region = {
 		greenglade_area
 		wamasus_area
 		riverbridge_area
-		rockpoint_area	
+		rockpoint_area
 	}
 }
 
@@ -244,7 +244,7 @@ topal_coast_argonia_region = {
 		gideon_area
 		glenbridge_area
 		rockgrove_area
-		stonewastes_area	
+		stonewastes_area
 	}
 }
 
@@ -255,7 +255,7 @@ moonmarshes_argonia_region = {
 		soulrest_area
 		darkmoot_area
 		marauder_coast_area
-		rockspring_area	
+		rockspring_area
 	}
 }
 
@@ -564,7 +564,7 @@ rivenspire_highrock_region = {
 
 cathnoquey_padomaic_region = {
 	areas = {
-	
+
         northern_cathnoquey_area
         southern_cathnoquey_area
         azure_chain_area
@@ -575,7 +575,7 @@ cathnoquey_padomaic_region = {
 
 yneslea_padomaic_region = {
 	areas = {
-	
+
         broken_horn_area
         farrocks_area
 
@@ -585,7 +585,7 @@ yneslea_padomaic_region = {
 
 esroniet_padomaic_region = {
 	areas = {
-	
+
         southern_spear_area
         black_harbor_area
         elvastonia_area
@@ -603,7 +603,7 @@ esroniet_padomaic_region = {
 
 northern_pyandonea_pyandonea_region = {
 	areas = {
-	
+
         westpoint_area
         toran_area
         pirate_coast_area
@@ -613,14 +613,14 @@ northern_pyandonea_pyandonea_region = {
         eastern_coast_area
         the_lost_valley_area
         covered_cliffs_area
-        
+
 
 	}
 }
 
 pillar_isles_pyandonea_region = {
 	areas = {
-	
+
         fisherman_isle_area
         jiguna_area
         roa_area
@@ -628,15 +628,15 @@ pillar_isles_pyandonea_region = {
         isle_of_riches_area
         kowaht_area
         crab_coast_area
-       
-        
+
+
 
 	}
 }
 
 southern_pyandonea_pyandonea_region = {
 	areas = {
-	
+
         vos_area
         jungle_of_bones_area
         cursewood_area
@@ -658,7 +658,7 @@ southern_pyandonea_pyandonea_region = {
 
 atmora_atmora_region = {
 	areas = {
-	
+
 		atmora_area
 		roscrea_area
 	}
@@ -859,7 +859,7 @@ quinrawl_elsweyr_region = {
 ################################################################################
 ################################################################################
 ################################################################################
-AKAVIR 
+AKAVIR
 ################################################################################
 ################################################################################
 ################################################################################
@@ -876,7 +876,7 @@ AKAVIR
 
 northern_mustallah_mustallah_region = {
 	areas = {
-		rakosh_area 
+		rakosh_area
 adredh_area
 northern_grey_foothills_area
 north_mustallah_coast_area
@@ -935,3 +935,44 @@ island_of_the_blades_area
 ########################################
 # Krishan                              #
 ########################################
+
+southern_peninsula_krishan_region = {
+	areas = {
+talriab_area
+old_coast_area
+holrost_coast_area
+central_steppe_area
+south_cape_area
+	}
+}
+
+west_wing_krishan_region = {
+	areas = {
+dasminir_area
+asdernar_area
+south_sheild_coast_area
+north_sheild_coast_area
+far_north_wing_area
+haldraria_area
+
+	}
+}
+
+east_wing_krishan_region = {
+	areas = {
+north_cape_area
+olnisia_area
+alkadavh_area
+ancient_coast_area
+
+	}
+}
+
+mizidir_krishan_region = {
+	areas = {
+kostris_area
+vanderdan_area
+west_coast_area
+
+	}
+}

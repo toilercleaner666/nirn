@@ -36,7 +36,7 @@ black_marsh_superregion = {
 }
 
 cyrodiil_superregion = {
-	
+
 	gold_coast_cyrodiil_region
 	colovian_highlands_cyrodiil_region
 	jerall_mountains_cyrodiil_region
@@ -75,7 +75,7 @@ padomaic_superregion = {
 	cathnoquey_padomaic_region
 	yneslea_padomaic_region
 	esroniet_padomaic_region
-	
+
 }
 
 pyandonea_superregion = {
@@ -117,7 +117,7 @@ elsweyr_superregion = {
 
 mustallah_superregion = {
 
-	
+
 northern_mustallah_mustallah_region
 astiran_valley_mustallah_region
 southern_coast_mustallah_region
@@ -126,3 +126,17 @@ west_mustallah_mustallah_region
 
 }
 
+krishan_superregion = {
+
+	southern_peninsula_krishan_region
+	west_wing_krishan_region
+east_wing_krishan_region
+mizidir_krishan_region
+
+}
+
+_superregion = {
+
+
+
+}
