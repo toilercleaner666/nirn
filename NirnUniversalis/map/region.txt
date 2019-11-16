@@ -1035,3 +1035,49 @@ far_reaches_area
 
 	}
 }
+
+########################################
+# Mihuang                              #
+########################################
+
+salvarak_mihuang_region = {
+	areas = {
+sakarazak_area
+tiasenmis_area
+khavdraadis_area
+asusintas_area
+hasaad-trras_area
+
+	}
+}
+
+dunsindon_mihuang_region = {
+	areas = {
+dunsindon_area
+khrisas_area
+folsornin_area
+qurizan_area
+sillisanren_area
+
+	}
+}
+
+traaknaas_mihuang_region = {
+	areas = {
+tangled_pines_area
+ganatren_area
+halvaris_area
+sorithes_area
+
+	}
+}
+
+aldanmire_mihuang_region = {
+	areas = {
+kreschef_area
+orisapta_area
+delsar_area
+solistra_area
+
+	}
+}
