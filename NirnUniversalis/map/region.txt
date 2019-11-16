@@ -1081,3 +1081,71 @@ solistra_area
 
 	}
 }
+
+########################################
+# Kakhan                               #
+########################################
+
+glittering_horn_kakhan_region = {
+	areas = {
+scale_point_area
+kraken_coast_area
+verpont_area
+the_marrows_area
+devils_pass_area
+azure_shore_area
+darkadur_area
+the_tip_area
+
+	}
+}
+
+westwind_kakhan_region = {
+	areas = {
+vakhul_area
+ruby_valley_area
+lower_tirash_area
+upper_tirash_area
+walsdort_area
+farinth_area
+bladed_coast_area
+
+	}
+}
+
+wirzan_kakhan_region = {
+	areas = {
+harazet_area
+gorhitz_area
+wyvern_hills_area
+zlithis_area
+traitors_wood_area
+
+	}
+}
+
+the_goldon_fields_kakhan_region = {
+	areas = {
+the_white_merge_area
+vitir_area
+grazeir_area
+vernos_area
+the_mash_area
+hirandos_area
+burning_march_area
+vorkiza_area
+the_eye_area
+
+	}
+}
+
+the_old_scar_kakhan_region = {
+	areas = {
+kolsak_area
+jakutk_area
+the_whispering_hills_area
+kurot_area
+jahilk_area
+
+	}
+}

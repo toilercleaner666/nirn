@@ -153,3 +153,13 @@ traaknaas_mihuang_region
 aldanmire_mihuang_region
 
 }
+
+kakhan_superregion = {
+
+glittering_horn_kakhan_region
+westwind_kakhan_region
+wirzan_kakhan_region
+the_goldon_fields_kakhan_region
+the_old_scar_kakhan_region
+
+}
