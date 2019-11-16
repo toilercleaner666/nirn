@@ -2178,7 +2178,7 @@ asusintas_area = {
 	2234 2241 2240 2233 2232
 }
 
-hasaad-trras_ara = {
+hasaad-trras_area = {
 	2231 2243 2242 2230
 }
 
