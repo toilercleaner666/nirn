@@ -144,3 +144,12 @@ halsakal_kamal_region
 falsandraas_kamal_region
 
 }
+
+mihuang_superregion = {
+
+salvarak_mihuang_region
+dunsindon_mihuang_region
+traaknaas_mihuang_region
+aldanmire_mihuang_region
+
+}
