@@ -163,3 +163,13 @@ the_goldon_fields_kakhan_region
 the_old_scar_kakhan_region
 
 }
+
+kangsun_superregion = {
+
+chengura_kangsun_region
+jithai_kangsun_region
+east_chengura_kangsun_region
+kokodo_kangsun_region
+central_kangsun_kangsun_region
+
+}
