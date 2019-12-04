@@ -2503,8 +2503,6 @@ ruguo_area = {
 	2004 2003 2001 2002 2000
 }
 
-Central Kangsun
-
 honchoi_area = {
 	1999 1998 1997 1996 1996
 }
