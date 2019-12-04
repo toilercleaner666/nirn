@@ -1149,3 +1149,73 @@ jahilk_area
 
 	}
 }
+
+########################################
+# Kangsun                              #
+########################################
+
+chengura_kangsun_region = {
+	areas = {
+tsaiga_area
+ashensas_area
+misirin_area
+yingtsu_area 
+shise_area
+xiulei_area
+kan_area
+koji_area
+
+	}
+}
+
+jithai_kangsun_region = {
+	areas = {
+sueylin_peninsula_area
+tsaichong_area
+kantashi_area
+teshou_area
+hitsu_area
+kachoi_area
+asfara_area
+tsuchen_area
+ruxiu_area
+thaijishi_area
+
+	}
+}
+
+east_chengura_kangsun_region = {
+	areas = {
+mashou_area
+deokai_area
+sueykim_area
+chenlei_area
+chunu_area
+
+	}
+}
+
+kokodo_kangsun_region = {
+	areas = {
+makan_area
+huangya_area
+michung_area
+yalin_area
+ruguo_area
+
+	}
+}
+
+central_kangsun_kangsun_region = {
+	areas = {
+honchoi_area
+shulin_area
+yangra_area
+yietsu_area
+ruguo_area
+zensho_area
+laoshu_area
+taishi_area
+
+	}
+}
