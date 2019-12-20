@@ -1219,3 +1219,88 @@ taishi_area
 
 	}
 }
+
+########################################
+# Monkey isles                         #
+########################################
+
+pot-sir_monkey_isles_region = {
+	areas = {
+raskalak_area
+hagassi_area
+wakala_area
+solrasis_island_area
+altornin_islands_area
+rokasis_area
+darosis_area
+
+	}
+}
+
+uisanaad_monkey_isles_region = {
+	area = {
+alladrad_area
+zorninda_area
+garnihof_area
+haldrasin_area
+wankani_area
+jazinreed_area
+ilaris_area
+
+	}
+}
+
+silarenen_monkey_isles_region = {
+	area = {
+idrion_area
+fensaris_area
+ellezern_area
+fesrisch_area
+drisech_area
+ahrisan_area
+berendan_area
+
+	}
+}
+
+redrorth_monkey_isles_region = {
+	area = {
+raindan_area
+asradis_area
+rolsindon_area
+maizile_area
+lorinmen_area
+shrietan_area
+elizinaren_area
+morkrush_area
+
+	}
+}
+
+aisikor_monkey_isles_region = {
+	area = {
+aizrain_area
+rankrain_area
+aecrin_area
+ronkolis_area
+rasinchad_area
+kalsinkad_area
+rozzidor_area
+krendayn_area
+	}
+}
+
+horizord_monkey_isles_region = {
+	area = {
+enzarysh_area
+anzian_area
+danzidor_area
+tainrhun_area
+grenidier_area
+sainan_area
+ronthornis_area
+rezzayn_area
+enkrayn_area
+tronshin_area
+	}
+}
