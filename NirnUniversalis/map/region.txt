@@ -1304,3 +1304,42 @@ enkrayn_area
 tronshin_area
 	}
 }
+
+########################################
+# Deep Eltheric super 1                #
+########################################
+
+deep_eltheric_r_1_region = {
+	areas = {
+deep_eltheric_a_1_area
+deep_eltheric_a_2_area
+deep_eltheric_a_3_area
+deep_eltheric_a_4_area
+deep_eltheric_a_5_area
+
+	}
+}
+
+the_far_sea_region = {
+	areas = {
+outer_far_sea_area
+northern_far_sea_area
+southern_far_sea_area 
+west_mizidir_coast
+wing_coast_area
+southern_wing_coast_area
+blades_strait_area
+
+	}
+}
+
+deep_eltheric_r_2_region = {
+	areas = {
+deep_eltheric_a_5_area
+deep_eltheric_a_6_area
+deep_eltheric_a_7_area
+deep_eltheric_a_8_area
+deep_eltheric_a_9_area
+deep_eltheric_a_10_area
+east_mustallah_coast_area
+}
