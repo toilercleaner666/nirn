@@ -184,3 +184,11 @@ aisikor_monkey_isles_region
 horizord_monkey_isles_region
 
 }
+
+far_eltheric_superregion = {
+
+deep_eltheric_r_1_region
+the_far_sea_region
+deep_eltheric_r_2_region
+
+}
