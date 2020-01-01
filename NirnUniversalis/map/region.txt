@@ -1343,3 +1343,147 @@ deep_eltheric_a_9_area
 deep_eltheric_a_10_area
 east_mustallah_coast_area
 }
+
+########################################
+# Northern Padomaeic Ocean             #
+########################################
+
+sea_of_ghosts_region = {
+	areas = {
+south_sea_of_ghosts_area
+central_sea_of_ghosts_1_area
+central_sea_of_ghosts_2_area
+central_sea_of_ghosts_4_area
+central_sea_of_ghosts_5_area
+roscrean_sea_area
+atmoran_coast_area
+	}
+}
+
+the_inner_sea_region = {
+	areas = {
+blacklight_sea_area
+sheogorad_area
+gnisis_bay_area
+western_inner_sea_area
+eastern_inner_sea_area
+zatirbel_bay_area
+	}
+}
+
+northern_padomaeic_region = {
+	areas = {
+northern_padomaeic_a_1_area
+northern_padomaeic_a_2_area
+northern_padomaeic_a_3_area
+northern_padomaeic_a_4_area
+northern_padomaeic_a_5_area
+northern_padomaeic_a_6_area
+northern_padomaeic_a_7_area
+west_kamal_coast_area
+northern_padomaeic_a_8_area
+north_kamal_coast_area
+koltorok_sea_area
+north_alkarik_bay_area
+	}
+}
+
+########################################
+# Central Padomaeic Ocean              #
+########################################
+
+akaviri_coast_region = {
+	areas = {
+huangya_coast_area
+tsaiga_coast_area
+tsaichong_sea_area
+zukich_sea_area
+makaan_sea_area
+west_vendis_bay_area
+lostis_sea_area
+	}
+}
+
+forgotten_sea_region = {
+	areas = {
+central_padomaeic_a_1_area
+central_padomaeic_a_2_area
+west_estrionet_sea_area
+black_harbor_sea_area
+elvaston_sea_area
+middle_sea_area
+sea_of_quey_area
+zahedaan_sea_area
+cathnoquey_sea_area
+ynesla_sea_area
+west_sea_of_quey_area
+sea_of_storms_area
+east_telvanni_sea_area
+west_telvanni_sea_area
+necrom_coast_area
+	}
+}
+
+central_padomaeic_region = {
+	areas = {
+central_padomaeic_a_2_area
+central_padomaeic_a_3_area
+central_padomaeic_a_4_area
+central_padomaeic_a_5_area
+central_padomaeic_a_6_area
+central_padomaeic_a_7_area
+coast_of_tears_area
+central_padomaeic_a_8_area
+central_padomaeic_a_9_area
+	}
+}
+
+black_marsh_seas_region = {
+	areas = {
+archon_sea_area
+oliis_bay_area
+north_swamp_area
+lake_pattru_area
+soulrest_coast_area
+	}
+}
+
+niben_river_region = {
+	areas = {
+topal_sea_area
+niben_bay_area
+lake_rumare_area
+}
+
+alkarik_bay_region = {
+	areas = {
+central_alkarik_bay_area
+southeast_alkarik_bay_area
+southwest_alkarik_bay_area
+	}
+}
+
+monkey_isles_region = {
+	areas = {
+soklun_sea_area
+oldandin_sea_area
+trusis_sea_area
+	}
+}
+
+southern_padomaeic_ocean = {
+	areas = {
+western_mer_sea_area
+southern_padomaeic_ocean_1_area
+southern_padomaeic_ocean_2_area
+southern_padomaeic_ocean_3_area
+southern_padomaeic_ocean_4_area
+southern_padomaeic_ocean_5_area
+southern_padomaeic_ocean_6_area
+southern_padomaeic_ocean_7_area
+southern_padomaeic_ocean_8_area
+southern_padomaeic_ocean_9_area
+southern_padomaeic_ocean_10_area
+southern_padomaeic_ocean_11_area
+	}
+}
