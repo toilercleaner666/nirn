@@ -192,3 +192,29 @@ the_far_sea_region
 deep_eltheric_r_2_region
 
 }
+
+northern_padomaeic_ocean_superregion = {
+	regions = {
+sea_of_ghosts_region
+the_inner_sea_region
+northern_padomaeic_region
+	}
+}
+
+central_padomaeic_ocean_superregion = {
+	regions = {
+akaviri_coast_region
+forgotten_sea_region
+central_padomaeic_region
+black_marsh_seas_region
+niben_river_region
+alkarik_bay_region
+monkey_isles_region
+	}
+}
+
+southern_padomaeic_ocean_superregion = {
+	regions = { 
+southern_Padomaeic_ocean
+	}
+}
