@@ -120,10 +120,10 @@ mustallah_superregion = {
 
 
 northern_mustallah_mustallah_region
-astiran_valley_mustallah_region
-southern_coast_mustallah_region
-great_central_dryland_mustallah_region
-west_mustallah_mustallah_region
+	astiran_valley_mustallah_region
+	southern_coast_mustallah_region
+	great_central_dryland_mustallah_region
+	west_mustallah_mustallah_region
 
 }
 
@@ -131,91 +131,89 @@ krishan_superregion = {
 
 	southern_peninsula_krishan_region
 	west_wing_krishan_region
-east_wing_krishan_region
-mizidir_krishan_region
+	east_wing_krishan_region
+	mizidir_krishan_region
 
 }
 
 kamal_superregion = {
 
-koltorok_kamal_region
-azanmaad_kamal_region
-ada_soom_kamal_region
-halsakal_kamal_region
-falsandraas_kamal_region
+	koltorok_kamal_region
+	azanmaad_kamal_region
+	ada_soom_kamal_region
+	halsakal_kamal_region
+	falsandraas_kamal_region
 
 }
 
 mihuang_superregion = {
 
-salvarak_mihuang_region
-dunsindon_mihuang_region
-traaknaas_mihuang_region
-aldanmire_mihuang_region
+	salvarak_mihuang_region
+	dunsindon_mihuang_region
+	traaknaas_mihuang_region
+	aldanmire_mihuang_region
 
 }
 
 kakhan_superregion = {
 
-glittering_horn_kakhan_region
-westwind_kakhan_region
-wirzan_kakhan_region
-the_goldon_fields_kakhan_region
-the_old_scar_kakhan_region
+	glittering_horn_kakhan_region
+	westwind_kakhan_region
+	wirzan_kakhan_region
+	the_goldon_fields_kakhan_region
+	the_old_scar_kakhan_region
 
 }
 
 kangsun_superregion = {
 
-chengura_kangsun_region
-jithai_kangsun_region
-east_chengura_kangsun_region
-kokodo_kangsun_region
-central_kangsun_kangsun_region
+	chengura_kangsun_region
+	jithai_kangsun_region
+	east_chengura_kangsun_region
+	kokodo_kangsun_region
+	central_kangsun_kangsun_region
 
 }
 
 monkey_isles_superregion = {
 
-pot-sir_monkey_isles_region
-uisanaad_monkey_isles_region
-silarenen_monkey_isles_region
-redrorth_monkey_isles_region
-aisikor_monkey_isles_region
-horizord_monkey_isles_region
+	pot-sir_monkey_isles_region
+	uisanaad_monkey_isles_region
+	silarenen_monkey_isles_region
+	redrorth_monkey_isles_region
+	aisikor_monkey_isles_region
+	horizord_monkey_isles_region
 
 }
 
 far_eltheric_superregion = {
 
 deep_eltheric_r_1_region
-the_far_sea_region
-deep_eltheric_r_2_region
+	the_far_sea_region
+	deep_eltheric_r_2_region
 
 }
 
 northern_padomaeic_ocean_superregion = {
-	regions = {
-sea_of_ghosts_region
-the_inner_sea_region
-northern_padomaeic_region
-	}
+	sea_of_ghosts_region
+	the_inner_sea_region
+	northern_padomaeic_region
 }
 
 central_padomaeic_ocean_superregion = {
-	regions = {
-akaviri_coast_region
-forgotten_sea_region
-central_padomaeic_region
-black_marsh_seas_region
-niben_river_region
-alkarik_bay_region
-monkey_isles_region
+	akaviri_coast_region
+	forgotten_sea_region
+	central_padomaeic_region
+	black_marsh_seas_region
+	niben_river_region
+	alkarik_bay_region
+	monkey_isles_region
 	}
-}
 
 southern_padomaeic_ocean_superregion = {
-	regions = { 
-southern_Padomaeic_ocean
-	}
+	southern_Padomaeic_ocean
+}
+
+wasteland_superregion = {
+	wasteland_region
 }
