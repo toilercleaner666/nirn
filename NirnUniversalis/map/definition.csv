@@ -188,7 +188,7 @@ provinces;red;green;blue;x;x
 187;74;233;91;Old Orsinium;x
 188;63;63;130;Grudge-Rock;x
 189;165;66;193;Sjinji's Scarp;x
-190;88;28;146;Windkeep;x
+190;88;28;246;Windkeep;x
 191;31;92;202;Nornalhorst;x
 192;120;153;226;Norvulk;x
 193;251;132;135;Portdun;x
@@ -233,7 +233,7 @@ provinces;red;green;blue;x;x
 232;154;95;237;White Haven;x
 233;162;89;19;Crestshade;x
 234;6;7;144;Meir Thorvale;x
-235;60;44;124;Doomcrag;x
+235;142;33;5;Doomcrag;x
 236;116;44;248;Erokii;x
 237;219;142;74;Par Molag;x
 238;151;113;109;Meir Darguard;x
@@ -275,8 +275,8 @@ provinces;red;green;blue;x;x
 274;48;174;66;Ilessan Tower;x
 275;86;108;231;Betony;x
 276;13;2;3;Blacklight;x
-277;26;110;170;Tulune;x
-278;200;132;122;Soluthis;x
+277;147;174;240;Tulune;x
+278;147;132;122;Soluthis;x
 279;190;94;12;Cormaris View;x
 280;92;187;191;Rhun Huk;x
 281;88;67;143;Silgrad Tower;x

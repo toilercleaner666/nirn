@@ -93,9 +93,9 @@ falkreath_skyrim_region = {
 
 hjaalmarch_skyrim_region = {
 	areas = {
-		hjall_bog_area
+		hjaal_bog_area
 		morthal_area
-		hjall_pass_area
+		hjaal_pass_area
 		karth_delta_area
 		snowhawk_swamps_area
 		southern_hjaalmarch_area
@@ -1201,7 +1201,7 @@ east_chengura_kangsun_region = {
 
 kokodo_kangsun_region = {
 	areas = {
-		makan_area
+		mekan_area
 		huangya_area
 		michung_area
 		yalin_area
@@ -1489,15 +1489,5 @@ southern_padomaeic_ocean = {
 		southern_padomaeic_ocean_9_area
 		southern_padomaeic_ocean_10_area
 		southern_padomaeic_ocean_11_area
-	}
-}
-
-########################################
-# WASTELAND                            #
-########################################\
-
-wasteland_region = {
-	areas = {
-		wasteland_area
 	}
 }
