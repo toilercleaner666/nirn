@@ -1,0 +1,5 @@
+# Dummy country
+
+AAA = "countries/Dummy.txt"
+
+# Cyrodiil
