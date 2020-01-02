@@ -1,4 +1,4 @@
-#!/bin/sh
+##!/bin/sh
 #for i in {1..4272}
 #do
 #	cat ${i}-${i}.txt

@@ -14,3 +14,10 @@ tags={
 	"Religion"
 }
 supported_version="1.29.*.*"
+replace_path="history/countries"
+replace_path="history/diplomacy"
+replace_path="history/provinces"
+replace_path="history/wars"
+replace_path="events"
+replace_path="decisions"
+replace_path="missions"
