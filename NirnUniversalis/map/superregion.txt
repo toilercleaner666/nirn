@@ -69,6 +69,7 @@ highrock_superregion = {
 	northern_bangkorai_highrock_region
 	wrothgar_highrock_region
 	rivenspire_highrock_region
+	stormhaven_highrock_region
 }
 
 padomaic_superregion = {

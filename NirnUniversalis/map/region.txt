@@ -107,7 +107,7 @@ pale_skyrim_region = {
 		dawnstar_port_area
 		labyrinthian_area
 		red_road_pass_area
-		yogrim_area
+		yorgim_area
 		uttering_hills_area
 	}
 }
@@ -558,6 +558,14 @@ rivenspire_highrock_region = {
 	}
 }
 
+stormhaven_highrock_region = {
+	areas = {
+		gavaudon_area
+		wayrest_area
+		menevia_area
+	}
+}
+
 ########################################
 # PADOMAIC ISLANDS                     #
 ########################################
@@ -613,8 +621,6 @@ northern_pyandonea_pyandonea_region = {
         eastern_coast_area
         the_lost_valley_area
         covered_cliffs_area
-
-
 	}
 }
 
@@ -628,9 +634,7 @@ pillar_isles_pyandonea_region = {
         isle_of_riches_area
         kowaht_area
         crab_coast_area
-
-
-
+        sea_serpent_cove_area
 	}
 }
 
@@ -1074,11 +1078,11 @@ sorithes_area
 
 aldanmire_mihuang_region = {
 	areas = {
-kreschef_area
-orisapta_area
-delsar_area
-solistra_area
-
+		kreschef_area
+		orisapta_area
+		delsar_area
+		solistra_area
+		morsis_area
 	}
 }
 
@@ -1170,28 +1174,28 @@ koji_area
 
 jithai_kangsun_region = {
 	areas = {
-sueylin_peninsula_area
-tsaichong_area
-kantashi_area
-teshou_area
-hitsu_area
-kachoi_area
-asfara_area
-tsuchen_area
-ruxiu_area
-thaijishi_area
-
+		sueylin_peninsula_area
+		tsaichong_area
+		kantashi_area
+		teshou_area
+		hitsu_area
+		kachoi_area
+		kizhang_area
+		asfara_area
+		tsuchen_area
+		ruxiu_area
+		thaijishi_area
 	}
 }
 
 east_chengura_kangsun_region = {
 	areas = {
-mashou_area
-deokai_area
-sueykim_area
-chenlei_area
-chunu_area
-
+		mashou_area
+		deokai_area
+		sueykim_area
+		chenlei_area
+		chunu_area
+		hirusa_area
 	}
 }
 
