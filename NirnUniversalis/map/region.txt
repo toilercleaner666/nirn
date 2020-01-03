@@ -1169,7 +1169,7 @@ chengura_kangsun_region = {
 		xiulei_area
 		kan_area
 		koji_area
-
+		turov_area
 	}
 }
 
@@ -1368,7 +1368,7 @@ sea_of_ghosts_region = {
 the_inner_sea_region = {
 	areas = {
 		blacklight_sea_area
-		sheogorad_area
+		sheogorad_sea_area
 		gnisis_bay_area
 		western_inner_sea_area
 		eastern_inner_sea_area

@@ -15,7 +15,7 @@ provinces;red;green;blue;x;x
 14;120;30;2;Winterhold;x
 15;250;53;177;Saarthal;x
 16;73;57;239;Snowpoint Beacon;x
-17;211;90;232;Amol;x
+17;221;90;232;Amol;x
 18;180;2;177;Snow Veil Sanctum;x
 19;121;35;238;Snow Veil;x
 20;142;87;29;Fort Kastav;x
@@ -29,7 +29,7 @@ provinces;red;green;blue;x;x
 28;137;192;100;Windhelm;x
 29;38;127;108;Dragon Wood;x
 30;87;152;57;Kynesgrove;x
-31;132;94;64;Dawnstar;x
+31;42;91;48;Dawnstar;x
 32;158;164;243;Helarchan Creek;x
 33;216;159;222;Morvunskar;x
 34;59;255;176;Uttering Hills;x
@@ -274,9 +274,9 @@ provinces;red;green;blue;x;x
 273;108;87;64;Daggerfall;x
 274;48;174;66;Ilessan Tower;x
 275;86;108;231;Betony;x
-276;13;2;3;Blacklight;x
+276;26;110;170;Blacklight;x
 277;147;174;240;Tulune;x
-278;147;132;122;Soluthis;x
+278;200;132;122;Soluthis;x
 279;190;94;12;Cormaris View;x
 280;92;187;191;Rhun Huk;x
 281;88;67;143;Silgrad Tower;x
@@ -683,7 +683,7 @@ provinces;red;green;blue;x;x
 682;80;79;192;Endre;x
 683;23;216;194;Piukanda;x
 684;141;71;116;Fort Coldcom;x
-685;225;122;0;Sheltered Leaves;x
+685;82;89;150;Sheltered Leaves;x
 686;92;164;58;Sercen;x
 687;169;253;70;Aleswell;x
 688;38;226;134;Glademist;x
@@ -801,7 +801,7 @@ provinces;red;green;blue;x;x
 800;52;114;159;Sweetwater Camp;x
 801;245;131;41;Robber's Glen;x
 802;165;231;16;Castle Faregyl;x
-803;242;102;192;Harcane Grove;x
+803;140;242;125;Harcane Grove;x
 804;32;209;194;Fort Black Foot;x
 805;100;240;167;Wenyandawik;x
 806;248;46;92;Anutwyll;x
@@ -916,7 +916,7 @@ provinces;red;green;blue;x;x
 915;76;77;136;Fort Urasek;x
 916;54;38;107;Vilverin;x
 917;98;4;208;Fort Caractacus;x
-918;12;72;32;Fathis Aren's Tower;x
+918;197;80;230;Fathis Aren's Tower;x
 919;4;144;169;Aleswell;x
 920;10;125;152;Roxeyville;x
 921;215;14;148;Frostfire Glade  ;x
@@ -1139,7 +1139,7 @@ provinces;red;green;blue;x;x
 1138;76;206;160;Palesti;x
 1139;166;192;208;Daferti;x
 1140;126;93;226;Ehua;x
-1141;225;228;181;Secula;x
+1141;255;228;181;Secula;x
 1142;2;43;14;Artinea;x
 1143;193;29;45;Norfeasta;x
 1144;15;212;37;Pontu;x
@@ -1397,7 +1397,7 @@ provinces;red;green;blue;x;x
 1396;151;186;13;Streambridge;x
 1397;216;221;201;Floodrow;x
 1398;166;221;6;Helstrom;x
-1399;108;237;254;Narstrom;x
+1399;108;237;245;Narstrom;x
 1400;105;127;65;Halucix;x
 1401;62;32;236;Stickville;x
 1402;133;143;47;Tamedwalk;x
@@ -1427,7 +1427,7 @@ provinces;red;green;blue;x;x
 1426;174;192;36;Spikmont;x
 1427;39;57;248;Fishfoks;x
 1428;186;207;129;Yellow Coast;x
-1429;151;110;152;Bambwood;x
+1429;135;38;160;Bambwood;x
 1430;10;176;190;Gideon;x
 1431;236;127;152;Giovesse;x
 1432;254;133;160;Tardorn Wood;x
@@ -1956,7 +1956,7 @@ provinces;red;green;blue;x;x
 1955;110;137;20;1955;x
 1956;106;15;186;1956;x
 1957;99;37;115;1957;x
-1958;223;59;20;1958;x
+1958;233;59;20;1958;x
 1959;104;44;81;1959;x
 1960;198;14;175;1960;x
 1961;206;209;33;1961;x
@@ -1997,7 +1997,7 @@ provinces;red;green;blue;x;x
 1996;32;154;117;1996;x
 1997;41;172;24;1997;x
 1998;41;192;189;1998;x
-1999;238;195;187;1999;x
+1999;228;195;187;1999;x
 2000;65;141;129;2000;x
 2001;99;185;13;2001;x
 2002;145;108;187;2002;x
@@ -2594,7 +2594,7 @@ provinces;red;green;blue;x;x
 2593;152;157;47;2593;x
 2594;152;45;236;2594;x
 2595;223;48;173;2595;x
-2596;239;18;145;2596;x
+2596;81;141;76;2596;x
 2597;190;51;100;2597;x
 2598;222;220;232;2598;x
 2599;254;187;49;2599;x
@@ -2612,7 +2612,7 @@ provinces;red;green;blue;x;x
 2611;41;182;183;2611;x
 2612;101;101;94;2612;x
 2613;88;186;178;Last  Krishan;x
-2614;98;31;196;First Kamal;x
+2614;85;170;182;First Kamal;x
 2615;4;72;169;2615;x
 2616;237;154;7;2616;x
 2617;99;37;221;2617;x
@@ -2687,7 +2687,7 @@ provinces;red;green;blue;x;x
 2686;176;237;83;2686;x
 2687;185;115;179;2687;x
 2688;172;107;110;2688;x
-2689;150;246;113;2689;x
+2689;150;246;133;2689;x
 2690;186;113;49;2690;x
 2691;172;113;139;2691;x
 2692;222;28;123;2692;x
@@ -2750,7 +2750,7 @@ provinces;red;green;blue;x;x
 2749;97;141;84;2749;x
 2750;148;41;32;2750;x
 2751;243;229;245;2751;x
-2752;176;241;32;2752;x
+2752;95;1;255;2752;x
 2753;114;246;68;2753;x
 2754;103;52;54;2754;x
 2755;1;162;192;2755;x
@@ -3263,7 +3263,7 @@ provinces;red;green;blue;x;x
 3260;124;95;161;3260;x
 3261;53;98;171;3261;x
 3262;125;90;221;3262;x
-#3263;;;;UNUSED;x
+3263;83;182;103;unnamed island;x
 3264;23;123;150;3264;x
 3265;85;95;121;3265;x
 3266;113;81;229;3266;x

@@ -14,7 +14,7 @@ alten_meirhall_area = {
 }
 
 longmont_area = {
-	1254 1256 4600
+	1256 1266 4600
 
 }
 
@@ -24,7 +24,7 @@ blackrose_area = {
 }
 
 rockpark_area = {
-	1288 1287 1288 1289
+	1286 1287 1288 1289
 
 }
 
@@ -34,7 +34,7 @@ moonmarsh_area = {
 }
 
 soulrest_area = {
-	1277 1278 1279 1280
+	1275 1277 1278 1279 1280
 
 }
 
@@ -169,8 +169,8 @@ western_stormwood_area = { 1377 1378 1380 1389
 
 }
 
-marauder_coast_area = { 1271 1272 1273 1274 1276
-
+marauder_coast_area = {
+	1271 1272 1273 1274 1276
 }
 
 darkmoot_area = { 1263 1269 1270
@@ -262,15 +262,15 @@ woodhearth_area = {
 }
 
 wilderkings_court_area = {
-	1576 1584 1585
+	1576 1584 1585 1667
 }
 
 wildercoast_area = {
-	1561 1562 1568 1570 1586
+	1570 1586 1662 1663 1665
 }
 
 greenheart_area = {
-	1564 1571 1572 1573 1574
+	1571 1572 1573 1574 1664
 }
 
 marbuk_area = {
@@ -318,7 +318,7 @@ tarlain_heights_area = {
 }
 
 tarlain_coast_area = {
-	1541 1543 1544 1569
+	1541 1543 1544 1661
 }
 
 akhay_plains_area = {
@@ -694,7 +694,7 @@ panters_mouth_area = {
 #Heartlands
 
 imperial_isle_area = {
-	814 815 816 817 818 819 820 821 823 824
+	814 815 816 817 818 819 820 821 822 823 824
 }
 
 southwestern_shore_area = {
@@ -1064,7 +1064,7 @@ boethian_mountains_area = {
 }
 
 sadrith_mora_area = {
-	385 386 390 395
+	385 386 390 394
 }
 
 velothi_coast_area = {
@@ -2374,6 +2374,10 @@ the_eye_area = {
 # Kangsun                              #
 ########################################
 
+turov_area = {
+	1941 1942 1943 1944 1971
+}
+
 tsaiga_area = {
 	1958 1959 1957 1962 1956 1960
 }
@@ -3152,7 +3156,7 @@ blacklight_sea_area = {
 	 3224 3225 3226 2229 2230 3231 3545 3544
 }
 
-sheogorad_area = {
+sheogorad_sea_area = {
 	3232 3233 3550 3549 3548 3547 3546
 }
 
