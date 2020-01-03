@@ -1,5 +1,8 @@
-# Dummy country
+# Other countries
 
 AAA = "countries/Dummy.txt"
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
 
 # Cyrodiil
