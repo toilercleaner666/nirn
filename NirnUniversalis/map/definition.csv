@@ -588,7 +588,7 @@ provinces;red;green;blue;x;x
 587;60;220;51;Eastern Pass;x
 588;16;16;163;Skangar (M);x
 589;159;184;205;Lightunhold (M);x
-590;236;240;0;Vehehod Vurn (M);x
+590;236;204;0;Vehehod Vurn (M);x
 591;155;3;14;Tildrilith (M);x
 592;177;144;223;Skahler (M);x
 593;127;18;110;Stonemoor;x
@@ -644,7 +644,7 @@ provinces;red;green;blue;x;x
 643;107;79;138;Nimbel;x
 644;127;188;201;Adamant;x
 645;117;172;100;Ankara;x
-646;87;75;174;Spellscar;x
+646;97;75;174;Spellscar;x
 647;123;7;182;Zalgaz;x
 648;53;124;148;Gahlovi (M);x
 649;146;104;58;Scorpion Ravines;x
@@ -656,7 +656,7 @@ provinces;red;green;blue;x;x
 655;162;46;50;Damar;x
 656;120;58;93;Cilla-Karak;x
 657;212;150;41;Fearfrost;x
-658;37;28;89;Rahni'Za;x
+658;37;29;89;Rahni'Za;x
 659;75;189;126;Tear;x
 660;130;142;3;Pale Pass;x
 661;156;24;80;Wildeye;x
@@ -765,7 +765,7 @@ provinces;red;green;blue;x;x
 764;160;178;159;Niryastare;x
 765;255;110;63;Trumbe;x
 766;187;185;255;Fort Wariel;x
-767;205;169;212;Gottshaw;x
+767;206;169;212;Gottshaw;x
 768;163;128;3;Belletor's Folly;x
 769;2;15;140;Jodestone;x
 770;229;96;29;Egriril (M);x
@@ -962,7 +962,7 @@ provinces;red;green;blue;x;x
 961;65;62;225;Akatosh's Rock;x
 962;35;142;9;Fort Scinia;x
 963;142;78;144;Arrius;x
-964;18;36;126;Hal Verovar;x
+964;199;90;51;Hal Verovar;x
 965;106;190;194;Stirk;x
 966;241;193;134;Skywatch;x
 967;48;67;11;Ezduiin;x
@@ -970,7 +970,7 @@ provinces;red;green;blue;x;x
 969;166;66;108;Lover's Temple;x
 970;19;252;99;Entila's Folly;x
 971;217;173;69;Shattered Grove;x
-972;6;293;137;Toothmaul Gully;x
+972;6;239;137;Toothmaul Gully;x
 973;251;10;64;Auridon Hills;x
 974;134;202;230;Mathiisen;x
 975;176;26;252;Mathiisen Manor;x
@@ -1015,10 +1015,10 @@ provinces;red;green;blue;x;x
 1014;7;135;57;Torinaan;x
 1015;132;98;238;Heritance Foothills;x
 1016;52;143;231;Panersewen;x
-1017;255;175;252;Firsthold;x
+1017;255;176;252;Firsthold;x
 1018;147;139;77;Greenwater Wayshrine;x
-1019;24;235;40;Mehrunes' Spite;x
-1020;30;229;250;Shimmering Beaches;x
+1019;24;235;240;Mehrunes' Spite;x
+1020;30;229;50;Shimmering Beaches;x
 1021;179;111;48;Greenwater Cove;x
 1022;144;100;189;Camdia;x
 1023;227;139;157;Old Hall;x
@@ -1501,7 +1501,7 @@ provinces;red;green;blue;x;x
 1500;128;45;79;Ein Meirvale;x
 1501;110;105;143;Flatlands (M);x
 1502;214;205;226;Helkarn Land;x
-1503;128;190;34;Greenvale;x
+1503;218;190;34;Greenvale;x
 1504;143;149;81;Rawl'kha;x
 1505;200;67;234;Heimthor Mount;x
 1506;248;9;245;Verkarth Hills;x
@@ -1535,7 +1535,7 @@ provinces;red;green;blue;x;x
 1534;198;177;13;Stonesquare;x
 1535;3;223;210;Rekran (M);x
 1536;181;193;160;Long Coast;x
-1537;186;2;1;Gray Mire;x
+1537;186;2;11;Gray Mire;x
 1538;89;249;204;Eplearswood (M);x
 1539;231;156;218;Southpoint;x
 1540;15;151;80;Raincross (M);x
@@ -1559,15 +1559,15 @@ provinces;red;green;blue;x;x
 1558;70;165;234;Oakhold Fort (M);x
 1559;244;88;115;Redfur;x
 1560;254;208;230;Moonmont Approach;x
-1561;126;145;81;Longhaven;x
-1562;218;242;200;Fort Bluewatch;x
+1561;131;155;223;Longhaven;x
+1562;74;218;198;Fort Bluewatch;x
 1563;105;106;92;Shaagravine;x
-1564;19;90;176;Greenheart;x
+1564;43;216;159;Greenheart;x
 1565;227;192;124;Elmhearth (M);x
 1566;154;182;235;Grenos;x
 1567;80;174;11;Moliva;x
-1568;190;52;47;Haserma;x
-1569;249;129;172;Seaside Sanctuary;x
+1568;144;252;9;Haserma;x
+1569;91;241;216;Seaside Sanctuary;x
 1570;102;140;192;Vulain;x
 1571;15;107;20;Rheli Sul (M);x
 1572;27;106;225;Spinner's Village;x
@@ -1638,7 +1638,7 @@ provinces;red;green;blue;x;x
 1637;86;38;53;Strid Basin;x
 1638;211;227;192;Baandari;x
 1639;238;44;131;Ogrim's Yawn;x
-1640;254;38;167;Dra'bul;x
+1640;245;38;167;Dra'bul;x
 1641;123;144;39;Wilding Run;x
 1642;51;21;30;Vekres (M);x
 1643;113;124;243;Deepwoods;x
@@ -1659,13 +1659,13 @@ provinces;red;green;blue;x;x
 1658;215;211;5;Stros M'kai;x
 1659;215;31;190;Stros Pier;x
 1660;197;70;34;East Chain;x
-#1661;28;253;253;UNUSED 1;x
-#1662;29;203;203;UNUSED 2;x
-#1663;30;203;253;UNUSED 3;x
-#1664;31;223;253;UNUSED 4;x
-#1665;32;253;253;UNUSED 5;x
+1661;249;129;172;VALENWOOD NAME 1;x
+1662;180;52;47;VALENWOOD NAME 2;x
+1663;218;242;200;VALENWOOD NAME 3;x
+1664;19;90;176;VALENWOOD NAME 4;x
+1665;126;145;81;VALENWOOD NAME 5;x
 1666;8;225;54;West Chain;x
-#1667;34;203;253;UNUSED 6;x
+1667;183;244;83;VALENWOOD NAME 6;x
 1668;239;107;188;North Caspar;x
 1669;197;5;66;South Caspar;x
 1670;79;89;137;North Herne;x
@@ -1679,7 +1679,7 @@ provinces;red;green;blue;x;x
 1678;47;149;20;1678;x
 1679;15;178;225;Asul Ydur;x
 1680;39;0;208;1680;x
-1681;64;89;223;Seuol Ydur;x
+1681;64;89;123;Seuol Ydur;x
 1682;122;138;109;Siol;x
 1683;91;76;126;1683;x
 1684;14;129;36;Zanzar;x
@@ -1798,7 +1798,7 @@ provinces;red;green;blue;x;x
 1797;73;158;6;Postma;x
 1798;36;61;44;Fortsev;x
 1799;70;145;141; Bone Isle;x
-1800;83;182;103;Goldcrown;x
+1800;202;248;244;Goldcrown;x
 1801;74;230;108;Southpoint;x
 1802;87;56;207;Vroom;x
 1803;147;106;73;Worcshir;x

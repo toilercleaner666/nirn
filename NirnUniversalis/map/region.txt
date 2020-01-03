@@ -41,6 +41,7 @@ greenshade_valenwood_region = {
 		elden_grove_area
 		golden_grove_area
 		drowned_coast_area
+		drowned_coast_islands_area
 		woodhearth_area
 		marbuk_area
 		wilderkings_court_area

@@ -193,6 +193,9 @@ foggy_bog_area = { 1322 1323 1324 1325
 # VALENWOOD
 ######################################
 
+drowned_coast_islands_area = {
+	1655 1656 1657 
+}
 
 arenthian_borderlands_area = {
 	1610 1611 1612 1613 1616
@@ -527,7 +530,7 @@ brena_basin_area = {
 }
 
 jarol_stronghold_area = {
-	778 782 783
+	779 782 783
 }
 
 brena_river_ruins_area = {
@@ -1300,11 +1303,11 @@ westpoint_area = {
 }
 
 toran_area = {
-	1243 1244 1245 1246 1247
+	1243 1244 1245 1246 1247 1133
 }
 
 pirate_coast_area = {
-	1133 1140 1141 1142
+	1140 1141 1142
 }
 
 fields_of_maka_area = {
