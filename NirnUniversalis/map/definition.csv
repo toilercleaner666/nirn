@@ -2999,7 +2999,7 @@ provinces;red;green;blue;x;x
 2998;250;226;232;2998;x
 2999;137;233;64;2999;x
 3000;179;60;90;Last monkey Isles;x
-3001;48;48;48;Atmora;x
+3001;93;93;93;Atmora;x
 3002;49;49;49;Mount Anthor;x
 3003;50;50;50;Shearpoint;x
 3004;51;51;51;Eldersblood Peak;x
@@ -3044,8 +3044,8 @@ provinces;red;green;blue;x;x
 3042;90;90;90;North Korzaad;x
 3043;91;91;91;South Korzaad;x
 3044;92;92;92;Mizidir Wastes;x
-3045;93;93;93;Kastrav Mountains;x
-3046;94;94;94;Peadonay Mountains;x
+3045;12;12;12;Kastrav Mountains;x
+3046;109;191;206;Peadonay Mountains;x
 3047;133;107;126;Vinedusk;x
 3048;233;189;16;Marbuk Field;x
 3049;211;38;149;Wonderrush (M);x
