@@ -898,6 +898,7 @@ astiran_valley_mustallah_region = {
 		sol_coast_area
 		upper_astiran_river_area
 		nacelle_rote_ti_area
+		mithill_area
 		southern_grey_foothills_area
 	}
 }
@@ -1238,7 +1239,7 @@ pot-sir_monkey_isles_region = {
 		altornin_islands_area
 		rokasis_area
 		darosis_area
-
+		kharshnav_area
 	}
 }
 
