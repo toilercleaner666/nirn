@@ -392,3 +392,9 @@ type={
 #		}
 #	}
 #}
+# IN DEFAULT.MAP
+#canal_definition = {
+#	name = "panama_canal"
+#	x = 1490
+#	y = 948
+#}
