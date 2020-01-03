@@ -168,7 +168,7 @@ shadowfen_argonia_region = {
 oliis_bay_argonia_region = {
 	areas = {
 
-		lilmoth_area
+		lillmoth_area
 		gator_glades_area
 		rockpark_area
 		archon_area
@@ -919,6 +919,7 @@ great_central_dryland_mustallah_region = {
 		tencine_area
 		touoft_area
 		silent_sands_area
+		maltanna_area
 	}
 }
 
@@ -1170,7 +1171,6 @@ chengura_kangsun_region = {
 		xiulei_area
 		kan_area
 		koji_area
-		turov_area
 	}
 }
 
@@ -1218,11 +1218,10 @@ central_kangsun_kangsun_region = {
 		shulin_area
 		yangra_area
 		yietsu_area
-		ruguo_area
 		zensho_area
 		laoshu_area
 		taishi_area
-
+		turov_area
 	}
 }
 
@@ -1341,7 +1340,6 @@ the_far_sea_region = {
 
 deep_eltheric_r_2_region = {
 	areas = {
-		deep_eltheric_a_5_area
 		deep_eltheric_a_6_area
 		deep_eltheric_a_7_area
 		deep_eltheric_a_8_area
@@ -1432,7 +1430,6 @@ forgotten_sea_region = {
 
 central_padomaeic_region = {
 	areas = {
-		central_padomaeic_a_2_area
 		central_padomaeic_a_3_area
 		central_padomaeic_a_4_area
 		central_padomaeic_a_5_area
