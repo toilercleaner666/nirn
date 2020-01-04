@@ -676,100 +676,100 @@ Province,Name,Base Tax,Base Production,Base Manpower,Trade Good,Culture,Religion
 985,South Beacon,,,,,,,,
 986,Illuvamir Dolmen,,,,,,,,
 987,Monkey's Rest,,,,,,,,
-988,Gilsailen;x
-989,Scarp Camp;x
-1000,Buraniim Isle;x
-1001,Glister Vale;x
-1002,Raptor's Cove;x
-1003,Heritance Proving;x
-1004,Quendeluun;x
-1005,Almarchet;x
-1006,Topal's Landing;x
-1007,Wansalen;x
-1008,Beacon Falls;x
-1009,North Beacon;x
-1010,Nine-Prow Landing;x
-1011,College of Aldmeri;x
-1012,Dawnbreak;x
-1013,Nelanya;x
-1014,orinaan;x
-1015,Heritance Foothills;x
-1016,Panersewen;x
-1017,Firsthold;x
-1018,Greenwater Wayshrine;x
-1019,Mehrunes' Spite;x
-1020,Shimmering Beaches;x
-1021,Greenwater Cove;x
-1022,Camdia;x
-1023,Old Hall;x
-1024,Belotte;x
-1025,Krandar Watch;x
-1026,Springbreeze;x
-1027.Direnni Acropolis;x
-1028,Gryphon Aerie;x
-1029,Gryphon Run;x
-1030,Belport Run;x
-1031,Veyond Wyte;x
-1032,Kingshaven;x
-1033,Crystal Groves;x
-1034,Crystal-Like-Law;x
-1035,Graddun Spring;x
-1036,Congrad Wastes;x
-1037,Gradden;x
-1038,Corgrad Geyser;x
-1039,Malabria;x
-1040,Illumination Academy;x
-1041,Cathedral of Webs;x
-1042,Lillandril;x
-1043,Keelsplitter's Nest;x
-1044,Arata;x
-1045,Karnahrn;x
-1046,Ebon Stadmont;x
-1047,Sea Keep;x
-1048,Sarulas;x
-1049,Pastelin;x
-1050,College of Spiarchs;x
-1051,Slaughter;x
-1052,Sunhold;x
-1053,Alaxon'ald;x
-1054,Cunelyi;x
-1055,Terim;x
-1056,Varumil;x
-1057,Holly Falls;x
-1058,Holifal;x
-1059,Shimmerene;x
-1060,Ebonsamon;x
-1061,Rellenthil;x
-1062,Cloudrest;x
-1063,Eton Nir Grotto;x
-1064,Eldbur Ruins;x
-1065,Riverfeld;x
-1066,Russafeld;x
-1067,Ald Mora;x
-1068,Mossy Archer's Grove;x
-1069,Rosfeld;x
-1070,Stephanis Vineyards;x
-1071,Eldbur Sanctuary;x
-1072,Cambrian Crag;x
-1073,Auriel's Forest;x
-1074,Kingdom Fields;x
-1075,Shimmering Docks;x
-1076,Sungai;x
-1077,Rosefield;x
-1078,Auriel's Grove;x
-1079,Eton Nir Peaks;x
-1080,Mountain Shadows;x
-1081,High Garden;x
-1082;147;139;77;;x
-1083;106;80;43;;x
-1084;235;192;172;;x
+988,Gilsailen,,,,,,,,
+989,Scarp Camp,,,,,,,,
+1000,Buraniim Isle,,,,,,,,
+1001,Glister Vale,,,,,,,,
+1002,Raptor's Cove,,,,,,,,
+1003,Heritance Proving,,,,,,,,
+1004,Quendeluun,,,,,,,,
+1005,Almarchet,,,,,,,,
+1006,Topal's Landing,,,,,,,,
+1007,Wansalen,,,,,,,,
+1008,Beacon Falls,,,,,,,,
+1009,North Beacon,,,,,,,,
+1010,Nine-Prow Landing,,,,,,,,
+1011,College of Aldmeri,,,,,,,,
+1012,Dawnbreak,,,,,,,,
+1013,Nelanya,,,,,,,,
+1014,orinaan,,,,,,,,
+1015,Heritance Foothills,,,,,,,,
+1016,Panersewen,,,,,,,,
+1017,Firsthold,,,,,,,,
+1018,Greenwater Wayshrine,,,,,,,,
+1019,Mehrunes' Spite,,,,,,,,
+1020,Shimmering Beaches,,,,,,,,
+1021,Greenwater Cove,,,,,,,,
+1022,Camdia,,,,,,,,
+1023,Old Hall,,,,,,,,
+1024,Belotte,,,,,,,,
+1025,Krandar Watch,,,,,,,,
+1026,Springbreeze,,,,,,,,
+1027.Direnni Acropolis,,,,,,,,
+1028,Gryphon Aerie,,,,,,,,
+1029,Gryphon Run,,,,,,,,
+1030,Belport Run,,,,,,,,
+1031,Veyond Wyte,,,,,,,,
+1032,Kingshaven,,,,,,,,
+1033,Crystal Groves,,,,,,,,
+1034,Crystal-Like-Law,,,,,,,,
+1035,Graddun Spring,,,,,,,,
+1036,Congrad Wastes,,,,,,,,
+1037,Gradden,,,,,,,,
+1038,Corgrad Geyser,,,,,,,,
+1039,Malabria,,,,,,,,
+1040,Illumination Academy,,,,,,,,
+1041,Cathedral of Webs,,,,,,,,
+1042,Lillandril,,,,,,,,
+1043,Keelsplitter's Nest,,,,,,,,
+1044,Arata,,,,,,,,
+1045,Karnahrn,,,,,,,,
+1046,Ebon Stadmont,,,,,,,,
+1047,Sea Keep,,,,,,,,
+1048,Sarulas,,,,,,,,
+1049,Pastelin,,,,,,,,
+1050,College of Spiarchs,,,,,,,,
+1051,Slaughter,,,,,,,,
+1052,Sunhold,,,,,,,,
+1053,Alaxon'ald,,,,,,,,
+1054,Cunelyi,,,,,,,,
+1055,Terim,,,,,,,,
+1056,Varumil,,,,,,,,
+1057,Holly Falls,,,,,,,,
+1058,Holifal,,,,,,,,
+1059,Shimmerene,,,,,,,,
+1060,Ebonsamon,,,,,,,,
+1061,Rellenthil,,,,,,,,
+1062,Cloudrest,,,,,,,,
+1063,Eton Nir Grotto,,,,,,,,
+1064,Eldbur Ruins,,,,,,,,
+1065,Riverfeld,,,,,,,,
+1066,Russafeld,,,,,,,,
+1067,Ald Mora,,,,,,,,
+1068,Mossy Archer's Grove,,,,,,,,
+1069,Rosfeld,,,,,,,,
+1070,Stephanis Vineyards,,,,,,,,
+1071,Eldbur Sanctuary,,,,,,,,
+1072,Cambrian Crag,,,,,,,,
+1073,Auriel's Forest,,,,,,,,
+1074,Kingdom Fields,,,,,,,,
+1075,Shimmering Docks,,,,,,,,
+1076,Sungai,,,,,,,,
+1077,Rosefield,,,,,,,,
+1078,Auriel's Grove,,,,,,,,
+1079,Eton Nir Peaks,,,,,,,,
+1080,Mountain Shadows,,,,,,,,
+1081,High Garden,,,,,,,,
+1082,,,,,,,,,
+1083,,,,,,,,,
+1084,,,,,,,,,
 1085,Alinor,,,,,,,,
-1086,Ornandel;x
-1087,Cey-Tarn Keep;x
-1088,Eton Nir Groves;x
-1089,Scutters Pond;x
-1090,Eton Nir Cliffs;x
-1091,Isque;x
+1086,Ornandel,,,,,,,,
+1087,Cey-Tarn Keep,,,,,,,,
+1088,Eton Nir Groves,,,,,,,,
+1089,Scutters Pond,,,,,,,,
+1090,Eton Nir Cliffs,,,,,,,,
+1091,Isque,,,,,,,,
 1092,Eton Nir Foothills,,,,,,,,
 1093,Glenvia,,,,,,,,
 1094,Marnor,,,,,,,,
