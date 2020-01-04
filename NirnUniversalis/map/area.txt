@@ -1,9 +1,13 @@
 ﻿# A province can only belong to one area!
-#No restriction on size.
+# No restriction on size.
 
 ######################################
 # BLACK MARSH
 ######################################
+
+debug_area = {
+	# this is to test something [by sol].
+}
 
 alten_meirhall_area = {
 	1251 1252 1253 4601
@@ -2133,7 +2137,7 @@ viridri_area = {
 }
 
 wolvorik_area = {
-	2707 2709 2708 2710 2732
+	2709 2708 2710 2732
 }
 
 ilpinar_area = {

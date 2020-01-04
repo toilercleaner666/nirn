@@ -1208,7 +1208,6 @@ kokodo_kangsun_region = {
 		michung_area
 		yalin_area
 		ruguo_area
-
 	}
 }
 
@@ -1222,6 +1221,7 @@ central_kangsun_kangsun_region = {
 		laoshu_area
 		taishi_area
 		turov_area
+		oolem_area
 	}
 }
 
