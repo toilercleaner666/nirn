@@ -1,4 +1,4 @@
-provinces;red;green;blue;x;x
+﻿provinces;red;green;blue;x;x
 1;104;154;101;Jylkurfyk;x
 2;229;162;120;Skorraholt (M);x
 3;241;191;154;Kolssonafell (M);x
@@ -256,13 +256,13 @@ provinces;red;green;blue;x;x
 255;55;230;169;Trapjaw's Cove;x
 256;126;205;72;Bhoriane;x
 257;219;91;19;Spindleclutch;x
-258;241;204;165;Dywnenn;x
+258;241;204;165;Dwynnen;x
 259;223;160;2;Urvaius;x
-260;51;195;128;Phrygias;x
-261;201;199;1;Phrygias;x
-262;202;136;158;Anitclere;x
+260;51;195;128;Hillford;x
+261;201;199;1;Ryant;x
+262;202;136;158;Reich Gradkeep;x
 263;198;2;226;Mire Falls;x
-264;80;46;92;Hillford;x
+264;80;46;92;Phrygias;x
 265;43;12;122;Glenumbra Moors;x
 266;253;250;149;Dresan;x
 267;55;11;144;Vale Of The Guardians;x
