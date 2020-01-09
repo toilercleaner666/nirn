@@ -6,3 +6,19 @@ PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
 # Cyrodiil
+
+# Elswyer
+
+ABL = "countries/Albaster.txt"
+BRU = "countries/Brukar.txt"
+COR = "countries/Corinth.txt"
+DUU = "countries/Dune.txt"
+HEL = "countries/Helkar.txt"
+MAR = "countries/Marval.txt"
+OCR = "countries/Orcrest.txt"
+RIV = "countries/Riverhold.txt"
+SEN = "countries/Senchal.txt"
+TEN = "countries/Tenmar.txt"
+RIM = "countries/The_Rim.txt"
+TOR = "countries/Torval.txt"
+VER = "countries/Verkar.txt"
