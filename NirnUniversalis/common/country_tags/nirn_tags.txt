@@ -10,3 +10,7 @@ NAT = "countries/Natives.txt"
 # Elswyer
 
 ABL = "countries/Albaster.txt"
+
+#High Rock
+
+DGF = "countries/Daggerfall.txt"

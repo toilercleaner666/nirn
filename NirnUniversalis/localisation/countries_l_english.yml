@@ -1,3 +1,7 @@
-ALB: "Albaster"
-ALB_ADJ: "Albastrian"
-ALB_ADJ2: "Albastrian"
+l_english:
+ALB:0 "Albaster"
+ALB_ADJ:0 "Albastrian"
+DGF:0 "Daggerfall"
+DGF_ADJ:0 "Daggerfaller"
+ DGF:0 "Marrakesh"
+ DGF_ADJ:0 "Marrakesh"
