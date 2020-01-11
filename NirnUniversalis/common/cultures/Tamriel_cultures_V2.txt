@@ -366,7 +366,7 @@ Yeomcroft	Yeomfield	Yeomford	Yeomham	Yeomhart	Yeomhouse	Yeoming	Yeomsley	Yeomsly
   }
 
   ###ORSIMER###
-  
+
   Orsimer = {
   	graphical_culture = westerngfx
 

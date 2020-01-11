@@ -2,16 +2,16 @@
 
 
 
-culture = Colovian
+culture = Daggerian
 religion = 8_divines_rel
 hre = no
-base_tax = 1
+base_tax = 1S
 base_production = 1
 trade_goods = copper
 base_manpower = 1
 capital = "Penryn"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
+add_core = DGF owner = DGF controller = DGF
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
