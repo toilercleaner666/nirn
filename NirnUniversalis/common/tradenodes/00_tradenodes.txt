@@ -623,3 +623,18 @@ akavir_18_node = {
  	ai_will_propagate_through_trade = yes
 }
 
+akavir_19_node = {
+ 	location = 
+ 	members = {
+
+ 	}
+ 	ai_will_propagate_through_trade = yes
+}
+
+akavir_20_node = {
+ 	location = 
+ 	members = {
+
+ 	}
+ 	ai_will_propagate_through_trade = yes
+}
