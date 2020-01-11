@@ -1097,7 +1097,7 @@ taldeic_hills_area = {
 # HIGH ROCK
 ######################################
 daenia_area = {
-	273 274 275 277 4271
+	273 274 275 277 4271 4281
 }
 
 cambray_hills_area = {
