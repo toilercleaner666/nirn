@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = Daggerian	
+primary_culture = Daenian
 religion = 8_divines_rel
 technology_group = western
-capital = 252
+capital = 259
 
 
 1437.2.20 = {
