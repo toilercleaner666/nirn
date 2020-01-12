@@ -1,7 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = 
-add_accepted_culture = dragonbridger
+primary_culture = dragonbridger
 religion = 8_divines_rel
 technology_group = western
 capital = 104

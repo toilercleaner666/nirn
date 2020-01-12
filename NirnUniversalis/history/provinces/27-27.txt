@@ -11,7 +11,7 @@ trade_goods = copper
 base_manpower = 1
 capital = "Penryn"
 is_city = yes
-add_core = DNS owner = DNS controller = DNS
+add_core = DNS owner = DNS controller = DNS add_core = DAL
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

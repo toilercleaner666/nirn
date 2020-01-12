@@ -9,11 +9,11 @@ capital = 118
 
 1437.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Despot"
+		dynasty = Markarth
+		adm = 4
+		dip = 6
+		mil = 5
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
