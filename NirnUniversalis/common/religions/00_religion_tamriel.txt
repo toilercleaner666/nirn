@@ -1,4 +1,4 @@
-#Religions of Tamriel
+#Religions of Tamriel	
 
 divines_religion_group = {
 	defender_of_faith = yes

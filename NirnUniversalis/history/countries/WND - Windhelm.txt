@@ -1,0 +1,22 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = eastmarcher
+religion = 8_divines_rel
+technology_group = western
+capital = 28
+
+
+1437.2.20 = {
+	monarch = {
+		name = "Freydis"
+		dynasty = "Logrofid"
+		adm = 2
+		dip = 1
+		mil = 2
+		religion = 8_divines_rel
+		culture = eastmarcher
+		female = yes
+	}
+	clear_scripted_personalities = yes
+}
+

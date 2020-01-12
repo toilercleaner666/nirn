@@ -1,0 +1,54 @@
+#SOLITUDE
+
+dependency = {
+	subject_type = "tributary_state"
+	first = SOL
+	second = FAL
+	start_date = 1444.1.1
+}
+vassal = {
+	first = SOL
+	second = MOR
+	start_date = 1444.1.1
+}
+vassal = {
+	first = SOL
+	second = WHR
+	start_date = 1444.1.1
+}
+
+#Windhelm
+vassal = {
+	first = WND
+	second = WNH
+	start_date = 1444.1.1
+}
+vassal = {
+	first = WND
+	second = DNS
+	start_date = 1444.1.1
+}
+vassal = {
+	first = WND
+	second = RFT
+	start_date = 1444.1.1
+}
+
+#Markarth
+dependency = {
+	subject_type = "tributary_state"
+	first = MAR
+	second = UKW
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = MAR
+	second = LKW
+	start_date = 1444.1.1
+}
+vassal = {
+	first = MAR
+	second = DRB
+	start_date = 1444.1.1
+}

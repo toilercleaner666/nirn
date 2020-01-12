@@ -4,7 +4,6 @@ AAA = "countries/Dummy.txt"
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
-
 # Cyrodiil
 
 # Elswyer
@@ -20,3 +19,28 @@ URV = "countries/Urvaius.txt"
 DWY = "countries/Dwynnen.txt"
 PHY = "countries/Phrygias.txt"
 BHO = "countries/Bhoraine.txt"
+
+#Skyrim - NO FLAGS YET [ EMPTY BLACK FLAGS ]
+DAL = "countries/Dale.txt"
+DRB = "countries/DragonBridge.txt"
+DHC = "countries/DreadhornClan.txt"
+GRH = "countries/Granitehall.txt"
+GWD = "countries/Greenwood.txt"
+HEL = "countries/Helgen.txt"
+IVA = "countries/Ivarstead.txt"
+LKW = "countries/Karthwasten.txt"
+ROR = "countries/Rorikstead.txt"
+UKW = "countries/UpperKarth.txt"
+
+#Skyrim - FLAGS
+
+SKY = "countries/Skyrim.txt"
+FAL = "countries/Falkreath.txt"
+MOR = "countries/Hjaalmarch.txt"
+MAR = "countries/Markarth.txt"
+DNS = "countries/Pale.txt"
+RFT = "countries/Rift.txt"
+SOL = "countries/Solitude.txt"
+WHR = "countries/Whiterun.txt"
+WND = "countries/Windhelm.txt"
+WNH = "countries/Winterhold.txt"
