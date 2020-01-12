@@ -14,3 +14,5 @@ ABL = "countries/Albaster.txt"
 #High Rock
 
 DGF = "countries/Daggerfall.txt"
+NMR = "countries/Northmoor.txt"
+DAN = "countries/Daenia.txt"
