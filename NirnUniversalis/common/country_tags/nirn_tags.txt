@@ -4,7 +4,6 @@ AAA = "countries/Dummy.txt"
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
-
 # Cyrodiil
 
 # Elswyer
@@ -16,6 +15,10 @@ ABL = "countries/Albaster.txt"
 DGF = "countries/Daggerfall.txt"
 NMR = "countries/Northmoor.txt"
 DAN = "countries/Daenia.txt"
+URV = "countries/Urvaius.txt"
+DWY = "countries/Dwynnen.txt"
+PHY = "countries/Phrygias.txt"
+BHO = "countries/Bhoraine.txt"
 
 #Skyrim - NO FLAGS YET [ EMPTY BLACK FLAGS ]
 DAL = "countries/Dale.txt"
