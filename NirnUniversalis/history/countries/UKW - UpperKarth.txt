@@ -1,10 +1,10 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = 
+primary_culture = karth
 add_accepted_culture = 
-religion = 
+religion = 8_divines_rel
 technology_group = western
-capital = 
+capital = 108
 
 
 1437.2.20 = {
