@@ -11,6 +11,22 @@ Join our discord server if you have any further questions about the direction th
 
 We post regular updates on our subreddit: https://www.reddit.com/r/nirnuniversallis/
 
+## Current mod status:
+### Completed:
++ Fully Functional Map
++ Trade Nodes (no connections)
+### In Progress:
++ Map:
+    1. Strait Crossings
+    2. Water Map
+    3. Province Positions (Manually adjusted)
+    4. Trade Node Connections
++ Political Map and Countries
++ Cultures
++ Religions
++ Advisor Portraits
++ Localization
+
 ## Nirn Universalis contribution guidelines:
 
 Feel free to contribute to our mod! Read on if you know how GitHub works, otherwise go check out the introduction section below this first.
