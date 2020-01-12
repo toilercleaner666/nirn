@@ -16,3 +16,28 @@ ABL = "countries/Albaster.txt"
 DGF = "countries/Daggerfall.txt"
 NMR = "countries/Northmoor.txt"
 DAN = "countries/Daenia.txt"
+
+#Skyrim - NO FLAGS YET [ EMPTY BLACK FLAGS ]
+DAL = "countries/Dale.txt"
+DRB = "countries/DragonBridge.txt"
+DHC = "countries/DreadhornClan.txt"
+GRH = "countries/Granitehall.txt"
+GWD = "countries/Greenwood.txt"
+HEL = "countries/Helgen.txt"
+IVA = "countries/Ivarstead.txt"
+LKW = "countries/Karthwasten.txt"
+ROR = "countries/Rorikstead.txt"
+UKW = "countries/UpperKarth.txt"
+
+#Skyrim - FLAGS
+
+SKY = "countries/Skyrim.txt"
+FAL = "countries/Falkreath.txt"
+MOR = "countries/Hjaalmarch.txt"
+MAR = "countries/Markarth.txt"
+DNS = "countries/Pale.txt"
+RFT = "countries/Rift.txt"
+SOL = "countries/Solitude.txt"
+WHR = "countries/Whiterun.txt"
+WND = "countries/Windhelm.txt"
+WNH = "countries/Winterhold.txt"
