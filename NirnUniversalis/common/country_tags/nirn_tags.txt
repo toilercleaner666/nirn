@@ -9,6 +9,9 @@ NAT = "countries/Natives.txt"
 # Elswyer
 
 ABL = "countries/Albaster.txt"
+BRK = "countries/Bruk'ra.txt"
+CRN = "countries/Corinth.txt"
+HLK = "countries/Helkarn.txt"
 
 #High Rock
 
