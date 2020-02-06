@@ -2,16 +2,16 @@
 
 
 
-culture = Colovian
-religion = 8_divines_rel
+culture = Orsimer
+religion = cult_of_malacath_rel
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Betony"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
+add_core = SMT owner = SMT controller = SMT
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

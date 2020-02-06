@@ -1482,3 +1482,23 @@ nordic = {
 		}
 	}
 }
+
+ ###ALTMER###
+
+  Altmer = {
+  	graphical_culture = westerngfx
+
+  Altmertemp = {
+  		male_names = {
+  			 popin
+  		}
+
+  		female_names = {
+  			amanhasfallenintotheriverinlegocity
+  			}
+
+  		dynasty_names = {
+  			 von epic
+  		}
+  	}
+  }
