@@ -81,5 +81,5 @@ army_names = {
 }
 
 fleet_names = {
-	"Fleet of #PROVINCE$"
+	"Fleet of $PROVINCE$"
 }
