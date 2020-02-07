@@ -3,6 +3,7 @@
 graphical_culture = westerngfx
 
 color = { 179  129  4 }
+preferred_religion = 
 
 historical_idea_groups = {
 }
@@ -81,5 +82,5 @@ army_names = {
 }
 
 fleet_names = {
-	"Fleet of #PROVINCE$"
+	"Fleet of $PROVINCE$"
 }
