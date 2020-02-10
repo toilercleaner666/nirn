@@ -1,4 +1,4 @@
-# HLK - Helkarn
+# DNE - Helkarn
 
 government = monarchy
 government = monarchy
@@ -7,16 +7,16 @@ mercantilism = 26
 primary_culture = helgener
 religion = 8_divines_rel
 technology_group = western
-capital = 1484
+capital = 1508
 
 
 1437.2.20 = {
 	monarch = {
-		name = "Ren'darr"
-		dynasty = "Saachi"
-		adm = 3
-		dip = 4
-		mil = 4
+		name = "Theradirr"
+		dynasty = "Simanrin"
+		adm = 4
+		dip = 6
+		mil = 5
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

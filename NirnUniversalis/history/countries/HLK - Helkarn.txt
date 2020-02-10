@@ -1,7 +1,7 @@
 # HLK - Helkarn
 
-government = monarchy
-government = monarchy
+government = tribal
+government = tribal_kingdom
 add_government_reform = feudalism_reform
 mercantilism = 26
 primary_culture = helgener
@@ -12,11 +12,11 @@ capital = 1502
 
 1437.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Sa'lata"
+		dynasty = "Asuri"
+		adm = 4
+		dip = 2
+		mil = 6
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

@@ -1,9 +1,24 @@
-# ALB - Albaster
+# TEN - Tenmar
 
 government = monarchy
-government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform
 mercantilism = 26
-primary_culture = francien
-religion = catholic
+primary_culture = helgener
+religion = 8_divines_rel
 technology_group = western
 capital = 1456
+
+
+1437.2.20 = {
+	monarch = {
+		name = "Rakaj"
+		dynasty = "D'kar"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}
+

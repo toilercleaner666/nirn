@@ -1,4 +1,4 @@
-# HLK - Helkarn
+# TEN - Tenmar
 
 government = monarchy
 government = monarchy
@@ -7,16 +7,16 @@ mercantilism = 26
 primary_culture = helgener
 religion = 8_divines_rel
 technology_group = western
-capital = 1484
+capital = 1482
 
 
 1437.2.20 = {
 	monarch = {
-		name = "Ren'darr"
-		dynasty = "Saachi"
+		name = "Jo'natash"
+		dynasty = "Askanar"
 		adm = 3
-		dip = 4
-		mil = 4
+		dip = 6
+		mil = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

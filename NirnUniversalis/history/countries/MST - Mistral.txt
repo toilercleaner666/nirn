@@ -1,4 +1,4 @@
-# HLK - Helkarn
+# TVR - Torval
 
 government = monarchy
 government = monarchy
@@ -7,15 +7,15 @@ mercantilism = 26
 primary_culture = helgener
 religion = 8_divines_rel
 technology_group = western
-capital = 1484
+capital = 1515
 
 
 1437.2.20 = {
 	monarch = {
-		name = "Ren'darr"
-		dynasty = "Saachi"
-		adm = 3
-		dip = 4
+		name = "Suku-rat"
+		dynasty = "Hasandarr"
+		adm = 2
+		dip = 3
 		mil = 4
 	}
 	clear_scripted_personalities = yes
