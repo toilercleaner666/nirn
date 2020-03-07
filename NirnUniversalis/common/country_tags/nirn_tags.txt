@@ -20,6 +20,9 @@ TVR = "countries/Torval.txt"
 MST = "countries/Mistral.txt"
 TEN = "countries/Tenmar.txt"
 SEN = "countries/Senchal.txt"
+ANQ = "countries/Anequia.txt"
+PEL = "countries/Pelletine.txt"
+ELS = "countries/Elsweyr.txt"
 
 
 #High Rock
