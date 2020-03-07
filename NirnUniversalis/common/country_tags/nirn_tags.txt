@@ -25,7 +25,9 @@ PEL = "countries/Pelletine.txt"
 ELS = "countries/Elsweyr.txt"
 
 
-#High Rock
+###HIGH ROCK
+
+#High Rock Start Date
 
 DGF = "countries/Daggerfall.txt"
 NMR = "countries/Northmoor.txt"
@@ -34,6 +36,38 @@ URV = "countries/Urvaius.txt"
 DWY = "countries/Dwynnen.txt"
 PHY = "countries/Phrygias.txt"
 BHO = "countries/Bhoraine.txt"
+SMT = "countries/Seamount.txt"
+CAM = "countries/Camlorn.txt"
+KSG = "countries/Kingsguard.txt"
+MTV = "countries/Thorvale.txt"
+DNI = "countries/Direnni.txt"
+KAM = "countries/Kambria.txt"
+ALC = "countries/Alcaire.txt"
+MDG = "countries/Darguard.txt"
+EBR = "countries/Eaglebrook.txt"
+MNV = "countries/Menevia.txt"
+SHR = "countries/Shornhelm.txt"
+NRP = "countries/Northpoint.txt"
+WTM = "countries/Westmark.txt"
+PDC = "countries/Portdun.txt"
+BLW = "countries/Blackwastes.txt"
+WAY = "countries/Wayrest.txt"
+GAV = "countries/Gavaudon.txt"
+EVR = "countries/Evermore.txt"
+MCN = "countries/Murcien.txt"
+KTG = "countries/Karthgran.txt"
+DRW = "countries/Darkwitness.txt"
+WTB = "countries/Winterborn.txt"
+MKU = "countries/Morkul.txt"
+FAH = "countries/Fahrun.txt"
+DNL = "countries/Dunlain.txt"
+BKH = "countries/Bagrakh.txt"
+# XXXXXX = "countries/XXXXX.txt"
+
+
+#High Rock Releasable
+
+#High Rock Formable
 
 #Skyrim - NO FLAGS YET [ EMPTY BLACK FLAGS ]
 DAL = "countries/Dale.txt"

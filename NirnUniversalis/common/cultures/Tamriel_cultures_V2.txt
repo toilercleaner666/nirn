@@ -1807,6 +1807,7 @@ nordic = {
 	}
 }
 
+
 ##########################
 # AKAVIRI                #
 ##########################
@@ -1840,4 +1841,25 @@ tsaesci = {
 			Zabiri Zabus Zadavi Zahan Zahir Zakar Zamanni Zamnin Zanai Zaoni Zarabi Zaspoor Zastae Zatani Zavandi
 		}
 	}
+}
+
+
+###ALTMER###
+
+Altmer = {
+    graphical_culture = westerngfx
+
+    Altmertemp = {
+       	male_names = {
+      	    popin
+      	}
+
+        female_names = {
+            amanhasfallenintotheriverinlegocity
+        }
+
+        dynasty_names = {
+            von epic
+        }
+    }
 }

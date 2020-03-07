@@ -1,0 +1,9 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = Orsimer
+religion = cult_of_malacath_rel
+technology_group = western
+capital = 275
+
+
+
