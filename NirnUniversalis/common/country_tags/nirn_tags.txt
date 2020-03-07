@@ -9,6 +9,21 @@ NAT = "countries/Natives.txt"
 # Elswyer
 
 ABL = "countries/Albaster.txt"
+BRK = "countries/Bruk'ra.txt"
+CRN = "countries/Corinth.txt"
+HLK = "countries/Helkarn.txt"
+DNE = "countries/Dune.txt"
+OCR = "countries/Orcrest.txt"
+RVH = "countries/Riverhold.txt"
+RIM = "countries/TheRim.txt"
+TVR = "countries/Torval.txt"
+MST = "countries/Mistral.txt"
+TEN = "countries/Tenmar.txt"
+SEN = "countries/Senchal.txt"
+ANQ = "countries/Anequia.txt"
+PEL = "countries/Pelletine.txt"
+ELS = "countries/Elsweyr.txt"
+
 
 ###HIGH ROCK
 
