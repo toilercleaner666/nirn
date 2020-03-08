@@ -1,0 +1,10 @@
+# SEN - Senchal
+
+government = monarchy
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 26
+primary_culture = helgener
+religion = 8_divines_rel
+technology_group = western
+

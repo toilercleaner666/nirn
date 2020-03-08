@@ -24,6 +24,18 @@ ANQ = "countries/Anequia.txt"
 PEL = "countries/Pelletine.txt"
 ELS = "countries/Elsweyr.txt"
 
+#Morrowind
+
+AHM = "countries/Ahemmusa.txt"
+DAG = "countries/Dagoth.txt"
+DRS = "countries/Dres.txt"
+EBM = "countries/Erabenimsun.txt"
+HLU = "countries/Hlaalu.txt"
+IDL = "countries/Indoril.txt"
+RDN = "countries/Redoran.txt"
+TLV = "countries/Telvanni.txt"
+URS = "countries/Urshilaku.txt"
+ZNB = "countries/Zainab.txt"
 
 ###HIGH ROCK
 
