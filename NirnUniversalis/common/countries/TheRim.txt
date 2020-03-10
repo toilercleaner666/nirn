@@ -1,0 +1,86 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 63  126  71 }
+preferred_religion = 
+
+historical_idea_groups = {
+}
+
+historical_units = {
+}
+
+monarch_names = {
+	"Silvek #1" = 7
+	"Selrek #1" = 6
+	"Versidu #1" = 7
+	"Sershixhah #1" = 6
+	"Gilvykuj #1" = 7
+	"Diressen #1" = 6
+	"Avixi #1" = 7
+	"Salnessu #1" = 7
+	"Kalries #1" = 6
+	"Gynaxhi #1" = 7
+	"Ezzin #1" = 6
+	"Zhedalexhih #1" = 7
+	"Sashika #1" = 7
+	"Adasih #1" = 7
+	"Xhirresu #1" = 7
+# Womz
+	"Xharshek #1" = 7
+	"Ciasha #1" = 6
+	"Zhyrdis #1" = 7
+	"Fase-Vis #1" = 6
+	"Mial-Vik #1" = 7
+	"Rheir #1" = 7
+	"Heen #1" = 6
+	"Lese #1" = 7
+	"Rhenni #1" = 6
+	"Kanna #1" = 7
+	"Qera #1" = 7
+	"Heer #1" = 7
+	"Lien-Zhalraj #1" = 6
+	"Cana #1" = 7
+	"Rashe #1" = 7 
+}
+
+leader_names = {
+	Xhylnedaxaj-Izzis
+	Chezzigelih-Zyddies
+	Zenerres-Zhik
+	Xhezzegidih-Chah
+	Annyrixhin
+	Dhanran
+	Elej-Kerun
+	Kissyras
+	Chylvelaxue-Kandaj
+	Siran-Din
+	Miar-Igryxhas
+	Qaerhe-Mefi
+	Nynna-Xhyddueh
+	Vhiazi-Zhyrshij
+	Vaale
+	Reash
+	Reana
+	Faesa-Raj
+	Zias
+	Vhafa-Kisun
+}
+
+ship_names = {
+	"Khajiit Tears"
+	"Rim's Blade"
+	"Akavir's Bite"
+	"Raka's Soul"
+	"Versidu's bite"
+	"Dragonborn's shout"
+}
+
+army_names = {
+	"Armee von $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

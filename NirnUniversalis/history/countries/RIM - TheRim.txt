@@ -1,0 +1,23 @@
+# OCR - Orcrest
+
+government = monarchy
+government = elective_monarchy
+add_government_reform = feudalism_reform
+mercantilism = 26
+primary_culture = helgener
+religion = 8_divines_rel
+technology_group = western
+capital = 1449
+
+
+1437.2.20 = {
+	monarch = {
+		name = "Sirisaa"
+		dynasty = "Muselekh"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}
