@@ -27,7 +27,7 @@ ELS = "countries/Elsweyr.txt"
 #Morrowind
 
 AHM = "countries/Ahemmusa.txt"
-DAG = "countries/Dagoth.txt"
+#DAG = "countries/Dagoth.txt"
 DRS = "countries/Dres.txt"
 EBM = "countries/Erabenimsun.txt"
 HLU = "countries/Hlaalu.txt"
