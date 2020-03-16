@@ -2,7 +2,7 @@
 
 
 
-culture = Hlaalu
+culture = Ebonheartian
 religion = 8_divines_rel
 hre = no
 base_tax = 1
