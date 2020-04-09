@@ -1,4 +1,4 @@
-# RDN - Redoran
+# ARB - Arbol
 
 government = monarchy
 government = monarchy
@@ -7,16 +7,16 @@ mercantilism = 31
 primary_culture = Redoran
 religion = 8_divines_rel
 technology_group = western
-capital = 276
+capital = 616
 
 
 1437.2.20 = {
 	monarch = {
-		name = "Abadai"
-		dynasty = "at-Dorcolm"
-		adm = 2
+		name = "Turath"
+		dynasty = "Rallis"
+		adm = 4
 		dip = 3
-		mil = 2
+		mil = 6
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
