@@ -83,6 +83,7 @@ BKH = "countries/Bagrakh.txt"
 
 #Hammerfell
 ARB = "countries/Arbol.txt"
+<<<<<<< HEAD
 CNL = "countries/Conorrol.txt"
 CSP = "countries/Cespar.txt"
 DGS = "countries/Dragonstar.txt"
@@ -102,6 +103,27 @@ SKV = "countries/Skaven.txt"
 SMK = "countries/Stros M'kai.txt"
 #SNL = "countries/Sentinel.txt"
 SPS = "countries/Spellskar.txt"
+=======
+#CNL = "countries/Connorol.txt"
+#CSP = "countries/Cespar.txt"
+#DGS = "countries/Dragonstar.txt"
+#DRT = "countries/Darastra.txt"
+#ENH = "countries/Elinhir.txt"
+#GIL = "countries/Gilane.txt"
+#HGT = "countries/Hegathe.txt"
+#HKL = "countries/Helkati.txt"
+#HSP = "countries/Hewsport.txt"
+#KDL = "countries/Kardala.txt"
+#NKS = "countries/Nokelos.txt"
+#RIH = "countries/Rihad.txt"
+#RNS = "countries/Ronasis.txt"
+#RSH = "countries/Radrash.txt"
+#SKM = "countries/Satakalaam.txt"
+#SKV = "countries/Skaven.txt"
+#SMK = "countries/Strosmkai.txt"
+#SNL = "countries/Sentinel.txt"
+#SPS = "countries/Spellskar.txt"
+>>>>>>> 4a4b514e7f6630b1137b640a5997eecb05a2e91e
 #TNH = "countries/Taneth.txt"
 
 #Skyrim - NO FLAGS YET [ EMPTY BLACK FLAGS ]
