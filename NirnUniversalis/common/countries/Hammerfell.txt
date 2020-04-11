@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255 200 10 }
+
+preferred_religion = 
+
+historical_idea_groups = {
+
+}
+
+historical_units = {
+
+}
+
+leader_names = {
+	Alusro Baeshke
+	Firidret Stullba
+	Pranatu Gurkan
+	Wallas Dissa
+	Torlion Blerm'kern
+	Relaina Flishte
+	Talael Groth-I
+	Karlle Kuctir
+	Amireem Mhuze
+	Isrnvir Chichem
+	Israik Nufylfa
+	Kellanie Chergte
+	Ildesteve Mercom
+	Karrey Gaghtun
+	Jatian Ves-E
+	Adarfaye T'ajte
+	Ashina Rlisrn
+	Ronwen Krulpta
+	Jearnne Sturnun
+	Laiin Lhirke
+	Jalisa C'othir
+	Katmeer Sturnsa
+	Iszginia Sairpem
+	Brahana Glufyl'kern
+	Isonwen Cevur
+	Bluaye Begja
+	Siniesa Khargam
+	Rhiona Rhullir
+	Faleille Derg'kern
+	Faleheda Raargsa
+}
+
+monarch_names = {
+	"Bodeen #1" = 7
+	"Rinlian #1" = 6
+	"Imine #1" = 7
+	"Demdr #1" = 6
+	"Silaian #1" = 7
+	"Stesson #1" = 6
+	"Rodtacey #1" = 7
+	"Kotun #1" = 7
+	"Dinonk #1" = 6
+	"Deld #1" = 7
+	"Curtkwon #1" = 6
+	"Avidodd #1" = 7
+	"Iancolm #1" = 7
+	"Kemaiz #1" = 7
+	"Avinan #1" = 7
+	#Womz
+	"Kiarti #1" = 7
+	"Tieronia #1" = 6
+	"Oletville #1" = 7
+	"Tanyelie #1" = 6
+	"Yisrika #1" = 7
+	"Atmainia #1" = 7
+	"Whilirah #1" = 6
+	"Tonirah #1" = 7
+	"Lanwen #1" = 6
+	"Balde #1" = 7
+	"Elonfir #1" = 7
+	"Chaa #1" = 7
+	"Minhleen #1" = 6
+	"Shererva #1" = 7
+	"Enaley #1" = 7 
+}
+
+ship_names = {
+	Yokuda's grasp
+	Wind-singer
+	Ocean-singer
+	Ra-gada's passing
+	Serpent's bane
+}

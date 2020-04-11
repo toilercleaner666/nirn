@@ -103,6 +103,7 @@ SMK = "countries/Stros M'kai.txt"
 SNL = "countries/Sentinel.txt"
 SPS = "countries/Spellskar.txt"
 TNH = "countries/Taneth.txt"
+HMF = "countries/Hammerfell.txt"
 
 #Skyrim - NO FLAGS YET [ EMPTY BLACK FLAGS ]
 DAL = "countries/Dale.txt"

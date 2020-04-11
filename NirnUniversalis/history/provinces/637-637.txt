@@ -2,7 +2,7 @@
 
 
 
-culture = Elinhirian
+culture = Ronasisian
 religion = 8_divines_rel
 hre = no
 base_tax = 1
