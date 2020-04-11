@@ -12,7 +12,7 @@ capital = 523
 
 1437.2.20 = {
 	monarch = {
-		name = "Imrazon"
+		name = "Fahara'jad"
 		dynasty = "Monsashana"
 		adm = 4
 		dip = 3
