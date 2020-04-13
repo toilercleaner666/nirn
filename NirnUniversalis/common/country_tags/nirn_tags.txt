@@ -81,6 +81,30 @@ BKH = "countries/Bagrakh.txt"
 
 #High Rock Formable
 
+#Hammerfell
+ARB = "countries/Arbol.txt"
+CNL = "countries/Conorrol.txt"
+CSP = "countries/Cespar.txt"
+DGS = "countries/Dragonstar.txt"
+DRT = "countries/Darastra.txt"
+ENH = "countries/Elinhir.txt"
+GIL = "countries/Gilane.txt"
+HGT = "countries/Hegathe.txt"
+HKL = "countries/Helkati.txt"
+HSP = "countries/Hewsport.txt"
+KDL = "countries/Kardala.txt"
+NKS = "countries/Nokelos.txt"
+RIH = "countries/Rihad.txt"
+RNS = "countries/Ronasis.txt"
+SGN = "countries/Skilgin.txt"
+SKM = "countries/Satakalaam.txt"
+SKV = "countries/Skaven.txt"
+SMK = "countries/Stros M'kai.txt"
+SNL = "countries/Sentinel.txt"
+SPS = "countries/Spellskar.txt"
+TNH = "countries/Taneth.txt"
+HMF = "countries/Hammerfell.txt"
+
 #Skyrim - NO FLAGS YET [ EMPTY BLACK FLAGS ]
 DAL = "countries/Dale.txt"
 DRB = "countries/DragonBridge.txt"

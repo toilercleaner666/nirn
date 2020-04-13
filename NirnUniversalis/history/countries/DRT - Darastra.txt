@@ -1,0 +1,24 @@
+# ARB - Arbol
+
+government = monarchy
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 31
+primary_culture = Darastran
+religion = 8_divines_rel
+technology_group = western
+capital = 486
+
+
+1437.2.20 = {
+	monarch = {
+		name = "Haerdun"
+		dynasty = "at-Shadal"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}
+
