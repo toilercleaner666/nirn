@@ -2402,5 +2402,1684 @@ Dunmeri = {
 		
 		}
 	}
+
+	Necromian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
 	
+	Ebonheartian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+		Vivecian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Ald'runian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Sadrith-Moran = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Vosian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Balmoran = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Omyani = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Suranian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Marogi = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Salenian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Bodrumi = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Bosmoran = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Calderan = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Gnisisian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Firewatchian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Branoran = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+	
+	Aanthrinian = {
+		male_names = {
+		Gidath Farni Matler Ienre Sarydras Rendthes Bradndrus Arvshev Gararedhel Mateth Roneig Folmmis Ferahis Mivrane Talvele Ravyilo Sanbi
+		Avoosi Sondnur Mavos Azarain Azarath Azarfar Azarien Azarik Azaril Azarimal Azarimar Azarkan Azaron Azarpar Azarseth 
+		Casain Casath Casfar Casien Casik Casil Casimal Casimar Caskan Cason Caspar Casseth 
+		Erebain Erebath Erebfar Erebien Erebik Erebil Erebimal Erebimar Erebkan Erebon Erebpar Erebseth 
+		Helain Helath Helfar Helien Helik Helil Helimal Helimar Helkan Helon Helpar Helseth 
+		Nisain Nisath Nisfar Nisien Nisik Nisil Nisimal Nisimar Niskan Nison Nispar Nisseth 
+		Shalain Shalath Shalfar Shalien Shalik Shalil Shalimal Shalimar Shalkan Shalon Shalpar Shalseth
+		Shurain Shurath Shurfar Shurien Shurik Shuril Shurimal Shurimar Shurkan Shuron Shurpar Shurseth 
+		Turain Turath Turfar Turien Turik Turil Turimal Turimar Turkan Turon Turpar Turseth 
+		Ulain Ulath Ulfar Ulien Ulik Ulil Ulimal Ulimar Ulkan Ulon Ulpar Ulseth 
+		Vanikain Vanikath Vanikfar Vanikien Vanikik Vanikil Vanikimal Vanikimar Vanikkan Vanikon Vanikpar Vanikseth 
+		Zanain Zanath Zanfar Zanien Zanik Zanil Zanimal Zanimar Zankan Zanon Zanpar Zanseth 
+		Zirain Zirath Zirfar Zirien Zirik Ziril Zirimal Zirimar Zirkan Ziron Zirpar Zirseth
+
+		}
+		
+		female_names = {
+		Cruatah Cruelle Cruethys Cruiah Cruinah Cruith Cruithah Cruivah Cruobah Cruonah Cruothah Cruth 
+		Dematah Demelle Demethys Demiah Deminah Demith Demithah Demivah Demobah Demonah Demothah Demth 
+		Golgatah Golgelle Golgethys Golgiah Golginah Golgith Golgithah Golgivah Golgobah Golgonah Golgothah Golgth 
+		Hekatah Hekelle Hekethys Hekiah Hekinah Hekith Hekithah Hekivah Hekobah Hekonah Hekothah Hekth 
+		Lilatah Lilelle Lilethys Liliah Lilinah Lilith Lilithah Lilivah Lilobah Lilonah Lilothah Lilth 
+		Lolatah Lolelle Lolethys Loliah Lolinah Lolith Lolithah Lolivah Lolobah Lolonah Lolothah Lolth 
+		Nephatah Nephelle Nephethys Nephiah Nephinah Nephith Nephithah Nephivah Nephobah Nephonah Nephothah Nephth 
+		Shelatah Shelelle Shelethys Sheliah Shelinah Shelith Shelithah Shelivah Shelobah Shelonah Shelothah Shelth 
+		Sheratah Sherelle Sherethys Sheriah Sherinah Sherith Sherithah Sherivah Sherobah Sheronah Sherothah Sherth 
+		Tabatah Tabelle Tabethys Tabiah Tabinah Tabith Tabithah Tabivah Tabobah Tabonah Tabothah Tabth 
+		Vaynatah Vaynelle Vaynethys Vayniah Vayninah Vaynith Vaynithah Vaynivah Vaynobah Vaynonah Vaynothah Vaynth 
+		Vermatah Vermelle Vermethys Vermiah Verminah Vermith Vermithah Vermivah Vermobah Vermonah Vermothah Vermth
+
+		
+		}
+		
+		dynasty_names = {Adlain Adlam Adlan Adlaron Adlathil Adlbruk Adlen Adlenar Adlis Adlon Adlone Adlul 
+		Avalain Avalam Avalan Avalaron Avalathil Avalbruk Avalen Avalenar Avalis Avalon Avalone Avalul 
+		Enakain Enakam Enakan Enakaron Enakathil Enakbruk Enaken Enakenar Enakis Enakon Enakone Enakul 
+		Grulain Grulam Grulan Grularon Grulathil Grulbruk Grulen Grulenar Grulis Grulon Grulone Grulul 
+		Helbain Helbam Helban Helbaron Helbathil Helbbruk Helben Helbenar Helbis Helbon Helbone Helbul 
+		Moabain Moabam Moaban Moabaron Moabathil Moabbruk Moaben Moabenar Moabis Moabon Moabone Moabul 
+		R'ain R'am 	R'an R'aron R'athil R'bruk 	R'en R'enar R'is R'on R'one R'ul 
+		Rallain Rallam Rallan Rallaron Rallathil Rallbruk Rallen Rallenar Rallis Rallon Rallone Rallul 
+		R'zamain R'zamam R'zaman R'zamaron R'zamathil R'zambruk R'zamen R'zamenar R'zamis R'zamon R'zamone R'zamul 
+		Sailain Sailam Sailan Sailaron Sailathil Sailbruk Sailen Sailenar Sailis Sailon Sailone Sailul 
+		S'thain S'tham S'than S'tharon S'thathil S'thbruk S'then S'thenar S'this S'thon S'thone S'thul 
+		T'rizain T'rizam T'rizan T'rizaron T'rizathil T'rizbruk T'rizen T'rizenar T'rizis T'rizon T'rizone T'rizul
+
+		
+		}
+	}
+}
+
+
+
+Yokudan = {
+	graphical_culture = westerngfx
+
+	taleskan = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+
+	tagonese = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+
+	kaneshi = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+
+	samaran = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+
+	vathi = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+
+	nalongan = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+
+	ravan = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+
+	yulan = {
+		male_names = {
+			Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan Adal Adar Adenar Adit Admunayil Adrazan 
+			Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh Ahmaron Ahmat Ahmih Ahobi Ahram Ahuziq Aizar Akhbar Alahir Alasan Alburz Algredhen Alkar Almur 
+			Alqadarun Alqar Am-Shadal Amahnin Amal Amarz Amjeesh Amjhad Amlith Amozhgar Anal'a Andrin Anjan Anyaq Arahn Ardeshir Arfan Arfedar Armin Asadel Ashadr Ashahdr Ashatir 
+			Ashtad Asjaila Asmalah At'avar Atal Atif Attazal Awanan Ayusni Azad Azah Azanir Azeel Azei Azzadal Babhaq Bahadur Bahbiq Bahir Bahram Bail Balabar Balanvir Bamalen 
+			Bardun Barrus Barun Basri Behrzharah Behsheed Behshusaron Bhosek Bhosim Birahn Bizazan Bizhan Bodani Borasad Borosir Brand Burh Burhan Carrod Cartos Caseh Casnar Caspar 
+			Corwin Currod Cyrion Dadarh Dajan Dajeh Dalamar Damar Damien Darewan Darius Darwaz Darwesh Darwish Degmeq Dehanar Delbar Derik Dhakir Dhul Dhulimdin Dihoq Dinawan 
+			Dinmar Divad Domar Dometri Dozheem Dozhim Draguar Ebadnar Eban Ebdoh Ebrayd Ebzahd Ehlimah Ehrib Ehshaz Ehwenzh Eil Eilram Elburj Emahd Emson Endavar Endehm Enis Enneh 
+			Erdelan Ernele Erno Eshir Esmaeel Eustache Fabien Fadeel Fahad Fahara'jad Fahrazadar Fahruz Fahrzuzh Fairuz Fakimall Farasad Farrokh Farsheed Farvad Fathi Fawazz Fawzi 
+			Feraj Ferhad Fermadnar Fermouzh Fermudh Fertab Fintias Firas Firouz Franal Frandar Gabir Gagni Gaiden Garrebh Ghaffar Ghani Ghaninad Gheermoh Gherneem Ghininath 
+			Ghiradar Ghiyath Gibal Gibeth Gidan Gilzir Gilzurjj Gimranal Ginal Giran Githil Glanlian Gonnison Gourdeez Gourdudh Govan Greban Gudarz Guibor Gwath Hadir Hadoon 
+			Haerdun Hafizah Hahdavir Hahdemir Hahdoh Hahnin Haidar Hakam Halam Halder Haldesan Hallan Hamill Hamza Hannat Haqmir Harfiza Harimal Harukar Hasib Hasilium Hasmani 
+			Hassan Hassariq Hasuq Hawar Hawarman Hayazzin Haydelqub Haythehdi Hedayat Helkhar Hezhan Hifa Hillemir Hinhad Hinther Hisal Hisham Hiwanan Hlaureg Hodana Hodrah Hosni 
+			Hossid Hubod Husni Ihdar Ihlqub Ikran Ilwan Imradi Imrahasah Imrazan Imrazon Imre Imzadda Inala Iraj Irvalam Irwad Iscan Islaf Islaif Israhal Issal Istah Izbemir Jagnas 
+			Jahan Jahannif Jahhudah Jahsul Jairry Jakir Jaleel Jalid Jamadin Jambi Jamshid Jarrod Javid Jawan Jayeed Jaylim Jehrz Jeirahd Jelanan Jengar Jerissean Jhiinval Jibril 
+			Jireq Jomer Joroh Jucal Kahen Kalad Kalbukar Kalbuur Kalig Kalind Kalith Kalmasir Kalmen Kalmuzan Kalorter Kalrarj Kalrzud Kalvyn Kaman Kamandi Kambathir Kamdemad Kamid 
+			Kamiran Kamrazan Kamzehdi Kamzith Kardudir Kardyn Karun Kasal Kathalir Kathil Kathz Kavdarubel Kavsharz Kavzind Kayam Kayd Kaymatu Kemaz Khab Khabzuur Khadshadnar 
+			Khadzalar Khafnir Khafzajah Khambua Khammo Khamzar Kharbeff Khavid Khayr Khemd Khemshur Khemzarq Khorajah Khorbzr Khorshad Khosren Khubfumir Khubzyat Khudriran Kiarash 
+			Killon Kintsel Kithald Kokab Kottiq Kourazir Kouros Lakhim Lakuzh Lanelan Laqshua Latelan Lathdahan Lathdanvir Lathdur Latif Lebat Lewand Lidenar Limdathir Lithok 
+			Lomaron Loqman Luqman Machael Machouz Mahbood Mahbub Mahimdin Mahjid Mahrahdr Majb Majdazh Majhoub Majid Makdodd Makhayh Makrakah Maleel Malik Malumah Mamhua Mamir 
+			Mansour Maradem Mare Mareh Marghrub Marimah Marodeen Marsim Masbayat Masbeshir Masdath Mathalzayan Mathon Maujad Mazada Mazaluhad Mazar Mazdaq Mazhuz Maziar Mazra 
+			Mazrahil Mazzeb Mehdbeq Mehdze Mehrab Mehraq Mehrzad Meriq Merric Meshouz Midrarj Midras Midrasud Miharaz Mihrif Mihufeh Mirzad Mirzid Mizbawaz Mizdabih Mizhan 
+			Mizibarun Monar Monat Muahdi Muazel Mubdanath Mubdi Mubshabar Muhay Mujwadeen Mukhul Mulham Mureesh Muruuna Mushgah Myame Nabar Nabdanir Nabeenam Nadar Nadim Nadshanam 
+			Naeed Naeem Nahassar Nahroon Nahzhem Naim Najan Najar Namasur Nammadin Namman Nammokh Namvar Nandanath Nandim Nanimir Nanshiq Naruk Narzasir Nasdokh Naseiran Navid 
+			Nayvond Nazd Nazhin Nazir Nazz Nazzim Nebezh Nebhavar Nebuin Nebzez Neeneban Neviral Nezirawan Nibar Nilthin Nimir Nimirazan Nimshat Nizran Noshzandar Nudbahil Nudeelar 
+			Nuzadal Nuzbawir Nuzud Oanyin Ohlim Ohrmarz Ohrmaz Onwyn Orrun Owynok Ozalan Padrul Paldeen Paldezh Parham Paulin Pawalar Payedar Pehrash Pelamar Pennet Perah Peyman 
+			Pharad Pharbadan Pharethil Pharik Phazar Phazor Pierjean Pinnald Praldyn Pranak Qabin Qadim Qadr Qadulir Qamar Qamedim Qariar Qasim Qasr Qasrin Qavus Qelwez Qesem 
+			Qiaran Qumih Qusan Raand Rabbu Radan Radisud Rahaliz Rahannal Raifa Rajdah Rajelar Rajesh Rajmer Rakiin Ralu Rama Ramad Ramadad Ramand Ramati Ramza Rasul Ratib Rawan 
+			Rayyan Razhab Razin Razul Razzaq Rellus Renazh Rensh Rhabdanam Rhadreel Rhadshathir Rhanald Rhanbiq Rhanon Rhanul Rhemalu Rihad Rislak Riza Robhemad Robiwar Roccan 
+			Rodoro Roshan Runid Sabal Sabazh Sabhell Sabir Sabur Sadben Sadeq Sadzah Sagabar Sahabih Sahayan Sahil Sahlar Sahledir Sahmar Sahpur Sai Sakh Salamal Sali'ma Salmaran 
+			Salyar Sameer Samemad Samhudah Samuur Sargon Sartaj Saryeh Seqbar Seral Serosh Shabahz Shabeh Shabhehm Shadhuzir Shahid Shalan Shalazad Shalim Shamir Shammin Shamn 
+			Sharokeen Sharz Shazeem Shellus Sihadid Siraj Sivash Skeevers Sohrab Sohraq Sorhab Stanno Sternal Sud-Hareem Sukelan Sukhidir Suram Suramin Syron Tabar Taheer Taher 
+			Talian Tahur Talian Talrahal Talumaseb Taman Tamandar Tamarik Tamij Tanek Tarabar Taranal Taren Tarish-Zi Tarjal Tavaid Tawfiq Tazhalar Temen Temir Temzukar Teqhan 
+			Thadret Thahisal Thaleft Tharwab Thedrus Thoda Timen Tohrad Tohrz Tohrzh Tordaman Torson Trayard Trelan Turaman Ubay Ubhasad Ubkhawan Ubrabih Udhush Udwur Ufa Uhrih 
+			Ulbazar Uld Uldedir Umay Umeen Unar Urbdawash Uthmal Uwafa Varnas Varnedo Varshab Varuhl Vharer Vhos Virdyn Vishaf Wafasur Wakil Walik Wallavir Wallen Waqayar Waylamud 
+			Wildur Winral Xakhwan Xhemgir Yabhad Yadhah Yadugar Yagdar Yahyif Yanul Yashamud Yashar Yashua Yata Yehkbiq Yeqdah Yncan Yombira Yonal Yonul Youss Youssad Yumanam 
+			Yumaref Yvander Zabendan Zabeth Zafrik Zagari Zagrezh Zahezub Zakavit Zakhal Zalan Zamnell Zamyad Zandim Zanyar Zartosht Zawah Zayouduf Zenul Zerdesht Zerh Zerzhan 
+			Zhubin Zihlijdel Zilu Zimar Zir Zirumir Ziyad Zuladr Zulfan
+		}
+		
+		female_names = {
+			Abadai Abadi Abannah Abante Abia Abradih Abrar Adah Adara Adeena Adelizza Adifa Adima Adinda Aeedika Afadi Afareen Afinah Afineh Afzoon Ahknara Ahla Ahnu Ahriah Ahya 
+			Aideh Aira Airena Aishah Aishie Akhita Aleen Alesah Alida Alinya Althah Althineh Alzabeh Amjad Anireh Annique Aqabi Areshu Ariana Aribah Ariya Arjen Ashiyana Ashuna 
+			Asiah Atazha Atefah Ati Atin Atusa Aubatha Aureylah Ayma Azazh Azeeda Azita Azoufah Badri Bahara Bahrar Bahree Baileet Bailiyya Baimora Balqi Balina Banefshah Bani 
+			Basila Beerta Benizir Berea Berfendeh Beriana Berwareh Bezhefah Bezhneh Bilaira Bilami Blandine Bolura Boussa Braithayidra Branwadai Brazamah Brazzia Brazzideh Brihana 
+			Bruscilla Burahaira Burwa Casmen Cattrice Chanas Chanisa Cinnabar Clarice Clelian Clessia Comira Dahla Dahnadreel Dalama Daleila Damrina Danefsha Dara Darima Dasra 
+			Delkash Delphine Delphique Delyna Dersaja Dersimeh Dh'andsa Dhemeeta Dhemireh Dholia Diwa Diwaneh Doletta Domayoun Dombuza Domia Duhanina Dulayna Dulia Durdira Durida 
+			Durrinia Ebarah Ehteram Eilina Emmita Emydal Enaffir Enie Enjaadia Enna Ennas Ernewazh Esmee Esthirh Evangeline Fabienne Fabrelle Fada Fadahal Fadalia Fadanah Fadi 
+			Fadiya Fahdah Fahima Faliara Falisa Falla Falleh Falorah Faneh Fanouda Farama Faribah Farideh Farrin Farzaneh Farzazha Fasana Favia Fawzhah Fawzi Fayna Felra Feremuzh 
+			Ferzhadiyeh Ferzhela Ferzhineh Fezhruh Fihrah Finaha Fireya Fithia Futuni Gamati Genalda Gervaise Ghadina Ghadiya Ghalada Ghazafran Ghazaleh Ghazana Gianon Gibat Gilame 
+			Ginalir Gisele Glesa Golbahr Gonda Goudadul Guitah Gulahveh Gulisheh Guliyeh Gwenefta Gweneylah Gwenna Habasah Hadaileh Hadi Hadineh Hadonia Hafayidra Hafsa Hafza Haida 
+			Haidarah Haila Hailibah Hakruba Halana Halelah Haliyya Halora Hamefsha Hamika Hanneh Hanniel Hara Haruna Hatmarah Hatmi Hawafa Hawnazh Hayaia Hayed Hayideh Hazanah 
+			Hazihi Hazzenie Hazzi Heenarh Hefassah Hel Hervia Hidabah Hillid Hiraira Hironi Hiroufar Hisolda Hitoufah Hiyyara Homeira Honai Horayya Huhtami Hulela Hulya Huma Hura 
+			Husbifah Husniya Huzbifah Ianwas Ibrula Ilafa Ileh Ilkhas Ilmaha Iman Imrubeth Imtithah Inaya Inila Irvina Isaadiah Isalde Isbifa Isramal Iszreena Izdimah Izdirah 
+			Izdiya Izirama Izradi Izzara Izzayya Jada Jaeloreh Jahayna Jahhaira Jahi Jalaima Jalienna Jalinah Jarina Jarla Jawna Jessmyn Josajeh Julupe Junah Juwan Kabrahla Kahaba 
+			Kaleen Kalia Kaliyana Kamika Kanadiy Karayyah Kareth Karifa Karra Karriel Kashia Kasouda Kasura Katayoun Kellalan Keylan Keylja Keyna Khada Khadiha Khadora Khalatah 
+			Khalisah Khareenyah Khari Khezibanh Khojasta Khojifa Khorsheed Khorshida Khorshina Kiarallah Kozelan Ku'ah Kusheesh Kushorithi Laadia Ladra Lahafa Lail Laimi Lakana 
+			Landalla Landanta Landefa Lashon Laurel Layameh Layla Leah Leila Leja Lejefah Lejesha Lejka Lendhya Leneh Lennima Lesramal Letta Levaia Lialanah Lidyah Lidyeilah Lienne 
+			Lihidar Liliya Lilyamah Lilyameh Lolann Lorizheneh Louda Luala Lurana Madafa Madaima Madara Madja Madra Maereeda Maeresha Maggie Mahasti Mahata Mahiba Mahrokh Mahtab 
+			Mahuza Maila Maj Maja Majdawa Majdeema Majhasur Makar Makela Malakeh Malenah Maliah Maliyah Malizah Malsia Mamidah Mamiyeh Manidah Manizheh Manuush Maraya Marbilah 
+			Marbita Mardina Mareesh Margaydeh Marie Marubel Marzya Masahir Mashana Masiyat Masna Mayra Mehfa Mehrafar Mehrnaz Mehry Mehuna Memyan Midakah Midyah Mihayya Mihiyya 
+			Milta Minuh Mirina Miriya Mirva Mizaida Mizareh Mizrayda Monsashana Monsayeh Monya Morissa Moyaltha Mozhdeh Mozhdinah Mozhenie Muazona Muheh Muhmeylah Mulaha Mulimah 
+			Munya Mura Nabeenim Nadafa Nadira Nadofah Nadwa Nadya Nafefta Nagluneh Nahirah Nahrina Nahruzah Nahsirih Naifa Naifineh Nala Nalannah Naliara Namasah Namsah Nanani 
+			Nanza Nari Narine Nasibin Naslan Nasmat Navbizhar Nayyer Nazaneen Nazila Nazmi Nazrajah Neena Neenia Neesa Negheen Nemina Nenwirah Nesrin Niha Niloufar Nilu Nimaima 
+			Nirifa Niruzheh Nisha Nisira Nithena Nithleen Niyaneh Niyoush Noushafar Noushin Numaheh Nuwarrah Nuzah Nuzhimeh Nyronie Oiarah Olduzah Olena Olerah Oleta Orizira 
+			Orkideh Orlsheh Oufa Parastush Parvaia Parvana Parvaneh Parveeya Penwe Perinazh Perridah Pharikeh Punesheh Qadeeda Qadrima Qanyin Qara Qarafa Qasna Qasneta Qasnizara 
+			Qawi Qismah Quarith Qubad Qumreh Qymala Radwa Radwet Rahaja Rahama Rajdara Ramahi Ramana Ramina Ramisa Ramzasa Ramziq Ranarwa Rania Rasa Rasasah Rasha Rashan Rasheh 
+			Rashihi Rashmiya Rasna Rasofi Raza Raziyya Razoufa Rena Riahl Rida Risay Ritabeth Rithussah Rizma Riza Roheebah Rohefa Rohzika Romefta Romehdi Roshinah Roshinia 
+			Roshouida Rouda Roudi Rozhbeh Rozza Rudabeh Runeh Runnasah Ryeshta Saadifa Sabileh Sabinette Sabirah Sabrilah Safa Safia Safiyeh Saghar Sahar Sahba Sahdabeh Saheema 
+			Sahima Sahlafa Saissana Saissiana Sajhadi Sakaneth Salida Salma Samaha Samawarah Samayna Samila Samsi Samya Sanazh Sandeire Sarinne Sarveeyah Sarvusna Sasana Satahra 
+			Satrandra Sayda Saymimah Sefra Sehlayeh Sehmasah Sermenh Seyran Shadeeta Shadri Shaffy Shalayleh Shamea Shamone Sharbashana Shardaza Sharela Sharideh Sharikeh Sharine 
+			Sharyaddan Sheedeh Shehrbah Shelmar Sherizar Sherveen Shiri Shoukoufeh Shuhasa Sima Sinfay Sionen Sirali Sorayeh Sorme Soteras Sudia Suhsola Sulima Sulma Sumariqah 
+			Sundurah Tafa Tahirah Talia Talumineh Tamaima Tannazh Tannida Taqiyat Tarafa Taranneh Tarinah Tariyeh Tavofi Tavrina Tavriya Tenvi Terina Thalia Tharayya Tharlas 
+			Thelmar Thuyya Tiela Tiria Tirrassa Tizah Tomaka Tonleen Toubeh Toura Tourima Trava Travofia Trevvy Ubabmah Ubdani Ubra Umisarah Uranonni Ursyvyra Usralia Usraya Vandeh 
+			Velaman Vena Waqar Wardina Wardiya Wiya Yadilah Yanajah Yarah Yarana Yardileh Yasamaneh Yeganeh Yiralai Yisareh Yisraza Yisroufah Zafira Zahideh Zahimah Zahreh Zainabah 
+			Zakazha Zakma Zakriah Zalwa Zarala Zariya Zarrineh Zayya Zeila Zeira Zeta Zhileh Zibeh Zimaneh Zineah Zohreh Zorafar Zorallah Zoufar Zylle
+		}
+		
+		dynasty_names = {
+			af-Ahmus af-Angilia af-Armin af-Ashora af-Bazra af-Davood af-Dometri af-Dushana af-Ebdoh af-Ganet af-Ghada af-Guyeline af-Haba af-Hafza af-Hazifah af-Hisham af-Islah 
+			af-Jahi af-Kardyn af-Karra af-Katayoun af-Kimiya af-Mahala af-Mubdi af-Naifa af-Nazila af-Owlin af-Qerik af-Ramand af-Rasha af-Tasa af-Whyrdh al-Akir al-Antiphyllos 
+			al-Azif al-Belkarth al-Glessa al-Hallen al-Hallin al-Hallin's al-Hallins Al-Hareem al-Hllins Al-Masri al-Miran al-Morwha al-Myrkwasa al-Natedan al-Ojwambu al-Tahud 
+			al-Tava Alielle at-Abbas at-Ajwan at-Amjad at-Baqar at-Dolmir at-Dorcolm at-Ebdoh at-Fada At-Fara at-Gamati at-Ganet at-Gar at-Ginal at-Glina at-Halma at-Hassef 
+			at-Hawraz at-Hollus at-Housel at-Jafra at-Jehat at-Kalan at-Karim at-Khorajah at-Makela at-Mardeen at-Marimah at-Morad at-Naruk at-Nazdar at-Nazim at-Ordzan at-Pawan 
+			at-Pykel at-Renazh at-Rusa at-Sadil at-Sal at-Salan at-Sentinel at-Shadal at-Tamina at-Wardiya at-Warhpal at-Werzhan at-Wildur at-Yashar Berri Cedmain Conele Derre 
+			Dunestrider Elena Epinard Florelle Ghiardelli Hallin Jerine Lavergne Leki Lemaitre Longtemps Morel Nasir Rajida Sesnit Shinji Stictal Taloet Tu'wha	
+		}
+	}
+}
+
+Sload = {
+	graphical_culture = westerngfx
+	
+	sload = {
+		male_names = {
+			N'Gasta B'Korgen K'Tora 
+		}
+
+		female_names = {
+			K'Garza Z'Maja Q'fura
+		}
+
+		dynasty_names = {
+			"the Pendulous" "The Dark" "Necroni"
+		}
+	}
 }

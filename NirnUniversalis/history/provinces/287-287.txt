@@ -2,7 +2,7 @@
 
 
 
-culture = Redoran
+culture = Bodrumi
 religion = 8_divines_rel
 hre = no
 base_tax = 1

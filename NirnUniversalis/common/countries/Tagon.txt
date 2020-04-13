@@ -1,0 +1,57 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 124  182  181 }
+
+preferred_religion = 
+
+historical_idea_groups = {
+
+}
+
+historical_units = {
+
+}
+
+leader_names = {
+	
+}
+
+monarch_names = {
+	"Dartil #1" = 7
+	"Ulynlo #1" = 6
+	"Gaehyn #1" = 7
+	"Areain #1" = 6
+	"Eddvis #1" = 7
+	"Giraelot #1" = 6
+	"Dovyvon #1" = 7
+	"Dandis #1" = 7
+	"Meluen #1" = 6
+	"Fadimir #1" = 7
+	"Tirlse #1" = 6
+	"Falsrak #1" = 7
+	"Golver #1" = 7
+	"Sadetis #1" = 7
+	"Balaris #1" = 7
+	#Womz
+	"Fonanel #1" = 7
+	"Novda #1" = 6
+	"Vivalamu #1" = 7
+	"Mirena #1" = 6
+	"Ralsalsa #1" = 7
+	"Dinanu #1" = 7
+	"Ruvresi #1" = 6
+	"Medidyni #1" = 7
+	"Naladsa #1" = 6
+	"Vindelea #1" = 7
+	"Ilmynili #1" = 7
+	"Aleraynea #1" = 7
+	"Dinaronu #1" = 6
+	"Galnasa #1" = 7
+	"Vermene #1" = 7 
+}
+
+ship_names = {
+	
+}

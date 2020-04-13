@@ -1,0 +1,9 @@
+# TAG - Tagon
+
+government = monarchy
+government_rank = 1
+mercantilism = 0.0
+primary_culture = tagonese
+religion = catholic
+technology_group = western
+capital = 1707

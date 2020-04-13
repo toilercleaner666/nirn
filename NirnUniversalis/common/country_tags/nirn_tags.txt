@@ -105,3 +105,15 @@ SOL = "countries/Solitude.txt"
 WHR = "countries/Whiterun.txt"
 WND = "countries/Windhelm.txt"
 WNH = "countries/Winterhold.txt"
+
+#Yokuda - NO FLAGS YET [ EMPTY BLACK FLAGS ]
+KAN = "countries/Kanesh.txt"
+VAT = "countries/Vathi.txt"
+YUL = "countries/Yul.txt"
+TAG = "countries/Tagon.txt"
+VRH = "countries/VaranHerd.txt"
+TLH = "countries/TaleskHerd.txt"
+NAL = "countries/Nalonga.txt"
+
+#Thras
+THR = "countries/Thras.txt"
