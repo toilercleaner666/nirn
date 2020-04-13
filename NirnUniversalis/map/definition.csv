@@ -682,10 +682,10 @@
 681;185;237;121;Bleaker's Way;x
 682;80;79;192;Endre;x
 683;23;216;194;Piukanda;x
-684;141;71;116;Fort Coldcom;x
+684;141;71;116;Fort Coldcorn;x
 685;82;89;150;Sheltered Leaves;x
 686;92;164;58;Sercen;x
-687;169;253;70;Aleswell;x
+687;169;253;70;Grenshire;x
 688;38;226;134;Glademist;x
 689;101;235;244;Orange Cliff;x
 690;196;208;90;Moranda;x
@@ -715,14 +715,14 @@
 714;110;218;132;Weynon Priory;x
 715;10;230;170;Chorrol;x
 716;31;97;74;Nonungalo;x
-717;73;117;27;Fort Ontus;x
+717;73;117;27;Pitch Cliff;x
 718;121;47;153;Rickare;x
 719;67;179;213;Everteen;x
 720;179;201;169;Anderian;x
 721;238;18;237;Fort Carmala;x
 722;1;43;181;Sanguine's Log;x
 723;217;101;188;Kynareth's Hills;x
-724;40;206;131;Gottlesfont Priory;x
+724;40;206;131;Greenfield;x
 725;153;125;169;Grateful Pass;x
 726;62;184;200;Shadeleaf Copse;x
 727;44;115;152;Ceyatatar;x
@@ -739,8 +739,8 @@
 738;196;228;47;Dusty ;x
 739;189;54;83;Brotch;x
 740;2;42;179;Echo Hills;x
-741;142;224;76;Pitch Cliff;x
-742;219;127;129;Infested Clearing;x
+741;142;224;76;Infested Clearing;x
+742;219;127;129;Fort Ontus;x
 743;109;234;88;Varondo;x
 744;89;221;200;Talwinque;x
 745;62;181;106;Shetcombe;x
@@ -752,11 +752,11 @@
 751;235;159;26;Dasek Moor;x
 752;188;82;34;Troll Candle Camp;x
 753;186;129;185;Ra'sava;x
-754;26;46;12;Mongrel's Tooth;x
+754;26;46;12;Fort Linchal;x
 755;133;133;158;Dagny;x
 756;3;177;78;Ales;x
 757;103;198;169;Fort Hastrel;x
-758;221;19;170;Fort Linchal;x
+758;221;19;170;Mongrel's Tooth;x
 759;147;94;132;Wariel;x
 760;33;166;215;Kvatch;x
 761;180;239;130;Shattered Mine;x
@@ -769,7 +769,7 @@
 768;163;128;3;Belletor's Folly;x
 769;2;15;140;Jodestone;x
 770;229;96;29;Egriril (M);x
-771;47;194;130;Keenspite (M);x
+771;47;194;130;Enclave Of The Hourglass;x
 772;111;134;143;Gweden Farm;x
 773;118;14;122;Dunbarrow Cove;x
 774;106;234;160;Fort Strand;x
@@ -874,8 +874,8 @@
 873;27;30;4;Fort Cuptor;x
 874;216;10;137;Mir Corrup;x
 875;140;111;29;Nayon Camp;x
-876;171;136;71;Panterville;x
-877;251;117;3;Nenalata;x
+876;171;136;71;Gold-Throat;x
+877;251;117;3;Panterville;x
 878;157;108;138;Fort Grief;x
 879;12;166;197;Nenalata;x
 880;24;126;73;Imperial Bridge;x
@@ -912,8 +912,8 @@
 911;184;135;155;Blue Road Keep;x
 912;96;204;105;Nagastani;x
 913;131;67;46;Memorial Barrow;x
-914;245;38;18;Fort Magia;x
-915;76;77;136;Fort Urasek;x
+914;245;38;18;Fort Urasek;x
+915;76;77;136;Fort Chalman;x
 916;54;38;107;Vilverin;x
 917;98;4;208;Fort Caractacus;x
 918;197;80;230;Fathis Aren's Tower;x
@@ -923,7 +923,7 @@
 922;29;38;223;Highlands;x
 923;140;113;52;Chalman Keep;x
 924;253;136;64;Silver Tooth;x
-925;124;32;244;Fort Horuun;x
+925;124;32;244;Fort Horunn;x
 926;254;166;127;Blaze Rock;x
 927;13;34;87;Beast Maw;x
 928;102;153;179;White Fall Ranges;x
