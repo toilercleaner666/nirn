@@ -1,0 +1,9 @@
+# AAA - Dummy
+
+government = monarchy
+government_rank = 1
+mercantilism = 0.0
+primary_culture = francien
+religion = 8_divines_rel
+technology_group = western
+capital = 3052

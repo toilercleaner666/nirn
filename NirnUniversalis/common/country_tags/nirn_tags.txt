@@ -24,6 +24,9 @@ ANQ = "countries/Anequia.txt"
 PEL = "countries/Pelletine.txt"
 ELS = "countries/Elsweyr.txt"
 
+#Sol's addition to Elsweyr
+RWL = "countries/Rawlkha.txt"
+
 #Morrowind
 
 AHM = "countries/Ahemmusa.txt"
@@ -106,6 +109,9 @@ WHR = "countries/Whiterun.txt"
 WND = "countries/Windhelm.txt"
 WNH = "countries/Winterhold.txt"
 
+#Thras
+THR = "countries/Thras.txt"
+
 #Yokuda - NO FLAGS YET [ EMPTY BLACK FLAGS ]
 KAN = "countries/Kanesh.txt"
 VAT = "countries/Vathi.txt"
@@ -115,5 +121,54 @@ VRH = "countries/VaranHerd.txt"
 TLH = "countries/TaleskHerd.txt"
 NAL = "countries/Nalonga.txt"
 
-#Thras
-THR = "countries/Thras.txt"
+##########################
+# VALENWOOD              #
+##########################
+
+#Sol did this, so obviously no flags yet.
+
+#Kings
+ELD = "countries/EldenRoot.txt"
+CRM = "countries/Cormount.txt"
+HAV = "countries/Haven.txt"
+SIL = "countries/Silvenar.txt"
+GRE = "countries/Greenshade.txt"
+
+#Majors (King Rank)
+ARE = "countries/Arenthia.txt"
+WKC = "countries/WilderkingsCourt.txt"
+
+#Other Treethanes
+KAR = "countries/Karthdar.txt"
+BBB = "countries/Bramblebreach.txt"
+
+#Minors
+SPT = "countries/Southpoint.txt"
+GRM = "countries/GrayMire.txt"
+GVD = "countries/GilVarDelle.txt"
+DRI = "countries/Driladan.txt"
+BDR = "countries/Baandari.txt"
+OUZ = "countries/Ouze.txt"
+VND = "countries/Vinedusk.txt"
+
+#Wood Orcs
+BBC = "countries/BarkbiteClan.txt"
+GFL = "countries/Goldfolly.txt"
+DFC = "countries/DarkfernClan.txt"
+DRC = "countries/DrublogClan.txt"
+LHC = "countries/LhurgashClan.txt"
+DBC = "countries/DrabulClan.txt"
+SHC = "countries/ShaagClan.txt"
+
+#Made up tribes
+ALT = "countries/AllhearthTribe.txt"
+FQT = "countries/FourQuarries.txt"
+ELT = "countries/ElmhearthTribe.txt"
+DRV = "countries/DreadVullain.txt"
+BAE = "countries/Baenilon.txt"
+
+#Maormer pirates
+HNP = "countries/Hinlcalin.txt"
+NLP = "countries/NilagaRaiders.txt"
+SLP = "countries/SilmoorPirates.txt"
+TMP = "countries/TempestIsle.txt"
