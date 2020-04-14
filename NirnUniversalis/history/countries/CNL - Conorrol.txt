@@ -1,0 +1,24 @@
+# ARB - Arbol
+
+government = republic
+government = pirate_republic
+add_government_reform = feudalism_reform
+mercantilism = 31
+primary_culture = Conorrolian
+religion = 8_divines_rel
+technology_group = western
+capital = 539
+
+
+1437.2.20 = {
+	monarch = {
+		name = "Abal"
+		dynasty = "Tu'wha"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}
+

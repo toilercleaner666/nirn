@@ -1,0 +1,10 @@
+# HMF - Hammerfell
+
+government = monarchy
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 31
+primary_culture = 
+religion = 8_divines_rel
+technology_group = western
+capital = 530
