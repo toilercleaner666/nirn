@@ -1560,20 +1560,20 @@
 1559;244;88;115;Redfur;x
 1560;254;208;230;Moonmont Approach;x
 1561;131;155;223;Longhaven;x
-1562;74;218;198;Fort Bluewatch;x
+1562;74;218;198;Falinesti (Autumn);x
 1563;105;106;92;Shaagravine;x
-1564;43;216;159;Greenheart;x
+1564;43;216;159;Vulain;x
 1565;227;192;124;Elmhearth (M);x
 1566;154;182;235;Grenos;x
 1567;80;174;11;Moliva;x
 1568;144;252;9;Haserma;x
-1569;91;241;216;Seaside Sanctuary;x
-1570;102;140;192;Vulain;x
+1569;91;241;216;Dilgras (M);x
+1570;102;140;192;Greenheart;x
 1571;15;107;20;Rheli Sul (M);x
 1572;27;106;225;Spinner's Village;x
-1573;195;95;240;Shrouded Vale;x
-1574;4;93;234;Bramblebreach;x
-1575;101;213;110;Camp Gushnukbar;x
+1573;195;95;240;Bramblebreach;x
+1574;4;93;234;1574;x
+1575;101;213;110;Gushnukbar;x
 1576;62;211;79;Rootwater Grove;x
 1577;95;39;206;Driladan Pass;x
 1578;109;175;1;Verrant Morass;x
@@ -1585,8 +1585,8 @@
 1584;167;173;126;Hectahame;x
 1585;187;202;246;Silverpine (M);x
 1586;87;76;77;Shademist Moors;x
-1587;249;191;172;Vulain Haven;x
-1588;169;170;67;Dilgras (M);x
+1587;249;191;172;Seaside Sanctuary;x
+1588;169;170;67;Vulain Haven;x
 1589;9;61;26;Rainbrush (M);x
 1590;198;167;151;Rulanyil's Fall;x
 1591;92;187;116;Woodhearth;x
@@ -1595,7 +1595,7 @@
 1594;95;233;153;Ferbrathig (M);x
 1595;5;173;39;Diss;x
 1596;137;93;81;Cori Siladha;x
-1597;164;54;97;Dread Vulain;x
+1597;164;54;97;Whisper Grove;x
 1598;132;133;11;Mildradash (M);x
 1599;64;158;110;Two Rocks Vale;x
 1600;216;146;150;Smokemoor (M);x
@@ -1605,7 +1605,7 @@
 1604;14;193;35;Belarata;x
 1605;85;199;224;Jathsogur;x
 1606;145;140;211;Vehem;x
-1607;183;147;202;Falinesti (Autumn);x
+1607;183;147;202;Fort Bluewatch;x
 1608;152;225;187;Thormar Keep;x
 1609;238;153;159;Fort Greenhill;x
 1610;32;191;110;Vindisi;x
@@ -1618,33 +1618,33 @@
 1617;77;62;89;Strid Estuary;x
 1618;161;161;25;Lalgith (M);x
 1619;220;222;19;Ildrum (M);x
-1620;217;21;181;Treehenge;x
-1621;141;17;199;Ouze;x
+1620;217;21;181;Vinedusk;x
+1621;141;17;199;Meadow Run;x
 1622;20;163;198;Thromil;x
 1623;234;148;200;Ebon Ro;x
 1624;172;170;4;Four Quarry Islet;x
 1625;46;8;154;Bloodtoil Valley;x
 1626;251;119;255;Valeguard;x
-1627;133;224;24;Dra'bul;x
+1627;133;224;24;Deepwoods;x
 1628;104;155;140;Tanglehaven;x
 1629;181;50;84;Shael;x
 1630;254;23;92;Silvenar;x
 1631;64;54;93;Riel Rehlem;x
 1632;158;219;23;Zagrasha (M);x
 1633;90;69;194;Longvale;x
-1634;252;150;114;Black Park;x
+1634;252;150;114;Falinesti (Summer);x
 1635;110;30;182;Tomb of the Apostates;x
 1636;40;102;40;Nacdik (M);x
 1637;86;38;53;Strid Basin;x
 1638;211;227;192;Baandari;x
-1639;238;44;131;Wulkwasten;x
+1639;238;44;131;Vulkwasten;x
 1640;245;38;167;Ogrim's Yawn;x
 1641;123;144;39;Wilding Run;x
 1642;51;21;30;Vekres (M);x
-1643;113;124;243;Deepwoods;x
+1643;113;124;243;Dra'bul;x
 1644;141;195;253;Tempest Island;x
 1645;223;190;230;Ilayas;x
-1646;250;133;138;Falinesti (Summer);x
+1646;250;133;138;Black Park;x
 1647;251;38;69;Glenpoint;x
 1648;92;79;191;Matthild;x
 1649;112;89;194;Starwalk;x
@@ -1652,7 +1652,7 @@
 1651;132;53;17;Virimoor;x
 1652;131;84;91;Emperor's Run;x
 1653;38;6;51;Con Silmoor;x
-1654;181;87;250;Whisper Grove;x
+1654;181;87;250;Dread Vullain;x
 1655;98;213;132;Nilaga;x
 1656;96;127;155;Torlen;x
 1657;208;27;72;Samsun;x
@@ -1660,12 +1660,12 @@
 1659;215;31;190;Stros Pier;x
 1660;197;70;34;East Chain;x
 1661;249;129;172;VALENWOOD NAME 1;x
-1662;180;52;47;VALENWOOD NAME 2;x
+1662;180;52;47;Baenilon ;x
 1663;218;242;200;VALENWOOD NAME 3;x
 1664;19;90;176;VALENWOOD NAME 4;x
 1665;126;145;81;VALENWOOD NAME 5;x
 1666;8;225;54;West Chain;x
-1667;183;244;83;VALENWOOD NAME 6;x
+1667;183;244;83;Shrouded Vale;x
 1668;239;107;188;North Caspar;x
 1669;197;5;66;South Caspar;x
 1670;79;89;137;North Herne;x
@@ -3046,12 +3046,12 @@
 3044;92;92;92;Mizidir Wastes;x
 3045;12;12;12;Kastrav Mountains;x
 3046;109;191;206;Peadonay Mountains;x
-3047;133;107;126;Vinedusk;x
-3048;233;189;16;Marbuk Field;x
+3047;133;107;126;Treehenge;x
+3048;233;189;16;Marbruk Field;x
 3049;211;38;149;Wonderrush (M);x
-3050;10;70;95;Marbuk;x
+3050;10;70;95;Marbruk;x
 3051;60;250;14;Barkbite Stronghold;x
-3052;231;220;32;Meadow Run;x
+3052;231;220;32;Ouze;x
 3053;193;255;88;Marathorin;x
 3054;8;3;95;Reman's Bluff;x
 3055;137;92;16;Moonmont;x
