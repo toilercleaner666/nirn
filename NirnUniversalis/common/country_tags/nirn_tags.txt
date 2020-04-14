@@ -159,6 +159,7 @@ DRC = "countries/DrublogClan.txt"
 LHC = "countries/LhurgashClan.txt"
 DBC = "countries/DrabulClan.txt"
 SHC = "countries/ShaagClan.txt"
+VEL = "countries/Velyn.txt"
 
 #Made up tribes
 ALT = "countries/AllhearthTribe.txt"
