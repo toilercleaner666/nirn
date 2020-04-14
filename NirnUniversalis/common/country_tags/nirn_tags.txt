@@ -127,6 +127,9 @@ NAL = "countries/Nalonga.txt"
 
 #Sol did this, so obviously no flags yet.
 
+#Formables
+VAL = "countries/Valenwood.txt"
+
 #Kings
 ELD = "countries/EldenRoot.txt"
 CRM = "countries/Cormount.txt"
@@ -150,6 +153,7 @@ DRI = "countries/Driladan.txt"
 BDR = "countries/Baandari.txt"
 OUZ = "countries/Ouze.txt"
 VND = "countries/Vinedusk.txt"
+VEL = "countries/Velyn.txt"
 
 #Wood Orcs
 BBC = "countries/BarkbiteClan.txt"
@@ -159,7 +163,6 @@ DRC = "countries/DrublogClan.txt"
 LHC = "countries/LhurgashClan.txt"
 DBC = "countries/DrabulClan.txt"
 SHC = "countries/ShaagClan.txt"
-VEL = "countries/Velyn.txt"
 
 #Made up tribes
 ALT = "countries/AllhearthTribe.txt"

@@ -1,0 +1,35 @@
+union = {
+	first = ELD
+	second = HAV
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = ELD
+	second = SPT
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = ELD
+	second = GRM
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = WKC
+	second = DRI
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = WKC
+	second = BBB
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = SIL
+	second = OUZ
+	start_date = 1444.1.1
+}

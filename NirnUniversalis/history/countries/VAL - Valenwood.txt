@@ -1,4 +1,4 @@
-# AAA - Dummy
+# VAL - Valenwood
 
 government = monarchy
 government_rank = 1
@@ -6,4 +6,4 @@ mercantilism = 0.0
 primary_culture = eldenrooter
 religion = 8_divines_rel
 technology_group = western
-capital = 1533
+capital = 1583
