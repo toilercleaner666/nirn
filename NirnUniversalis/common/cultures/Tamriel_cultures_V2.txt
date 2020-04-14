@@ -5080,7 +5080,7 @@ Bosmer = {
 		}
 	}    
 
-	arenthain = {
+	arenthian = {
 		male_names = {
 			Adamir Adragros Adwien Aenthalor Aeradan Aerchelas Aering Aerolor Agilgor Aglion Agolas Agular Agwodir Alander Aldor Alphrennor Alphrost Altholmir Amlion Amreval Andranon Andrilion Angeron Angilor Anglalas Anglas Anglenthor
 			Anglorn Anthelion Aralem Arengo Arengur Arenion Arganar Arthor Athraedal Athrahgor Azareth Baenelros Balithil Baronas Barothlas Behelir Bellulor Bendralas Benduin Berdonion Berithor Berthor Bodring Bolelos Bolion Bolwagon
