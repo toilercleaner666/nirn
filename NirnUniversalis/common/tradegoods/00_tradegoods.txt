@@ -1821,3 +1821,28 @@ coal = {
 unknown = {
 	color = { 0.5 0.5 0.5 }
 }
+
+dwemer artifacts = {
+	color = { 0.9 0.86 0.71 }
+	modifier = {
+		idea_cost = -0.05
+	}
+	province = {
+		production_efficiency_modifier = -0.1
+	}
+	chance = {
+		factor = 5
+		modifier = {
+			factor = 0
+			area = newfoundland_area
+		}
+		modifier = {
+			factor = 0
+			NOT = { development = 18 }
+		}
+		modifier = {
+			factor = 2.0
+			development = 22
+		}
+	}
+}
