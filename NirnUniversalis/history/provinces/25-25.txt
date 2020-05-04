@@ -5,9 +5,9 @@
 culture = dalean
 religion = 8_divines_rel
 hre = no
-base_tax = 1
+base_tax = 2
 base_production = 1
-trade_goods = copper
+trade_goods = fur
 base_manpower = 1
 capital = "Penryn"
 is_city = yes
