@@ -1,0 +1,33 @@
+namespace = nirn_events
+country_event = { #every 20 days
+	id = nirn_events.1
+	hidden = yes
+	trigger = {
+		tag = AAA
+	}
+	mean_time_to_happen = { days = 1 }
+	immediate = {
+		every_province = {
+			attrition_calc = yes
+		}
+		log = "ATTRITION CALC DONE"
+	}
+	option = {
+	}
+}
+country_event = { #setup
+	id = nirn_events.2
+	hidden = yes
+	trigger = {
+		tag = AAA
+	}
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		every_province = {
+			attrition_setup = yes
+		}
+	}
+	option = {
+	}
+}

@@ -1,0 +1,9 @@
+nirn_attrition_display = { picture = supply_limit }
+nirn_attrition_128 = { land_attrition = 12.8 }
+nirn_attrition_64 = { land_attrition = 6.4 }
+nirn_attrition_32 = { land_attrition = 3.2 }
+nirn_attrition_16 = { land_attrition = 1.6 }
+nirn_attrition_8 = { land_attrition = 0.8 }
+nirn_attrition_4 = { land_attrition = 0.4 }
+nirn_attrition_2 = { land_attrition = 0.2 }
+nirn_attrition_1 = { land_attrition = 0.1 }

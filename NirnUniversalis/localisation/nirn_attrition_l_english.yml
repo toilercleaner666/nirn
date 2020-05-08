@@ -1,0 +1,3 @@
+﻿l_english:
+ nirn_attrition_display: "Provincial Supplies"
+ desc_nirn_attrition_display: "Total supplies: [Root.supply_cur.GetValue] / [Root.supply_max.GetValue]\n    Production: §G+[Root.supply_add_prod.GetValue]§!\n    Manpower: §G+[Root.supply_add_man.GetValue]§!\n\nTotal consumption: §R[Root.supply_cons.GetValue]§!\n  Resulting in §R+[Root.supply_attrition.GetValue]§! Local Attrition"

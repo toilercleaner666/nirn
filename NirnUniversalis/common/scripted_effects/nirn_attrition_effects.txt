@@ -1,0 +1,80 @@
+attrition_setup = {
+	attrition_max = yes
+	set_variable = { which = supply_cur which = supply_max }
+	set_variable = { which = supply_add value = 0 }
+	set_variable = { which = supply_add value = 0 }
+	set_variable = { which = supply_add value = 0 }
+	set_variable = { which = supply_cons value = 0 }
+	set_variable = { which = supply_attrition value = 0 }
+	add_permanent_province_modifier = { name = nirn_attrition_display duration = -1 }
+}
+attrition_modifier_apply = {
+	attrition_modifier_helper = { num = 128 }
+	attrition_modifier_helper = { num = 64 }
+	attrition_modifier_helper = { num = 32 }
+	attrition_modifier_helper = { num = 16 }
+	attrition_modifier_helper = { num = 8 }
+	attrition_modifier_helper = { num = 4 }
+	attrition_modifier_helper = { num = 2 }
+	attrition_modifier_helper = { num = 1 }
+}
+attrition_modifier_helper = {
+	if = {
+		limit = {
+			check_variable = { which = supply_attrition value = $num$ }
+		}
+		subtract_variable = { which = supply_attrition value = $num$ }
+		add_permanent_province_modifier = { name = nirn_attrition_$num$ duration = -1 hidden = yes }
+	}
+	else = {
+		remove_province_modifier = nirn_attrition_$num$
+	}
+}
+attrition_max = {
+	export_to_variable = { which = supply_add_man value = base_manpower }
+	multiply_variable = { which = supply_add_man value = 3 }
+	export_to_variable = { which = supply_add_prod value = base_production }
+	multiply_variable = { which = supply_ad_man value = 5 }
+	set_variable = { which = supply_max which = supply_add_man }
+	change_variable = { which = supply_max which = supply_add_prod }
+	multiply_variable = { which = supply_max value = 12 }
+}
+attrition_add = {
+	set_variable = { which = supply_add which = supply_add_man }
+	change_variable = { which = supply_add which = supply_add_prod }
+}
+attrition_consume = {
+	export_to_variable = { which = supply_cons value = trigger_value:infantry_in_province }
+	subtract_variable = { which = supply_cons value = 1 }
+	multiply_variable = { which = supply_cons value = 1.5 }
+	export_to_variable = { which = temp value = trigger_value:cavalry_in_province }
+	subtract_variable = { which = temp value = 1 }
+	multiply_variable = { which = temp value = 2.5 }
+	change_variable = { which = supply_cons which = temp }
+	export_to_variable = { which = temp value = trigger_value:artillery_in_province }
+	subtract_variable = { which = temp value = 1 }
+	multiply_variable = { which = temp value = 4 }
+	change_variable = { which = supply_cons which = temp }
+}
+attrition_calc = {
+	set_variable = { which = supply_attrition value = 0 }
+	attrition_max = yes
+	attrition_add = yes
+	change_variable = { which = supply_cur which = supply_add }
+	attrition_consume = yes
+	subtract_variable = { which = supply_cur which = supply_cons }
+	if = {
+		limit = {
+			check_variable = { which = supply_cur which = supply_max }
+		}
+		set_variable = { which = supply_cur which = supply_max }
+	}
+	else_if = {
+		limit = {
+			NOT = { check_variable = { which = supply_cur value = 0 } }
+		}
+		set_variable = { which = supply_attrition which = supply_cur }
+		set_variable = { which = supply_cur value = 0 }
+	}
+	attrition_modifier_apply = yes
+}
