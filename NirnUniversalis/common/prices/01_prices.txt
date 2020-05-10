@@ -21,3 +21,39 @@ magical_supplies = {
 	base_price = 3
 
 }
+
+ebony = {
+
+	base_price = 4.5
+
+}
+
+malachite = {
+
+	base_price = 4
+
+}
+
+moonstone = {
+
+	base_price = 3
+}
+
+orichalcum = {
+
+	base_price = 3
+
+}
+
+
+moon_sugar = {
+
+	base_price = 3
+
+}
+
+stalhrim = {
+
+	base_price = 4
+
+}

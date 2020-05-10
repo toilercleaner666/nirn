@@ -5,7 +5,7 @@
 #Custom Goods
 
 dwemer_artifacts = {
-	color = { 0.9 0.86 0.71 }
+	color = { 0.85 0.64 0.00 }
 	modifier = {
 		idea_cost = -0.05
 	}
@@ -30,7 +30,7 @@ dwemer_artifacts = {
 }
 
 timber = {
-	color = { 0.45 0.47 0.09 }
+	color = { 0.22 0.16 0.00 }
 	modifier = {
 		development_cost = -0.05
 	}
@@ -63,12 +63,166 @@ timber = {
 }
 
 magical_supplies = {
-	color = { 0.9 0.86 0.71 }
+	color = { 0.82 0.62 0.9 }
 	modifier = {
 		artillery_power = +0.15
 	}
 	province = {
 		production_efficiency_modifier = -0.1
+	}
+	chance = {
+		factor = 5
+		modifier = {
+			factor = 0
+			area = newfoundland_area
+		}
+		modifier = {
+			factor = 0
+			NOT = { development = 18 }
+		}
+		modifier = {
+			factor = 2.0
+			development = 22
+		}
+	}
+}
+
+moon_sugar = {
+	color = { 0.37 0.64 0.72 }
+	modifier = {
+		spy_offence= 0.25
+	}
+	province = {
+		local_unrest = +1
+	}
+	chance = {
+		factor = 5
+		modifier = {
+			factor = 0
+			area = newfoundland_area
+		}
+		modifier = {
+			factor = 0
+			NOT = { development = 18 }
+		}
+		modifier = {
+			factor = 2.0
+			development = 22
+		}
+	}
+}
+
+##########
+# Metals
+##########
+
+ebony = {
+	color = { 0.0 0.0 0.0 }
+	modifier = {
+		discipline = +0.025
+	}
+	province = {
+		production_efficiency_modifier = -0.25
+	}
+	chance = {
+		factor = 5
+		modifier = {
+			factor = 0
+			area = newfoundland_area
+		}
+		modifier = {
+			factor = 0
+			NOT = { development = 18 }
+		}
+		modifier = {
+			factor = 2.0
+			development = 22
+		}
+	}
+}
+
+malachite = {
+	color = { 0.17 0.85 0.37 }
+	modifier = {
+		shock_damage= 0.1
+	}
+	province = {
+		local_friendly_movement_speed = .15
+	}
+	chance = {
+		factor = 5
+		modifier = {
+			factor = 0
+			area = newfoundland_area
+		}
+		modifier = {
+			factor = 0
+			NOT = { development = 18 }
+		}
+		modifier = {
+			factor = 2.0
+			development = 22
+		}
+	}
+}
+
+moonstone = {
+	color = { 0.87 0.90 0.77 }
+	modifier = {
+		movement_speed = .05
+	}
+	province = {
+		global_regiment_recruit_speed = -0.15
+	}
+	chance = {
+		factor = 5
+		modifier = {
+			factor = 0
+			area = newfoundland_area
+		}
+		modifier = {
+			factor = 0
+			NOT = { development = 18 }
+		}
+		modifier = {
+			factor = 2.0
+			development = 22
+		}
+	}
+}
+
+orichalcum = {
+	color = { 0.11 0.37 0.15 }
+	modifier = {
+		fire_damage = .1
+	}
+	province = {
+		province_warscore_cost = +0.25
+	}
+	chance = {
+		factor = 5
+		modifier = {
+			factor = 0
+			area = newfoundland_area
+		}
+		modifier = {
+			factor = 0
+			NOT = { development = 18 }
+		}
+		modifier = {
+			factor = 2.0
+			development = 22
+		}
+	}
+}
+
+stalhrim = {
+	color = { 0.05 0.56 0.62 }
+	modifier = {
+		discipline = .025
+	}
+	province = {
+		local_hostile_movement_speed = +0.25
 	}
 	chance = {
 		factor = 5
