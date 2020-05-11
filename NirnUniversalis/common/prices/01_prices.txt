@@ -1,0 +1,59 @@
+# base_price = X			base price in $. (default is 1.0 if not specified
+
+# goldtype = yes/no			This resource works like 'gold' if yes, using prices from mine-value in province instead of supply/demand and baseprice. Also creates gold-inflation
+
+
+#Custom
+
+dwemer_artifacts = {
+
+	base_price = 3.5
+}
+
+timber = {
+
+	base_price = 2
+
+}
+
+magical_supplies = {
+
+	base_price = 3
+
+}
+
+ebony = {
+
+	base_price = 4.5
+
+}
+
+malachite = {
+
+	base_price = 4
+
+}
+
+moonstone = {
+
+	base_price = 3
+}
+
+orichalcum = {
+
+	base_price = 3
+
+}
+
+
+moon_sugar = {
+
+	base_price = 3
+
+}
+
+stalhrim = {
+
+	base_price = 4
+
+}

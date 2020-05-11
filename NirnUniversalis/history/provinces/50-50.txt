@@ -7,9 +7,9 @@ religion = 8_divines_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = wool
 base_manpower = 1
-capital = "Penryn"
+capital = "Windhelm"
 is_city = yes
 add_core = WND owner = WND controller = WND
 discovered_by = western

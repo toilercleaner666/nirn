@@ -5,10 +5,10 @@
 culture = riftan
 religion = 8_divines_rel
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = copper
-base_manpower = 1
+base_tax = 4
+base_production = 4
+trade_goods = fish
+base_manpower = 4
 capital = "Penryn"
 is_city = yes
 add_core = RFT owner = RFT controller = RFT
