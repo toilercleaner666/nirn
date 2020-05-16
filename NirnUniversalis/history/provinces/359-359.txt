@@ -5,7 +5,7 @@
 culture = Indoril
 religion = 8_divines_rel
 hre = no
-base_tax = 1
+base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 1
