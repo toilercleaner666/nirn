@@ -1,0 +1,7 @@
+objectTypes = {
+    pdxmesh = {
+        name = "mesh_falinesti"
+        file = "gfx/models/falinesti/falinesti.mesh"
+        scale = 1.0 
+    } 
+}

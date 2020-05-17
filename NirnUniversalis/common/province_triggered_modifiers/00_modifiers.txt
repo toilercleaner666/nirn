@@ -1,0 +1,103 @@
+# Province Triggered modifiers are here.
+# These are added to provinces through the add_province_triggered_modifier effect
+#
+# Effects are fully scriptable here.
+
+
+###########################################
+# Just random test modifier
+###########################################
+test_modifier = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		owner = {
+			stability = 0
+		}
+	}
+
+	local_build_cost = 0.05	
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
+	
+}
+
+falinesti_autumn_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		AND = {
+			is_month = 8
+			NOT = {
+				is_month = 10
+			}
+		}
+	}
+	
+	local_build_cost = 0.05	
+}
+
+falinesti_spring_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		AND = {
+			is_month = 2
+			NOT = {
+				is_month = 4
+			}
+		}
+	}
+	
+	local_build_cost = 0.05	
+}
+
+falinesti_summer_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		AND = {
+			is_month = 5
+			NOT = {
+				is_month = 7
+			}
+		}
+	}
+	
+	local_build_cost = 0.05	
+}
+
+falinesti_winter_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		OR = {
+			is_month = 11
+			AND = {
+				is_month = 0
+				NOT = {
+					is_month = 1
+				}
+			}
+		}
+	}
+	
+	local_build_cost = 0.05
+}
