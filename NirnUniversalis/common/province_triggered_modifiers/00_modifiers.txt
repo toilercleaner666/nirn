@@ -62,7 +62,7 @@ falinesti_spring_site = {
 		}
 	}
 	
-	local_build_cost = 0.05	
+	local_build_cost = 0.05
 }
 
 falinesti_summer_site = {
@@ -100,4 +100,13 @@ falinesti_winter_site = {
 	}
 	
 	local_build_cost = 0.05
+	
+	on_activation = {
+		show_ambient_object = "falinesti1"
+	}
+	
+	on_deactivation = {
+		hide_ambient_object = "falinesti1"
+	}
+	
 }
