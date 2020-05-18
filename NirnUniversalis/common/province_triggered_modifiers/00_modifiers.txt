@@ -100,13 +100,18 @@ falinesti_winter_site = {
 	}
 	
 	local_build_cost = 0.05
+}
+
+falinesti_display = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		always = yes
+	}
 	
 	on_activation = {
-		show_ambient_object = "falinesti1"
+		move_falinesti = yes
 	}
-	
-	on_deactivation = {
-		hide_ambient_object = "falinesti1"
-	}
-	
 }
