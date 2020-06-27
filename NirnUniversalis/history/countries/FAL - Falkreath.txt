@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = falkreathan
 add_accepted_culture = helgener
-religion = 8_divines_rel
+religion = eight_divines_rel
 technology_group = western
 capital = 142
 
@@ -14,7 +14,7 @@ capital = 142
 		adm = 2
 		dip = 0
 		mil = 3
-		religion = 8_divines_rel
+		religion = eight_divines_rel
 		culture = falkreathan
 	}
 	heir = {
@@ -26,7 +26,7 @@ capital = 142
 		dip = 4
 		mil = 4
 		female = yes
-		religion = 8_divines_rel
+		religion = eight_divines_rel
 		culture = falkreathan
 	}
 	clear_scripted_personalities = yes

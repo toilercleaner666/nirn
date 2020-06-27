@@ -14,11 +14,11 @@ divines_religion_group = {
 
 	
 
-8_divines_rel = {
+eight_divines_rel = {
 		color = { 247 232 118 }
 		icon = 1
 allowed_conversion = {
-			9_divines_rel
+			nine_divines_rel
 		}
 		country = {
 			vassal_income = 0.1
@@ -196,7 +196,7 @@ icon_zenithar = {
 		}
 
 on_convert = {
-			change_religion = 8_divines_rel
+			change_religion = eight_divines_rel
 			add_prestige = -100
 			
 			add_country_modifier = {
@@ -210,11 +210,11 @@ on_convert = {
 
 
 
-9_divines_rel = {
+nine_divines_rel = {
 		color = { 255 29 29 }
 		icon = 2
 allowed_conversion = {
-			8_divines
+			eight_divines_rel
 		}
 		country = {
 			vassal_income = 0.1
@@ -409,7 +409,7 @@ icon_talos = {
 		}
 
 on_convert = {
-			change_religion = 9_divines_rel
+			change_religion = nine_divines_rel
 			add_prestige = -100
 			
 			add_country_modifier = {

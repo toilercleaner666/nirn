@@ -2,11 +2,11 @@
 
 divines_group: "Divines"
 divines_group_desc: "very cool religion"
-8_divines_rel: "Eight Divines"
-8_divines_rel_religion_desc: "The Eight Divines as an official religion was instituted by Alessia upon her slave revolt against the Ayleids. She is said to have consciously made a synthesis of Ayleid and Nordic gods, in order to appease both her Nord allies and the Cyrods and Ayleids she now ruled. Perhaps coincidentally, the eight Aedra Alessia chose are those Aedra said to have been most active in the creation of the world. When the et'ada realized what Lorkhan had done, and how their divinity was being drained to create Nirn, most of them objected or withdrew. The eight Aedra that make up the divines, however, willingly gave of themselves to complete the act of creation, and are therefore seen as benevolent, in contrast to the more aloof merish deities."
+eight_divines_rel: "Eight Divines"
+eight_divines_rel_religion_desc: "The Eight Divines as an official religion was instituted by Alessia upon her slave revolt against the Ayleids. She is said to have consciously made a synthesis of Ayleid and Nordic gods, in order to appease both her Nord allies and the Cyrods and Ayleids she now ruled. Perhaps coincidentally, the eight Aedra Alessia chose are those Aedra said to have been most active in the creation of the world. When the et'ada realized what Lorkhan had done, and how their divinity was being drained to create Nirn, most of them objected or withdrew. The eight Aedra that make up the divines, however, willingly gave of themselves to complete the act of creation, and are therefore seen as benevolent, in contrast to the more aloof merish deities."
 
-9_divines_rel: "Nine Divines"
-9_divines_rel_religion_desc: "by the nine divines"
+nine_divines_rel: "Nine Divines"
+nine_divines_rel_religion_desc: "by the nine divines"
 
 icon_akatosh: "Akatosh"
 icon_arkay: "Arkay"

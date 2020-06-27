@@ -3,7 +3,7 @@
 
 
 culture = Daggerian
-religion = 8_divines_rel
+religion = eight_divines_rel
 hre = no
 base_tax = 1S
 base_production = 1

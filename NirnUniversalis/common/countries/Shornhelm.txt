@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 29  68  196 }
 
-preferred_religion = 8_divines_religion
+preferred_religion = eight_divines_religion
 
 historical_idea_groups = {
 

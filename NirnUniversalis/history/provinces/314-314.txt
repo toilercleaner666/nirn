@@ -3,7 +3,7 @@
 
 
 culture = Ebonheartian
-religion = 8_divines_rel
+religion = eight_divines_rel
 hre = no
 base_tax = 3
 base_production = 3
