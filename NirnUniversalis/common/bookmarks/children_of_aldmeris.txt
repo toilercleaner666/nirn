@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "BOOKMARK_CHILDREN_OF_ALDMERIS"
+	desc = "BOOKMARK_CHILDREN_OF_ALDMERIS_DESC"
+	date = 1444.11.11
+	center = 212
+	default = NO
+			
+}

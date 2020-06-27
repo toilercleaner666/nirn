@@ -214,6 +214,6 @@ southern_padomaeic_ocean_superregion = {
 	southern_Padomaeic_ocean
 }
 
-wasteland_superregion = {
-	wasteland_region
-}
+#wasteland_superregion = {
+#	wasteland_region
+#}
