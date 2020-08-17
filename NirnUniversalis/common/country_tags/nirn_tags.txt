@@ -14,6 +14,8 @@ FCH = "countries/Linchal.txt"
 IST = "countries/Istirus.txt"
 WAR = "countries/Wariel.txt"
 KVA = "countries/Kvatch.txt"
+FON = "countries/Ontus.txt"
+FCA = "countries/Carmala.txt"
 
 # Elswyer
 

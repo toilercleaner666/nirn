@@ -1,17 +1,18 @@
 #740-740
 
 
-
-culture = Colovian
+add_core = FON 
+owner = FON  
+controller = FON 
+culture = carmelan
 religion = eight_divines_rel
 hre = no
 base_tax = 2
 base_production = 3
 trade_goods = copper
 base_manpower = 2
-capital = "Penryn"
+capital = "Ontus"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

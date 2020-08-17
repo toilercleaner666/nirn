@@ -2,9 +2,9 @@
 
 
 
-add_core = CRO
-owner = CRO
-controller = CRO
+add_core = CRW
+owner = CRW
+controller = CRW
 culture = sutchi
 religion = eight_divines_rel
 hre = no

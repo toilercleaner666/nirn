@@ -1,7 +1,7 @@
 #778-778
 
 
-
+add_core = WAR
 add_core = KVA
 owner = KVA 
 controller = KVA
