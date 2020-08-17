@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "BOOKMARK_DAGGERFALL_COVENANT"
+	desc = "BOOKMARK_DAGGERFALL_COVENANT_DESC"
+	date = 1444.11.11
+	center = 212
+	default = yes
+	country = DGF
+	country = WAY
+	country = SNL
+	country = SHR
+			
+}

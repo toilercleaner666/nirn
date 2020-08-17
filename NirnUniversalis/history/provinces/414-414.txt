@@ -3,7 +3,7 @@
 
 
 culture = Ahemmusa
-religion = 8_divines_rel
+religion = eight_divines_rel
 hre = no
 base_tax = 2
 base_production = 1

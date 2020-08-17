@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "BOOKMARK_THE_HEARTLANDS"
+	desc = "BOOKMARK_THE_HEARTLANDS_DESC"
+	date = 1444.11.11
+	center = 818
+	default = no
+			
+}

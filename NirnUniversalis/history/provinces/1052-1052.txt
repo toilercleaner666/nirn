@@ -3,12 +3,12 @@
 
 
 culture = Colovian
-religion = 8_divines_rel
+religion = eight_divines_rel
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 7
+base_production = 8
 trade_goods = copper
-base_manpower = 1
+base_manpower = 7
 capital = "Penryn"
 is_city = yes
 add_core = AAA owner = AAA controller = AAA

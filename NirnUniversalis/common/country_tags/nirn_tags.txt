@@ -1,6 +1,5 @@
 # Other countries
 
-AAA = "countries/Dummy.txt"
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
@@ -200,3 +199,14 @@ HNP = "countries/Hinlcalin.txt"
 NLP = "countries/NilagaRaiders.txt"
 SLP = "countries/SilmoorPirates.txt"
 TMP = "countries/TempestIsle.txt"
+
+##########################
+# TUTORIAL               #
+##########################
+
+# Sol added these to test the tutorial. if you see this, it means without this the game crashes. please dont delete this like ever
+
+SPA	= "countries/Spain.txt"
+GRA	= "countries/Granada.txt"
+ENG	= "countries/England.txt"
+LEI = "countries/Leinster.txt"

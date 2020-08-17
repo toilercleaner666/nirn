@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = haafingar
 add_accepted_culture = dragonbridger
-religion = 8_divines_rel
+religion = eight_divines_rel
 technology_group = western
 capital = 991
 
@@ -14,7 +14,7 @@ capital = 991
 		adm = 2
 		dip = 5
 		mil = 1
-		religion = 8_divines_rel
+		religion = eight_divines_rel
 		culture = haafingar
 	}
 	heir = {
@@ -25,7 +25,7 @@ capital = 991
 		adm = 5
 		dip = 3
 		mil = 2
-		religion = 8_divines_rel
+		religion = eight_divines_rel
 		culture = falkreathan
 	}
 	clear_scripted_personalities = yes

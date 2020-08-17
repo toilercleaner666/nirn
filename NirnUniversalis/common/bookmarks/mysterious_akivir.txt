@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "BOOKMARK_MYSTERIOUS_AKIVIR"
+	desc = "BOOKMARK_MYSTERIOUS_AKIVIR_DESC"
+	date = 1444.11.11
+	center = 1836
+	default = no
+			
+}

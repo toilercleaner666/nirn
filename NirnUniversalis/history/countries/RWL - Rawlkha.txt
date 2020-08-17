@@ -4,6 +4,6 @@ government = monarchy
 government_rank = 1
 mercantilism = 0.0
 primary_culture = verkarthi
-religion = 8_divines_rel
+religion = eight_divines_rel
 technology_group = western
 capital = 1504
