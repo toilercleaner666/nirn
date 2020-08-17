@@ -3,7 +3,12 @@
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
-# Cyrodiil
+
+# Cyrodiil No Flags
+ANV = "countries/Anvil.txt"
+CRO = "countries/Crowhaven.txt"
+SUT = "countries/Sutch.txt"
+OTH = "countries/Orderofthehour.txt"
 
 # Elswyer
 

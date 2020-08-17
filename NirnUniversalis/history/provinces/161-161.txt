@@ -2,7 +2,7 @@
 
 
 
-culture = Western_Reachman
+culture = western_reachmen
 religion = eight_divines_rel
 hre = no
 base_tax = 1
