@@ -6,9 +6,14 @@ NAT = "countries/Natives.txt"
 
 # Cyrodiil No Flags
 ANV = "countries/Anvil.txt"
-CRO = "countries/Crowhaven.txt"
+CRW = "countries/Crowhaven.txt"
 SUT = "countries/Sutch.txt"
 OTH = "countries/Orderofthehour.txt"
+FHT = "countries/Hastrel.txt"
+FCH = "countries/Linchal.txt"
+IST = "countries/Istirus.txt"
+WAR = "countries/Wariel.txt"
+KVA = "countries/Kvatch.txt"
 
 # Elswyer
 
