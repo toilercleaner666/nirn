@@ -16,6 +16,7 @@ WAR = "countries/Wariel.txt"
 KVA = "countries/Kvatch.txt"
 FON = "countries/Ontus.txt"
 FCA = "countries/Carmala.txt"
+FDR = "countries/Dirich.txt"
 
 # Elswyer
 
