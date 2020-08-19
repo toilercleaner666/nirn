@@ -1,0 +1,58 @@
+guiTypes = {
+	positionType = {
+		name = "open_subscription_view_button_offset"
+		position = { x=75 y=0 }
+	}
+
+	windowType = {
+		name = "game_subscription_banner_view"
+		position = { x= 80 y=-550 }
+		size = { x=386 y=328 }
+		Orientation = "LOWER_LEFT"
+
+		iconType = {
+			name = "sub_background"
+			spriteType = "GFX_sub_background"
+		}
+		
+		instantTextBoxType = {
+			name = "subscription_title"
+			text = "SUBSCRIPTION"
+			font = "vic_29s"
+			position = { x=-70 y=112 }
+			maxWidth = 530
+			maxHeight = 30
+			format = centre
+			alwaystransparent = yes
+		}
+		
+		instantTextBoxType = {
+			name = "sub_message_text"
+			text = "SUB_MESSAGE"
+			font = "vic_22"
+			position = { x=60 y=155 }
+			maxWidth = 270
+			maxHeight = 30
+			format = centre
+			alwaystransparent = yes
+		}	
+
+		guiButtonType = {
+			name = "open_subscription_view_button"
+			quadTextureSprite = "button_type_1"
+			position = { x=120 y=227 }
+			buttonText = "READ_MORE"
+			buttonFont = "vic_18"
+			clicksound = click
+		}
+
+		guiButtonType = {
+			name = "restart_without_subscription_button"
+			quadTextureSprite = "button_type_1"
+			position = { x=42 y=227 }
+			buttonText = "RESTART"
+			buttonFont = "vic_18"
+			clicksound = click
+		}		
+	}
+}
