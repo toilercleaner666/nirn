@@ -1,0 +1,27 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 93  160  163 }
+
+historical_idea_groups = {
+}
+
+historical_units = {
+}
+
+monarch_names = {
+	Debug_Monarch
+}
+
+leader_names = {
+	Debug_Guy
+}
+
+ship_names = {
+	Debug_Ship
+}
+
+army_names = {
+	Debug_Army
+}
