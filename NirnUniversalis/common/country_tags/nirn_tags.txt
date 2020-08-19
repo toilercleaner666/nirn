@@ -17,6 +17,14 @@ KVA = "countries/Kvatch.txt"
 FON = "countries/Ontus.txt"
 FCA = "countries/Carmala.txt"
 FDR = "countries/Dirich.txt"
+SKI = "countries/Skingrad.txt"
+FVT = "countries/Vlastarus.txt"
+ROE = "countries/Roebeck.txt"
+CFG = "countries/Faregyl.txt"
+BRV = "countries/Bravil.txt"
+FVR = "countries/Variela.txt"
+FIR = "countries/Irony.txt"
+FNM = "countries/Nomore.txt"
 
 # Elswyer
 

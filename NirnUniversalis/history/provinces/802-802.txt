@@ -1,17 +1,18 @@
 #802-802
 
 
-
-culture = Colovian
+add_core = CFG
+owner = CFG
+controller = CFG
+culture = bravilese
 religion = eight_divines_rel
 hre = no
 base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 3
-capital = "Penryn"
+capital = "Faregyl"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
