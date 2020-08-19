@@ -25,6 +25,16 @@ BRV = "countries/Bravil.txt"
 FVR = "countries/Variela.txt"
 FIR = "countries/Irony.txt"
 FNM = "countries/Nomore.txt"
+LYW = "countries/Leyawiin.txt"
+HRT = "countries/Heartlands.txt"
+FLS = "countries/Alessia.txt"
+FMG = "countries/Magia.txt"
+GTT = "countries/Gottlesfont.txt"
+WYE = "countries/Weye.txt"
+FSH = "countries/Ash.txt"
+ALW = "countries/Aleswell.txt"
+FCL = "countries/Chalman.txt"
+FSJ = "countries/Sejanus.txt"
 
 # Elswyer
 
