@@ -1,10 +1,9 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = 
-add_accepted_culture = 
-religion = 
+primary_culture = aurusian
+religion = eight_divines_rel
 technology_group = western
-capital = 
+capital = 901
 
 
 1437.2.20 = {

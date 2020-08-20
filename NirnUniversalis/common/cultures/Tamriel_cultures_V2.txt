@@ -4840,6 +4840,98 @@ nordic = {
 			Ulraldsen	Ulransen	Ulrarsen	Ulrariksen	Ulrarkesen	Ulrarnesen	Ulreldsen	Ulrensen	Ulrenssen	Ulrersen	Ulriksen	Ulrissen	Ulrornsen
 		}
 	}
+
+horunian = {
+		male_names = {
+			Adalvald Addvar Addvild Agmaer Akar Alding Aldis Alfarinn Alvor Andurs Angrenor Angvid Argis Arnbjorn Arngeir Arnskar Arrald Asbjorn Asgeir Aslfur Assur Atar Aventus 
+			Avulstein Badnir Balbus Baldor Balgruuf Balimund Bassianus Beirand Belrand Benkum Benor Bersi Bjorlam Bjornolfr Bolgeir Bolli Bolund Borgny Borri Borvir Bottar Briehl 
+			Brill Brond Brunwulf Brynjolf Bulfrek Calder Christer Dagur Dengeir Deor Drahff Drennen Eimar Einarth Elgrim Elmus Embry Eorlund Erik Erikur Erlendr Esbern Falk Farengar 
+			Farkas Felldir Fenrig Filnjar Frodnar Frofnir Froki Frorkmar Frothar Galmar Garthar Garuk Geimund Geirlund Gestur Gissur Gjak Gjalund Gjuk Gloth Golldir Gonnar Gorm Gort 
+			Gralnach Gregor Grimvar Grisvar Gunding Gunmar Gunnar Guthrum Hadring Hadvar Hafnar Hajvarr Hakar Haknir Hakon Halbarn Halvar Haming Hans Hargar Harkon Harlaug Harrald 
+			Heddic Heimskr Heimvar Helvard Hemming Henrik Heratar Hern Hewnon Hjalfar Hjornskar Hjorunn Hod Hofgrir Hogni Holgeir Horgeir Horik Horm Hreinn Hroar Hrodulf Hroggar 
+			Hrollod Hrolmir Hrongar Hrothmund Hugin Hunroor Idolaf Igmund Irlof Irnskar Istar Jenssen Jervar Jesper Jod Jofthor Jolf Jon Jorgen Joric Jorleif Jorn Jurgen Kai Karl 
+			Kibell Kjar Kleppr Klimmek Knjakr Knud Kodlak Kodrir Korir Kottir Kraldar Kust Kuvar Kvenel Kyr Lars Leifur Leigelf Lemkil Llewellyn Lod Lodi Lodvar Logrolf Lokil Lokir 
+			Lond Lorenz Lortheim Lund Lygrleid Lynoit Majni Markus Mathies Maul Metilius Mikael Miraak Molgrom Mralki Narfi Nelkir Niels Nils Odar Odfel Oengul Ogmund Olaf Olfrid 
+			Ollrod Onmund Orgnar Orthjolf Oslaf Pactur Raerek Ragnar Ralof Ranmir Rargal Reves Rhorlak Rigel Rissing Rogen Roggi Roggvir Rolff Rorik Rorlund Rundi Rustleif Sabjorn 
+			Saerlund Sibbi Siddgeir Sifnar Sigaar Sigar Sigurd Sild Sinding Sinmir Sirgar Sirkjorg Skaggi Skald Skeggr Skjor Skuli Skulnar Skulvar Snilf Snilling Snorreid Sogrlaf 
+			Solaf Stalf Steirod Stenvar Stig Storn Styrr Sulvar Svaknir Sven Talsgar Thadgeir Thaer Thalin Thjollod Thonar Thongvor Thonjolf Thonnir Thorald Thorek Thoring Thorygg 
+			Thorgar Thrynn Tolan Tolfdir Torbjorn Torolf Torsten Torvar Torygg Trilf Tsun Tulvur Ulfberth Ulfgar Ulfr Ulfric Unmid Vald Valdar Valdimar Valdr Vanik Vekel Verner 
+			Vidgrod Viding Vidrald Vignar Vilkas Vilod Vipir Virkmund Volk Vorstag Vulwulf Wilhelm Wilmuth Wulf Wulfgar Wuunferth Yngvar Yrsarald
+			
+		}
+		female_names = {
+			Abelone Adisla Aela Aeri Aeta Agna Agni Agnis Alea Alfhild Alva Alvide Annekke Angi Anise Anska Argi Ari Asta Astrid Beitild Bergritte Betrid Birna Bjartur Bodil 
+			Bolfrida Boti Breya Brina Britte Bryling Bujold Dagny Danica Dorthe Drifa Edith Edla Eirid Eisa Elda Elisif Erdi Eris Evette Faida Fanari Fastred Finna Fjori Fjola 
+			Fjotra Frabbi Fralia Frea Freir Frida Fridrika Fruki Fura Gerda Gerdur Gisli Gormlaith Grelka Grelod Greta Grete Gretta Grosta Gwendolyn Haelga Hafjorg Hamal Haran Hefid 
+			Helgi Helgird Herkja Hermir Hert Hestla Hilde Hillevi Hilund Hjordis Hoddreid Hrefna Hroki Huki Hulda Iddra Illdi Inge Ingjard Ingrid Ingun Iona Irgnir Jala Jora Jordis 
+			Katla Katria Laila Lami Lillith Lisbet Lydia Lynly Margret Matlara Maven Minette Mjoll Morwen Narri Nilsine Njada Nura Olava Olda Olfina Oriella Orla Rakel Rigel Rikke 
+			Ruki Runa Serana Sigrid Silda Sissel Sofie Sonir Sorli Susanna Svana Svari Swanhvir Sylgja Tekla Temba Thaena Threki Tilde Tilma Tormir Tova Una Uthgerd Valerica Vori 
+			Yrsa Ysolda
+
+		}
+		dynasty_names = { 
+			Alaldsen	Alansen	Alarsen	Alariksen	Alarkesen	Alarnesen	Aleldsen	Alensen	Alenssen	Alersen	Aliksen	Alissen	Alornsen
+			Asgaldsen	Asgansen	Asgarsen	Asgariksen	Asgarkesen	Asgarnesen	Asgeldsen	Asgensen	Asgenssen	Asgersen	Asgiksen	Asgissen	Asgornsen
+			Bjaldsen	Bjansen	Bjarsen	Bjariksen	Bjarkesen	Bjarnesen	Bjeldsen	Bjensen	Bjenssen	Bjersen	Bjiksen	Bjissen	Bjornsen
+			Eraldsen	Eransen	Erarsen	Erariksen	Erarkesen	Erarnesen	Ereldsen	Erensen	Erenssen	Erersen	Eriksen	Erissen	Erornsen
+			Fenraldsen	Fenransen	Fenrarsen	Fenrariksen	Fenrarkesen	Fenrarnesen	Fenreldsen	Fenrensen	Fenrenssen	Fenrersen	Fenriksen	Fenrissen	Fenrornsen
+			Haraldsen	Haransen	Hararsen	Harariksen	Hararkesen	Hararnesen	Hareldsen	Harensen	Harenssen	Harersen	Hariksen	Harissen	Harornsen
+			Ingmaldsen	Ingmansen	Ingmarsen	Ingmariksen	Ingmarkesen	Ingmarnesen	Ingmeldsen	Ingmensen	Ingmenssen	Ingmersen	Ingmiksen	Ingmissen	Ingmornsen
+			Jurgaldsen	Jurgansen	Jurgarsen	Jurgariksen	Jurgarkesen	Jurgarnesen	Jurgeldsen	Jurgensen	Jurgenssen	Jurgersen	Jurgiksen	Jurgissen	Jurgornsen
+			Kjaldsen	Kjansen	Kjarsen	Kjariksen	Kjarkesen	Kjarnesen	Kjeldsen	Kjensen	Kjenssen	Kjersen	Kjiksen	Kjissen	Kjornsen
+			Mojaldsen	Mojansen	Mojarsen	Mojariksen	Mojarkesen	Mojarnesen	Mojeldsen	Mojensen	Mojenssen	Mojersen	Mojiksen	Mojissen	Mojornsen
+			Soraldsen	Soransen	Sorarsen	Sorariksen	Sorarkesen	Sorarnesen	Soreldsen	Sorensen	Sorenssen	Sorersen	Soriksen	Sorissen	Sorornsen
+			Torbaldsen	Torbansen	Torbarsen	Torbariksen	Torbarkesen	Torbarnesen	Torbeldsen	Torbensen	Torbenssen	Torbersen	Torbiksen	Torbissen	Torbornsen
+			Ulraldsen	Ulransen	Ulrarsen	Ulrariksen	Ulrarkesen	Ulrarnesen	Ulreldsen	Ulrensen	Ulrenssen	Ulrersen	Ulriksen	Ulrissen	Ulrornsen
+		}
+	}
+
+bruman = {
+		male_names = {
+			Adalvald Addvar Addvild Agmaer Akar Alding Aldis Alfarinn Alvor Andurs Angrenor Angvid Argis Arnbjorn Arngeir Arnskar Arrald Asbjorn Asgeir Aslfur Assur Atar Aventus 
+			Avulstein Badnir Balbus Baldor Balgruuf Balimund Bassianus Beirand Belrand Benkum Benor Bersi Bjorlam Bjornolfr Bolgeir Bolli Bolund Borgny Borri Borvir Bottar Briehl 
+			Brill Brond Brunwulf Brynjolf Bulfrek Calder Christer Dagur Dengeir Deor Drahff Drennen Eimar Einarth Elgrim Elmus Embry Eorlund Erik Erikur Erlendr Esbern Falk Farengar 
+			Farkas Felldir Fenrig Filnjar Frodnar Frofnir Froki Frorkmar Frothar Galmar Garthar Garuk Geimund Geirlund Gestur Gissur Gjak Gjalund Gjuk Gloth Golldir Gonnar Gorm Gort 
+			Gralnach Gregor Grimvar Grisvar Gunding Gunmar Gunnar Guthrum Hadring Hadvar Hafnar Hajvarr Hakar Haknir Hakon Halbarn Halvar Haming Hans Hargar Harkon Harlaug Harrald 
+			Heddic Heimskr Heimvar Helvard Hemming Henrik Heratar Hern Hewnon Hjalfar Hjornskar Hjorunn Hod Hofgrir Hogni Holgeir Horgeir Horik Horm Hreinn Hroar Hrodulf Hroggar 
+			Hrollod Hrolmir Hrongar Hrothmund Hugin Hunroor Idolaf Igmund Irlof Irnskar Istar Jenssen Jervar Jesper Jod Jofthor Jolf Jon Jorgen Joric Jorleif Jorn Jurgen Kai Karl 
+			Kibell Kjar Kleppr Klimmek Knjakr Knud Kodlak Kodrir Korir Kottir Kraldar Kust Kuvar Kvenel Kyr Lars Leifur Leigelf Lemkil Llewellyn Lod Lodi Lodvar Logrolf Lokil Lokir 
+			Lond Lorenz Lortheim Lund Lygrleid Lynoit Majni Markus Mathies Maul Metilius Mikael Miraak Molgrom Mralki Narfi Nelkir Niels Nils Odar Odfel Oengul Ogmund Olaf Olfrid 
+			Ollrod Onmund Orgnar Orthjolf Oslaf Pactur Raerek Ragnar Ralof Ranmir Rargal Reves Rhorlak Rigel Rissing Rogen Roggi Roggvir Rolff Rorik Rorlund Rundi Rustleif Sabjorn 
+			Saerlund Sibbi Siddgeir Sifnar Sigaar Sigar Sigurd Sild Sinding Sinmir Sirgar Sirkjorg Skaggi Skald Skeggr Skjor Skuli Skulnar Skulvar Snilf Snilling Snorreid Sogrlaf 
+			Solaf Stalf Steirod Stenvar Stig Storn Styrr Sulvar Svaknir Sven Talsgar Thadgeir Thaer Thalin Thjollod Thonar Thongvor Thonjolf Thonnir Thorald Thorek Thoring Thorygg 
+			Thorgar Thrynn Tolan Tolfdir Torbjorn Torolf Torsten Torvar Torygg Trilf Tsun Tulvur Ulfberth Ulfgar Ulfr Ulfric Unmid Vald Valdar Valdimar Valdr Vanik Vekel Verner 
+			Vidgrod Viding Vidrald Vignar Vilkas Vilod Vipir Virkmund Volk Vorstag Vulwulf Wilhelm Wilmuth Wulf Wulfgar Wuunferth Yngvar Yrsarald
+			
+		}
+		female_names = {
+			Abelone Adisla Aela Aeri Aeta Agna Agni Agnis Alea Alfhild Alva Alvide Annekke Angi Anise Anska Argi Ari Asta Astrid Beitild Bergritte Betrid Birna Bjartur Bodil 
+			Bolfrida Boti Breya Brina Britte Bryling Bujold Dagny Danica Dorthe Drifa Edith Edla Eirid Eisa Elda Elisif Erdi Eris Evette Faida Fanari Fastred Finna Fjori Fjola 
+			Fjotra Frabbi Fralia Frea Freir Frida Fridrika Fruki Fura Gerda Gerdur Gisli Gormlaith Grelka Grelod Greta Grete Gretta Grosta Gwendolyn Haelga Hafjorg Hamal Haran Hefid 
+			Helgi Helgird Herkja Hermir Hert Hestla Hilde Hillevi Hilund Hjordis Hoddreid Hrefna Hroki Huki Hulda Iddra Illdi Inge Ingjard Ingrid Ingun Iona Irgnir Jala Jora Jordis 
+			Katla Katria Laila Lami Lillith Lisbet Lydia Lynly Margret Matlara Maven Minette Mjoll Morwen Narri Nilsine Njada Nura Olava Olda Olfina Oriella Orla Rakel Rigel Rikke 
+			Ruki Runa Serana Sigrid Silda Sissel Sofie Sonir Sorli Susanna Svana Svari Swanhvir Sylgja Tekla Temba Thaena Threki Tilde Tilma Tormir Tova Una Uthgerd Valerica Vori 
+			Yrsa Ysolda
+
+		}
+		dynasty_names = { 
+			Alaldsen	Alansen	Alarsen	Alariksen	Alarkesen	Alarnesen	Aleldsen	Alensen	Alenssen	Alersen	Aliksen	Alissen	Alornsen
+			Asgaldsen	Asgansen	Asgarsen	Asgariksen	Asgarkesen	Asgarnesen	Asgeldsen	Asgensen	Asgenssen	Asgersen	Asgiksen	Asgissen	Asgornsen
+			Bjaldsen	Bjansen	Bjarsen	Bjariksen	Bjarkesen	Bjarnesen	Bjeldsen	Bjensen	Bjenssen	Bjersen	Bjiksen	Bjissen	Bjornsen
+			Eraldsen	Eransen	Erarsen	Erariksen	Erarkesen	Erarnesen	Ereldsen	Erensen	Erenssen	Erersen	Eriksen	Erissen	Erornsen
+			Fenraldsen	Fenransen	Fenrarsen	Fenrariksen	Fenrarkesen	Fenrarnesen	Fenreldsen	Fenrensen	Fenrenssen	Fenrersen	Fenriksen	Fenrissen	Fenrornsen
+			Haraldsen	Haransen	Hararsen	Harariksen	Hararkesen	Hararnesen	Hareldsen	Harensen	Harenssen	Harersen	Hariksen	Harissen	Harornsen
+			Ingmaldsen	Ingmansen	Ingmarsen	Ingmariksen	Ingmarkesen	Ingmarnesen	Ingmeldsen	Ingmensen	Ingmenssen	Ingmersen	Ingmiksen	Ingmissen	Ingmornsen
+			Jurgaldsen	Jurgansen	Jurgarsen	Jurgariksen	Jurgarkesen	Jurgarnesen	Jurgeldsen	Jurgensen	Jurgenssen	Jurgersen	Jurgiksen	Jurgissen	Jurgornsen
+			Kjaldsen	Kjansen	Kjarsen	Kjariksen	Kjarkesen	Kjarnesen	Kjeldsen	Kjensen	Kjenssen	Kjersen	Kjiksen	Kjissen	Kjornsen
+			Mojaldsen	Mojansen	Mojarsen	Mojariksen	Mojarkesen	Mojarnesen	Mojeldsen	Mojensen	Mojenssen	Mojersen	Mojiksen	Mojissen	Mojornsen
+			Soraldsen	Soransen	Sorarsen	Sorariksen	Sorarkesen	Sorarnesen	Soreldsen	Sorensen	Sorenssen	Sorersen	Soriksen	Sorissen	Sorornsen
+			Torbaldsen	Torbansen	Torbarsen	Torbariksen	Torbarkesen	Torbarnesen	Torbeldsen	Torbensen	Torbenssen	Torbersen	Torbiksen	Torbissen	Torbornsen
+			Ulraldsen	Ulransen	Ulrarsen	Ulrariksen	Ulrarkesen	Ulrarnesen	Ulreldsen	Ulrensen	Ulrenssen	Ulrersen	Ulriksen	Ulrissen	Ulrornsen
+		}
+	}
+
+
 }
 
 
@@ -7206,7 +7298,7 @@ istirusi = {
 
   }
 
-  chorrelian = {
+  chorrolian = {
 
     male_names = { Aberius Abnur Absolon Accalia Adonatus Aetis Agapius Ancurio Antus Appius Aquila Aretino Arlowe Arrianus Artorius Artus Astius Atrius August Auiphion Aurius Averio Azshalku Blandus Bremman Brielus Bruccius Brucus Cadwell Caecilus Caitarius Calvus Carius Carmalo Carodus Carolus Castellan Celag Celsus Chaero Cicero Cidius Cimbar Cimber Claudius Codus Collatinus Compicius Contar Cordius Coris Cornelius Cosh Crassius Crispinus Crispus Decalus Decanus Decius Dobias Domitius Donus Draninus Eburris Ennis Etira Fabio Fabius Fabricius Falco Falx Feristyr Flaminius Florentius Florus Fluvius Fralav Frontarius Gadayn Gallinius Graccus Gregorius Haderus Hareld Hark Hilo Humius Impudius Iniel Iocundus Iulianus Jadier Janius Jaretius Javad Justianas Justicius Justicus Justino Kastav Laelius Larus Leono Linus Livius Lulius Lupandinus Lupius Mallius Malpenix Marcellinus Marcius Margus Marius Martialis Martinus Maxilien Maxim Medallus Mercuro Molvirian Montanus Murudius Musius Nemesianus Nemus Nepicius Nero Nerus Nicolas Nonus Novatus Nrio Nullius Octarianus Octavimus Orinthus Ormax Otius Ovidius Panundus Paolus Paratius Percius Perenius Perien Petronius Phrastus Pilper Pitro Pius Pixot Plautis Plautisanus Plautus Porcius Postius Priscus Quan Quatrius Quentinius Ravo Reberio Reman Remius Rexus Roliand Sabinus Salanius Salano Salanus Sanctius Saulius Savilian Savio Scaevola Scarius Senilias Septius Sergianus Sergus Servatius Servius Severinus Severus Sextus Sigilis Sirollus Sorexius Statius Sulinus Surus Sylvain Sylvian Syndelius Taminal Tappius Teldius Terenus Tertius Thalanius Tiburtius Tininnus Tinus Tractus Trano Tutorius Valentinus Valton Valvius Varen Varinus Varnius Ventilias Veranus Verel Verro Vibius Vinice Vinnus Viro Visetus Vitellus Vitrus Vitus Volgo Vyric Zelanus
     }

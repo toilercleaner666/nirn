@@ -1,17 +1,18 @@
 #4269-4269
 
 
-
-culture = Colovian
+add_core = FRM 
+owner = FRM  
+controller = FRM 
+culture = topalian
 religion = eight_divines_rel
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Redman"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
