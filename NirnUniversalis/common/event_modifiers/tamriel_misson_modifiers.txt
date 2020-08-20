@@ -1,0 +1,4 @@
+bannermist_forrest_recovery = {
+	global_missionary_strength = 0.01
+	culture_conversion_cost = -0.15
+}

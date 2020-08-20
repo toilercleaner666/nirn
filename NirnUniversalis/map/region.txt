@@ -89,6 +89,7 @@ falkreath_skyrim_region = {
 		southfringe_pass_area
 		ilinalta_forest_area
 		falkreath_area
+		bannermist_forest_area
 	}
 }
 
@@ -120,7 +121,7 @@ reach_skyrim_region = {
 		southern_reach_area
 		central_reach_area
 		granite_cliffs_area
-		bannermist_forest_area
+		
 	}
 }
 

@@ -4,23 +4,28 @@ primary_culture = falkreathan
 add_accepted_culture = helgener
 religion = eight_divines_rel
 technology_group = western
-capital = 142
+capital = 144
 
 
 1437.2.20 = {
 	monarch = {
 		name = "Hjurgol"
 		dynasty = "Skjoralmor"
+		birth_date = 1437.2.20
 		adm = 2
 		dip = 0
 		mil = 3
 		religion = eight_divines_rel
 		culture = falkreathan
 	}
+}
+1443.2.20 = {
 	heir = {
 		name = "Eerika"
 		monarch_name = "Eerika"
 		dynasty = "Skjoralmor"
+		birth_date = 1443.2.20
+		death_date = 1491.2.10
 		claim = 90
 		adm = 3
 		dip = 4
@@ -30,5 +35,6 @@ capital = 142
 		culture = falkreathan
 	}
 	clear_scripted_personalities = yes
+	
 }
 
