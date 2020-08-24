@@ -1,0 +1,26 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 136  137  134 }
+
+
+historical_idea_groups = {
+
+}
+
+historical_units = {
+
+}
+
+leader_names = {
+	
+}
+
+monarch_names = {
+	
+}
+
+ship_names = {
+	
+}
