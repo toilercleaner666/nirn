@@ -1,17 +1,18 @@
 #1398-1398
 
 
-
-culture = Colovian
-religion = eight_divines_rel
+add_core = HLS 
+owner = HLS 
+controller = HLS
+culture = agaceph
+religion = hist_rel
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Helstrom"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

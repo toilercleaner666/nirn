@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = wasseek_haleel
+religion = hist_rel
+technology_group = western
+capital = 1270
+
+1437.2.20 = {
+	monarch = {
+		name = ""
+		dynasty = 
+		adm = 
+		dip = 
+		mil = 
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}
+
