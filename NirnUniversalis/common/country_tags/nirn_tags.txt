@@ -289,6 +289,7 @@ BGM = "countries/Bogmother.txt"
 PAA = "countries/Paatru.txt"
 STO = "countries/Stormhold.txt"
 GID = "countries/Gideon.txt"
+ARG = "countries/Argonia.txt"
 
 ##########################
 # TUTORIAL               #
