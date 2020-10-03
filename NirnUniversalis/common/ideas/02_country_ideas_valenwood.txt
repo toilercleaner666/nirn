@@ -1,0 +1,233 @@
+ELD_ideas = {
+	#Eldenroot
+	start = {
+		production_efficiency = 0.15
+		technology_cost = -0.5
+	}
+	bonus = {
+		global_institution_spread = 0.05
+	}
+
+	trigger = {
+		tag = ELD
+	}
+	free = yes
+
+	eld_camoran_center = {
+		reduced_liberty_desire = 10
+	}
+	eld_greatest_city_valenwood = {
+		local_tax_modifier = 0.25
+	}
+	eld_elden_tree = {
+		prestige = 1.5
+		monthly_splendor = 2
+	}
+	eld_efficient_rule = {
+		possible_adm_policy = 1
+		free_adm_policy = 1
+	}
+	eld_great_camoran_house = {
+		heir_chance = 0.25
+	}
+	eld_autonomous_control = {
+		vassal_income = 0.2
+	}
+	eld_unquestioned_rule = {
+		global_unrest = -1.5
+		legitimacy = 0.5
+	}
+}
+
+ARE_ideas = {
+	#Arenthia
+	trigger = {
+		tag = ARE
+	}
+	free = yes
+
+	start = {
+		idea_cost = -0.1
+		hostile_attrition = 1
+	}
+	bonus = {
+		global_missionary_strength = 0.02
+	}
+
+	are_valenwoods_fringe = {
+		defensiveness = 0.2
+	}
+	are_diversity_of_the_march = {
+		num_accepted_cultures = 2
+	}
+	are_trade_hub = {
+		trade_efficiency = 0.15
+	}
+	are_northern_hosts = {
+		land_forcelimit_modifier = 0.1
+	}
+	are_caravan_merchants = {
+		trade_steering = 0.05
+	}
+	are_elsweyr_connections = {
+		global_trade_power = 0.2
+	}
+	are_great_markets = {
+		center_of_trade_upgrade_cost = -0.5
+	}
+}
+
+SIL_ideas = {
+	#Silvenar
+	trigger = {
+		tag = SIL
+	}
+	free = yes
+
+	start = {
+		missionaries = 1
+		years_of_nationalism = -5
+	}
+	bonus = {
+		enforce_religion_cost = -0.8
+	}
+
+	sil_voice_of_the_people = {
+		global_unrest = -2
+	}
+	sil_religious_fervor = {
+		global_missionary_strength = 0.02
+	}
+	sil_open_petitions = {
+		legitimacy = 1
+	}
+	sil_voice_of_authority = {
+		tolerance_own = 2
+	}
+	sil_warriors_of_the_wild_hunt = {
+		land_morale = 0.2
+	}
+	sil_face_of_green_pact = {
+		culture_conversion_cost = -0.15
+	}
+	sil_allies_in_every_court = {
+		improve_relation_modifier = 0.3
+	}
+}
+
+WKC_ideas = {
+	#Wilderking
+	trigger = {
+		tag = WKC
+	}
+	free = yes
+
+	start = {
+		# Will probably move this to the government and replace it with missionary strength
+		monarch_admin_power = 2
+		monarch_diplomatic_power = 2
+		monarch_military_power = 2
+	}
+	bonus = {
+		province_warscore_cost = -0.1
+	}
+
+	wkc_tribal_subjects = {
+		global_manpower_modifier = 0.05
+	}
+	wkc_worship_me = {
+		tolerance_own = 1
+	}
+	wkc_hidden_mantle = {
+		reduced_liberty_desire = 0.05
+	}
+	wkc_die_for_your_god = {
+		land_morale = 0.1
+	}
+	wkc_greenshade_ambition = {
+		ae_impact = -0.1
+	}
+	wkc_eye_for_merit = {
+		advisor_cost = -0.1
+	}
+	wkc_who_dares_question_a_god = {
+		legitimacy = 0.5
+	}
+}
+
+CRM_ideas = {
+	#Cormount
+	trigger = {
+		tag = CRM
+	}
+	free = yes
+
+	start = {
+		global_tax_modifier = 0.1
+		leader_land_manuever = 1
+	}
+	bonus = {
+		improve_relation_modifier = 0.15
+	}
+
+	crm_trade_hub = {
+		trade_efficiency = 0.15
+	}
+	crm_graht_oak_city = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	crm_rotmeth_breweries = {
+		production_efficiency = 0.1
+	}
+	crm_colovian_migrants = {
+		development_cost = -0.05
+	}
+	crm_eldenroot_rivalry = {
+		discipline = 0.05
+	}
+	crm_blacksap_movement = {
+		global_unrest = -1
+	}
+	crm_treethane_autonomy = {
+		global_autonomy = -0.1
+	}
+}
+
+GRE_ideas = {
+	#Greenshade - Woodhearth
+	trigger = {
+		tag = GRE
+	}
+	free = yes
+
+	start = {
+		war_taxes_cost_modifier = -0.5
+		reinforce_speed = 0.33
+	}
+	bonus = {
+		shock_damage_received = 0.15
+	}
+
+	gre_greenpacts_center = {
+		shock_damage = 0.2
+	}
+	gre_woodhearth = {
+		num_accepted_cultures = 1
+	}
+	gre_drowned_coast_ports = {
+		global_trade_power = 0.15
+	}
+	gre_valenwoods_shipyards = {
+		naval_forcelimit = 0.15
+	}
+	gre_civilize_the_tribes = {
+		core_creation = -0.2
+	}
+	gre_religious_diversity = {
+		tolerance_heathen = 2
+		tolerance_heretic = 2
+	}
+	gre_coastal_fortresses = {
+		defensiveness = 0.2
+	}
+}
