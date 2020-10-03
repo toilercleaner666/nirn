@@ -334,10 +334,11 @@ buddhist_bodh_gaya = {
 				religion = buddhism
 				religion = vajrayana
 				religion = mahayana
-			}
+      }
 		}
 	}
-	
+
+
 	prestige = 0.5
 	missionaries = 1
 	global_heretic_missionary_strength = 0.02
@@ -560,7 +561,7 @@ jerusalem_held = {
 			}
 		}
 	}
-	
+
 	prestige = 0.5
 	missionaries = 1
 	global_heretic_missionary_strength = 0.02
@@ -783,4 +784,92 @@ krantor_crane = {
 	global_trade_power = 0.05
 	trade_efficiency = 0.1
 	dip_tech_cost_modifier = -0.01
+}
+
+##########################################
+# FALINESTI PROVINCE TRIGGERED MODIFIERS #
+##########################################
+
+falinesti_autumn_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		AND = {
+			is_month = 8
+			NOT = {
+				is_month = 10
+			}
+		}
+	}
+	
+	local_build_cost = 0.05	
+}
+
+falinesti_spring_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		AND = {
+			is_month = 2
+			NOT = {
+				is_month = 4
+
+			}
+		}
+	}
+	local_build_cost = 0.05
+}
+
+falinesti_summer_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		AND = {
+			is_month = 5
+			NOT = {
+				is_month = 7
+			}
+		}
+	}
+	local_build_cost = 0.05	
+}
+
+falinesti_winter_site = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		OR = {
+			is_month = 11
+			AND = {
+				is_month = 0
+				NOT = {
+					is_month = 1
+				}
+			}
+		}
+	}
+	
+	local_build_cost = 0.05
+}
+
+falinesti_display = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		always = yes
+	}
+	
+	on_activation = {
+		move_falinesti = yes
+	}
 }

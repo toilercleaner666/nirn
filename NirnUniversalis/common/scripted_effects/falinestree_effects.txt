@@ -1,0 +1,684 @@
+falinesti_setup = {
+	AAA = {
+		capital_scope = {
+			add_province_triggered_modifier = falinesti_display
+		}
+		export_to_variable = { which = falinesti value = trigger_value:is_month }
+		multiply_variable = { which = falinesti value = 30.4 }
+		multiply_variable = { which = falinesti value = 0.001 }
+		multiply_variable = { which = falinesti value = 1000 }
+		subtract_variable = { which = falinesti value = 15 }
+	}
+}
+move_falinesti = {
+	AAA = {
+		if = {
+			limit = {
+				check_variable = { which = falinesti value = 10 }
+			}
+			set_variable = { which = falinesti value = 1 }
+		}
+		else = {
+			change_variable = { which = falinesti value = 1 }
+		}
+#		set_falinesti = yes
+		# replace below with this
+		if = {
+			limit = {
+				is_variable_equal = { which = falinesti value = 5 }
+			}
+			show_ambient_object = "falinesti1"
+		}
+		else_if = {
+			limit = {
+				is_variable_equal = { which = falinesti value = 1 }
+			}
+			hide_ambient_object = "falinesti1"
+		}
+	}
+}
+set_falinesti = {
+	set_falinesti_check = { var=falinesti effect=set_falinesti_helper }
+}
+set_falinesti_helper = {
+	show_ambient_object = "falinesti$num1$"
+	hide_ambient_object = "falinesti$num2$"
+}
+set_falinesti_check = {
+	if = { limit = { check_variable = { which = $var$ value = 64 } }
+		if = { limit = { check_variable = { which = $var$ value = 96 } }
+			if = { limit = { check_variable = { which = $var$ value = 112 } }
+				if = { limit = { check_variable = { which = $var$ value = 120 } }
+					if = { limit = { check_variable = { which = $var$ value = 124 } }
+						if = { limit = { check_variable = { which = $var$ value = 126 } }
+							if = { limit = { check_variable = { which = $var$ value = 127 } }
+								$effect$ = { num1=127 num2=126 }
+							}
+							else = {
+								$effect$ = { num1=126 num2=125 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 125 } }
+								$effect$ = { num1=125 num2=124 }
+							}
+							else = {
+								$effect$ = { num1=124 num2=123 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 122 } }
+							if = { limit = { check_variable = { which = $var$ value = 123 } }
+								$effect$ = { num1=123 num2=122 }
+							}
+							else = {
+								$effect$ = { num1=122 num2=121 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 121 } }
+								$effect$ = { num1=121 num2=120 }
+							}
+							else = {
+								$effect$ = { num1=120 num2=119 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 116 } }
+						if = { limit = { check_variable = { which = $var$ value = 118 } }
+							if = { limit = { check_variable = { which = $var$ value = 119 } }
+								$effect$ = { num1=119 num2=118 }
+							}
+							else = {
+								$effect$ = { num1=118 num2=117 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 117 } }
+								$effect$ = { num1=117 num2=116 }
+							}
+							else = {
+								$effect$ = { num1=116 num2=115 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 114 } }
+							if = { limit = { check_variable = { which = $var$ value = 115 } }
+								$effect$ = { num1=115 num2=114 }
+							}
+							else = {
+								$effect$ = { num1=114 num2=113 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 113 } }
+								$effect$ = { num1=113 num2=112 }
+							}
+							else = {
+								$effect$ = { num1=112 num2=111 }
+							}
+						}
+					}
+				}
+			}
+			else = {
+				if = { limit = { check_variable = { which = $var$ value = 104 } }
+					if = { limit = { check_variable = { which = $var$ value = 108 } }
+						if = { limit = { check_variable = { which = $var$ value = 110 } }
+							if = { limit = { check_variable = { which = $var$ value = 111 } }
+								$effect$ = { num1=111 num2=110 }
+							}
+							else = {
+								$effect$ = { num1=110 num2=109 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 109 } }
+								$effect$ = { num1=109 num2=108 }
+							}
+							else = {
+								$effect$ = { num1=108 num2=107 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 106 } }
+							if = { limit = { check_variable = { which = $var$ value = 107 } }
+								$effect$ = { num1=107 num2=106 }
+							}
+							else = {
+								$effect$ = { num1=106 num2=105 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 105 } }
+								$effect$ = { num1=105 num2=104 }
+							}
+							else = {
+								$effect$ = { num1=104 num2=103 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 100 } }
+						if = { limit = { check_variable = { which = $var$ value = 102 } }
+							if = { limit = { check_variable = { which = $var$ value = 103 } }
+								$effect$ = { num1=103 num2=102 }
+							}
+							else = {
+								$effect$ = { num1=102 num2=101 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 101 } }
+								$effect$ = { num1=101 num2=100 }
+							}
+							else = {
+								$effect$ = { num1=100 num2=99 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 98 } }
+							if = { limit = { check_variable = { which = $var$ value = 99 } }
+								$effect$ = { num1=99 num2=98 }
+							}
+							else = {
+								$effect$ = { num1=98 num2=97 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 97 } }
+								$effect$ = { num1=97 num2=96 }
+							}
+							else = {
+								$effect$ = { num1=96 num2=95 }
+							}
+						}
+					}
+				}
+			}
+		}
+		else = {
+			if = { limit = { check_variable = { which = $var$ value = 80 } }
+				if = { limit = { check_variable = { which = $var$ value = 88 } }
+					if = { limit = { check_variable = { which = $var$ value = 92 } }
+						if = { limit = { check_variable = { which = $var$ value = 94 } }
+							if = { limit = { check_variable = { which = $var$ value = 95 } }
+								$effect$ = { num1=95 num2=94 }
+							}
+							else = {
+								$effect$ = { num1=94 num2=93 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 93 } }
+								$effect$ = { num1=93 num2=92 }
+							}
+							else = {
+								$effect$ = { num1=92 num2=91 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 90 } }
+							if = { limit = { check_variable = { which = $var$ value = 91 } }
+								$effect$ = { num1=91 num2=90 }
+							}
+							else = {
+								$effect$ = { num1=90 num2=89 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 89 } }
+								$effect$ = { num1=89 num2=88 }
+							}
+							else = {
+								$effect$ = { num1=88 num2=87 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 84 } }
+						if = { limit = { check_variable = { which = $var$ value = 86 } }
+							if = { limit = { check_variable = { which = $var$ value = 87 } }
+								$effect$ = { num1=87 num2=86 }
+							}
+							else = {
+								$effect$ = { num1=86 num2=85 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 85 } }
+								$effect$ = { num1=85 num2=84 }
+							}
+							else = {
+								$effect$ = { num1=84 num2=83 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 82 } }
+							if = { limit = { check_variable = { which = $var$ value = 83 } }
+								$effect$ = { num1=83 num2=82 }
+							}
+							else = {
+								$effect$ = { num1=82 num2=81 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 81 } }
+								$effect$ = { num1=81 num2=80 }
+							}
+							else = {
+								$effect$ = { num1=80 num2=79 }
+							}
+						}
+					}
+				}
+			}
+			else = {
+				if = { limit = { check_variable = { which = $var$ value = 72 } }
+					if = { limit = { check_variable = { which = $var$ value = 76 } }
+						if = { limit = { check_variable = { which = $var$ value = 78 } }
+							if = { limit = { check_variable = { which = $var$ value = 79 } }
+								$effect$ = { num1=79 num2=78 }
+							}
+							else = {
+								$effect$ = { num1=78 num2=77 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 77 } }
+								$effect$ = { num1=77 num2=76 }
+							}
+							else = {
+								$effect$ = { num1=76 num2=75 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 74 } }
+							if = { limit = { check_variable = { which = $var$ value = 75 } }
+								$effect$ = { num1=75 num2=74 }
+							}
+							else = {
+								$effect$ = { num1=74 num2=73 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 73 } }
+								$effect$ = { num1=73 num2=72 }
+							}
+							else = {
+								$effect$ = { num1=72 num2=71 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 68 } }
+						if = { limit = { check_variable = { which = $var$ value = 70 } }
+							if = { limit = { check_variable = { which = $var$ value = 71 } }
+								$effect$ = { num1=71 num2=70 }
+							}
+							else = {
+								$effect$ = { num1=70 num2=69 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 69 } }
+								$effect$ = { num1=69 num2=68 }
+							}
+							else = {
+								$effect$ = { num1=68 num2=67 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 66 } }
+							if = { limit = { check_variable = { which = $var$ value = 67 } }
+								$effect$ = { num1=67 num2=66 }
+							}
+							else = {
+								$effect$ = { num1=66 num2=65 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 65 } }
+								$effect$ = { num1=65 num2=64 }
+							}
+							else = {
+								$effect$ = { num1=64 num2=63 }
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	else = {
+		if = { limit = { check_variable = { which = $var$ value = 32 } }
+			if = { limit = { check_variable = { which = $var$ value = 48 } }
+				if = { limit = { check_variable = { which = $var$ value = 56 } }
+					if = { limit = { check_variable = { which = $var$ value = 60 } }
+						if = { limit = { check_variable = { which = $var$ value = 62 } }
+							if = { limit = { check_variable = { which = $var$ value = 63 } }
+								$effect$ = { num1=63 num2=62 }
+							}
+							else = {
+								$effect$ = { num1=62 num2=61 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 61 } }
+								$effect$ = { num1=61 num2=60 }
+							}
+							else = {
+								$effect$ = { num1=60 num2=59 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 58 } }
+							if = { limit = { check_variable = { which = $var$ value = 59 } }
+								$effect$ = { num1=59 num2=58 }
+							}
+							else = {
+								$effect$ = { num1=58 num2=57 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 57 } }
+								$effect$ = { num1=57 num2=56 }
+							}
+							else = {
+								$effect$ = { num1=56 num2=55 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 52 } }
+						if = { limit = { check_variable = { which = $var$ value = 54 } }
+							if = { limit = { check_variable = { which = $var$ value = 55 } }
+								$effect$ = { num1=55 num2=54 }
+							}
+							else = {
+								$effect$ = { num1=54 num2=53 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 53 } }
+								$effect$ = { num1=53 num2=52 }
+							}
+							else = {
+								$effect$ = { num1=52 num2=51 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 50 } }
+							if = { limit = { check_variable = { which = $var$ value = 51 } }
+								$effect$ = { num1=51 num2=50 }
+							}
+							else = {
+								$effect$ = { num1=50 num2=49 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 49 } }
+								$effect$ = { num1=49 num2=48 }
+							}
+							else = {
+								$effect$ = { num1=48 num2=47 }
+							}
+						}
+					}
+				}
+			}
+			else = {
+				if = { limit = { check_variable = { which = $var$ value = 40 } }
+					if = { limit = { check_variable = { which = $var$ value = 44 } }
+						if = { limit = { check_variable = { which = $var$ value = 46 } }
+							if = { limit = { check_variable = { which = $var$ value = 47 } }
+								$effect$ = { num1=47 num2=46 }
+							}
+							else = {
+								$effect$ = { num1=46 num2=45 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 45 } }
+								$effect$ = { num1=45 num2=44 }
+							}
+							else = {
+								$effect$ = { num1=44 num2=43 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 42 } }
+							if = { limit = { check_variable = { which = $var$ value = 43 } }
+								$effect$ = { num1=43 num2=42 }
+							}
+							else = {
+								$effect$ = { num1=42 num2=41 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 41 } }
+								$effect$ = { num1=41 num2=40 }
+							}
+							else = {
+								$effect$ = { num1=40 num2=39 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 36 } }
+						if = { limit = { check_variable = { which = $var$ value = 38 } }
+							if = { limit = { check_variable = { which = $var$ value = 39 } }
+								$effect$ = { num1=39 num2=38 }
+							}
+							else = {
+								$effect$ = { num1=38 num2=37 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 37 } }
+								$effect$ = { num1=37 num2=36 }
+							}
+							else = {
+								$effect$ = { num1=36 num2=35 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 34 } }
+							if = { limit = { check_variable = { which = $var$ value = 35 } }
+								$effect$ = { num1=35 num2=34 }
+							}
+							else = {
+								$effect$ = { num1=34 num2=33 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 33 } }
+								$effect$ = { num1=33 num2=32 }
+							}
+							else = {
+								$effect$ = { num1=32 num2=31 }
+							}
+						}
+					}
+				}
+			}
+		}
+		else = {
+			if = { limit = { check_variable = { which = $var$ value = 16 } }
+				if = { limit = { check_variable = { which = $var$ value = 24 } }
+					if = { limit = { check_variable = { which = $var$ value = 28 } }
+						if = { limit = { check_variable = { which = $var$ value = 30 } }
+							if = { limit = { check_variable = { which = $var$ value = 31 } }
+								$effect$ = { num1=31 num2=30 }
+							}
+							else = {
+								$effect$ = { num1=30 num2=29 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 29 } }
+								$effect$ = { num1=29 num2=28 }
+							}
+							else = {
+								$effect$ = { num1=28 num2=27 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 26 } }
+							if = { limit = { check_variable = { which = $var$ value = 27 } }
+								$effect$ = { num1=27 num2=26 }
+							}
+							else = {
+								$effect$ = { num1=26 num2=25 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 25 } }
+								$effect$ = { num1=25 num2=24 }
+							}
+							else = {
+								$effect$ = { num1=24 num2=23 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 20 } }
+						if = { limit = { check_variable = { which = $var$ value = 22 } }
+							if = { limit = { check_variable = { which = $var$ value = 23 } }
+								$effect$ = { num1=23 num2=22 }
+							}
+							else = {
+								$effect$ = { num1=22 num2=21 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 21 } }
+								$effect$ = { num1=21 num2=20 }
+							}
+							else = {
+								$effect$ = { num1=20 num2=19 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 18 } }
+							if = { limit = { check_variable = { which = $var$ value = 19 } }
+								$effect$ = { num1=19 num2=18 }
+							}
+							else = {
+								$effect$ = { num1=18 num2=17 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 17 } }
+								$effect$ = { num1=17 num2=16 }
+							}
+							else = {
+								$effect$ = { num1=16 num2=15 }
+							}
+						}
+					}
+				}
+			}
+			else = {
+				if = { limit = { check_variable = { which = $var$ value = 8 } }
+					if = { limit = { check_variable = { which = $var$ value = 12 } }
+						if = { limit = { check_variable = { which = $var$ value = 14 } }
+							if = { limit = { check_variable = { which = $var$ value = 15 } }
+								$effect$ = { num1=15 num2=14 }
+							}
+							else = {
+								$effect$ = { num1=14 num2=13 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 13 } }
+								$effect$ = { num1=13 num2=12 }
+							}
+							else = {
+								$effect$ = { num1=12 num2=11 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 10 } }
+							if = { limit = { check_variable = { which = $var$ value = 11 } }
+								$effect$ = { num1=11 num2=10 }
+							}
+							else = {
+								$effect$ = { num1=10 num2=9 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 9 } }
+								$effect$ = { num1=9 num2=8 }
+							}
+							else = {
+								$effect$ = { num1=8 num2=7 }
+							}
+						}
+					}
+				}
+				else = {
+					if = { limit = { check_variable = { which = $var$ value = 4 } }
+						if = { limit = { check_variable = { which = $var$ value = 6 } }
+							if = { limit = { check_variable = { which = $var$ value = 7 } }
+								$effect$ = { num1=7 num2=6 }
+							}
+							else = {
+								$effect$ = { num1=6 num2=5 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 5 } }
+								$effect$ = { num1=5 num2=4 }
+							}
+							else = {
+								$effect$ = { num1=4 num2=3 }
+							}
+						}
+					}
+					else = {
+						if = { limit = { check_variable = { which = $var$ value = 2 } }
+							if = { limit = { check_variable = { which = $var$ value = 3 } }
+								$effect$ = { num1=3 num2=2 }
+							}
+							else = {
+								$effect$ = { num1=2 num2=1 }
+							}
+						}
+						else = {
+							if = { limit = { check_variable = { which = $var$ value = 1 } }
+								$effect$ = { num1=1 num2=0 }
+							}
+							else = {
+								$effect$ = { num1=0 num2=127 }
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

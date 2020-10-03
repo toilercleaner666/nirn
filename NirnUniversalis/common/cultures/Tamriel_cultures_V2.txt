@@ -8699,6 +8699,8 @@ kota_vimleel = {
 bosmer_group = {
 	graphical_culture = westerngfx
 
+	country = { monarch_lifespan = 4 }
+
 	havenian = {
 		male_names = {
 			Adamir Adragros Adwien Aenthalor Aeradan Aerchelas Aering Aerolor Agilgor Aglion Agolas Agular Agwodir Alander Aldor Alphrennor Alphrost Altholmir Amlion Amreval Andranon Andrilion Angeron Angilor Anglalas Anglas Anglenthor

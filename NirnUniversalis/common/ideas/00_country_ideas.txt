@@ -3774,46 +3774,6 @@ FEO_ideas = {
 	}
 }
 
-SIL_ideas = {
-	start = {
-		prestige = 1
-		diplomatic_reputation = 1
-	}
-
-	bonus = {
-	 	global_tax_modifier = 0.10
-	}
-
-	trigger = {
-		tag = SIL
-	}
-	free = yes
-
-	under_the_infuence = {
-		improve_relation_modifier = 0.15
-	}
-	silesian_duchies = {
-		stability_cost_modifier = -0.10
-	}
-	german_settlers = {
-		build_cost = -0.1
-		development_cost = -0.1
-	}
-	raubritter = {
-		trade_steering = 0.10
-	}
-	via_regia = {
-		trade_efficiency = 0.1
-	}
-	hanseatic_ties = {
-		global_prov_trade_power_modifier = 0.1
-	}
-	black_gold = {
-		production_efficiency = 0.1
-	}
-}
-
-
 DNZ_ideas = {
 	start = {
 		global_own_trade_power = 0.1
@@ -4383,47 +4343,6 @@ TAR_ideas = {
 	
 	tarascan_assmilation = { 
 		core_creation = -0.15
-	}
-}
-
-
-
-KAR_ideas = {
-	start = {
-		army_tradition = 0.5
-		core_creation = -0.2
-	}
-
-	bonus = {
-		discipline = 0.05
-	}
-	
-	trigger = {
-		tag = KAR
-	}
-	free = yes		#will be added at load.
-	
-	mehmet_bey_firman = {
-		stability_cost_modifier = -0.1
-		culture_conversion_cost = -0.2
-	}
-	ghazi = {
-		#uses ottoman ideas
-	}
-	karamanid_cavalry = {
-		cavalry_power = 0.15
-	}
-	kar_seize_the_opportunity = {
-		diplomats = 1
-	}
-	karamanid_architecture = {
-		development_cost = -0.1
-	}
-	home_of_the_whirling_dervishes = {
-		religious_unity = 0.2
-	}
-	true_heirs_seljuk_empire = {
-		legitimacy = 1
 	}
 }
 

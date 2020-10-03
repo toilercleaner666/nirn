@@ -33,3 +33,9 @@ vassal = {
 	second = OUZ
 	start_date = 1444.1.1
 }
+
+vassal = {
+	first = CRM
+	second = KAR
+	start_date = 1444.1.1
+}
