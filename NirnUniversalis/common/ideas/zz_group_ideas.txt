@@ -197,7 +197,7 @@ woodorc_ideas = {
 	free = yes
 
 	start = {
-		core_creation = 0.1
+		core_creation = -0.1
 		leader_land_shock = 2
 	}
 	bonus = {
@@ -215,7 +215,7 @@ woodorc_ideas = {
 		movement_speed = 0.3
 	}
 	woodorc_geographical_mastery = {
-		land_attrition = 0.2
+		land_attrition = -0.2
 	}
 	woodorc_warlords = {
 		free_leader_pool = 1

@@ -205,7 +205,7 @@ GRE_ideas = {
 		reinforce_speed = 0.33
 	}
 	bonus = {
-		shock_damage_received = 0.15
+		shock_damage_received = -0.15
 	}
 
 	gre_greenpacts_center = {
@@ -229,5 +229,43 @@ GRE_ideas = {
 	}
 	gre_coastal_fortresses = {
 		defensiveness = 0.2
+	}
+}
+
+VND_ideas = {
+	#Vinedusk rangers
+	trigger = {
+		tag = VND
+	}
+	free = yes
+
+	start = {
+		land_morale = 0.15
+		reinforce_cost_modifier = -0.2
+	}
+	bonus = {
+		reinforce_speed = 0.1
+	}
+
+	vnd_great_bosmer_rangers = {
+		infantry_power = 0.35
+	}
+	vnd_deny_green_pact = {
+		production_efficiency = 0.1
+	}
+	vnd_greatest_of_bosmer = {
+		discipline = 0.075
+	}
+	vnd_guard_the_frontier = {
+		fire_damage_received = -0.15
+	}
+	vnd_reject_tribes = {
+		land_attrition = -0.3
+	}
+	vnd_insular_look = {
+		tolerance_own = 2
+	}
+	vnd_forest_mastery = {
+		movement_speed = 0.25
 	}
 }
