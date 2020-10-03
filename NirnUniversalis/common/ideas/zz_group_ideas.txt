@@ -126,15 +126,15 @@ bosmer_tribe_ideas = {
 	bosmer_tribe_harsh_environment = {
 		hostile_attrition = 1
 	}
-	bosmer_tribe_forest_depths = {
-		enemy_core_creation = 0.4
-		core_decay_on_your_own = -0.33
-	}
 	bosmer_tribe_battle_chieftans = {
 		monarch_military_power = 1
 	}
 	bosmer_tribe_surprise_raids = {
 		shock_damage = 0.1
+	}
+	bosmer_tribe_forest_depths = {
+		enemy_core_creation = 0.4
+		core_decay_on_your_own = -0.33
 	}
 	bosmer_tribe_rule_by_force = {
 		legitimacy = 1
