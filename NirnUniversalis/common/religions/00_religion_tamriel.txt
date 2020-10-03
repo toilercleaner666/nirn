@@ -1,4 +1,4 @@
-#Religions of Tamriel	
+#Religions of Tamriel
 
 divines_religion_group = {
 	defender_of_faith = yes
@@ -12,7 +12,7 @@ divines_religion_group = {
 
 
 
-	
+
 
 eight_divines_rel = {
 		color = { 247 232 118 }
@@ -31,20 +31,20 @@ allowed_conversion = {
 		province = {
 			local_missionary_strength = -0.01
 		}
-		
-		
+
+
 		heretic = { DAEDRA }
-		
+
 		has_patriarchs = yes		# Uses patriarch authority
 		misguided_heretic = yes		# Other christians hate them less
-		
+
 		orthodox_icons = {
 			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
 
 			icon_akatosh = {
 				discipline = 0.05
 				manpower_recovery_speed = 0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -64,7 +64,7 @@ allowed_conversion = {
 			icon_arkay = {
 				global_unrest = -3
 				harsh_treatment_cost = -0.25
-				
+
 				allow = {
 					always = yes
 				}
@@ -96,7 +96,7 @@ allowed_conversion = {
 			icon_dibella = {
 				development_cost = -0.10
 				build_cost = -0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -104,7 +104,7 @@ allowed_conversion = {
 					factor = 0
 				}
 			}
-	
+
 			icon_julianos = {
 				improve_relation_modifier = 0.25
 				ae_impact = -0.1
@@ -152,7 +152,7 @@ allowed_conversion = {
 icon_mara = {
 				discipline = 0.05
 				manpower_recovery_speed = 0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -172,7 +172,7 @@ icon_mara = {
 icon_stendarr = {
 				development_cost = -0.10
 				build_cost = -0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -184,7 +184,7 @@ icon_stendarr = {
 icon_zenithar = {
 				development_cost = -0.10
 				build_cost = -0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -198,7 +198,7 @@ icon_zenithar = {
 on_convert = {
 			change_religion = eight_divines_rel
 			add_prestige = -100
-			
+
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
@@ -227,20 +227,20 @@ allowed_conversion = {
 		province = {
 			local_missionary_strength = -0.01
 		}
-		
-		
+
+
 		heretic = { DAEDRA }
-		
+
 		has_patriarchs = yes		# Uses patriarch authority
 		misguided_heretic = no		# Other christians hate them less
-		
+
 		orthodox_icons = {
 			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
 
 			icon_akatosh = {
 				discipline = 0.05
 				manpower_recovery_speed = 0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -260,7 +260,7 @@ allowed_conversion = {
 			icon_arkay = {
 				global_unrest = -3
 				harsh_treatment_cost = -0.25
-				
+
 				allow = {
 					always = yes
 				}
@@ -292,7 +292,7 @@ allowed_conversion = {
 			icon_dibella = {
 				development_cost = -0.10
 				build_cost = -0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -300,7 +300,7 @@ allowed_conversion = {
 					factor = 0
 				}
 			}
-	
+
 			icon_julianos = {
 				improve_relation_modifier = 0.25
 				ae_impact = -0.1
@@ -348,7 +348,7 @@ allowed_conversion = {
 icon_mara = {
 				discipline = 0.05
 				manpower_recovery_speed = 0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -368,7 +368,7 @@ icon_mara = {
 icon_stendarr = {
 				development_cost = -0.10
 				build_cost = -0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -380,7 +380,7 @@ icon_stendarr = {
 icon_zenithar = {
 				development_cost = -0.10
 				build_cost = -0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -392,7 +392,7 @@ icon_zenithar = {
 icon_talos = {
 				development_cost = -0.10
 				build_cost = -0.1
-				
+
 				allow = {
 					always = yes
 				}
@@ -411,7 +411,7 @@ icon_talos = {
 on_convert = {
 			change_religion = nine_divines_rel
 			add_prestige = -100
-			
+
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
@@ -421,10 +421,13 @@ on_convert = {
 	}
 
 harmonized_modifier = harmonized_divines
-	
+
 	crusade_name = Crusade
 
 }
+}
+}
+
 
 dragon_religion_group = {
 	defender_of_faith = no
@@ -449,7 +452,7 @@ dragon_cult_rel = {
 		province = {
 			local_missionary_strength = 0.02
 		}
-		
+
 		personal_deity = yes
 
     heretic = { DAEDRA }
@@ -457,7 +460,7 @@ dragon_cult_rel = {
 on_convert = {
 			change_religion = dragon_cult_rel
 			add_prestige = -100
-			
+
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
@@ -468,9 +471,10 @@ on_convert = {
 
 
 harmonized_modifier = harmonized_dragon
-	
+
 	crusade_name = Crusade
 
+}
 }
 
 
@@ -487,7 +491,7 @@ hist_religion_group = {
 
 hist_rel = {
 		icon = 3
-		color = { 26 140 21 }
+		color = { 44 224 38 }
 		country = {
 			land_morale = 0.15
 			infantry_power = 0.15
@@ -503,13 +507,13 @@ hist_rel = {
 on_convert = {
 			change_religion = hist_rel
 			add_prestige = -100
-			
+
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
-		
-		
+
+
 
     heretic = { DAEDRA }
 
@@ -519,11 +523,11 @@ on_convert = {
        }
 
 harmonized_modifier = harmonized_hist
-	
+
 	crusade_name = Crusade
 
 }
-
+}
 
 
 
@@ -543,7 +547,7 @@ riddle_thar_rel = {
 		color = { 189 190 113 }
 		icon = 5
 		allowed_conversion = {
-			
+
 		}
 		country = {
 			land_morale = 0.15
@@ -560,13 +564,13 @@ riddle_thar_rel = {
 on_convert = {
 			change_religion = riddle_thar_rel
 			add_prestige = -100
-			
+
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
-		
-		
+
+
 
     heretic = { DAEDRA }
 
@@ -574,7 +578,7 @@ papacy = {
 			papal_tag = PAP
 			election_cost = 5
 			seat_of_papacy = 118 # rome
-			
+
 			levy_church_tax = {
 				cost = 50
 				potential = {
@@ -592,8 +596,8 @@ papacy = {
 				}
 				ai_will_do = {
 					factor = 1
-				}				
-			}			
+				}
+			}
 			bless_monarch = {
 				cost = 50
 				potential = {
@@ -634,7 +638,7 @@ papacy = {
 				ai_will_do = {
 					factor = 1
 				}
-			}	
+			}
 			local_saint = {
 				cost = 100
 				potential = {
@@ -677,7 +681,7 @@ papacy = {
 						NOT = { num_of_loans = 1 }
 					}
 				}
-			}			
+			}
 			proclaim_holy_war = {
 				cost = 50
 				potential = {
@@ -720,7 +724,7 @@ papacy = {
 				ai_will_do = {
 					factor = 1
 				}
-			}	
+			}
 			sanction_commercial_monopoly = {
 				cost = 50
 				potential = {
@@ -740,320 +744,39 @@ papacy = {
 						NOT = { has_idea_group = trade_ideas }
 					}
 				}
-			}			
+			}
 		}
 
 
 }
 
 harmonized_modifier = harmonized_cat
-	
+
 	crusade_name = Crusade
 
 
 }
-	
+}
+
 daedra_religion_group = {
 	defender_of_faith = yes
-	
+
 	center_of_religion = 385 # Mecca
 
 	flags_with_emblem_percentage = 0
 	flag_emblem_index_range = { 97 106 } #Including Star of David / Seal of Suleyman
-	
+
 	ai_will_propagate_through_trade = yes
 
-	religious_schools = {
-		hanafi_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-			}
 
-			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-			can_invite_scholar = {
-				adm_power = 50
-				if = {
-					limit = {
-						NOT = { religion = sunni }
-						NOT = { religion = ibadi }
-					}
-					NOT = { piety = -0.5 }
-				}
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = hanafi_scholar_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
 
-			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-			on_invite_scholar = {
-				add_adm_power = -50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = hanafi_scholar_modifier duration = 7300 }
-			}
-
-			# If you don't set this it will expand on_invite_scholar effect which might be super big
-			invite_scholar_modifier_display = hanafi_scholar_modifier
-
-			picture = "GFX_icon_muslim_school_hanafi"
-
-			# religion_sub_modifier = no is possible, will hide icon in religious screen
-			adm_tech_cost_modifier = -0.05
-		}
-		hanbali_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-			}
-
-			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-			can_invite_scholar = {
-				adm_power = 50
-				if = {
-					limit = {
-						NOT = { religion = sunni }
-						NOT = { religion = ibadi }
-					}
-					NOT = { piety = -0.5 }
-				}
-				reverse_has_opinion = { who = FROM value = 150 }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-				NOT = { has_country_modifier = hanbali_scholar_modifier }
-			}
-
-			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-			on_invite_scholar = {
-				add_adm_power = -50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = hanbali_scholar_modifier duration = 7300 }
-			}
-
-			# If you don't set this it will expand on_invite_scholar effect which might be super big
-			invite_scholar_modifier_display = hanbali_scholar_modifier
-
-			picture = "GFX_icon_muslim_school_hanbali"
-
-			ae_impact = -0.1
-		}
-		maliki_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-			}
-
-			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-			can_invite_scholar = {
-				adm_power = 50
-				if = {
-					limit = {
-						NOT = { religion = sunni }
-						NOT = { religion = ibadi }
-					}
-					NOT = { piety = -0.5 }
-				}
-				reverse_has_opinion = { who = FROM value = 150 }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-				NOT = { has_country_modifier = maliki_scholar_modifier }
-			}
-
-			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-			on_invite_scholar = {
-				add_adm_power = -50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = maliki_scholar_modifier duration = 7300 }
-			}
-
-			# If you don't set this it will expand on_invite_scholar effect which might be super big
-			invite_scholar_modifier_display = maliki_scholar_modifier
-
-			picture = "GFX_icon_muslim_school_maliki"
-
-			development_cost = -0.1
-		}
-		shafii_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-			}
-
-			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-			can_invite_scholar = {
-				adm_power = 50
-				if = {
-					limit = {
-						NOT = { religion = sunni }
-						NOT = { religion = ibadi }
-					}
-					NOT = { piety = -0.5 }
-				}
-				reverse_has_opinion = { who = FROM value = 150 }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-				NOT = { has_country_modifier = shafii_scholar_modifier }
-			}
-
-			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-			on_invite_scholar = {
-				add_adm_power = -50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = shafii_scholar_modifier duration = 7300 }
-			}
-
-			# If you don't set this it will expand on_invite_scholar effect which might be super big
-			invite_scholar_modifier_display = shafii_scholar_modifier
-
-			picture = "GFX_icon_muslim_school_shafii"
-
-			merchants = 1
-		}
-		#Shias
-		ismaili_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-			}
-
-			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-			can_invite_scholar = {
-				adm_power = 50
-				if = {
-					limit = {
-						NOT = { religion = shiite }
-						NOT = { religion = ibadi }
-					}
-					NOT = { piety = -0.5 }
-				}
-				reverse_has_opinion = { who = FROM value = 150 }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-				NOT = { has_country_modifier = ismaili_scholar_modifier }
-			}
-
-			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-			on_invite_scholar = {
-				add_adm_power = -50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = ismaili_scholar_modifier duration = 7300 }
-			}
-			
-			# If you don't set this it will expand on_invite_scholar effect which might be super big
-			invite_scholar_modifier_display = ismaili_scholar_modifier
-
-			picture = "GFX_icon_muslim_school_ismaili"
-
-			horde_unity = 1
-			legitimacy = 1
-			republican_tradition = 0.5
-			devotion = 1
-		}
-		jafari_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-			}
-
-			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-			can_invite_scholar = {
-				adm_power = 50
-				if = {
-					limit = {
-						NOT = { religion = shiite }
-						NOT = { religion = ibadi }
-					}
-					NOT = { piety = -0.5 }
-				}
-				reverse_has_opinion = { who = FROM value = 150 }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-				NOT = { has_country_modifier = jafari_scholar_modifier }
-			}
-
-			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-			on_invite_scholar = {
-				add_adm_power = -50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = jafari_scholar_modifier duration = 7300 }
-			}
-			
-			# If you don't set this it will expand on_invite_scholar effect which might be super big
-			invite_scholar_modifier_display = jafari_scholar_modifier
-
-			picture = "GFX_icon_muslim_school_jafari"
-
-			shock_damage = 0.1
-		}
-		zaidi_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-			}
-
-			# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-			can_invite_scholar = {
-				adm_power = 50
-				if = {
-					limit = {
-						NOT = { religion = shiite }
-						NOT = { religion = ibadi }
-					}
-					NOT = { piety = -0.5 }
-				}
-				reverse_has_opinion = { who = FROM value = 150 }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-				NOT = { has_country_modifier = zaidi_scholar_modifier }
-			}
-
-			# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-			on_invite_scholar = {
-				add_adm_power = -50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = zaidi_scholar_modifier duration = 7300 }
-			}
-			
-			# If you don't set this it will expand on_invite_scholar effect which might be super big
-			invite_scholar_modifier_display = zaidi_scholar_modifier
-
-			picture = "GFX_icon_muslim_school_zaidi"
-
-			shock_damage_received = -0.1
-		}
-		
-	}
-	
 	daedra_cult_rel = {
-		color = { 161 38 255 }
+
+	heretic = { AEDRA }
+
+	uses_piety = yes				# Uses piety mechanics
+
+		color = { 208 127 255 }
 		icon = 5
 		country = {
 			cav_to_inf_ratio = 0.10
@@ -1067,258 +790,54 @@ daedra_religion_group = {
 			local_missionary_strength = -0.02
 		}
 
-on_convert = {
-			change_religion = daedra_cult_rel
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
 
 
 
-		
-		heretic = { AEDRA }
-		
-		uses_piety = yes				# Uses piety mechanics
-	}
 
 
-
-cult_of_malacath_rel = {
-		color = { 83 130 74 }
-		icon = 5
-		country = {
-			global_manpower_modifier = 0.1
-			heir_chance = 1.0
-		}
-		country_as_secondary = {
-			heir_chance = 2.0
-		}
-		province = {
-			local_missionary_strength = -0.02
-		}
-		
-		heretic = { TRINIMAC MAULOCH }
-		
-		fervor = yes	# Uses Fervor Mechanics
-
-on_convert = {
-			change_religion = cult_of_malacath_rel
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-
-
-
-			
-	}
-
-	harmonized_modifier = harmonized_daedra
-	
-	crusade_name = Crusade
-
-}	
-}
-}
 }
 
-
-aldmer_religion_group = {
-
-	flags_with_emblem_percentage = 0
-	flag_emblem_index_range = { 83 96 }
-
-	green_pact_rel = {
-		color = { 127 0 0 }
-		icon = 11
-		country = {
-			tolerance_own = 1
-			global_unrest = -1
-		}
-		country_as_secondary = {
-			tolerance_own = 2
-			loot_amount = 0.25
-		}
-		province = {
-			local_missionary_strength = -0.03
-		}
-
-on_convert = {
-			change_religion = green_pact_rel
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		
-		heretic = { SNAKE_CLAN }
-	}
-
-alinor_religion = {
-		color = { 251 226 16 }
-		icon = 4
-		country = {
-			land_morale = 0.1
-                        prestige = 0.5
-		}
-		province = {
-			local_missionary_strength = -0.02
-		}
-		country_as_secondary = {
-			global_unrest = -1
-		}
-		heretic = { DAEDRA }
-		uses_isolationism = yes
-		
-on_convert = {
-			change_religion = alinor_religion
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		
-		
-	}
-
-	
-	
-	crusade_name = CRUSADE
-	harmonized_modifier = harmonized_bosmer
 }
 
-
-chimer_religion_group = {
-
-	flags_with_emblem_percentage = 0
-	flag_emblem_index_range = { 61 82 } 
-
-	tribunal_temple_rel = {
-		color = { 255 253 224 }
-		icon = 8
-		allowed_conversion = {
-			
-		}
-		country = {
-			tolerance_heathen = 1
-			tolerance_own = 1
-		}
-		country_as_secondary = {
-			tolerance_heretic = 1
-			tolerance_heathen = 2
-		}
-		
-		personal_deity = yes
-		
-		on_convert = {
-			change_religion = tribunal_temple_rel
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { Chimer }
-	}
-
-	
-	
-	harmonized_modifier = harmonized_chimer
-	
-	crusade_name = CRUSADE
-}
-
-yokuda_religion_group = {
-
-	flags_with_emblem_percentage = 0
-	flag_emblem_index_range = { 61 82 } 
-
-	yokudan_rel = {
-		color = { 255 253 224 }
-		icon = 8
-		allowed_conversion = {
-			
-		}
-		country = {
-			tolerance_heathen = 1
-			tolerance_own = 1
-		}
-		country_as_secondary = {
-			tolerance_heretic = 1
-			tolerance_heathen = 2
-		}
-		
-		
-		
-		on_convert = {
-			change_religion = yokudan_rel
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { SEP MALOOC LEKI }
-	}
-
-	
-	
-	harmonized_modifier = harmonized_yokudan
-	
-	crusade_name = CRUSADE
-}
-
-
-nordic_religion_group = {
-
-	flags_with_emblem_percentage = 0
-	flag_emblem_index_range = { 61 82 } 
-
-	nordic_rel = {
-		color = { 255 253 224 }
-		icon = 8
-		allowed_conversion = {
-			
-		}
-		country = {
-			tolerance_heathen = 1
-			tolerance_own = 1
-		}
-		country_as_secondary = {
-			tolerance_heretic = 1
-			tolerance_heathen = 2
-		}
-		
-		
-		
-		on_convert = {
-			change_religion = nordic_rel
-			add_prestige = -100
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { TESTING_GODS DEAD_GOD  }
-	}
-
-	
-	
-	harmonized_modifier = harmonized_nordic
-	
-	crusade_name = CRUSADE
-}
-
+#cult_of_malacath_rel = {
+#		color = { 83 130 74 }
+#		icon = 5
+#		country = {
+#			global_manpower_modifier = 0.1
+#			heir_chance = 1.0
+#		}
+#		country_as_secondary = {
+#			heir_chance = 2.0
+#		}
+#		province = {
+#			local_missionary_strength = -0.02
+#		}
+#
+#		heretic = { TRINIMAC MAULOCH }
+#
+#		fervor = yes	# Uses Fervor Mechanics
+#
+# on_convert = {
+#			change_religion = cult_of_malacath_rel
+#			add_prestige = -100
+#
+#			add_country_modifier = {
+#				name = "conversion_zeal"
+#				duration = 3650
+#			}
+#
+#
+#
+#
+#	}
+#
+#	harmonized_modifier = harmonized_daedra
+#
+#	crusade_name = Crusade
+#
+# }
+#
+#}
+#
+#
+#

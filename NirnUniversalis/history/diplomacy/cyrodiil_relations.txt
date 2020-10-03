@@ -1,0 +1,12 @@
+union = {
+	first = HRT
+	second = WYE
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = ANV
+	second = CRW
+	start_date = 1444.1.1
+}
+

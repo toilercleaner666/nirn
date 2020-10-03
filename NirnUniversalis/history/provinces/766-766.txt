@@ -1,17 +1,19 @@
 #766-766
 
 
-
-culture = Colovian
+add_core = WAR
+add_core = KVA
+owner = KVA 
+controller = KVA
+culture = kvatchian
 religion = eight_divines_rel
 hre = no
 base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 4
-capital = "Penryn"
+capital = "Fort Wariel"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

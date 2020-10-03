@@ -99,7 +99,7 @@ greenspring_area = { 1409 1410 1411 1413
 
 }
 
-glenbridge_area = { 1385 1386 1423
+glenbridge_area = { 1385 1386 1423 3425
 
 }
 
@@ -3425,7 +3425,7 @@ western_mer_sea_area = {
 }
 
 southern_padomaeic_ocean_1_area = {
-	3424 3434 3433 3425 3428 3262 3261
+	3424 3434 3433 3428 3262 3261 4837
 }
 
 southern_padomaeic_ocean_2_area = {

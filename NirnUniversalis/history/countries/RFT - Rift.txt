@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = riftan
-add_accepted_culture = iversteadan
+add_accepted_culture = ivarsteadan
 religion = eight_divines_rel
 technology_group = western
 capital = 60
@@ -9,11 +9,11 @@ capital = 60
 
 1437.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Gjalund"
+		dynasty = "Rift"
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

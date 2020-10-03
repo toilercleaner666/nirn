@@ -2,26 +2,26 @@
 
 graphical_culture = westerngfx
 
-color = { 50 193 255 }
-
-preferred_religion = eight_divines_rel
+color = { 93  160  163 }
 
 historical_idea_groups = {
-
 }
 
 historical_units = {
-
-}
-
-leader_names = {
-
 }
 
 monarch_names = {
+	Debug_Monarch
+}
 
+leader_names = {
+	Debug_Guy
 }
 
 ship_names = {
-	
+	Debug_Ship
+}
+
+army_names = {
+	Debug_Army
 }

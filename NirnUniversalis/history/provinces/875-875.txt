@@ -2,16 +2,19 @@
 
 
 
-culture = Colovian
+add_core = ENU
+add_core = NIB 
+owner = NIB 
+controller = NIB
+culture = valusian
 religion = eight_divines_rel
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 3
-capital = "Penryn"
+capital = "Nayon Camp"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

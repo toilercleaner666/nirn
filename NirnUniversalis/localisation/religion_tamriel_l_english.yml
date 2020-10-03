@@ -43,3 +43,6 @@ riddle_thar_religion_desc: "A monomythic society, the Khajiit are led in their b
 hist_group: "Argonian Religions"
 hist_rel: "Hist"
 hist_rel_religion_desc: "Except for the more deeply assimilated, the Argonians do not formally recognize or worship any type of Tamrielic deity.[58] Some believe that they worship their creators, the Hist, although Argonians themselves state that they only perform rituals in their honor instead of fully worshipping them. The Argonians also revere Sithis, a being that even the Hist acknowledges."
+
+daedra_religion_group: "Daedric Religions"
+daedra_cult_rel: "Daedra Worship"

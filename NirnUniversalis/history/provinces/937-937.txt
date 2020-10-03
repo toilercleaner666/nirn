@@ -2,16 +2,18 @@
 
 
 
-culture = Colovian
+add_core = FFC
+owner = FFC
+controller = FFC
+culture = nasoon
 religion = eight_divines_rel
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Hame"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

@@ -2,14 +2,14 @@
 
 
 
-culture = southpoint
+culture = anvilese
 religion = eight_divines_rel
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Southpoint"
 is_city = yes
 add_core = SPT owner = SPT controller = SPT
 discovered_by = western

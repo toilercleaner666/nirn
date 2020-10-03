@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 50 193 255 }
+color = { 168 168 168 }
 
 preferred_religion = eight_divines_rel
 

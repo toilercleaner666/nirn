@@ -2,16 +2,18 @@
 
 
 
-culture = Colovian
-religion = eight_divines_rel
+add_core = RVB
+owner = RVB
+controller = RVB
+culture = copper_eye
+religion = hist_rel
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Xanmeer Mon"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

@@ -2,16 +2,18 @@
 
 
 
-culture = Colovian
+add_core = HRT
+owner = HRT
+controller = HRT
+culture = heartlander
 religion = eight_divines_rel
 hre = no
 base_tax = 3
 base_production = 3
 trade_goods = magical_supplies
 base_manpower = 3
-capital = "Penryn"
+capital = "Arcane University"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
