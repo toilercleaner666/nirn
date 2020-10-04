@@ -2,7 +2,7 @@
 
 
 
-culture = arenthian
+culture = duni
 religion = eight_divines_rel
 hre = no
 base_tax = 1

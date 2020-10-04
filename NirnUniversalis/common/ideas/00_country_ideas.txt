@@ -11457,44 +11457,6 @@ FLY_ideas = {
 		global_manpower_modifier = 0.15
 	}
 }
-CRN_ideas = {
-	start = {
-		global_regiment_recruit_speed = -0.10
-		production_efficiency = 0.1
-	}
-	
-	bonus = {
-		land_morale = 0.10
-	}
-	
-	trigger = {
-		tag = CRN
-	}
-	free = yes
-	
-	crn_stannary_parliaments = {
-		global_unrest = -2
-	}
-	crn_cornish_rebels = {
-		hostile_attrition = 1
-	}
-	crn_prayer_book_traditionaliism = {
-		tolerance_own = 2
-	}
-	crn_pirates_of_penzance = {
-		capture_ship_chance = 0.1
-		privateer_efficiency = 0.2
-	}
-	crn_royalist_army = {
-		land_forcelimit_modifier = 0.2
-	}
-	crn_gear_rout = {
-		movement_speed = 0.15
-	}
-	crn_arthurian_romanticism = {
-		prestige_decay = -0.01
-	}
-}
 # Manx ideas
 KOI_ideas = {
 	start = {

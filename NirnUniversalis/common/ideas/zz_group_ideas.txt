@@ -270,3 +270,82 @@ maormer_pirate_ideas = {
 		movement_speed_onto_off_boat_modifier = 0.4
 	}
 }
+
+#########################################
+# ELSWEYR                               #
+#########################################
+
+pellitanian_ideas = {
+    start = {
+        global_unrest = -2
+        agressive_expansion = -0.25
+    }
+    bonus = {
+        improve_relation_modifier = 0.25
+    }
+    trigger = {
+        culture_group = pellitinian_culture_group
+    }
+    free = yes
+    pellitanian_khajiit_centralize_elsweyr = {
+        years_of_nationalism = -5
+    }
+    pellitanian_khajiit_emmisaries = {
+        global_trade_power = 0.1
+        caravan_power = 0.2
+    }
+    pellitanian_khajiit_afiq_wisdom = {
+        core_creation = -0.25
+    }
+    pellitanian_khajiit_charge_senche_raht = {
+        shock_damage = 0.15
+    }
+    pellitanian_khajiit_moon_temples = {
+        global_missionary_strength = 0.1
+    }
+    pellitanian_khajiit_greater_control = {
+        global_autonomy = -0.05
+    }
+    pellitanian_khajiit_expand_religion = {
+        global_tax_modifier = 0.1
+        state_governing_cost = -0.2
+    }
+}
+
+anequian_ideas = {
+    start = {
+        movement_speed = 0.05
+        agressive_expansion = -0.25
+    }
+    bonus = {
+        improve_relation_modifier = 0.25
+    }
+    trigger = {
+        culture_group = anequinian_culture_group
+    }
+    free = yes
+    anequian_khajiit_biting_desert = {
+        hostile_attrition = 1
+    }
+    anequian_khajiit_emmisaries = {
+        global_trade_power = 0.1
+        caravan_power = 0.2
+    }
+    anequian_khajiit_raiding = {
+        cavalry_power = 0.15
+        loot_amount = 0.15
+    }
+    anequian_khajiit_charge_senche_raht = {
+        shock_damage = 0.15
+    }
+    anequian_khajiit_moon_temples = {
+        global_missionary_strength = 0.1
+    }
+    anequian_khajiit_greater_reach = {
+        trade_range_modifier = 0.2
+    }
+    anequian_khajiit_expand_religion = {
+        global_tax_modifier = 0.1
+        state_governing_cost = -0.2
+    }
+}

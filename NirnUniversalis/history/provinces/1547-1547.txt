@@ -2,7 +2,7 @@
 
 
 
-culture = cormountian
+culture = colovian_migrant
 religion = eight_divines_rel
 hre = no
 base_tax = 1

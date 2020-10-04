@@ -485,6 +485,9 @@
  TEMPLATE7: ""
  TEMPLATE7_desc: ""
 
+ #Missing Localization Line:
+          #"§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+
  #Eldenroot
  ELD_ideas: "Eldenroot Ideas"
  ELD_ideas_start: "Eldenroot Traditions"
@@ -693,3 +696,45 @@
  vnd_insular_look_desc: "We will focus on our own, insular worship, not worrying about the Silvenar or other proponents of the Green Pact, for the Rangers have rejected their pact with the Green."
  vnd_forest_mastery: "Forest Mastery"
  vnd_forest_mastery_desc: "The rangers have complete mastery over the forest, and their speed will be something even foes will sing praises of"
+
+ ##############################
+ # ELSWEYR IDEAS              #
+ ##############################
+
+ #Anequian Ideas
+ anequian_ideas: "Anequian Ideas"
+ anequian_ideas_start: "Anequian Traditions"
+ anequian_ideas_bonus: "Anequian Ambition"
+ anequian_khajiit_biting_desert: "The Biting Desert"
+ anequian_khajiit_biting_desert_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ anequian_khajiit_emmisaries: "Khajiit Emmisaries"
+ anequian_khajiit_emmisaries_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ anequian_khajiit_raiding: "Khajiit Raiders"
+ anequian_khajiit_raiding_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ anequian_khajiit_charge_senche_raht: "Charge Senche Raht"
+ anequian_khajiit_charge_senche_raht_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ anequian_khajiit_moon_temples: "Moon Temples"
+ anequian_khajiit_moon_temples_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ anequian_khajiit_greater_reach: "Greater Reach"
+ anequian_khajiit_greater_reach_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ anequian_khajiit_expand_religion: "Expand Our Religion"
+ anequian_khajiit_expand_religion_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+
+ #Pellitanian Ideas
+ pellitanian_ideas: "Pellitanian Ideas"
+ pellitanian_ideas_start: "Pellitanian Traditions"
+ pellitanian_ideas_bonus: "Pellitanian Ambition"
+ pellitanian_khajiit_centralize_elsweyr: "Centralize Elsweyr"
+ pellitanian_khajiit_centralize_elsweyr_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ pellitanian_khajiit_emmisaries: "Khajiit Emmisaries"
+ pellitanian_khajiit_emmisaries_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ pellitanian_khajiit_afiq_wisdom: "Afiq Wisdom"
+ pellitanian_khajiit_afiq_wisdom_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ pellitanian_khajiit_charge_senche_raht: "Charge Senche Raht"
+ pellitanian_khajiit_charge_senche_raht_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ pellitanian_khajiit_moon_temples: "Moon Temples"
+ pellitanian_khajiit_moon_temples_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ pellitanian_khajiit_greater_control: "Greater Control"
+ pellitanian_khajiit_greater_control_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
+ pellitanian_khajiit_expand_religion: "Expand our Religion"
+ pellitanian_khajiit_expand_religion_desc: "§GMissing Localization! Go to§! §Y\"NirnUniversalis/localisation/replace/powers_and_ideas_l_english.yml\"§! §Gand fill the localization in§!"
