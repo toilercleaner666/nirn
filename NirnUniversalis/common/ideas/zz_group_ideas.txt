@@ -349,3 +349,40 @@ anequian_ideas = {
         state_governing_cost = -0.2
     }
 }
+
+rimmenian_ideas = {
+    start = {
+        production_efficiency = 0.1
+        prestige_from_land = 1.0
+    }
+    bonus = {
+        years_of_nationalism = -5
+    }
+    trigger = {
+        TAG = RIM
+    }
+    free = yes
+    rimmen_slavery_tradition = {
+        global_manpower_modifier = 0.10
+    }
+    rimmen_broken_slaves = {
+        global_unrest = -2
+    }
+    rimmen_cyrodiil_masters = {
+        ae_impact = -0.1
+		core_creation = -0.1
+    }
+    rimmen_dragonguard_remnants = {
+        land_morale = 0.15
+    }
+    rimmen_akaviri_forts = {
+        defensiveness = 0.2
+    }
+    rimmen_akaviri_administration = {
+        global_tax_modifier = 0.2
+    }
+    rimmen_potentate_governance = {
+        global_unrest = -2
+        state_governing_cost = -0.3
+    }
+}
