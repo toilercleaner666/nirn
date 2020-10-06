@@ -8,6 +8,9 @@ eight_divines_rel_religion_desc: "The Eight Divines as an official religion was 
 nine_divines_rel: "Nine Divines"
 nine_divines_rel_religion_desc: "by the nine divines"
 
+nord_religion: "Nordic Pantheon"
+nord_religion_religion_desc: "The Nordic Pantheon is the main religion of the Nordic people."
+
 icon_akatosh: "Akatosh"
 icon_arkay: "Arkay"
 icon_dibella: "Dibella"
@@ -17,7 +20,9 @@ icon_mara: "Mara"
 icon_stendarr: "Stendarr"
 icon_zenithar: "Zenithar"
 icon_talos: "Talos"
-
+icon_orkey: "Orkey"
+icon_kyne: "Kyne"
+icon_alduin: "Alduin"
 
 
 dragon_group: "Dragon Religions"

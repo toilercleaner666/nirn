@@ -11,9 +11,6 @@ divines_religion_group = {
 	flag_emblem_index_range = { 1 57 }
 
 
-
-
-
 eight_divines_rel = {
 		color = { 247 232 118 }
 		icon = 1
@@ -205,10 +202,7 @@ on_convert = {
 			}
 
 	}
-
-
-
-
+}
 
 nine_divines_rel = {
 		color = { 255 29 29 }
@@ -425,8 +419,209 @@ harmonized_modifier = harmonized_divines
 	crusade_name = Crusade
 
 }
+
+nord_religion = {
+		icon = 21
+		color = { 191 191 191 }
+allowed_conversion = {
+			eight_divines_rel
+		}
+		country = {
+			vassal_income = 0.1
+			tolerance_own = 2
+		}
+		country_as_secondary = {
+			vassal_income = 0.1
+			tolerance_own = 1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+
+
+		heretic = { DAEDRA }
+
+		has_patriarchs = yes		# Uses patriarch authority
+		misguided_heretic = no		# Other christians hate them less
+
+		orthodox_icons = {
+			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
+
+			icon_alduin = {
+				discipline = 0.05
+				manpower_recovery_speed = 0.1
+
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						is_at_war = no
+					}
+					modifier = {
+						factor = 3
+						is_in_important_war = yes
+					}
+				}
+			}
+
+			icon_orkey = {
+				global_unrest = -3
+				harsh_treatment_cost = -0.25
+
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = {
+							calc_true_if = {
+								all_owned_province = {
+									unrest = 1
+								}
+								amount = 2
+							}
+						}
+					}
+					modifier = {
+						factor = 3
+						calc_true_if = {
+							all_owned_province = {
+								unrest = 1
+							}
+							amount = 5
+						}
+					}
+				}
+			}
+
+			icon_dibella = {
+				development_cost = -0.10
+				build_cost = -0.1
+
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 0
+				}
+			}
+
+			icon_julianos = {
+				improve_relation_modifier = 0.25
+				ae_impact = -0.1
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 0.5
+				}
+			}
+
+			icon_kyne = {
+				global_institution_spread = 0.25
+				embracement_cost = -0.2
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 0.8
+					modifier = {
+						factor = 0
+						NOT = {
+							calc_true_if = {
+								all_owned_province = {
+									current_institution = 1
+									NOT = { current_institution = 95 }
+								}
+								amount = 1
+							}
+						}
+					}
+					modifier = {
+						factor = 3
+						calc_true_if = {
+							all_owned_province = {
+								current_institution = 1
+								NOT = { current_institution = 95 }
+							}
+							amount = 5
+						}
+					}
+				}
+			}
+
+			icon_mara = {
+							discipline = 0.05
+							manpower_recovery_speed = 0.1
+
+							allow = {
+								always = yes
+							}
+							ai_will_do = {
+								factor = 1
+								modifier = {
+									factor = 0
+									is_at_war = no
+								}
+								modifier = {
+									factor = 3
+									is_in_important_war = yes
+								}
+							}
+						}
+
+			icon_stendarr = {
+							development_cost = -0.10
+							build_cost = -0.1
+
+							allow = {
+								always = yes
+							}
+							ai_will_do = {
+								factor = 0
+							}
+						}
+
+icon_zenithar = {
+				development_cost = -0.10
+				build_cost = -0.1
+
+				allow = {
+					always = yes
+				}
+				ai_will_do = {
+					factor = 0
+				}
+			}
+
+
+		}
+
+on_convert = {
+			change_religion = nine_divines_rel
+			add_prestige = -100
+
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+
+
+	}
+
+harmonized_modifier = harmonized_divines
+
+	crusade_name = Crusade
+
 }
 }
+
+
 
 
 dragon_religion_group = {

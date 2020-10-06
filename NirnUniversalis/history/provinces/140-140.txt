@@ -3,7 +3,7 @@
 
 
 culture = falkreathan
-religion = eight_divines_rel
+religion = nord_religion
 hre = no
 base_tax = 1
 base_production = 1

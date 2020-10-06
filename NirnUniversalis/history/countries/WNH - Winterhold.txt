@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = winterholder
 add_accepted_culture = dawnstar
-religion = eight_divines_rel
+religion = nord_religion
 technology_group = western
 capital = 14
 
