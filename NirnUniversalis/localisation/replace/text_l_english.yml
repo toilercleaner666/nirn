@@ -7210,7 +7210,7 @@
  HLR:0 "Holy Roman Empire"
  HLR_ADJ:0 "Imperial"
  CARDINAL_CHANCE_INSTANT:0 "There's a §Y$CHANCE$%§W chance that you will get the next spinner."
- CARDINAL_CHANCE_DELAYED:0 "You have §G$PROVINCES$§W Catholic provinces and a Silvenar influence of §G$INFLUENCE$%§W. The chance is also modified by the tax in each province."
+ CARDINAL_CHANCE_DELAYED:0 "You have §G$PROVINCES$§W Green Pact provinces and a Silvenar influence of §G$INFLUENCE$%§W. The chance is also modified by the tax in each province."
  HRE_MEMBERS:0 "HRE Members"
  HRE_EMPEROR:0 "The Holy Roman Empire"
  HRE_MEMBER_HAS_NOT_MODIFIER:0 "HRE Members do not have the modifier "
