@@ -7060,8 +7060,6 @@
  
  PAPAL_INFLUENCE:0 "Silvenar Influence"
  PAPAL_INFLUENCE_NOT_ENOUGH:0 "§R- You do not have enough influence with the Silvenar.§!"
- blessing_of_yffre:0 "Blessing of Yffre"
- blessing_of_auriel:0 "Blessing of Auri-El"
  indulgence_for_sins:0 "Grant Indulgence for Sins"
  local_saint:0 "Beatify Local Saint"
  PAPAL_INFLUENCE_NO_CARDINAL:0 "§R- It is not possible to invest influence with the Silvenar if you have no active Spinners.§!"

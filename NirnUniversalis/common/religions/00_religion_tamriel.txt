@@ -1000,7 +1000,7 @@ daedra_religion_group = {
 # Bosmeri Religions                   #
 #######################################
 
-bosmer = {
+bosmer_religious_group = {
 	defender_of_faith = no
 	can_form_personal_unions = yes
 	crusade_name = WILD_HUNT
