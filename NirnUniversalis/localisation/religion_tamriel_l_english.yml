@@ -2,6 +2,7 @@
 
 divines_group: "Divines"
 divines_group_desc: "very cool religion"
+
 eight_divines_rel: "Eight Divines"
 eight_divines_rel_religion_desc: "The Eight Divines as an official religion was instituted by Alessia upon her slave revolt against the Ayleids. She is said to have consciously made a synthesis of Ayleid and Nordic gods, in order to appease both her Nord allies and the Cyrods and Ayleids she now ruled. Perhaps coincidentally, the eight Aedra Alessia chose are those Aedra said to have been most active in the creation of the world. When the et'ada realized what Lorkhan had done, and how their divinity was being drained to create Nirn, most of them objected or withdrew. The eight Aedra that make up the divines, however, willingly gave of themselves to complete the act of creation, and are therefore seen as benevolent, in contrast to the more aloof merish deities."
 
@@ -9,7 +10,7 @@ nine_divines_rel: "Nine Divines"
 nine_divines_rel_religion_desc: "by the nine divines"
 
 nord_religion: "Nordic Pantheon"
-nord_religion_religion_desc: "The Nordic Pantheon is the main religion of the Nordic people."
+nord_religion_religion_desc: "The Nordic Pantheon is the traditional faith of the Nordic people. It is descended from the Atmoran settlers of the Merethic Age"
 
 icon_akatosh: "Akatosh"
 icon_arkay: "Arkay"
@@ -20,6 +21,11 @@ icon_mara: "Mara"
 icon_stendarr: "Stendarr"
 icon_zenithar: "Zenithar"
 icon_talos: "Talos"
+
+#Nordic Pantheon
+icon_tsun: "Tsun"
+icon_stuhn: "Stuhn"
+icon_shor: "Shor"
 icon_orkey: "Orkey"
 icon_kyne: "Kyne"
 icon_alduin: "Alduin"
