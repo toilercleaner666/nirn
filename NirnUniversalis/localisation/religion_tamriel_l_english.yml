@@ -12,6 +12,9 @@ nine_divines_rel_religion_desc: "by the nine divines"
 nord_religion: "Nordic Pantheon"
 nord_religion_religion_desc: "The Nordic Pantheon is the traditional faith of the Nordic people. It is descended from the Atmoran settlers of the Merethic Age"
 
+old_gods_rel: "Old Gods"
+old_gods_rel_desc: "The traditional faith of the Witchmen of the Reach"
+
 icon_akatosh: "Akatosh"
 icon_arkay: "Arkay"
 icon_dibella: "Dibella"

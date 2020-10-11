@@ -623,6 +623,44 @@ harmonized_modifier = harmonized_divines
 }
 }
 
+reachmen_religion_group = {
+	defender_of_faith = no
+	can_form_personal_unions = no
+
+	# Flag emblem values - Used for Dynamic Setup of Random Nations.
+	# Emblem texture: game/gfx/interface/client_state_symbols_large.dds
+	# Can be overridden per religion.
+	flags_with_emblem_percentage = 0 # default == 0
+	flag_emblem_index_range = { 1 57 }
+
+old_gods_rel = {
+		color = { 127 76 76 }
+		icon = 12
+		country = {
+			tolerance_heathen = 2
+			culture_conversion_cost = -0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+
+		fetishist_cult = yes
+		heretic = { GOAT_SKULL }
+	
+       
+
+
+harmonized_modifier = harmonized_dragon
+
+	crusade_name = Holy War
+	}
+
+}
+
 
 
 

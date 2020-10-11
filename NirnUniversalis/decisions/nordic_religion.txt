@@ -14,7 +14,7 @@ country_decisions = {
 		effect = {
 			add_dip_power = -200
 			add_country_modifier = {
-				name = "papal_sanction_for_holy_war"
+				name = "proclaim_ruler_ysmir"
 				duration = 5475
 			}
 			
