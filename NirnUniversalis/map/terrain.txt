@@ -58,6 +58,9 @@ categories =  {
 		nation_designer_cost_multiplier = 1.05
 		
 		terrain_override = {
+                 #High Rock
+                   273 247 216 212 215 214 190 182 189 172 170
+
 		}		
 	}
 	
@@ -74,7 +77,8 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9
 		
 		terrain_override = {
-			
+			High Rock 
+                      274 271 269 250 249 262 218 217 204
 		}                                      
 	}
 	
@@ -97,6 +101,9 @@ categories =  {
 
 			#Northern Valenwood
 			1564 1563
+
+                        #High Rock 
+                       230
 		}
 	}
 
@@ -114,6 +121,8 @@ categories =  {
 		supply_limit = 6
 		
 		terrain_override = {
+                 #High Rock
+                 4272 233 220 227 202 237
 		}
 	}
 	
@@ -217,6 +226,9 @@ categories =  {
 
 			#Malabal Tor
 			1646
+
+                         #High Rock
+                           179 175 167 152 148 227 228
 		}
 	}
 
@@ -320,6 +332,9 @@ categories =  {
 
 			#Malabal Tor
 			1644
+
+                        #High Rock
+                        258 277 4281 275 510
 		}
 	}	
 	
@@ -357,6 +372,9 @@ categories =  {
 		terrain_override = {
 			#Grahtwood
 			1543 1544 1661 1551 1549 1552 1550 1554
+
+                        #High Rock
+                        149 145 150 156 246 229 236 232 163 173 221 219 
 		}
 	}
 

@@ -727,6 +727,51 @@ harmonized_modifier = harmonized_hist
 }
 
 
+aldmer_religion_group = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	# Flag emblem values - Used for Dynamic Setup of Random Nations.
+	# Emblem texture: game/gfx/interface/client_state_symbols_large.dds
+	# Can be overridden per religion.
+	flags_with_emblem_percentage = 0 # default == 0
+	flag_emblem_index_range = { 1 57 }
+
+	auri_el_rel = {
+		color = { 255 182 0 }
+		icon = 10
+		country = {
+			land_morale = 0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			discipline = 0.05
+			global_unrest = -1
+		}
+		heretic = { DAEDRA }
+		uses_isolationism = yes
+		
+		harmonized_modifier = harmonized_auriel
+		
+	}
+	
+	crusade_name = CRUSADE
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 khajiit_religion_group = {
 	defender_of_faith = yes

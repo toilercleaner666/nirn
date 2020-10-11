@@ -1,0 +1,17 @@
+union = {
+	first = ALI
+	second = LLD
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = ALI
+	second = FRH
+	start_date = 1444.1.1
+}
+
+vassal = {
+	first = ALI
+	second = SKW
+	start_date = 1444.1.1
+}

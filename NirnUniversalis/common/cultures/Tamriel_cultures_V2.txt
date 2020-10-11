@@ -634,7 +634,7 @@ Yeomcroft	Yeomfield	Yeomford	Yeomham	Yeomhart	Yeomhouse	Yeoming	Yeomsley	Yeomsly
 
 ###REACHMAN###
 
-Reachman = {
+reachmen_group = {
 	graphical_culture = westerngfx
 
 	eastern_reachmen = {
@@ -988,7 +988,7 @@ Reachman = {
 
   ###ORSIMER###
 
-Orsimer = {
+orsimer_group = {
   	graphical_culture = westerngfx
 
   	Orsimer = {

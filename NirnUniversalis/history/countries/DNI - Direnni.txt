@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = Altmertemp
+primary_culture = direnni
 add_accepted_culture = Alcairn
-religion = alinor_religion
+religion = auri_el_rel
 technology_group = western
 capital = 216
 

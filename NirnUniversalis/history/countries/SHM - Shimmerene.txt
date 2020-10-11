@@ -1,0 +1,22 @@
+
+
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = shimmereni
+religion = auri_el_rel
+technology_group = western
+capital = 1059
+
+
+1437.2.20 = {
+	monarch = {
+		name = "Jimi"
+		dynasty = "Hendrix"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}
+

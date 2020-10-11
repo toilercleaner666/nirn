@@ -1,0 +1,40 @@
+
+
+DNI_ideas = {
+	#Direnni
+	start = {
+		infantry_power = 0.1
+		prestige = 2
+	}
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = DNI
+	}
+	free = yes
+
+	DNI_elven_perseverance = {
+		land_morale = 0.1
+	}
+	DNI_reeducate_the_masses = {
+		global_missionary_strength = 0.02
+	}
+	DNI_reintergrating_lost_lands = {
+		core_creation = -0.2
+	}
+	DNI_rulers_of_illiac_bay = {
+	naval_forcelimit_modifier = 0.1
+  leader_naval_shock = 1
+	}
+	DNI_legacy_of_clan_direnni = {
+		diplomatic_reputation = 2
+	}
+	DNI_rightful_rulers = {
+		legitimacy = 1
+	}
+	DNI_expand_the_hegemony = {
+		governing_capacity_modifier = 0.1
+	}
+}

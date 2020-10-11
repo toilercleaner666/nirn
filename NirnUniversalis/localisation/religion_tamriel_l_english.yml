@@ -57,3 +57,6 @@ hist_rel_religion_desc: "Except for the more deeply assimilated, the Argonians d
 
 daedra_religion_group: "Daedric Religions"
 daedra_cult_rel: "Daedra Worship"
+
+#altmer Religions
+auri_el_rel: "Auri-El"

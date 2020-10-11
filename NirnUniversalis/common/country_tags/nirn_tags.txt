@@ -291,6 +291,18 @@ STO = "countries/Stormhold.txt"
 GID = "countries/Gideon.txt"
 ARG = "countries/Argonia.txt"
 
+#Summerset Isles
+
+ALI = "countries/Alinor.txt"
+SUN = "countries/Sunhold.txt"
+DUS = "countries/Dusk.txt"
+SHM = "countries/Shimmerene.txt"
+CLO = "countries/Cloudrest.txt"
+LLD = "countries/Lillandril.txt"
+SKW = "countries/Skywatch.txt"
+FRH = "countries/Firsthold.txt"
+
+
 ##########################
 # TUTORIAL               #
 ##########################
