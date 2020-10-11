@@ -26,7 +26,7 @@ DNI_ideas = {
 	}
 	DNI_rulers_of_illiac_bay = {
 	naval_forcelimit_modifier = 0.1
-  leader_naval_shock = 1
+        leader_naval_shock = 1
 	}
 	DNI_legacy_of_clan_direnni = {
 		diplomatic_reputation = 2
