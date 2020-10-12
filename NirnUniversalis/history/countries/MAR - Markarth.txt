@@ -2,8 +2,11 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = eastern_reachman
 add_accepted_culture = karth
-religion = eight_divines_rel
+religion = old_gods_rel
 technology_group = western
+unlock_cult = enkai_cult
+unlock_cult = waaq_cult
+unlock_cult = zanahary_cult
 capital = 118
 
 

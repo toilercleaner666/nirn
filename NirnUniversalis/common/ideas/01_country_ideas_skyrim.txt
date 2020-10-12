@@ -1,0 +1,80 @@
+SKY_ideas = {
+	start = {
+		manpower_recovery_speed = 0.2
+		build_cost = -0.1
+	}
+
+	bonus = {
+		hostile_attrition = 1
+	}
+	
+	trigger = {
+		culture_group = nordic
+	}
+	free = yes		#will be added at load.
+
+	legacy_of_ysgramor = {
+		legitimacy = 1
+	}
+	nordic_steel = {
+		land_morale = 0.15
+	}
+	the_companions = {
+		merc_maintenance_modifier = -0.15
+		mercenary_discipline = 0.1
+	}
+	timber_mills = {
+		production_efficiency = 0.1
+	}
+	second_empire_of_the_nords = {
+		province_warscore_cost = -0.2
+	}
+	barbarians_of_the_north = {
+		infantry_power = 0.2
+	}
+	create_new_jarldoms = {
+		state_governing_cost = -0.1
+	}
+}
+
+FAL_ideas = {
+	start = {
+		may_recruit_female_generals = yes
+		trade_efficiency = 0.1
+	}
+	bonus = {
+	
+	}
+	
+	trigger = {
+		tag = FAL
+	}
+	
+	great_graveyard = {
+		improve_relation_modifier = 0.15
+	}
+	
+	guardian_of_pass = {
+		fort_maintenance_modifier = -0.15
+		garrison_size = 0.1
+	}
+	
+	land_of_forrests = {
+		production_efficiency = 0.1
+	}
+	
+	lake_illita = {
+		war_exhaustion = -0.1
+	}
+	
+	idea5 = {
+	
+	}
+	idea6 = {
+	
+	}
+	
+	idea7 = {
+	
+	}
+}
