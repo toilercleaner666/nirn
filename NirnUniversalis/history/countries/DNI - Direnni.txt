@@ -9,13 +9,23 @@ capital = 216
 
 1437.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Ryain III"
+		dynasty = Direnni
+                birth_date = 1418.12.3
+		adm = 2
+		dip = 3
+		mil = 3
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
 
+1443.2.25 = {
+	heir = {
+		name = "Corvus"
+		dynasty = Direnni
+		birth_date = 1440.2.25
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
