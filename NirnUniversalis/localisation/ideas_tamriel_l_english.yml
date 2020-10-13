@@ -7,29 +7,35 @@
 SKY_ideas: "Nordic Ideas"
 SKY_ideas_start: "Nordic Traditions"
 SKY_ideas_bonus: "Nordic Ambition"
-legacy_of_ysgramor: "Legacy of Ysgramor"
-legacy_of_ysgramor_desc: "The name of Ysgramor still holds weight"
-nordic_steel: "Nordic Steel"
-nordic_steel_desc:"While Elves trust in magic we Nords trust in the might of our own steel and what a wonderful steel it is!"
-the_companions: "The Companions"
-the_companions_desc:"The Companions are a group of warriors who carry on the tradition of the Five Hundred Companions of Ysgramor. An independent mercenary group, the Companions are Skyrim's answer to the Fighter's Guild."
-timber_mills: "Timber Mills"
-timber_mills_desc: "Idea 4"
-second_empire_of_the_nords: "Second Empire of the Nords"
-second_empire_of_the_nords_desc:"With the homeland secure it is now time to look beyond our borders for new lands to conquer. Long ago our ancestors ruled all of northern Tamriel. "
-barbarians_of_the_north: "Barbarians of the North"
-barbarians_of_the_north_desc: "The fighting prowess of the Nords are the envy of all of Tamriel."
-create_new_jarldoms: "Create New Jarldoms"
-create_new_jarldoms_desc: "Idea 7"
+sky_legacy_of_ysgramor: "Legacy of Ysgramor"
+sky_legacy_of_ysgramor_desc: "Founded by Ysgramor himself our kingdom was the first amongst Nords and men."
+sky_barbarians_of_the_north: "Skyrim belongs to the Nords!"
+sky_barbarians_of_the_north_desc:"True Nords never back down from a fight!"
+sky_the_companions: "The Companions"
+sky_the_companions_desc:"The Companions are a group of warriors who carry on the tradition of the Five Hundred Companions of Ysgramor. An independent mercenary group, the Companions are Skyrim's answer to the Fighter's Guild."
+sky_timber_mills: "Timber Mills"
+sky_timber_mills_desc: "Skyrim is a land that abounds with wood and our timber is the envy of all of Tamriel."
+sky_second_empire_of_the_nords: "Second Empire of the Nords"
+sky_second_empire_of_the_nords_desc:"Long ago our ancestors ruled all of northern Tamriel. With the fatherland secure now is the time to push those old claims on our hapeless neighbors."
+sky_nordic_steel: "Barbarians of the North"
+sky_nordic_steel_desc: "The natural hardiness of our people and our expert smithing skills makes our troops some of the most fearsome fighters in all of Tamriel!"
+sky_create_new_jarldoms: "Create New Jarldoms"
+sky_create_new_jarldoms_desc: "Idea 7"
 
-<<<<<<< Updated upstream
+#Falkreth
+FAL_ideas: "Falkreth Ideas"
+FAL_ideas_start: "Falkreth Traditions"
+FAL_ideas_bonus: "Falkreth Ambition"
+FAL_great_graveyard: "The Great Graveyard"
+FAL_great_graveyard_desc: "Falkreth is sandwhiched between the Nordic Pantheon and the followers of the Imperial religion. However the presence of the great graveyard and the freedom to bury our dead reminds us all"
+FAL_guardian_of_pass: "Guardians of the Pass"
+FAL_guardian_of_pass_desc: "We faithfully shoulder the burden of guarding the Pale Pass into Cyrodiil"
 
+#########################
+#HIGH ROCK IDEAS	#
+#########################
 
-
-
-
-
-#Highrock
+#Direnni
 DNI_ideas: "Direnni Ideas"
 DNI_ideas_start: "Direnni Traditions"
 DNI_ideas_bonus: "Direnni Ambition"
@@ -47,11 +53,7 @@ DNI_rightful_rulers: "Rightful Rulers Of Highrock"
 DNI_rightful_rulers_desc: "Our clan ruled over Highrock for hundreds of years and so we have a claim as the legitimate rulers of this land. "
 DNI_expand_the_hegemony: "Expand The Hegemony"
 DNI_expand_the_hegemony_desc: "Our hegemony once stretched as far East as Markarth and Elinhir, it is our duty to recapture this glory and once again dominate Tamrielic politics. "
-=======
-#Falkreth
-FAL_ideas: "Falkreth Ideas"
-FAL_ideas_start: "Falkreth Traditions"
-FAL_ideas_bonus: "Falkreth Ambition"
+
 
  ##############################
  # VALENWOOD IDEAS            #
