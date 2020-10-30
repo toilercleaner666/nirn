@@ -54,11 +54,48 @@ DNI_rightful_rulers_desc: "Our clan ruled over Highrock for hundreds of years an
 DNI_expand_the_hegemony: "Expand The Hegemony"
 DNI_expand_the_hegemony_desc: "Our hegemony once stretched as far East as Markarth and Elinhir, it is our duty to recapture this glory and once again dominate Tamrielic politics. "
 
+#Wayrest
+WAY_ideas: "Wayrester Ideas"
+WAY_ideas_start: "Wayrester Traditions"
+WAY_ideas_bonus: "Wayrester Ambition"
+WAY_walls_of_wayrest: "Walls Of Wayrest"
+WAY_walls_of_wayrest_desc: "While the feral Reachmen led by Durcorach pillaged all the villages and cities of Highrock it was Wayrest's walls that stood strong and were able to repel the attacking invaders."
+WAY_lionguard: "The Lion Guard"
+WAY_lionguard_desc: "The Lion Guard are the elite guards of Wayrest and serve as our monarch's personal guard. They espouse a meritocratic hierarchy, where ability alone determines progression."
+WAY_one_land_one_emperor: "One land! One Emperor!"
+WAY_one_land_one_emperor_desc: "Ever since the conception of The Daggerfall Covenant our kings of wayrest have been at the forefront, leading Highrock as emperors, and defending it against foreign threats."
+WAY_gates_of_highrock: "The Gates Of Highrock"
+WAY_gates_of_highrock_desc: "Ever since the fall of Orsinium our kingdom has been the center of commerce of all of Highrock. Our skilled merchants travel all over Illiac bay and beyond only to bring back the wealth to our kingdom."
+WAY_experienced_diplomats: "Experienced Diplomats"
+WAY_experienced_diplomats_desc: "Historically it has been the kingdom of Wayrest that managed to unite the squabbling nations of Highrock into the confederation known as The Daggerfall Covenant. If it were not for our diplomats we would have been conquered long ago."
+WAY_guardians_of_stormhaven: "Guardians Of Stormhaven"
+WAY_guardians_of_stormhaven_desc: "Wayrest has always been a the capitol of Stormhaven. While this brings back an immense amount of trade back to our city it also leaves us the duty of protecting it all."
+WAY_fishing_heritage: "Fishing Heritage"
+WAY_fishing_heritage_desc: "While it's hard to imagine, our great city once began as a small fishing village on the banks of the Bjoulsae River. Our people have always sailed the surrounding waters and thus have more experience with boats than the avarage Breton."
+
+#Daggerfall
+DGF_ideas: "Daggerfaller Ideas"
+DGF_ideas_start: "Daggerfaller Traditions"
+DGF_ideas_bonus: "Daggerfaller Ambition"
+DGF_knight_of_the_dragon: "Knights Of The Dragon"
+DGF_knight_of_the_dragon_desc: "The Knights Of The Dragon are a knightly order that serves the purpose of protecting Daggerfall's royal family and their domain. The knights are well trained and serve as commanders in our armies."
+DGF_capital_of_glenumbra: "Capital Of Glenumbra"
+DGF_capital_of_glenumbra_desc: "Daggerfall is currently the biggest city in the region and can rightly call itself the capital of Glenumbra, people from all over the region come to our city to access the endless stream of wealth."
+DGF_traders_first: "Traders First!"
+DGF_traders_first_desc: "Ever since the times of the Direnni Hegemony our city has served as a major tradeport for ships from all over Tamriel. Our stretegic position at the mouth off Illiac bay has given rise to a strong trading culture which we make full use of."
+DGF_quest_obsession: "Quest Obsession"
+DGF_quest_obsession_desc: "In our culture a lowborn Breton can still climb his way up to level of Noble by performing quests and winning the favour of the nobility. Our region is especially bountiful in quest performing individuals which gives us plentiful skilled individuals who could serve in our court."
+DGF_nordic_roots: "Nordic Roots"
+DGF_nordic_roots_desc: "Daggerfall was founded in the first era by invading Nords from Skyrim. While those times are long gone we still maintain some of the militairy traditions established all those centuries ago."
+DGF_banking_industry: "Banking Industry"
+DGF_banking_industry_desc: "While maybe not our most well known industry, Daggerfall sports a sophisticated banking market."
+DGF_strong_militairy_presence: "Strong Militairy Presence"
+DGF_strong_militairy_presence_desc: "Our people have always enjoyed the comforts of a strong militaity guarding our realms but this has become especially prominent in recent times because of the theat of outside forces invading our territories"
 
  ##############################
  # VALENWOOD IDEAS            #
  ##############################
- 
+
  #TEMPLATE
  TEMPLATE_ideas: "TEMPLATE Ideas"
  TEMPLATE_ideas_start: "TEMPLATE Traditions"
@@ -99,7 +136,7 @@ DNI_expand_the_hegemony_desc: "Our hegemony once stretched as far East as Markar
  eld_autonomous_control_desc: "With our recent desire to reestablish our supremancy over our Province, we have come into conflict with many of our neighbors. Through victory, we seek to maintain control through autonomy, increasing our taxes whilst not overextending our administration."
  eld_unquestioned_rule: "Unquestioned Camoran Rule"
  eld_unquestioned_rule_desc: "Our rule over Eldenroot has never come into question. It would be foolish of any local power to question our right to rule, and the people remain complacent under Camoran rule."
- 
+
  #Arenthia
  ARE_ideas: "Arenthian Ideas"
  ARE_ideas_start: "Arenthian Traditions"
@@ -331,7 +368,7 @@ DNI_expand_the_hegemony_desc: "Our hegemony once stretched as far East as Markar
  pellitanian_khajiit_greater_control_desc: "Khajiit are a people who have been subject to horrific slavery since the foul Ayleid first landed in Tamriel. We must protect out people from these raiders."
  pellitanian_khajiit_expand_religion: "Expand Riddle-Tharr"
  pellitanian_khajiit_expand_religion_desc: "Riddle-Tharr is one of the main pillars of Khajiit society. We should promote some priests into government, arrange some favors, and use this to our advantage."
- 
+
  #Rimmenian Ideas
  rimmenian_ideas: "Rimmenian Ideas"
  rimmenian_ideas_start: "Rimmenian Traditions"

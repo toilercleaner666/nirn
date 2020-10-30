@@ -79,3 +79,43 @@ WAY_ideas = {
 		global_sailors_modifier = 0.2
 	}
 }
+
+DGF_ideas = {
+	#Daggerfall
+	start = {
+diplomatic_upkeep = 1
+reduced_liberty_desire = 15
+
+	}
+	bonus = {
+	prestige = 2
+	}
+
+	trigger = {
+		tag = DGF
+	}
+	free = yes
+
+	DGF_knight_of_the_dragon = {
+	 leader_land_shock = 2
+	}
+  DGF_capital_of_glenumbra = {
+	development_cost = -0.1
+	}
+	DGF_traders_first = {
+	merchants = 1
+	global_trade_power = 0.1
+	}
+	DGF_quest_obsession = {
+  advisor_pool = 2
+	}
+	DGF_nordic_roots = {
+  discipline = 0.05
+	}
+	DGF_banking_industry = {
+  global_tax_modifier = 0.15
+	}
+	DGF_strong_militairy_presence = {
+	global_unrest = -2
+	}
+}
