@@ -119,3 +119,45 @@ reduced_liberty_desire = 15
 	global_unrest = -2
 	}
 }
+
+SHR_ideas = {
+	#Shornhelm
+	start = {
+	cavalry_cost = -0.20
+	land_forcelimit_modifier = 0.10
+
+	}
+	bonus = {
+	diplomatic_reputation = 1
+	}
+
+	trigger = {
+		tag = SHR
+	}
+	free = yes
+
+	SHR_charge_of_the_shornhelm_knights = {
+	cavalry_power = 0.20
+	}
+  SHR_council_of_the_north = {
+	legitimacy = 1
+  republican_tradition = 1
+	}
+	SHR_champions_of_shornhelm = {
+	infantry_power = 0.10
+	}
+	SHR_house_tamrith = {
+  tolerance_own = 1
+	}
+	SHR_legacy_of_house_montclair = {
+  ae_impact = -0.1
+	}
+	SHR_crown_city_of_the_north = {
+	prestige = 1
+  technology_cost = -0.1
+	}
+	SHR_house_ravenwatch = {
+	spy_offence = 0.3
+  fabricate_claims_cost = -0.2
+	}
+}

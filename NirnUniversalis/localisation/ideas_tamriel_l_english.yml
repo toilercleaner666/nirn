@@ -92,6 +92,30 @@ DGF_banking_industry_desc: "While maybe not our most well known industry, Dagger
 DGF_strong_militairy_presence: "Strong Militairy Presence"
 DGF_strong_militairy_presence_desc: "Our people have always enjoyed the comforts of a strong militaity guarding our realms but this has become especially prominent in recent times because of the theat of outside forces invading our territories"
 
+#Shornhelm
+SHR_ideas: "Shornhelmer Ideas"
+SHR_ideas_start: "Shornhelmer Traditions"
+SHR_ideas_bonus: "Shornhelmer Ambition"
+SHR_charge_of_the_shornhelm_knights: "Charge Of The Shornhelm Knights"
+SHR_charge_of_the_shornhelm_knights_desc: "At the battle of Glenumbra moors our powerfull cavalry charged and defeated the incoming Alessian forces. Our cavalty and it's famous charge is still talked about today."
+SHR_council_of_the_north: "Council Of The North"
+SHR_council_of_the_north_desc: "The council of the North consists of several members from Shornhelm's royal houses. This council reigns in the absence of a suitable monarch and decides who will take the crown in case there are multiple claimants. "
+SHR_champions_of_shornhelm: "Champions Of Shornhelm"
+SHR_champions_of_shornhelm_desc: "Our armies have fought in rough conditions for centuries which has caused us to have a strong militairy tradition."
+SHR_house_tamrith: "House Tamrith"
+SHR_house_tamrith_desc: "The nobles from house Tamrith have served as loyal vassals of the kings and queens of Shornhelm for generation. House Tamrith has a strong tradition of piety and religious comitment which is spread to the rest of our kingdom."
+SHR_legacy_of_house_montclair: "Legacy Of House Montclair"
+SHR_legacy_of_house_montclair_desc: "Shornhelm was ruled by house Montclair for a large portion of it's history. The nobles of Rivenspire have long seen the Montclairs, and in extention Shornhelm as the rightful rulers of the region"
+SHR_crown_city_of_the_north: "Crown City Of The North"
+SHR_crown_city_of_the_north_desc: "Shornhelm has been called The Crown City Of The North by it's inhabitants in Ravenspire. Because of the barrenness of most of Rivenspire Shornhelm acts as one of the major beacons of civilization in the area. We make full use of this constant influx of people and our city has become a major center of science in the area."
+SHR_house_ravenwatch: "House Ravenwatch"
+SHR_house_ravenwatch_desc: "House Ravenwatch is one of the vassals of the crown of Shornhelm. A house consisting of members from all different races, the members of this house follow an arbitrairy code."
+
+
+
+
+
+
  ##############################
  # VALENWOOD IDEAS            #
  ##############################
