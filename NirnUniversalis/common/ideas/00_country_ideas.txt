@@ -12517,43 +12517,43 @@ SYN_ideas = {
 	}
 }
 
-MOR_ideas = {
-	start = {
-		may_perform_slave_raid = yes
-		naval_forcelimit_modifier = 0.25
-	}
-	bonus = {
-		hostile_attrition = 1
-	}
-	trigger = {
-		tag = MOR
-	}
-	free = yes
-	mor_powerful_viziers = {
-		same_culture_advisor_cost = -0.2
-	}
-	mor_marabouts = {
-		idea_cost = -0.1
-		monthly_piety = -0.001
-	}
-	trans_saharan_trade = {
-		trade_efficiency = 0.1
-		caravan_power = 0.2
-	}
-	mor_fleet = {
-		galley_power = 0.2
-	}
-	mor_pirate_republics = {
-		privateer_efficiency = 0.15
-	}
-	mor_slave_soldiers = {
-		land_maintenance_modifier = -0.05
-		cavalry_power = 0.1
-	}
-	mor_curb_power_of_the_tribes = {
-		global_autonomy = -0.05
-	}
-}
+#MOR_ideas = {
+#	start = {
+#		may_perform_slave_raid = yes
+#		naval_forcelimit_modifier = 0.25
+#	}
+#	bonus = {
+#		hostile_attrition = 1
+#	}
+#	trigger = {
+#		tag = MOR
+#	}
+#	free = yes
+#	mor_powerful_viziers = {
+#		same_culture_advisor_cost = -0.2
+#	}
+#	mor_marabouts = {
+#		idea_cost = -0.1
+#		monthly_piety = -0.001
+#	}
+#	trans_saharan_trade = {
+#		trade_efficiency = 0.1
+#		caravan_power = 0.2
+#	}
+#	mor_fleet = {
+#		galley_power = 0.2
+#	}
+#	mor_pirate_republics = {
+#		privateer_efficiency = 0.15
+#	}
+#	mor_slave_soldiers = {
+#		land_maintenance_modifier = -0.05
+#		cavalry_power = 0.1
+#	}
+#	mor_curb_power_of_the_tribes = {
+#		global_autonomy = -0.05
+#	}
+#}
 
 TUN_ideas = {
 	start = {

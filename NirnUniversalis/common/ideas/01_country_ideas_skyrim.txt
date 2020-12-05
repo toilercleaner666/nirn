@@ -1,3 +1,148 @@
+############
+#Haafingar #
+############
+SOL_ideas = {
+	start = {
+		diplomatic_upkeep = 1
+		liberty_desire = -15
+	}
+	bonus = {
+		administrative_efficiency = 0.2
+	}
+	trigger = {
+		tag = SOL
+	}
+	free = yes
+	
+	SOL_Haafingar_banking = {
+		interest = -0.15 
+		global_tax_modifier = 0.15
+	}
+	
+	SOL_Imperial_advisors = {
+		advisor_cost = -0.05
+	}
+	
+	SOL_Master_New_Holds = {
+		state_maintenance_modifier = -0.25
+	}
+		
+	SOL_Docks = {
+		global_ship_cost = -0.1
+		global_sailors_modifier = 0.1
+	}
+	
+	SOL_Naval_tradition = {
+		trade_steering = .15
+		naval_morale = 0.1
+	}
+		
+	SOL_Bards_College = {
+		Prestige = 1
+	}
+	
+	SOL_Blue_Palace = {
+		Stability_Cost_modifier = -0.15
+	}
+	
+}
+###########
+#Whiterun #
+###########
+WHR_ideas = {
+	start = {
+		global_own_trade_power = 0.15
+		global_tax_modifier = 0.15
+	}
+	bonus = {
+		land_morale = 0.10
+	}
+	trigger = {
+		tag = WHR
+	}
+	free = yes
+	
+	WHR_meadery = {
+		global_unrest = -2
+	}
+	
+	sky_the_companions = {
+		merc_maintenance_modifier = -0.15
+		mercenary_discipline = 0.1
+	}
+	
+	WHR_trading_hub = {
+		production_efficiency = 0.15
+	}
+		
+	WHR_kynareth = {
+		tolerance_own = 1
+	}
+	
+	WHR_riders_of_whiterun = {
+		cavalry_power = 0.10
+	}
+		
+	WHR_dragonsreach = {
+		legitimacy = 1
+	}
+	
+	WHR_skyforge = {
+		infantry_cost = -0.10
+		cavalry_cost = -0.10
+	}
+	
+}
+############
+#Winterhold#
+############
+WNH_ideas = {
+	start = {
+		local_sailors_modifier = 0.1
+		heavy_ship_power = 0.1
+	}
+	bonus = {
+		Merchant = 1
+	}
+	
+	trigger = {
+		tag = WNH
+	}
+	free = yes		#will be added at load.
+
+	WNH_college = {
+		technology_cost = -0.1
+		global_institution_spread = 0.15
+		
+	}
+	
+	WNH_Old_Hold = {
+		prestige = 1
+	}
+	
+	WNH_Nordic_isolationism = {
+		same_culture_advisor_cost = -0.5
+	}
+	
+	WNH_lake_illita = {
+
+	}
+	
+	WNH_competition_with_whiterun = {
+
+	}
+	
+	WNH_idea6 = {
+		
+	}
+	
+	WNH_idea7 = {
+
+	}
+}
+############
+# Falkreth #
+############
 FAL_ideas = {
 	start = {
 		may_recruit_female_generals = yes
@@ -42,7 +187,9 @@ FAL_ideas = {
 		development_cost = -0.1
 	}
 }
-
+##########
+# Riften #
+##########
 RFT_ideas = {
 	start = {
 
@@ -88,7 +235,9 @@ RFT_ideas = {
 	}
 
 }
-
+##########
+# Skyrim #
+##########
 SKY_ideas = {
 	start = {
 		manpower_recovery_speed = 0.2
@@ -125,7 +274,7 @@ SKY_ideas = {
 	}
 
 	sky_second_empire_of_the_nords = {
-		province_warscore_cost = -0.2
+		core_creation = -0.2
 	}
 	 
 	sky_nordic_steel= {
@@ -133,7 +282,7 @@ SKY_ideas = {
 	}
 
 	sky_create_new_jarldoms = {
-		state_governing_cost = -0.1
+		same_culture_advisor_cost = -0.5
 	}
 }
 

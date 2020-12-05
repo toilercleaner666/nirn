@@ -31,6 +31,33 @@ FAL_great_graveyard_desc: "Falkreth is sandwhiched between the Nordic Pantheon a
 FAL_guardian_of_pass: "Guardians of the Pass"
 FAL_guardian_of_pass_desc: "We faithfully shoulder the burden of guarding the Pale Pass into Cyrodiil"
 
+#Haafingar
+SOL_ideas: "Haafingar Ideas"
+SOL_ideas_start: "Haafingar Traditions"
+SOL_ideas_bonus: "Haafingar Ambition"
+SOL_Haafingar_banking: "Haafingar Banking"
+SOL_Haafingar_banking_desc: "The Merchants of Haafingar believe in wealth not honor"
+SOL_Imperial_advisors: "Imperial Advisors"
+SOL_Imperial_advisors_desc: "The people of Haafingar have long had a special relationship with the Cyrods. Our ports brim with young Imperials ready to make a name for themselves in our land"
+
+
+#Whiterun
+WHR_ideas: "Whiterun Ideas"
+WHR_ideas_start: "Whiterun Traditions"
+WHR_ideas_bonus: "Whiterun Ambition"
+WHR_meadery: "Honningbrew Meadery"
+WHR_meadery_desc: "Whiterun is home to Honningbrew Meadery, the finest Meadery in all of Skyrim. A few swigs of Honningbrew and all your troubles will melt away"
+WHR_trading_hub: "Trading Hub of Skyrim"
+WHR_trading_hub_desc: ""
+WHR_kynareth: "Temple of Kynareth"
+WHR_kynareth_desc: ""
+WHR_riders_of_whiterun: "Riders of Whiterun"
+WHR_riders_of_whiterun_desc: ""
+WHR_dragonsreach: "Dragonsreach"
+WHR_dragonsreach_desc: "The Jarl's Palace built by Olaf One Eye"
+WHR_skyforge: "Skyforge"
+WHR_skyforge_desc: "The city of Whiterun was built around the Skyforge"
+
 #########################
 #HIGH ROCK IDEAS	#
 #########################
