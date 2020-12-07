@@ -1,0 +1,11 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+eastskyrim_empire = {
+	reduced_liberty_desire = 50
+}
+
+westskyrim_empire = {
+	reduced_liberty_desire = 50
+}

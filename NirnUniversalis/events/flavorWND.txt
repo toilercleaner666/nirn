@@ -1,0 +1,130 @@
+########################################
+# Flavor Events for Windhelm
+#
+# written by ScienceGuy23
+########################################
+
+namespace = flavor_WND
+
+# High Queen Freydis of Windhelm
+country_event = {
+	id = flavor_WND.0
+	title = flavor_WND.0.t
+	desc = flavor_WND.0.d
+	picture = OVEREXTENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = WND
+		exists = SOL
+		has_ruler = "Freydis"
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = { 
+		name = flavor_WND.0.a 
+		custom_tooltip = flavor_WND.0.a.tt
+		
+		hidden_effect = {
+			
+			every_country = {
+				limit = {
+				NOT = { tag = ROOT }
+				OR = {
+					is_subject_of = ROOT
+					religion = old_gods_rel
+				}
+			}
+			country_event = { id = flavor_WND.4 }
+		}
+	}
+}
+}
+
+# Death of Freydis (TAG = WND)
+country_event = {
+	id = flavor_WND.1
+	title = "flavor_WND.1.t"
+	desc = "flavor_WND.1.d"
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	trigger = {
+		tag = WND
+		NOT = { has_global_flag = death_of_Freydis }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = { set_global_flag = death_of_Freydis }
+	
+	option = { 
+		name = "flavor_WND.1.a" # My time has come!
+		custom_tooltip = flavor_WND.1.a.tt
+		hidden_effect = {
+			every_country = {
+				limit = {
+					NOT = { tag = ROOT }
+					OR = {
+						is_subject_of = ROOT
+				}
+			}
+			country_event = { id = flavor_WND.2 }
+		}
+	}
+	}
+}
+
+# Death of Freydis (Everyone else)
+country_event = {
+	id = flavor_WND.2
+	title = "flavor_WND.2.t"
+	desc = "flavor_WND.2.d"
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "flavor_WND.2.a" # My time has come!
+		trigger = {religion = nord_religion}
+		custom_tooltip = flavor_WND.2.a.tt
+	}
+	option = {
+		name = "flavor_WND.2.b" #
+		trigger = {NOT = {is_subject_of = WND} }
+		custom_tooltip = flavor_WND.2.b.tt
+		if = {
+			limit = {
+					capital_scope = {
+						superregion = skyrim_superregion
+						is_core = ROOT
+					}
+			}
+
+		}
+	}
+}
+
+
+# High King Freydis of Solitude (Other nations)
+country_event = {
+	id = flavor_WND.4
+	title = "flavor_WND.0.t"
+	desc = "flavor_WND.0.d"
+	picture = OVEREXTENSION_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = "flavor_WND.0.a" # My time has come!
+		custom_tooltip = flavor_WND.0.a.tt
+	}
+}

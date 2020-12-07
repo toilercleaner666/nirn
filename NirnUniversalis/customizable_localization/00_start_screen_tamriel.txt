@@ -1,0 +1,79 @@
+#The Actual Title at the very top of the screen
+#LEAVE THIS ONE ALONE
+defined_text = {
+    name = StartScreenTitle
+	random = no
+	
+	text = {
+		
+        localisation_key = string_screen_title_plural
+        trigger = {
+			tag_with_plural_name_trigger = yes
+        }
+    }
+    text = {
+        localisation_key = string_screen_title_papacy
+        trigger = {
+			tag = PAP
+        }
+    }
+    text = {
+        localisation_key = string_screen_title
+        trigger = {
+			always = yes
+        }
+    }
+}
+#The little title below the big title
+defined_text = {
+    name = StartScreenUpLeftTitle
+	random = no #Pick first that fits
+
+	text = {
+        localisation_key = string_start_title_haafingar
+        trigger = {
+			tag = SOL
+		}
+    }
+}
+#The Little Writing Blurb
+defined_text = {
+    name = StartScreenUpLeftDesc
+	random = no
+	
+text = { #France
+		localisation_key = string_start_haafingar
+		trigger = {
+			tag = SOL
+			NOT = { is_year = 1448 }
+		}
+	}
+
+}
+
+#THE RELIGION TAB
+defined_text = {
+    name = StartScreenUpRightTitle
+	random = no
+	
+	text = {
+        localisation_key = string_start_religion_mechanic_title_plural
+        trigger = {
+			tag_with_plural_name_trigger = yes
+        }
+    }
+    text = {
+        localisation_key = string_start_religion_mechanic_title
+        trigger = {
+			always = yes
+        }
+    }
+}
+
+}
+defined_text = {
+    name = StartScreenUpRightDesc
+	random = no
+	
+
+}

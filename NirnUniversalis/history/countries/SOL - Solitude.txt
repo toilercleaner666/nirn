@@ -4,22 +4,29 @@ primary_culture = haafingar
 add_accepted_culture = dragonbridger
 religion = nord_religion
 technology_group = western
+historical_rival = WND
 capital = 991
 
 
-1437.2.20 = {
+1399.2.20 = {
 	monarch = {
 		name = "Svartr"
 		dynasty = "Solitude"
+		birth_date = 1377.2.20
+		death_date = 1455.1.1
 		adm = 2
 		dip = 5
 		mil = 1
 		religion = eight_divines_rel
 		culture = haafingar
 	}
+}
+1399.2.20 = {
 	heir = {
 		name = "Svargrim"
 		monarch_name = "Eerika"
+		birth_date = 1389.2.20
+		death_date = 1475.1.1
 		dynasty = "Solitude"
 		claim = 80
 		adm = 5
@@ -29,5 +36,8 @@ capital = 991
 		culture = falkreathan
 	}
 	clear_scripted_personalities = yes
+		add_ruler_modifier = {
+		name = eastskyrim_empire
+	}
 }
 

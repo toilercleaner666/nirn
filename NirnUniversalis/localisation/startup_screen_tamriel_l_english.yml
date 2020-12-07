@@ -1,0 +1,6 @@
+﻿l_english:
+string_screen_title:0 "The [Root.GovernmentName] of [Root.GetName], [GetYear]"
+string_start_title_haafingar:0 "High King Svartr of Haafingar"
+string_start_haafingar:0 "This is a test to see if this damn shit will work."
+####################################
+#this only worked by removing the actual 00_start_screen file from the customizable localization folder in Nirn

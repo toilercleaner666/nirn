@@ -27,19 +27,51 @@ FAL_ideas: "Falkreth Ideas"
 FAL_ideas_start: "Falkreth Traditions"
 FAL_ideas_bonus: "Falkreth Ambition"
 FAL_great_graveyard: "The Great Graveyard"
-FAL_great_graveyard_desc: "Falkreth is sandwhiched between the Nordic Pantheon and the followers of the Imperial religion. However the presence of the great graveyard and the freedom to bury our dead reminds us all"
+FAL_great_graveyard_desc: "All Nords are allowed to bury their dead in the Great Graveyard of Falkreth. Thus our Jarldom has become somewhat of a neutral ground between the more zealous of our people."
 FAL_guardian_of_pass: "Guardians of the Pass"
-FAL_guardian_of_pass_desc: "We faithfully shoulder the burden of guarding the Pale Pass into Cyrodiil"
+FAL_guardian_of_pass_desc: "We have long guarded the Pale Pass into Cyrodiil. Accordingly no expense has been sparred for our Forts and Garrisons."
+FAL_land_of_forrests: "Land of Forrests"
+FAL_land_of_forrests_desc: "With plenty of Timber courtesty of our many forrests we are blessed to "
+FAL_lake_illita: "Lake Illita"
+FAL_lake_illita_desc: "The source of the White River, Lake Illita brings both comfort and clarity to visitors and the people of Falkreth."
+FAL_competition_with_whiterun: "Competition with Whiterun"
+FAL_competition_with_whiterun_desc: "Whiterun's central location makes them the trade hub of Skyrim. If we wish to remain competitive with our rival we must have an efficient system of trade."
+FAL_well_negotiated: "Well negotiated contracts"
+FAL_well_negotiated_desc: "Whether it be with the Cyrods, the Khajiit, or our own countrymen our negotiators must be well educated and prepared for any situation."
+FAL_guerilla_warriors: "Guerilla Warriors"
+FAL_guerilla_warriors_desc: "Falkreth avoids war when it can, prefering to pay off or negotiate with an invader. However the recent invasion has shown that if trade is to remain unhindred we will need to be more militarily minded than once before."
 
 #Haafingar
 SOL_ideas: "Haafingar Ideas"
 SOL_ideas_start: "Haafingar Traditions"
 SOL_ideas_bonus: "Haafingar Ambition"
 SOL_Haafingar_banking: "Haafingar Banking"
-SOL_Haafingar_banking_desc: "The Merchants of Haafingar believe in wealth not honor"
+SOL_Haafingar_banking_desc: "The Merchants of Haafingar believe in wealth not honor. A belief that our kingdom encourages."
 SOL_Imperial_advisors: "Imperial Advisors"
-SOL_Imperial_advisors_desc: "The people of Haafingar have long had a special relationship with the Cyrods. Our ports brim with young Imperials ready to make a name for themselves in our land"
+SOL_Imperial_advisors_desc: "Haafingar has long had a special relationship with the Cyrods. Our ports brim with young Imperials ready to make a name for themselves in our land. Surely the best and brightest could be convinced to serve our crown?"
+SOL_Master_New_Holds: "Master of the New Holds"
+SOL_Master_New_Holds_desc: "Solitude represents the pinacle of the New Holds. A masterful modern administration, willingness to change, and positive diplomatic relations with our neighbors."
+SOL_Docks: "The Docks of Solitude"
+SOL_Docks_desc: "While Dawnstar may have the best navy of Skyrim, ours is not one to discount. Our docks brim with ships and our Captains are Master Mariners."
+SOL_Bards_College: "The Bards College"
+SOL_Bards_College_desc: "Whoever controls the Bards controls the sagas and epics woven into the history of Skyrim. How fortunete it is that the Bard's College resides in our capitol and recieves generous funding from the crown."
+SOL_flexible_administration: "Flexible Administration"
+SOL_flexible_administration_desc: "We recognize the need for change ."
+SOL_Blue_Palace: "The Blue Palace"
+SOL_Blue_Palace_desc: "Also called Castle Solitude, the hallowed halls of our capital have long awed guests and dignetaries from all over Tamriel."
 
+#Morthal
+MOR_ideas: "Hjaalmarch Ideas"
+MOR_ideas_start: "Hjaalmarch Traditions"
+MOR_ideas_bonus: "Hjaalmarch Ambition"
+MOR_me_swamp: "Get out of me Swamp!"
+MOR_me_swamp_desc: ""
+MOR_run: "Run"
+MOR_run_desc: "This is the part where you run."
+MOR_like_onions: "Like Onions"
+MOR_like_onions_desc: "There's layers to us."
+MOR_some_die: "Some of you may die"
+MOR_some_die_desc: "But that's a sacrifice I'm willing to make."
 
 #Whiterun
 WHR_ideas: "Whiterun Ideas"
@@ -48,15 +80,58 @@ WHR_ideas_bonus: "Whiterun Ambition"
 WHR_meadery: "Honningbrew Meadery"
 WHR_meadery_desc: "Whiterun is home to Honningbrew Meadery, the finest Meadery in all of Skyrim. A few swigs of Honningbrew and all your troubles will melt away"
 WHR_trading_hub: "Trading Hub of Skyrim"
-WHR_trading_hub_desc: ""
+WHR_trading_hub_desc: "Whiterun's central posistion makes it the trading hub of all Skyrim."
 WHR_kynareth: "Temple of Kynareth"
-WHR_kynareth_desc: ""
+WHR_kynareth_desc: "Located in Whiterun's Wind District the "
 WHR_riders_of_whiterun: "Riders of Whiterun"
-WHR_riders_of_whiterun_desc: ""
+WHR_riders_of_whiterun_desc: "Riders of Roh...Whiterun! Oaths you have taken!"
 WHR_dragonsreach: "Dragonsreach"
-WHR_dragonsreach_desc: "The Jarl's Palace built by Olaf One Eye"
+WHR_dragonsreach_desc: "The Jarl's Palace projects strength and resolve. Built by Olaf One Eye the imposing structure resides in the Cloud District. A place I'm sure you don't get to very often."
 WHR_skyforge: "Skyforge"
-WHR_skyforge_desc: "The city of Whiterun was built around the Skyforge"
+WHR_skyforge_desc: "The Skyforge was first discovered by Jeek of the River. The city of Whiterun was built around the mysterious structure. The Skyforge's unique steel is strong and coveted by all of Skyrim. "
+
+#Winterhold
+WNH_ideas: "Winterhold Ideas"
+WNH_ideas_start: "Winterhold Traditions"
+WNH_ideas_bonus: "Winterhold Ambition"
+WNH_Nordic_isolationism: "Nordic Isolationsim"
+WNH_Nordic_isolationism_desc: "We in the North look to our own communities for guidence and counsel."
+WNH_atmora_pilgrims: "Atmoran Pilgrims"
+WNH_atmora_pilgrims: "It has been over an age since we have had contact from our ancient homeland of Atmora. Perhaps an enterprising young captain might be willing to investigate what has happened to Atmora."
+WNH_college: "College of Winterhold"
+WNH_college_desc: "The prestigous school of magic and mystisism sits just outside our capitol's walls. Providing a plentiful supply of aspiring mages and wizards for our Kingdom."
+WNH_Frozen_North: "The Frozen North"
+WNH_Frozen_North_desc: "Winterhold is a harsh environment in a harsh land. The snow never lets up, the blizzards never stop, and many an invading army has found this out the hard way."
+WNH_Fish_economy: "Fishing Economy"
+WNH_Fish_economy_desc: "Winterhold is fed on fish and horkers."
+WNH_lessons_saarthal: "Lessons from Saarthal"
+WNH_lessons_saarthal_desc: ""
+WNH_Settle_Interior: "Beat the Winter"
+WNH_Settle_Interior_desc: "Our people have learned how to use every hour of daylight, raising buildings as fast as they can to beat the brutal winter. "
+
+#Dawnstar
+DNS_ideas: "Pale Ideas"
+DNS_ideas_start: "Pale Traditions"
+DNS_ideas_bonus: "Pale Ambition"
+
+#Riften
+RFT_ideas: "Riften Ideas"
+RFT_ideas_start: "Riften Traditions"
+RFT_ideas_bonus: "Riften Ambition"
+RFT_thieves_guild: "Thieve's Guild"
+RFT_thieves_guild_desc: "We have an...agreement with the Guild."
+RFT_HonorHall_orphanage: "Honorhall Orphanage"
+RFT_HonorHall_orphanage_desc: "Those poor orphans! Someone should "
+RFT_gateway_east: "Gateway to the East"
+RFT_gateway_east_desc: ""
+RFT_blackbriar_mead: "Black Briar Mead"
+RFT_blackbriar_mead_desc: ""
+RFT_diplomat_abroad: "Diplomats Abroad"
+RFT_diplomat_abroad_desc: ""
+RFT_dunmeri_guests: "Dunmeri Guests"
+RFT_dunmeri_guests_desc: "We welcome all Dunmer guests into our hold, many of which seek their fortune or favor from the Jarl."
+RFT_Dawnguard: "The Dawnguard"
+RFT_Dawnguard_desc: "The recently established Order of Vampire Hunters gains funding from Riften in exchange for discipline advice."
 
 #########################
 #HIGH ROCK IDEAS	#
@@ -138,14 +213,9 @@ SHR_crown_city_of_the_north_desc: "Shornhelm has been called The Crown City Of T
 SHR_house_ravenwatch: "House Ravenwatch"
 SHR_house_ravenwatch_desc: "House Ravenwatch is one of the vassals of the crown of Shornhelm. A house consisting of members from all different races, the members of this house follow an arbitrairy code."
 
-
-
-
-
-
- ##############################
- # VALENWOOD IDEAS            #
- ##############################
+##############################
+# VALENWOOD IDEAS            #
+##############################
 
  #TEMPLATE
  TEMPLATE_ideas: "TEMPLATE Ideas"
