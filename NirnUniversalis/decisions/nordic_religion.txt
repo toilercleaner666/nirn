@@ -13,9 +13,8 @@ country_decisions = {
 		}
 		effect = {
 			add_dip_power = -200
-			add_country_modifier = {
+			add_ruler_modifier = {
 				name = "proclaim_ruler_ysmir"
-				duration = 5475
 			}
 			
 		}

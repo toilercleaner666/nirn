@@ -24,8 +24,9 @@ capital = 28
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = benevolent_personality
-			add_ruler_modifier = {
-		name = eastskyrim_empire
+	add_ruler_personality = babbling_buffoon_personality
+	add_ruler_modifier = {
+		name = westskyrim_empire
 	}
 }
 

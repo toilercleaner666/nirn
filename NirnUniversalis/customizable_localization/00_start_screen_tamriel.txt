@@ -1,4 +1,6 @@
-#The Actual Title at the very top of the screen
+#===============================================#
+#The Actual Title at the very top of the screen #
+#===============================================#
 #LEAVE THIS ONE ALONE
 defined_text = {
     name = StartScreenTitle
@@ -24,7 +26,11 @@ defined_text = {
         }
     }
 }
-#The little title below the big title
+#======================================#
+##The little title below the big title #
+#======================================#
+
+#EX: "The Nords of Skyrim"
 defined_text = {
     name = StartScreenUpLeftTitle
 	random = no #Pick first that fits
@@ -32,11 +38,17 @@ defined_text = {
 	text = {
         localisation_key = string_start_title_haafingar
         trigger = {
-			tag = SOL
+			capital_scope = {
+			superregion = skyrim_superregion
+			is_core = ROOT
+			}
 		}
     }
 }
-#The Little Writing Blurb
+#==================#
+#The Writing Blurb #
+#==================#
+#EX: The Kingdom of Skyrim is no more!
 defined_text = {
     name = StartScreenUpLeftDesc
 	random = no
@@ -44,14 +56,18 @@ defined_text = {
 text = { #France
 		localisation_key = string_start_haafingar
 		trigger = {
-			tag = SOL
-			NOT = { is_year = 1448 }
+			capital_scope = {
+			superregion = skyrim_superregion
+			is_core = ROOT
+			}
 		}
 	}
 
 }
+#==================#
+# THE RELIGION TAB #
+#==================#
 
-#THE RELIGION TAB
 defined_text = {
     name = StartScreenUpRightTitle
 	random = no
@@ -70,7 +86,6 @@ defined_text = {
     }
 }
 
-}
 defined_text = {
     name = StartScreenUpRightDesc
 	random = no

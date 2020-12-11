@@ -71,6 +71,7 @@ haafingar_skyrim_region = {
 		arch_of_solitude_area
 		northern_haafingar_area
 		dragon_bridge_area
+		karth_delta_area
 	}
 }
 
@@ -98,7 +99,6 @@ hjaalmarch_skyrim_region = {
 		hjaal_bog_area
 		morthal_area
 		hjaal_pass_area
-		karth_delta_area
 		snowhawk_swamps_area
 		southern_hjaalmarch_area
 	}

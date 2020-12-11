@@ -133,6 +133,25 @@ RFT_dunmeri_guests_desc: "We welcome all Dunmer guests into our hold, many of wh
 RFT_Dawnguard: "The Dawnguard"
 RFT_Dawnguard_desc: "The recently established Order of Vampire Hunters gains funding from Riften in exchange for discipline advice."
 
+#Windhelm
+WND_ideas: "Eastermarch Ideas"
+WND_ideas_start: "Windhelm Traditions"
+WND_ideas_bonus: "Windhelm Ambitions"
+WND_Efficient_Taxation: "Efficient Taxation"
+WND_Efficient_Taxation_desc: "War is expensive. If we wish to fund our rightful reconquest of Skyrim we will need to become better at collecting our taxes."
+WND_belongs_to_Nords: "Skyrim belongs to the Nords!"
+WND_belongs_to_Nords_desc: "By our blood and steel was the Fatherland conquered and by our blood and steel shall it be defended."
+WND_Palace_Kings: "The Palace of Kings"
+WND_Palace_Kings_desc: "Built by Ysgramor himself, our glorious seat of government inspires awe in all who visit."
+WND_Reunite_Holds: "Reunite the Holds"
+WND_Reunite_Holds_desc: "We must make the other Jarls understand that our rise 
+WND_Season_Unending: "Season Unending"
+WND_Season_Unending_desc: ""
+WND_navy: "Lonely Gale Navy"
+WND_navy_desc: ""
+WND_religion: "The Faithful of Windhelm"
+WND_religion_desc: "Windhelm has a reputation for piety and honesty."
+
 #########################
 #HIGH ROCK IDEAS	#
 #########################

@@ -191,6 +191,48 @@ FAL_ideas = {
 
 #EAST SKYRIM
 ############
+# Windhelm #
+############
+WND_ideas = {
+	start = {
+		land_maintenance_modifier = -0.05
+		global_manpower_modifier = 0.33
+	}
+	bonus = {
+		development_cost = -.05
+		}
+	trigger = {
+		TAG = WND
+	}
+	free = yes		#will be added at load.
+
+	WND_Efficient_Taxation = {
+		global_tax_modifier = 0.10
+	}
+	WND_belongs_to_Nords = {
+		land_morale = 0.20
+	}
+	WND_Palace_Kings = {
+		prestige = 1
+	}
+	WND_Reunite_Holds = {
+		num_accepted_cultures = 2
+		global_autonomy = -0.10
+	}	
+	WND_Season_Unending = {
+		war_exhaustion = -0.10
+	}
+	WND_navy ={
+		heavy_ship_power = 0.1
+		ship_durability = 0.1
+	}	
+	WND_religion = {
+		tolerance_own = 2
+		yearly_corruption = -0.1
+	}
+}
+
+############
 #Winterhold#
 ############
 WNH_ideas = {

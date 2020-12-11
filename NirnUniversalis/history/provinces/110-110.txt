@@ -2,7 +2,7 @@
 
 
 
-culture = dragonbridger
+culture = karth
 religion =  old_gods_rel
 hre = no
 base_tax = 1

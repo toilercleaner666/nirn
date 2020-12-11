@@ -42,6 +42,8 @@ categories =  {
 		nation_designer_cost_multiplier = 0.75
 		
 		terrain_override = {
+		#Skyrim
+		
 		}
 	}
 
@@ -58,8 +60,11 @@ categories =  {
 		nation_designer_cost_multiplier = 1.05
 		
 		terrain_override = {
-                 #High Rock
-                   273 247 216 212 215 214 190 182 189 172 170
+            #High Rock
+            273 247 216 212 215 214 190 182 189 172 170
+			
+			#Skyrim
+			60 86 89 94 115 119 122 121 128 120 129 127
 
 		}		
 	}
@@ -77,8 +82,10 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9
 		
 		terrain_override = {
-			High Rock 
-                      274 271 269 250 249 262 218 217 204
+			#High Rock 
+            274 271 269 250 249 262 218 217 204
+			#Skyrim
+			35 26 27 88 87 135 136 141 142 132 137 139 144
 		}                                      
 	}
 	
@@ -102,8 +109,13 @@ categories =  {
 			#Northern Valenwood
 			1564 1563
 
-                        #High Rock 
-                       230
+            #High Rock 
+            230
+			
+			#Skyrim
+			14 15 16 17 18 22 19 48 90
+			74 84 95 103 105 106 107 110 113 114 115 
+			118 993 992 72 71 30 55 28 82 130 29 38 
 		}
 	}
 
@@ -121,8 +133,12 @@ categories =  {
 		supply_limit = 6
 		
 		terrain_override = {
-                 #High Rock
-                 4272 233 220 227 202 237
+             #High Rock
+             4272 233 220 227 202 237
+			 
+			 #Skyrim
+			 61 62 63 75 81 80 79 78 76 77 64
+			 
 		}
 	}
 	
@@ -142,6 +158,8 @@ categories =  {
 		terrain_override = {
 			#Grahtwood
 			3047
+			#Skyrim
+			21 25 34 36 85 991 138 102 111 112 126 116
 		}
 	}
 
@@ -178,6 +196,9 @@ categories =  {
 
 			#Northern Valenwood
 			1618 1617 1615 1616
+			
+			#Skyrim
+			69 70 96 124 125 109 24
 		}
 	}
 
@@ -227,8 +248,11 @@ categories =  {
 			#Malabal Tor
 			1646
 
-                         #High Rock
-                           179 175 167 152 148 227 228
+            #High Rock
+            179 175 167 152 148 227 228
+			
+			#Skyrim
+			41 42 43 44 45 46 47 99
 		}
 	}
 
@@ -333,8 +357,11 @@ categories =  {
 			#Malabal Tor
 			1644
 
-                        #High Rock
-                        258 277 4281 275 510
+            #High Rock
+            258 277 4281 275 510
+			
+			#Skyrim
+			992 40 39 31 23
 		}
 	}	
 	
@@ -373,8 +400,12 @@ categories =  {
 			#Grahtwood
 			1543 1544 1661 1551 1549 1552 1550 1554
 
-                        #High Rock
-                        149 145 150 156 246 229 236 232 163 173 221 219 
+            #High Rock
+            149 145 150 156 246 229 236 232 163 173 221 219 
+			
+			#Skyrim
+			118 114 
+			
 		}
 	}
 
@@ -404,6 +435,8 @@ categories =  {
 		supply_limit = 6
 		
 		terrain_override = {
+		#Skyrim
+		
 		}	
 	}	
 }
