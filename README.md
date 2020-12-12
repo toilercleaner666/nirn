@@ -27,6 +27,13 @@ We post regular updates on our subreddit: https://www.reddit.com/r/nirnuniversal
 + Advisor Portraits
 + Localization
 
+## Repository structure:
++ NirnUniversalis: Folder containing mod files, which is copied over to /mod
++ Scripts and Programs: Auxiliary scripts for easier file manipulation/generation
+	+ data: files used as script input, such as .csv files for province development
+	+ out: where the script output files are generated for bash/python scripts
++ Maps and pdn files: Folder containing various maps used in the mod development
+
 ## Nirn Universalis contribution guidelines:
 
 Feel free to contribute to our mod! Read on if you know how GitHub works, otherwise go check out the introduction section below this first.
