@@ -1,65 +1,113 @@
-﻿l_english:
+l_english:
+ ###################################
+ # DIVINES RELIGIONS               #
+ ###################################
+ divines_group: "Divines"
+ divines_group_desc: "A group of religions that worship a set of deities that exist universally across cultures and regions."
 
-divines_group: "Divines"
-divines_group_desc: "very cool religion"
+ eight_divines_rel: "Eight Divines"
+ eight_divines_rel_religion_desc: "The Eight Divines as an official religion was instituted by Alessia upon her slave revolt against the Ayleids. She is said to have consciously made a synthesis of Ayleid and Nordic gods, in order to appease both her Nord allies and the Cyrods and Ayleids she now ruled. Perhaps coincidentally, the eight Aedra Alessia chose are those Aedra said to have been most active in the creation of the world. When the et'ada realized what Lorkhan had done, and how their divinity was being drained to create Nirn, most of them objected or withdrew. The eight Aedra that make up the divines, however, willingly gave of themselves to complete the act of creation, and are therefore seen as benevolent, in contrast to the more aloof merish deities."
 
-eight_divines_rel: "Eight Divines"
-eight_divines_rel_religion_desc: "The Eight Divines as an official religion was instituted by Alessia upon her slave revolt against the Ayleids. She is said to have consciously made a synthesis of Ayleid and Nordic gods, in order to appease both her Nord allies and the Cyrods and Ayleids she now ruled. Perhaps coincidentally, the eight Aedra Alessia chose are those Aedra said to have been most active in the creation of the world. When the et'ada realized what Lorkhan had done, and how their divinity was being drained to create Nirn, most of them objected or withdrew. The eight Aedra that make up the divines, however, willingly gave of themselves to complete the act of creation, and are therefore seen as benevolent, in contrast to the more aloof merish deities."
+ nine_divines_rel: "Nine Divines"
+ nine_divines_rel_religion_desc: "by the nine divines"
+ 
+ icon_akatosh: "Akatosh"
+ icon_arkay: "Arkay"
+ icon_dibella: "Dibella"
+ icon_julianos: "Julianos"
+ icon_kynareth: "Kynareth"
+ icon_mara: "Mara"
+ icon_stendarr: "Stendarr"
+ icon_zenithar: "Zenithar"
+ icon_talos: "Talos"
+ 
+ ###################################
+ # NORDIC RELIGION                 #
+ ###################################
 
-nine_divines_rel: "Nine Divines"
-nine_divines_rel_religion_desc: "by the nine divines"
+ nord_religion: "Nordic Pantheon"
+ nord_religion_religion_desc: "The Nordic Pantheon is the traditional faith of the Nordic people. It is descended from the Atmoran settlers of the Merethic Age"
 
-nord_religion: "Nordic Pantheon"
-nord_religion_religion_desc: "The Nordic Pantheon is the traditional faith of the Nordic people. It is descended from the Atmoran settlers of the Merethic Age"
+ #Nordic Pantheon
+ icon_tsun: "Tsun"
+ icon_stuhn: "Stuhn"
+ icon_shor: "Shor"
+ icon_orkey: "Orkey"
+ icon_kyne: "Kyne"
+ icon_alduin: "Alduin"
+ 
+ ###################################
+ # OLD GODS (REACH)                #
+ ###################################
+ 
+ old_gods_rel: "Old Gods"
+ old_gods_rel_desc: "The traditional faith of the Witchmen of the Reach"
 
-old_gods_rel: "Old Gods"
-old_gods_rel_desc: "The traditional faith of the Witchmen of the Reach"
+ ###################################
+ # DRAGON RELIGIONS                #
+ ###################################
+ 
+ dragon_group: "Dragon Religions"
+ dragon_cult: "Dragon cult"
+ dragon_cult_religion_desc: "Dragon Cult is a religion based on worshipping dragons"
+ akatosh: "Akatosh"
+ akatosh_desc: "Akatosh, the Dragon God of Time, is the chief deity of the Divines, the official religion of the human empires throughout much of Tamriel's history. He represents the qualities of endurance, invincibility, and everlasting legitimacy"
+ alduin: "Alduin"
+ alduin_desc: "Alduin, the World Eater, is a mighty dragon who ruled over Skyrim during the Merethic Era. Worshipped as a god-king by the ancient Nords through the Dragon Cult, Alduin is sometimes considered the "wellspring" of the Nordic pantheon, as well as the harbinger of the apocalypse, and is believed to have a pivotal role in the reshaping of the world."
+ dragonborn: "Dragonborn"
+ dragonborn_desc: "A Dragonborn, Dovahkiin, which can mean both "dragon-born" and "dragonkind-hunter-born"), is a rare individual who has been born with the blood and soul of a dragon, but the body of a mortal. They can naturally learn and speak the ancient and powerful tongue of the Dov, called the Thu'um."
+ dragon_priest: "Dragonpriest"
+ dragon_priest_desc: "Dragon Priests, Dragon-Priest are powerful undead. Thousands of years ago, these priests ruled over Skyrim at the behest of their Dragon overlords. In their service, many of these dragon priests were granted extraordinary powers and knowledge in arcana, and some of them managed to reach lichdom to evade their own demise."
+ miraak: "Miraak"
+ miraak_desc: "Miraak is the First Dragonborn, although that term would not become used until after the time of St. Alessia, the first Dragonborn recorded in history. He ruled over the island of Solstheim, where a large temple was dedicated to him."
 
-icon_akatosh: "Akatosh"
-icon_arkay: "Arkay"
-icon_dibella: "Dibella"
-icon_julianos: "Julianos"
-icon_kynareth: "Kynareth"
-icon_mara: "Mara"
-icon_stendarr: "Stendarr"
-icon_zenithar: "Zenithar"
-icon_talos: "Talos"
+ ###################################
+ # KHAJIIT RELIGIONS               #
+ ###################################
+ 
+ khajiit_group: "Khajiit Religions"
+ riddle_thar: "Riddle'Thar"
+ riddle_thar_religion_desc: "A monomythic society, the Khajiit are led in their beliefs by mysterious figures known as "Clan Mothers", whose duty it is to disseminate the cultural myths among their kind, and who maintain autonomy from the Mane and the disparate tribal leaders. On the origin of their species, the Khajiit believe that life originated with two litter-mates, Ahnurr and Fadomai, who gave birth to the first cat, Alkosh. To Alkosh was given the guardianship of time, and whose birth prompted Ahnurr and Fadomai to bring forth further life into the world"
 
-#Nordic Pantheon
-icon_tsun: "Tsun"
-icon_stuhn: "Stuhn"
-icon_shor: "Shor"
-icon_orkey: "Orkey"
-icon_kyne: "Kyne"
-icon_alduin: "Alduin"
+ ###################################
+ # ARGONIAN RELIGIONS              #
+ ###################################
+ 
+ hist_group: "Argonian Religions"
+ hist_rel: "Hist"
+ hist_rel_religion_desc: "Except for the more deeply assimilated, the Argonians do not formally recognize or worship any type of Tamrielic deity.[58] Some believe that they worship their creators, the Hist, although Argonians themselves state that they only perform rituals in their honor instead of fully worshipping them. The Argonians also revere Sithis, a being that even the Hist acknowledges."
 
+ ###################################
+ # DAEDRIC CULTS                   #
+ ###################################
+ 
+ daedra_religion_group: "Daedric Religions"
+ daedra_cult_rel: "Daedra Worship"
 
-dragon_group: "Dragon Religions"
-dragon_cult: "Dragon cult"
-dragon_cult_religion_desc: "Dragon Cult is a religion based on worshipping dragons"
-akatosh: "Akatosh"
-akatosh_desc: "Akatosh, the Dragon God of Time, is the chief deity of the Divines, the official religion of the human empires throughout much of Tamriel's history. He represents the qualities of endurance, invincibility, and everlasting legitimacy"
-alduin: "Alduin"
-alduin_desc: "Alduin, the World Eater, is a mighty dragon who ruled over Skyrim during the Merethic Era. Worshipped as a god-king by the ancient Nords through the Dragon Cult, Alduin is sometimes considered the "wellspring" of the Nordic pantheon, as well as the harbinger of the apocalypse, and is believed to have a pivotal role in the reshaping of the world."
-dragonborn: "Dragonborn"
-dragonborn_desc: "A Dragonborn, Dovahkiin, which can mean both "dragon-born" and "dragonkind-hunter-born"), is a rare individual who has been born with the blood and soul of a dragon, but the body of a mortal. They can naturally learn and speak the ancient and powerful tongue of the Dov, called the Thu'um."
-dragon_priest: "Dragonpriest"
-dragon_priest_desc: "Dragon Priests, Dragon-Priest are powerful undead. Thousands of years ago, these priests ruled over Skyrim at the behest of their Dragon overlords. In their service, many of these dragon priests were granted extraordinary powers and knowledge in arcana, and some of them managed to reach lichdom to evade their own demise."
-miraak: "Miraak"
-miraak_desc: "Miraak is the First Dragonborn, although that term would not become used until after the time of St. Alessia, the first Dragonborn recorded in history. He ruled over the island of Solstheim, where a large temple was dedicated to him."
+ ###################################
+ # BOSMER RELIGIONS                #
+ ###################################
+ 
+ #Names
+ bosmer_religious_group: "Bosmer Religions"
+ green_pact_religion: "Green Pact"
+ bosmer_religion: "Bosmeri Pantheon"
+ wilderking_religion: "Wilderking"
+ green_pact_religion_desc: "Bosmer of Valenwood, ages past, made a pact with the Green through Yffre, and it has guided their existance since the dawn of their Great Story. Most true Bosmer adhere to its rules: do not harm the forests, do not eat plant life but only meat, eat the meat of conquered enemies and do not let it go to waste, do not kill wastefully, do not take the shape of beasts. Adhering to this pact grants the bosmer the Patronage and Protection of Yffre, allowing them to grow thier Cities in Trees, and granting them the powers of the Wild Hunt, which they can use in defence of the Green."
+ 
+ #Green Pact Localization
+ blessing_of_yffre: "Blessing of Yffre"
+ blessing_of_auriel: "Blessing of Auri-El"
+ blessing_of_arkay: "Blessing of Arkay"
+ blessing_of_mara: "Blessing of Mara"
+ blessing_of_xarxes: "Blessing of Xarxes"
+ blessing_of_stendarr: "Blessing of Stendarr"
+ blessing_of_hircine: "Blessing of Hircine"
+ forgiveness_for_pact_violations: "Forgiveness for Pact Violations"
 
-alinor_religion: "Auri-El"
-alinor_religion_religion_desc: "The Altmeri pantheon venerates eight key deities, led by Auri-El, who many scholars equate with Akatosh. However, others consider Akatosh a distinct deity within the Altmeri pantheon."
-khajiit_group: "Khajiit Religions"
-riddle_thar: "Riddle'Thar"
-riddle_thar_religion_desc: "A monomythic society, the Khajiit are led in their beliefs by mysterious figures known as "Clan Mothers", whose duty it is to disseminate the cultural myths among their kind, and who maintain autonomy from the Mane and the disparate tribal leaders. On the origin of their species, the Khajiit believe that life originated with two litter-mates, Ahnurr and Fadomai, who gave birth to the first cat, Alkosh. To Alkosh was given the guardianship of time, and whose birth prompted Ahnurr and Fadomai to bring forth further life into the world"
-
-hist_group: "Argonian Religions"
-hist_rel: "Hist"
-hist_rel_religion_desc: "Except for the more deeply assimilated, the Argonians do not formally recognize or worship any type of Tamrielic deity.[58] Some believe that they worship their creators, the Hist, although Argonians themselves state that they only perform rituals in their honor instead of fully worshipping them. The Argonians also revere Sithis, a being that even the Hist acknowledges."
-
-daedra_religion_group: "Daedric Religions"
-daedra_cult_rel: "Daedra Worship"
-
-#altmer Religions
-auri_el_rel: "Auri-El"
+ ###################################
+ # ALTMER RELIGIONS                #
+ ###################################
+ auri_el_rel: "Auri-El"
+ alinor_religion: "Auri-El"
+ alinor_religion_religion_desc: "The Altmeri pantheon venerates eight key deities, led by Auri-El, who many scholars equate with Akatosh. However, others consider Akatosh a distinct deity within the Altmeri pantheon."
