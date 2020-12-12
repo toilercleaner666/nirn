@@ -5,10 +5,10 @@
 culture = Menevian
 religion = eight_divines_rel
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 13
+base_production = 9
 trade_goods = copper
-base_manpower = 1
+base_manpower = 10
 capital = "Wayrest"
 is_city = yes
 add_core = WAY owner = WAY controller = WAY

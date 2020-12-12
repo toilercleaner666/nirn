@@ -1,0 +1,94 @@
+#===============================================#
+#The Actual Title at the very top of the screen #
+#===============================================#
+#LEAVE THIS ONE ALONE
+defined_text = {
+    name = StartScreenTitle
+	random = no
+	
+	text = {
+		
+        localisation_key = string_screen_title_plural
+        trigger = {
+			tag_with_plural_name_trigger = yes
+        }
+    }
+    text = {
+        localisation_key = string_screen_title_papacy
+        trigger = {
+			tag = PAP
+        }
+    }
+    text = {
+        localisation_key = string_screen_title
+        trigger = {
+			always = yes
+        }
+    }
+}
+#======================================#
+##The little title below the big title #
+#======================================#
+
+#EX: "The Nords of Skyrim"
+defined_text = {
+    name = StartScreenUpLeftTitle
+	random = no #Pick first that fits
+
+	text = {
+        localisation_key = string_start_title_haafingar
+        trigger = {
+			capital_scope = {
+			superregion = skyrim_superregion
+			is_core = ROOT
+			}
+		}
+    }
+}
+#==================#
+#The Writing Blurb #
+#==================#
+#EX: The Kingdom of Skyrim is no more!
+defined_text = {
+    name = StartScreenUpLeftDesc
+	random = no
+	
+text = { #France
+		localisation_key = string_start_haafingar
+		trigger = {
+			capital_scope = {
+			superregion = skyrim_superregion
+			is_core = ROOT
+			}
+		}
+	}
+
+}
+#==================#
+# THE RELIGION TAB #
+#==================#
+
+defined_text = {
+    name = StartScreenUpRightTitle
+	random = no
+	
+	text = {
+        localisation_key = string_start_religion_mechanic_title_plural
+        trigger = {
+			tag_with_plural_name_trigger = yes
+        }
+    }
+    text = {
+        localisation_key = string_start_religion_mechanic_title
+        trigger = {
+			always = yes
+        }
+    }
+}
+
+defined_text = {
+    name = StartScreenUpRightDesc
+	random = no
+	
+
+}

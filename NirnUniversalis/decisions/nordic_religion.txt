@@ -1,0 +1,26 @@
+country_decisions = {
+	
+	proclaim_ruler_ysmir = {
+		potential = {
+			religion = nord_religion
+
+		}
+		allow = {
+			stability = 3
+			dip_power = 200
+			prestige > 50
+			legitimacy > 90
+		}
+		effect = {
+			add_dip_power = -200
+			add_ruler_modifier = {
+				name = "proclaim_ruler_ysmir"
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

@@ -99,7 +99,7 @@ greenspring_area = { 1409 1410 1411 1413
 
 }
 
-glenbridge_area = { 1385 1386 1423 3425
+glenbridge_area = { 1385 1386 1423
 
 }
 
@@ -361,7 +361,7 @@ northern_haafingar_area = {
 }
 
 dragon_bridge_area = {
-	74 101 102 103
+	74 102 103
 }
 
 karthwasten_area = {
@@ -381,7 +381,7 @@ central_reach_area = {
 }
 
 granite_cliffs_area = {
-	120 123 126
+	126 120 116
 }
 
 hjaal_bog_area = {
@@ -397,15 +397,15 @@ hjaal_pass_area = {
 }
 
 karth_delta_area = {
-	45 46 106 105
+	104 109 108 107 101 
 }
 
 snowhawk_swamps_area= {
-	104 109 108 107
+	45 46 106 105 
 }
 
 southern_hjaalmarch_area = {
-	116 117 100
+	100 107 117
 }
 
 dawnstar_port_area= {
@@ -437,7 +437,7 @@ anthor_pass_area = {
 }
 
 rorikstead_area = {
-	124 97 125
+	97 125 124 123
 }
 
 whiterun_area = {
@@ -3425,7 +3425,7 @@ western_mer_sea_area = {
 }
 
 southern_padomaeic_ocean_1_area = {
-	3424 3434 3433 3428 3262 3261 4837
+	3424 3434 3433 3425 3428 3262 3261
 }
 
 southern_padomaeic_ocean_2_area = {

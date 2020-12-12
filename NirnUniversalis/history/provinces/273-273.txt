@@ -5,7 +5,7 @@
 culture = Daggerian
 religion = eight_divines_rel
 hre = no
-base_tax = 9
+base_tax = 10
 base_production = 9
 trade_goods = copper
 base_manpower = 9

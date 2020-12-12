@@ -3,9 +3,9 @@
 
 
 culture = western_reachmen
-religion = eight_divines_rel
+religion = old_gods_rel
 hre = no
-base_tax = 1
+base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 1

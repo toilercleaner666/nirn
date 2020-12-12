@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = western_reachmen
-religion = eight_divines_rel
+religion = old_gods_rel
 technology_group = western
 capital = 159
 

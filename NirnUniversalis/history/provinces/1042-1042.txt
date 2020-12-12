@@ -2,16 +2,18 @@
 
 
 
-culture = Colovian
-religion = eight_divines_rel
+add_core = LLD 
+owner = LLD 
+controller = LLD 
+culture = lillandrilian
+religion = auri_el_rel
 hre = no
 base_tax = 8
 base_production = 8
 trade_goods = copper
 base_manpower = 6
-capital = "Penryn"
+capital = "Lillandril"
 is_city = yes
-add_core = AAA owner = AAA controller = AAA
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

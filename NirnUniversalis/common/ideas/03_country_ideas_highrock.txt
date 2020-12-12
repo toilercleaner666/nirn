@@ -1,0 +1,163 @@
+
+
+DNI_ideas = {
+	#Direnni
+	start = {
+		infantry_power = 0.1
+		prestige = 2
+	}
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = DNI
+	}
+	free = yes
+
+	DNI_elven_perseverance = {
+		land_morale = 0.1
+	}
+	DNI_reeducate_the_masses = {
+		global_missionary_strength = 0.02
+	}
+	DNI_reintergrating_lost_lands = {
+		core_creation = -0.2
+	}
+	DNI_rulers_of_illiac_bay = {
+	naval_forcelimit_modifier = 0.1
+        leader_naval_shock = 1
+	}
+	DNI_legacy_of_clan_direnni = {
+		diplomatic_reputation = 2
+	}
+	DNI_rightful_rulers = {
+		legitimacy = 1
+	}
+	DNI_expand_the_hegemony = {
+		governing_capacity_modifier = 0.1
+	}
+}
+
+WAY_ideas = {
+	#Wayrest
+	start = {
+	global_tax_modifier = 0.1
+        merchants = 1
+	}
+	bonus = {
+		global_manpower_modifier = 0.15
+	}
+
+	trigger = {
+		tag = WAY
+	}
+	free = yes
+
+	WAY_walls_of_wayrest = {
+		garrison_size = 0.1
+		fort_maintenance_modifier = fort_maintenance_modifier = -0.1
+	}
+        WAY_lionguard = {
+			infantry_power = 0.1
+	}
+	WAY_one_land_one_emperor = {
+		imperial_authority = 0.1
+		diplomatic_reputation = 1
+	}
+	WAY_gates_of_highrock = {
+        trade_efficiency = 0.1
+	}
+	WAY_experienced_diplomats = {
+		improve_relation_modifier = 0.2
+	}
+	WAY_guardians_of_stormhaven = {
+		global_trade_power = 0.1
+		galley_power = 0.1
+	}
+	WAY_fishing_heritage = {
+		global_sailors_modifier = 0.2
+	}
+}
+
+DGF_ideas = {
+	#Daggerfall
+	start = {
+diplomatic_upkeep = 1
+reduced_liberty_desire = 15
+
+	}
+	bonus = {
+	prestige = 2
+	}
+
+	trigger = {
+		tag = DGF
+	}
+	free = yes
+
+	DGF_knight_of_the_dragon = {
+	 leader_land_shock = 2
+	}
+  DGF_capital_of_glenumbra = {
+	development_cost = -0.1
+	}
+	DGF_traders_first = {
+	merchants = 1
+	global_trade_power = 0.1
+	}
+	DGF_quest_obsession = {
+  advisor_pool = 2
+	}
+	DGF_nordic_roots = {
+  discipline = 0.05
+	}
+	DGF_banking_industry = {
+  global_tax_modifier = 0.15
+	}
+	DGF_strong_militairy_presence = {
+	global_unrest = -2
+	}
+}
+
+SHR_ideas = {
+	#Shornhelm
+	start = {
+	cavalry_cost = -0.20
+	land_forcelimit_modifier = 0.10
+
+	}
+	bonus = {
+	diplomatic_reputation = 1
+	}
+
+	trigger = {
+		tag = SHR
+	}
+	free = yes
+
+	SHR_charge_of_the_shornhelm_knights = {
+	cavalry_power = 0.20
+	}
+  SHR_council_of_the_north = {
+	legitimacy = 1
+  republican_tradition = 1
+	}
+	SHR_champions_of_shornhelm = {
+	infantry_power = 0.10
+	}
+	SHR_house_tamrith = {
+  tolerance_own = 1
+	}
+	SHR_legacy_of_house_montclair = {
+  ae_impact = -0.1
+	}
+	SHR_crown_city_of_the_north = {
+	prestige = 1
+  technology_cost = -0.1
+	}
+	SHR_house_ravenwatch = {
+	spy_offence = 0.3
+  fabricate_claims_cost = -0.2
+	}
+}

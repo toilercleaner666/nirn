@@ -29,7 +29,7 @@ country_decisions = {
 			adm_tech = 10
 			is_free_or_tributary_trigger = yes
 			is_at_war = no
-			num_of_cities = 25
+			num_of_cities = 50
 			NOT = { exists = SKY }
 			owns_core_province = 14
 			owns_core_province= 28

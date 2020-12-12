@@ -2,8 +2,8 @@
 
 
 
-culture = dragonbridger
-religion = eight_divines_rel
+culture = karth
+religion =  old_gods_rel
 hre = no
 base_tax = 1
 base_production = 1

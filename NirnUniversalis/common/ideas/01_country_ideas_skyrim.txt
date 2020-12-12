@@ -1,0 +1,430 @@
+#WEST SKYRIM
+
+############
+#Haafingar #
+############
+SOL_ideas = {
+	start = {
+		diplomatic_reputation = 1
+		diplomatic_annexation_cost = -0.15
+	}
+	bonus = {
+		discipline = 0.05
+	}
+	trigger = {
+		tag = SOL
+	}
+	free = yes
+	
+	SOL_Haafingar_banking = {
+		interest = -0.15 
+		burghers_loyalty_modifier = 0.15
+	}
+	
+	SOL_Imperial_advisors = {
+		advisor_cost = -0.15
+	}
+	
+	SOL_Master_New_Holds = {
+		administrative_efficiency = 0.25
+	}
+		
+	SOL_Docks = {
+		global_sailors_modifier = 0.1
+		naval_morale = 0.1
+	}
+	
+	SOL_Bards_College = {
+		Prestige = 1
+	}
+	SOL_flexible_administration = {
+		reform_progress_growth = 0.15
+	}
+		
+	SOL_Blue_Palace = {
+		improve_relation_modifier = 0.33
+	}
+	
+}
+
+##########
+#Morthal #
+##########
+MOR_ideas = {
+	start = {
+
+	}
+	bonus = {
+
+	}
+	trigger = {
+		tag = MOR
+	}
+	free = yes
+	
+	MOR_me_swamp = {
+
+	}
+	
+	MOR_like_onions = {
+		advisor_cost = -0.15
+	}
+	
+	MOR_run = {
+		administrative_efficiency = 0.25
+	}
+		
+	MOR_some_die = {
+		global_sailors_modifier = 0.1
+		naval_morale = 0.1
+	}
+	
+	MOR_Bards_College = {
+		Prestige = 1
+	}
+	MOR_flexible_administration = {
+		reform_progress_growth = 0.15
+	}
+		
+	MOR_no_one_cares = {
+		improve_relation_modifier = 0.33
+	}
+	
+}
+
+###########
+#Whiterun #
+###########
+WHR_ideas = {
+	start = {
+		global_own_trade_power = 0.15
+		global_tax_modifier = 0.15
+	}
+	bonus = {
+		land_morale = 0.10
+	}
+	trigger = {
+		tag = WHR
+	}
+	free = yes
+	
+	WHR_meadery = {
+		global_unrest = -2
+	}
+	
+	sky_the_companions = {
+		merc_maintenance_modifier = -0.15
+		mercenary_discipline = 0.1
+	}
+	
+	WHR_trading_hub = {
+		production_efficiency = 0.15
+	}
+		
+	WHR_kynareth = {
+		tolerance_own = 1
+	}
+	
+	WHR_riders_of_whiterun = {
+		cavalry_power = 0.10
+	}
+		
+	WHR_dragonsreach = {
+		legitimacy = 1
+	}
+	
+	WHR_skyforge = {
+		infantry_cost = -0.10
+		cavalry_cost = -0.10
+	}
+	
+}
+
+############
+# Falkreth #
+############
+FAL_ideas = {
+	start = {
+		may_recruit_female_generals = yes
+		caravan_power = 0.15
+	}
+	bonus = {
+		placed_merchant_power = 3
+	}
+	
+	trigger = {
+		tag = FAL
+	}
+	free = yes		#will be added at load.
+
+	FAL_great_graveyard = {
+		tolerance_heretic = 2
+	}
+	
+	FAL_guardian_of_pass = {
+		fort_maintenance_modifier = -0.15
+		garrison_size = 0.1
+	}
+	
+	FAL_lake_illita = {
+		global_unrest = -2
+	}
+	
+	FAL_competition_with_whiterun = {
+		global_prov_trade_power_modifier = 0.1
+		global_trade_power = 0.1
+	}
+	
+	FAL_guerilla_warriors = {
+		land_morale = 0.05
+	}
+	
+	FAL_well_negotiated = {
+		improve_relation_modifier = 0.3
+	}
+	
+	FAL_land_of_forrests = {
+		development_cost = -0.1
+	}
+
+}
+
+#EAST SKYRIM
+############
+# Windhelm #
+############
+WND_ideas = {
+	start = {
+		land_maintenance_modifier = -0.05
+		global_manpower_modifier = 0.33
+	}
+	bonus = {
+		development_cost = -.05
+		}
+	trigger = {
+		TAG = WND
+	}
+	free = yes		#will be added at load.
+
+	WND_Efficient_Taxation = {
+		global_tax_modifier = 0.10
+	}
+	WND_belongs_to_Nords = {
+		land_morale = 0.20
+	}
+	WND_Palace_Kings = {
+		prestige = 1
+	}
+	WND_Reunite_Holds = {
+		num_accepted_cultures = 2
+		global_autonomy = -0.10
+	}	
+	WND_Season_Unending = {
+		war_exhaustion = -0.10
+	}
+	WND_navy ={
+		heavy_ship_power = 0.1
+		ship_durability = 0.1
+	}	
+	WND_religion = {
+		tolerance_own = 2
+		yearly_corruption = -0.1
+	}
+}
+
+############
+#Winterhold#
+############
+WNH_ideas = {
+	start = {
+		local_sailors_modifier = 0.1
+		heavy_ship_power = 0.1
+	}
+	bonus = {
+		merchants = 1
+	}
+	trigger = {
+		tag = WNH
+	}
+	
+	free = yes		#will be added at load.
+
+	WNH_Nordic_isolationism = {
+		same_culture_advisor_cost = -0.15
+	}
+	
+	WNH_atmora_pilgrims = {
+		range = 0.33
+		may_explore = yes
+	}
+	
+	WNH_college = {
+		artillery_power = 0.05
+		artillery_cost = -0.05
+	}
+	
+	WNH_Frozen_North = {
+		hostile_attrition = 1
+
+	}
+	
+	WNH_Fish_economy = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	
+	WNH_lessons_saarthal = {
+		land_morale = 0.10
+	}
+	
+	WNH_Settle_Interior = {
+		build_cost = -0.1
+	}
+}
+
+############
+# Dawnstar #
+############
+DNS_ideas = {
+	start = {
+		naval_morale = 0.20
+		heavy_ship_power = 0.15
+	}
+
+	bonus = {
+		navy_tradition = 1
+	}
+	
+	trigger = {
+		tag = DNS
+	}
+	free = yes		#will be added at load.
+
+	DNS_idea_1 = {
+
+	}
+	
+	DNS_idea_2 = {
+
+	}
+	
+	DNS_idea_3 = {
+
+	}
+	
+	DNS_idea_4 = {
+
+	}
+	
+	DNS_idea_5  = {
+
+	}
+	
+	DNS_idea_6  = {
+
+	}
+	
+	DNS_idea_7 = {
+
+	}
+
+}
+
+##########
+# Riften #
+##########
+RFT_ideas = {
+	start = {
+		stability_cost_modifier = -0.15
+		interest = -0.5
+	}
+	bonus = {
+		yearly_corruption = -0.1
+	}
+	
+	trigger = {
+		tag = RFT
+	}
+	free = yes		#will be added at load.
+
+	RFT_thieves_guild = {
+		spy_offence = 0.15
+		global_spy_defence = 0.15
+	}
+	
+	RFT_HonorHall_orphanage = {
+		global_manpower_modifier = 0.15
+	}
+	
+	RFT_gateway_east = {
+		trade_efficiency = 0.1
+	}
+	
+	RFT_blackbriar_mead = {
+		global_unrest = -2
+	}
+	
+	RFT_diplomat_abroad  = {
+		diplomats = 1
+	}
+	
+	RFT_dunmeri_guests  = {
+		advisor_pool = 1
+	}
+	
+	RFT_Dawnguard = {
+		discipline = 0.03
+	}
+
+}
+
+#################
+# Skyrim Empire #
+#################
+SKY_ideas = {
+	start = {
+		manpower_recovery_speed = 0.2
+		local_sailors_modifier = 0.1		
+	}
+
+	bonus = {
+		hostile_attrition = 1
+
+	}
+	
+	trigger = {
+		culture_group = nordic
+	}
+
+	free = yes		#will be added at load.
+
+	sky_legacy_of_ysgramor = {
+		legitimacy = 1
+	}
+
+	sky_barbarians_of_the_north = {
+		land_morale = 0.2
+	}
+
+	sky_the_companions = {
+		merc_maintenance_modifier = -0.15
+		mercenary_discipline = 0.1
+	}
+
+	sky_timber_mills = {
+		production_efficiency = 0.1
+		build_cost = -0.1
+	}
+
+	sky_second_empire_of_the_nords = {
+		core_creation = -0.2
+	}
+	 
+	sky_nordic_steel= {
+		infantry_power = 0.2
+	}
+
+	sky_create_new_jarldoms = {
+		same_culture_advisor_cost = -0.5
+	}
+}
+

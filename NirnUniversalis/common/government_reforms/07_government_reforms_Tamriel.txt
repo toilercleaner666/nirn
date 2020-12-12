@@ -1,0 +1,18 @@
+jarldom_reform = {
+	icon = "castle"
+	allow_normal_conversion = yes
+	potential = {
+		religion_group = divines_religion_group
+	}
+	legacy_equivalent = feudal_monarchy
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	modifiers = {
+		vassal_income = 0.25
+		nobles_influence_modifier = 0.05
+		ae_impact = -0.2
+	}
+	ai = {
+		factor = 0.5 #generic
+	}
+}

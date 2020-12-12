@@ -1,0 +1,131 @@
+########################################
+# Flavor Events for Haafingar/Solitude
+#
+# written by ScienceGu23
+########################################
+
+namespace = flavor_SOL
+
+# High King Svartr of Solitude
+country_event = {
+	id = flavor_SOL.0
+	title = flavor_SOL.0.t
+	desc = flavor_SOL.0.d
+	picture = OVEREXTENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = SOL
+		exists = WND
+		has_ruler = "Svartr"
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = { 
+		name = flavor_SOL.0.a 
+		custom_tooltip = flavor_SOL.0.a.tt
+		
+		hidden_effect = {
+			
+			every_country = {
+				limit = {
+				NOT = { tag = ROOT }
+				OR = {
+					is_subject_of = ROOT
+					religion = old_gods_rel
+				}
+			}
+			country_event = { id = flavor_SOL.4 }
+		}
+	}
+}
+}
+
+# Death of Svartr (TAG = SOL)
+country_event = {
+	id = flavor_SOL.1
+	title = "flavor_SOL.1.t"
+	desc = "flavor_SOL.1.d"
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	trigger = {
+		tag = SOL
+		NOT = { has_global_flag = death_of_Svartr }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = { set_global_flag = death_of_Svartr }
+	
+	option = { 
+		name = "flavor_SOL.1.a" # My time has come!
+		custom_tooltip = flavor_SOL.1.a.tt
+		hidden_effect = {
+			every_country = {
+				limit = {
+					NOT = { tag = ROOT }
+					OR = {
+						is_subject_of = ROOT
+						religion = old_gods_rel
+				}
+			}
+			country_event = { id = flavor_SOL.2 }
+		}
+	}
+	}
+}
+
+# Death of Svartr (Everyone else)
+country_event = {
+	id = flavor_SOL.2
+	title = "flavor_SOL.2.t"
+	desc = "flavor_SOL.2.d"
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "flavor_SOL.2.a" # My time has come!
+		trigger = {religion = nord_religion}
+		custom_tooltip = flavor_SOL.2.a.tt
+	}
+	option = {
+		name = "flavor_SOL.2.b" #
+		trigger = {NOT = {is_subject_of = SOL} }
+		custom_tooltip = flavor_SOL.2.b.tt
+		if = {
+			limit = {
+					capital_scope = {
+						superregion = skyrim_superregion
+						is_core = ROOT
+					}
+			}
+
+		}
+	}
+}
+
+
+# High King Svartr of Solitude (Other nations)
+country_event = {
+	id = flavor_SOL.4
+	title = "flavor_SOL.0.t"
+	desc = "flavor_SOL.0.d"
+	picture = OVEREXTENSION_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = "flavor_SOL.0.a" # My time has come!
+		custom_tooltip = flavor_SOL.0.a.tt
+	}
+}
