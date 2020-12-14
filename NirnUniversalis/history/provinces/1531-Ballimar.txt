@@ -1,17 +1,19 @@
-#1574-1574
+#1531-Ballimar
 
 
-culture = woodorc
-religion = cult_of_malacath
+culture = tarlain
+religion = green_pact_religion
 hre = no
-base_tax = 1
+base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 2
 capital = "Penryn"
 is_city = yes
-add_core = LHC owner = LHC controller = LHC
+add_core = ELD owner = ELD controller = ELD
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+

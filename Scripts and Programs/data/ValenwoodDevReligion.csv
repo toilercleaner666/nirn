@@ -1,150 +1,157 @@
-1519	Brackenleaf	tax	prod	manpower	religion
-1520	Heimdar				
-1521	Haven				
-1522	Fort Eaglemoth				
-1523	Aeval				
-1524	Eagle Vale				
-1525	Brithwood (M)				
-1526	Root Sunder				
-1527	Alithim				
-1528	Karthdar				
-1529	Cormeir				
-1530	Wasten Brukbrook				
-1531	Ballimar				
-1532	Green Hall				
-1533	Elden Root				
-1534	Stonesquare				
-1535	Rekran (M)				
-1536	Long Coast				
-1537	Gray Mire				
-1538	Eplearswood (M)				
-1539	Southpoint				
-1540	Raincross (M)				
-1541	Runcibae				
-1542	Falinesti (Winter)				
-1543	Redrash (M)				
-1544	Tarlain Malex				
-1545	Cormount				
-1546	Tarlain Heights Keep				
-1547	New Joy				
-1548	Malgek (M)				
-1549	Gil-Var-Delle				
-1550	Mossgreen Pike (M)				
-1551	Andhres (M)				
-1552	Rillan (M)				
-1553	Allhearth (M)				
-1554	Goldfolly				
-1555	Selene's Web				
-1556	Fangcrest (M)				
-1557	Lissendran (M)				
-1558	Oakhold Fort (M)				
-1559	Redfur				
-1560	Moonmont Approach				
-1561	Longhaven				
-1562	Falinesti (Autumn)				
-1563	Shaagravine				
-1564	Vulain				
-1565	Elmhearth (M)				
-1566	Grenos				
-1567	Moliva				
-1568	Haserma				
-1569	Dilgras (M)				
-1570	Greenheart				
-1571	Rheli Sul (M)				
-1572	Spinner's Village				
-1573	Bramblebreach				
-1574	1574				
-1575	Gushnukbar				
-1576	Rootwater Grove				
-1577	Driladan Pass				
-1578	Verrant Morass				
-1579	Falinesti (Spring)				
-1580	Odossair				
-1581	Glynneri				
-1582	Dakdran (M)				
-1583	Elden Grove				
-1584	Hectahame				
-1585	Silverpine (M)				
-1586	Shademist Moors				
-1587	Seaside Sanctuary				
-1588	Vulain Haven				
-1589	Rainbrush (M)				
-1590	Rulanyil's Fall				
-1591	Woodhearth				
-1592	Runcibae				
-1593	Castle Hearthfire				
-1594	Ferbrathig (M)				
-1595	Diss				
-1596	Cori Siladha				
-1597	Whisper Grove				
-1598	Mildradash (M)				
-1599	Two Rocks Vale				
-1600	Smokemoor (M)				
-1601	Archen				
-1602	Fort Blackvale				
-1603	Abamath				
-1604	Belarata				
-1605	Jathsogur				
-1606	Vehem				
-1607	Fort Bluewatch				
-1608	Thormar Keep				
-1609	Fort Greenhill				
-1610	Vindisi				
-1611	Arenthia				
-1612	Vullar (M)				
-1613	Fort Grimwatch				
-1614	Willowgrove				
-1615	Senalana				
-1616	Athay				
-1617	Strid Estuary				
-1618	Lalgith (M)				
-1619	Ildrum (M)				
-1620	Vinedusk				
-1621	Meadow Run				
-1622	Thromil				
-1623	Ebon Ro				
-1624	Four Quarry Islet				
-1625	Bloodtoil Valley				
-1626	Valeguard				
-1627	Deepwoods				
-1628	Tanglehaven				
-1629	Shael				
-1630	Silvenar				
-1631	Riel Rehlem				
-1632	Zagrasha (M)				
-1633	Longvale				
-1634	Falinesti (Summer)				
-1635	Tomb of the Apostates				
-1636	Nacdik (M)				
-1637	Strid Basin				
-1638	Baandari				
-1639	Vulkwasten				
-1640	Ogrim's Yawn				
-1641	Wilding Run				
-1642	Vekres (M)				
-1643	Dra'bul				
-1644	Tempest Island				
-1645	Ilayas				
-1646	Black Park				
-1647	Glenpoint				
-1648	Matthild				
-1649	Starwalk				
-1650	Velyn Harbor				
-1651	Virimoor				
-1652	Emperor's Run				
-1653	Con Silmoor				
-1654	Dread Vullain				
-1655	Nilaga				
-1656	Torlen				
-1657	Samsun				
-3047	Treehenge				
-3048	Marbruk Field				
-3049	Wonderrush (M)				
-3050	Marbruk				
-3051	Barkbite Stronghold				
-3052	Ouze				
-3053	Marathorin				
-3054	Reman's Bluff				
-3055	Moonmont				
-3056	Lynpan March				
-3057	Fort Crowfeather				
+Number;Province Name;tax;prod;manpower;religion
+1519;Brackenleaf;2;2;1;green_pact_religion
+1520;Heimdar;2;1;1;green_pact_religion
+1521;Haven;6;9;5;green_pact_religion
+1522;Fort Eaglemoth;2;1;3;green_pact_religion
+1523;Aeval;1;2;2;green_pact_religion
+1524;Eagle Vale;1;1;2;green_pact_religion
+1525;Brithwood (M);1;2;1;green_pact_religion
+1526;Root Sunder;1;1;2;green_pact_religion
+1527;Alithim;2;2;1;green_pact_religion
+1528;Karthdar;3;2;2;green_pact_religion
+1529;Cormeir;2;3;3;green_pact_religion
+1530;Wasten Brukbrook;1;1;2;green_pact_religion
+1531;Ballimar;2;1;2;green_pact_religion
+1532;Green Hall;2;3;2;green_pact_religion
+1533;Elden Root;10;12;7;green_pact_religion
+1534;Stonesquare;1;2;2;green_pact_religion
+1535;Rekran (M);2;1;2;green_pact_religion
+1536;Long Coast;2;3;1;green_pact_religion
+1537;Gray Mire;3;4;1;green_pact_religion
+1538;Eplearswood (M);2;1;3;green_pact_religion
+1539;Southpoint;6;10;7;green_pact_religion
+1540;Raincross (M);1;1;2;green_pact_religion
+1541;Runcibae;2;1;2;green_pact_religion
+1542;Falinesti (Winter);2;2;2;green_pact_religion
+1543;Redrash (M);1;1;2;green_pact_religion
+1544;Tarlain Malex;2;1;1;green_pact_religion
+1545;Cormount;5;6;4;green_pact_religion
+1546;Tarlain Heights Keep;2;2;3;green_pact_religion
+1547;New Joy;2;3;1;green_pact_religion
+1548;Malgek (M);1;1;2;green_pact_religion
+1549;Gil-Var-Delle;3;2;3;green_pact_religion
+1550;Mossgreen Pike (M);2;1;1;cult_of_malacath
+1551;Andhres (M);2;1;2;green_pact_religion
+1552;Rillan (M);2;1;1;cult_of_malacath
+1553;Allhearth (M);2;3;2;wilderking_religion
+1554;Goldfolly;2;1;3;cult_of_malacath
+1555;Selene's Web;1;1;2;green_pact_religion
+1556;Fangcrest (M);2;2;3;green_pact_religion
+1557;Lissendran (M);2;1;2;green_pact_religion
+1558;Oakhold Fort (M);2;1;3;green_pact_religion
+1559;Redfur;3;1;3;cult_of_malacath
+1560;Moonmont Approach;2;1;1;cult_of_malacath
+1561;Longhaven;3;1;2;green_pact_religion
+1562;Falinesti (Autumn);2;2;2;green_pact_religion
+1563;Shaagravine;1;1;2;green_pact_religion
+1564;Vulain;2;2;3;green_pact_religion
+1565;Elmhearth (M);2;1;1;green_pact_religion
+1566;Grenos;1;1;1;green_pact_religion
+1567;Moliva;1;1;2;green_pact_religion
+1568;Haserma;2;1;2;green_pact_religion
+1569;Dilgras (M);1;1;2;green_pact_religion
+1570;Greenheart;4;5;5;wilderking_religion
+1571;Rheli Sul (M);3;2;2;wilderking_religion
+1572;Spinner's Village;2;2;1;wilderking_religion
+1573;Bramblebreach;3;2;3;wilderking_religion
+1574;1574;1;1;2;cult_of_malacath
+1575;Gushnukbar;2;1;2;cult_of_malacath
+1576;Rootwater Grove;3;2;2;green_pact_religion
+1577;Driladan Pass;1;1;2;wilderking_religion
+1578;Verrant Morass;2;1;1;green_pact_religion
+1579;Falinesti (Spring);2;2;2;green_pact_religion
+1580;Odossair;1;2;1;green_pact_religion
+1581;Glynneri;2;1;2;wilderking_religion
+1582;Dakdran (M);2;2;1;green_pact_religion
+1583;Elden Grove;2;3;1;green_pact_religion
+1584;Hectahame;2;1;3;wilderking_religion
+1585;Silverpine (M);3;1;1;wilderking_religion
+1586;Shademist Moors;2;1;2;wilderking_religion
+1587;Seaside Sanctuary;1;1;2;green_pact_religion
+1588;Vulain Haven;3;2;3;green_pact_religion
+1589;Rainbrush (M);1;2;1;green_pact_religion
+1590;Rulanyil's Fall;2;1;2;green_pact_religion
+1591;Woodhearth;10;7;6;green_pact_religion
+1592;Runcibae;2;2;1;green_pact_religion
+1593;Castle Hearthfire;2;1;3;green_pact_religion
+1594;Ferbrathig (M);1;1;2;green_pact_religion
+1595;Diss;1;2;2;green_pact_religion
+1596;Cori Siladha;2;1;2;green_pact_religion
+1597;Whisper Grove;2;2;1;green_pact_religion
+1598;Mildradash (M);2;2;1;green_pact_religion
+1599;Two Rocks Vale;2;1;2;green_pact_religion
+1600;Smokemoor (M);2;2;2;green_pact_religion
+1601;Archen;2;1;2;green_pact_religion
+1602;Fort Blackvale;1;1;3;green_pact_religion
+1603;Abamath;2;2;3;green_pact_religion
+1604;Belarata;2;1;2;cult_of_malacath
+1605;Jathsogur;3;2;4;cult_of_malacath
+1606;Vehem;1;1;2;green_pact_religion
+1607;Fort Bluewatch;2;1;3;green_pact_religion
+1608;Thormar Keep;1;2;3;riddle_thar_rel
+1609;Fort Greenhill;2;1;3;riddle_thar_rel
+1610;Vindisi;2;2;2;riddle_thar_rel
+1611;Arenthia;5;7;4;green_pact_religion
+1612;Vullar (M);2;2;1;green_pact_religion
+1613;Fort Grimwatch;2;2;2;green_pact_religion
+1614;Willowgrove;2;2;1;green_pact_religion
+1615;Senalana;2;1;2;green_pact_religion
+1616;Athay;1;1;2;green_pact_religion
+1617;Strid Estuary;3;3;1;bosmer_religion
+1618;Lalgith (M);3;2;1;bosmer_religion
+1619;Ildrum (M);2;1;2;bosmer_religion
+1620;Vinedusk;2;4;3;bosmer_religion
+1621;Meadow Run;2;2;1;green_pact_religion
+1622;Thromil;3;1;1;green_pact_religion
+1623;Ebon Ro;1;2;1;bosmer_religion
+1624;Four Quarry Islet;1;1;2;green_pact_religion
+1625;Bloodtoil Valley;1;1;2;cult_of_malacath
+1626;Valeguard;1;1;1;green_pact_religion
+1627;Deepwoods;1;1;1;cult_of_malacath
+1628;Tanglehaven;2;1;2;green_pact_religion
+1629;Shael;1;1;2;cult_of_malacath
+1630;Silvenar;9;4;6;green_pact_religion
+1631;Riel Rehlem;1;1;2;green_pact_religion
+1632;Zagrasha (M);2;1;2;green_pact_religion
+1633;Longvale;2;2;3;green_pact_religion
+1634;Falinesti (Summer);2;2;2;green_pact_religion
+1635;Tomb of the Apostates;1;1;1;cult_of_malacath
+1636;Nacdik (M);2;1;2;green_pact_religion
+1637;Strid Basin;2;2;1;bosmer_religion
+1638;Baandari;1;2;3;green_pact_religion
+1639;Vulkwasten;2;1;2;green_pact_religion
+1640;Ogrim's Yawn;2;1;3;green_pact_religion
+1641;Wilding Run;2;2;1;green_pact_religion
+1642;Vekres (M);2;1;2;green_pact_religion
+1643;Dra'bul;2;2;3;cult_of_malacath
+1644;Tempest Island;2;2;4;maormer_religion
+1645;Ilayas;2;1;2;green_pact_religion
+1646;Black Park;2;1;2;green_pact_religion
+1647;Glenpoint;1;1;2;green_pact_religion
+1648;Matthild;2;1;1;green_pact_religion
+1649;Starwalk;1;1;1;green_pact_religion
+1650;Velyn Harbor;2;3;2;green_pact_religion
+1651;Virimoor;1;1;3;green_pact_religion
+1652;Emperor's Run;2;1;2;green_pact_religion
+1653;Con Silmoor;2;2;1;green_pact_religion
+1654;Dread Vullain;2;1;3;green_pact_religion
+1655;Nilaga;2;2;3;green_pact_religion
+1656;Torlen;2;1;2;green_pact_religion
+1657;Samsun;1;1;2;green_pact_religion
+1661;VALENWOOD NAME 1;2;1;1;wilderking_religion
+1662;Baenilon;1;1;2;wilderking_religion
+1663;VALENWOOD NAME 3;1;1;1;wilderking_religion
+1664;VALENWOOD NAME 4;1;2;1;wilderking_religion
+1665;VALENWOOD NAME 5;2;1;2;wilderking_religion
+1667;Shrouded Vale;3;2;3;wilderking_religion
+3047;Treehenge;2;1;1;green_pact_religion
+3048;Marbruk Field;2;3;2;wilderking_religion
+3049;Wonderrush (M);1;2;1;green_pact_religion
+3050;Marbruk;2;2;3;wilderking_religion
+3051;Barkbite Stronghold;2;1;3;wilderking_religion
+3052;Ouze;2;3;2;green_pact_religion
+3053;Marathorin;2;1;3;green_pact_religion
+3054;Reman's Bluff;2;1;2;cult_of_malacath
+3055;Moonmont;2;1;1;green_pact_religion
+3056;Lynpan March;2;1;1;green_pact_religion
+3057;Fort Crowfeather;1;1;3;green_pact_religion

@@ -1,0 +1,19 @@
+#1542-Falinesti (Winter)
+
+
+culture = tarlain
+religion = green_pact_religion
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = copper
+base_manpower = 2
+capital = "Penryn"
+is_city = yes
+add_core = ELD owner = ELD controller = ELD
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+add_province_triggered_modifier = falinesti_winter_site

@@ -1,17 +1,19 @@
-#1574-1574
+#1649-Starwalk
 
 
-culture = woodorc
-religion = cult_of_malacath
+culture = marrow
+religion = green_pact_religion
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = copper
-base_manpower = 2
+base_manpower = 1
 capital = "Penryn"
 is_city = yes
-add_core = LHC owner = LHC controller = LHC
+add_core = DRV owner = DRV controller = DRV
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+
