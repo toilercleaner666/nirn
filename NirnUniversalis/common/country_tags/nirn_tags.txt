@@ -126,6 +126,7 @@ MKU = "countries/Morkul.txt"
 FAH = "countries/Fahrun.txt"
 DNL = "countries/Dunlain.txt"
 BKH = "countries/Bagrakh.txt"
+ORS = "countries/Orsinium.txt"
 # XXXXXX = "countries/XXXXX.txt"
 
 

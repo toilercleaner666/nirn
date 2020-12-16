@@ -441,8 +441,8 @@ allowed_conversion = {
 
 		orthodox_icons = {
 			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
-			# Shor, Tsun, Stuhn, Kyne, Orkey, Mara, and Alduin 
-			
+			# Shor, Tsun, Stuhn, Kyne, Orkey, Mara, and Alduin
+
 			icon_shor = {
 				legitimacy = 0.1
 				core_creation = -0.10
@@ -493,7 +493,7 @@ allowed_conversion = {
 					factor = 0.5
 				}
 			}
-			
+
 			icon_orkey = {
 				global_unrest = -3
 				harsh_treatment_cost = -0.25
@@ -574,7 +574,7 @@ allowed_conversion = {
 			icon_mara = {
 				global_unrest = -3
 				harsh_treatment_cost = -0.25
-				
+
 				allow = {
 					always = yes
 				}
@@ -650,8 +650,8 @@ old_gods_rel = {
 
 		fetishist_cult = yes
 		heretic = { GOAT_SKULL }
-	
-       
+
+
 
 
 harmonized_modifier = harmonized_dragon
@@ -790,7 +790,7 @@ aldmer_religion_group = {
 		}
 		heretic = { DAEDRA }
 		uses_isolationism = yes
-		
+
 		harmonized_modifier = harmonized_auriel
 	}
 
@@ -878,34 +878,34 @@ bosmer_religious_group = {
 	defender_of_faith = no
 	can_form_personal_unions = yes
 	crusade_name = WILD_HUNT
-	
+
 	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 1 57 }
-	
+
 	green_pact_religion = {
 		color = { 45 156 32 }
-		
+
 		allowed_conversion = {
 			bosmer_religion
 		}
-		
+
 		on_convert = {
 			change_religion = green_pact_religion
 			add_prestige = -100
 		}
-		
+
 		country = {
 			shock_damage = 0.1
 			development_cost = -0.05
 		}
-		
+
 		heretic = { OOZE_APOSTATES }
-		
+
 		papacy = {
 			papal_tag = SIL
 			election_cost = 5
 			set_of_papacy = 1630
-			
+
 			#Council of Trent Positions - FROM BASE GAME
 			harsh = {
 				relation_with_heretics = -20
@@ -922,14 +922,14 @@ bosmer_religious_group = {
 				global_heretic_missionary_strength = -0.05
 				improve_relation_modifier = 0.25
 			}
-			
+
 			#Council of Trent Concessions - FROM BASE GAME
 			concessions = {
 				first_concession = {
 					harsh = {
 						relation_with_heretics = -20
 						global_heretic_missionary_strength  = 0.02
-					}	
+					}
 					concilatory = {
 						relation_with_heretics = 10
 						tolerance_heretic = 2
@@ -939,7 +939,7 @@ bosmer_religious_group = {
 					harsh = {
 						relation_with_heretics = -20
 						institution_spread_from_true_faith = 0.30
-					}	
+					}
 					concilatory = {
 						relation_with_heretics = 10
 						global_institution_spread = 0.10
@@ -949,7 +949,7 @@ bosmer_religious_group = {
 					harsh = {
 						relation_with_heretics = -20
 						manpower_in_true_faith_provinces  = 0.1
-					}	
+					}
 					concilatory = {
 						relation_with_heretics = 10
 						global_manpower_modifier = 0.05
@@ -959,16 +959,16 @@ bosmer_religious_group = {
 					harsh = {
 						relation_with_heretics = -20
 						warscore_cost_vs_other_religion  = -0.10
-					}	
+					}
 					concilatory = {
 						relation_with_heretics = 10
 						curia_powers_cost = -0.10
 					}
 				}
 			}
-			
+
 			#PAPAL ACTIONS
-			
+
 			blessing_of_yffre = {
 				cost = 50
 				allow = {
@@ -1024,7 +1024,7 @@ bosmer_religious_group = {
 				ai_will_do = {
 					factor = 1
 				}
-			}	
+			}
 			local_saint = {
 				cost = 100
 				potential = {
@@ -1067,7 +1067,7 @@ bosmer_religious_group = {
 						NOT = { num_of_loans = 1 }
 					}
 				}
-			}			
+			}
 			proclaim_holy_war = {
 				cost = 50
 				potential = {
@@ -1111,7 +1111,7 @@ bosmer_religious_group = {
 				ai_will_do = {
 					factor = 1
 				}
-			}	
+			}
 			sanction_commercial_monopoly = {
 				cost = 50
 				potential = {
@@ -1151,24 +1151,68 @@ bosmer_religious_group = {
 					factor = 0
 				}
 			}
-		
+
 		}
 	}
-	
+
 	bosmer_religion = {
 		color = { 59 186 186 }
-		
+
 		allowed_conversion = {
 			green_pact_religion
 		}
-		
+
 		on_convert = {
 			change_religion = green_pact_religion
 			add_prestige = -100
 		}
 	}
-	
+
 	wilderking_religion = {
 		color = { 121 111 24 }
 	}
 }
+
+
+#cult_of_malacath_rel = {
+#		color = { 83 130 74 }
+#		icon = 5
+#		country = {
+#			global_manpower_modifier = 0.1
+#			heir_chance = 1.0
+#		}
+#		country_as_secondary = {
+#			heir_chance = 2.0
+#		}
+#		province = {
+#			local_missionary_strength = -0.02
+#		}
+#
+#		heretic = { TRINIMAC MAULOCH }
+#
+#		fervor = yes	# Uses Fervor Mechanics
+#
+# on_convert = {
+#			change_religion = cult_of_malacath_rel
+#			add_prestige = -100
+#
+#			add_country_modifier = {
+#				name = "conversion_zeal"
+#				duration = 3650
+#			}
+#
+#
+#
+#
+#	}
+#
+#	harmonized_modifier = harmonized_daedra
+#
+#	crusade_name = Crusade
+#
+# }
+#
+#}
+#
+#
+#

@@ -161,3 +161,46 @@ SHR_ideas = {
   fabricate_claims_cost = -0.2
 	}
 }
+
+ORS_ideas = {
+	#Orsinium
+	start = {
+        land_morale = 0.10
+        shock_damage = 0.10
+
+
+	}
+	bonus = {
+	discipline = 0.05
+	}
+
+	trigger = {
+		tag = ORS
+	}
+	free = yes
+
+	ORS_uniting_the_orcs = {
+	ae_impact = -0.1
+	}
+        ORS_wrathful_flame = {
+	tolerance_own = 3
+	}
+	ORS_rebuilding_orsinium = {
+	development_cost = -0.15
+	}
+	ORS_orcish_smithing = {
+        shock_damage = 0.10
+	}
+	ORS_torugs_dream = {
+        advisor_pool = 1
+        same_culture_advisor_cost = -0.20
+        culture_conversion_cost = -0.20
+	}
+	ORS_code_of_malacath = {
+	global_unrest = -2
+	}
+	ORS_orcish_strongholds = {
+	infantry_power = 0.15
+        army_tradition_decay = -0.01
+	}
+}

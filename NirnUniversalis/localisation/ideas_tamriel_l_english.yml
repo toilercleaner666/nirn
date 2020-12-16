@@ -144,7 +144,7 @@ WND_belongs_to_Nords_desc: "By our blood and steel was the Fatherland conquered 
 WND_Palace_Kings: "The Palace of Kings"
 WND_Palace_Kings_desc: "Built by Ysgramor himself, our glorious seat of government inspires awe in all who visit."
 WND_Reunite_Holds: "Reunite the Holds"
-WND_Reunite_Holds_desc: "We must make the other Jarls understand that our rise 
+WND_Reunite_Holds_desc: "We must make the other Jarls understand that our rise
 WND_Season_Unending: "Season Unending"
 WND_Season_Unending_desc: ""
 WND_navy: "Lonely Gale Navy"
@@ -231,6 +231,25 @@ SHR_crown_city_of_the_north: "Crown City Of The North"
 SHR_crown_city_of_the_north_desc: "Shornhelm has been called The Crown City Of The North by it's inhabitants in Ravenspire. Because of the barrenness of most of Rivenspire Shornhelm acts as one of the major beacons of civilization in the area. We make full use of this constant influx of people and our city has become a major center of science in the area."
 SHR_house_ravenwatch: "House Ravenwatch"
 SHR_house_ravenwatch_desc: "House Ravenwatch is one of the vassals of the crown of Shornhelm. A house consisting of members from all different races, the members of this house follow an arbitrairy code."
+
+#Orsinium
+ORS_ideas: "Orsinium Ideas"
+ORS_ideas_start: "Orsinium Traditions"
+ORS_ideas_bonus: "Orsinium Ambition"
+ORS_uniting_the_orcs: "Uniting The Orcs"
+ORS_uniting_the_orcs_desc: "Since we can now call ourselves the legitimate successors of Old Orsinium, it had become our duty to bring the other Orcs of Tamriel into the fold and truly create a province for Orcs to call home."
+ORS_wrathful_flame: "The Wrathful Flame"
+ORS_wrathful_flame_desc: "The religious order known as the Wrathful Flame operates throughout Wrothgar. Every ten years they light Malacath's pyre in the ruins of the first Orsinium. This ritual binds Malacath's anger to the failures of the Orcs and strive to remember what led to their doom. "
+ORS_rebuilding_orsinium: "Rebuilding Orsinium"
+ORS_rebuilding_orsinium_desc: "After the fall of the Second Empire Orsinium was once again sacked by it's Breton neighbors. Now that we have finally reestablished Orsinium as an independent Orsimer realm, we can go about rebuilding out once prosperous state."
+ORS_orcish_smithing: "Orcish Smithing"
+ORS_orcish_smithing_desc: " Orcs are famed for their skill in smithing, particularly with the metal called Orichalcum, which they use to forge armor and weapons. The resulting armaments are heavy and require great endurance to wield, but offer peerless strength and durability. They also work with ebony and have a unique skill in tooling leather for exceptional flexibility and toughness."
+ORS_torugs_dream: "Torug's Dream"
+ORS_torugs_dream_desc: "When the chieftain Torug gro-Igron brought the Orsimer people together to found the city of Orsinium he envisioned the creation of a united Orc nation which would serve as the homeland for all the Orcs in Tamriel. While he was not able to bring this dream to life, it is now our duty to make sure it comes true."
+ORS_code_of_malacath: "Code Of Malacath"
+ORS_code_of_malacath_desc: "The law of the Orcs is based on the Code of Malacath. The code prevents crimes such as theft and unwarranted violence, but also places heavy emphasis on honor and personal strength in resolving conflicts. Those who violate the law must either pay material compensation or pay a "Blood Price" which entails allowing the offended to spill their the  blood until blood price has been satisfied. "
+ORS_orcish_strongholds: "Orcish Strongholds"
+ORS_orcish_strongholds_desc: "Traditional Orcish society is centered is around stronghold settlements, each one striving for complete independence in all matters. A stronghold's tribe is controlled by a chieftain, who is the literal alpha male. The chieftain is replaced by whichever of his sons grows strong enough to challenge and kill him. The tribe's strength heavily depends on the strength of the chieftain."
 
 ##############################
 # VALENWOOD IDEAS            #
