@@ -11,20 +11,24 @@ divines_religion_group = {
 	flag_emblem_index_range = { 1 57 }
 
 
-eight_divines_rel = {
+	eight_divines_rel = {
 		color = { 247 232 118 }
 		icon = 1
-allowed_conversion = {
+
+		allowed_conversion = {
 			nine_divines_rel
 		}
+
 		country = {
 			vassal_income = 0.1
 			tolerance_own = 2
 		}
+
 		country_as_secondary = {
 			diplomatic_reputation = 1
 			tolerance_own = 1
 		}
+
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -146,7 +150,7 @@ allowed_conversion = {
 				}
 			}
 
-icon_mara = {
+			icon_mara = {
 				discipline = 0.05
 				manpower_recovery_speed = 0.1
 
@@ -166,7 +170,7 @@ icon_mara = {
 				}
 			}
 
-icon_stendarr = {
+			icon_stendarr = {
 				development_cost = -0.10
 				build_cost = -0.1
 
@@ -178,7 +182,7 @@ icon_stendarr = {
 				}
 			}
 
-icon_zenithar = {
+			icon_zenithar = {
 				development_cost = -0.10
 				build_cost = -0.1
 
@@ -192,7 +196,7 @@ icon_zenithar = {
 
 		}
 
-on_convert = {
+		on_convert = {
 			change_religion = eight_divines_rel
 			add_prestige = -100
 
@@ -201,27 +205,30 @@ on_convert = {
 				duration = 3650
 			}
 
+		}
 	}
-}
 
-nine_divines_rel = {
+	nine_divines_rel = {
 		color = { 255 29 29 }
 		icon = 2
-allowed_conversion = {
+
+		allowed_conversion = {
 			eight_divines_rel
 		}
+
 		country = {
 			vassal_income = 0.1
 			tolerance_own = 2
 		}
+
 		country_as_secondary = {
 			vassal_income = 0.1
 			tolerance_own = 1
 		}
+
 		province = {
 			local_missionary_strength = -0.01
 		}
-
 
 		heretic = { DAEDRA }
 
@@ -339,7 +346,7 @@ allowed_conversion = {
 				}
 			}
 
-icon_mara = {
+			icon_mara = {
 				discipline = 0.05
 				manpower_recovery_speed = 0.1
 
@@ -359,7 +366,7 @@ icon_mara = {
 				}
 			}
 
-icon_stendarr = {
+			icon_stendarr = {
 				development_cost = -0.10
 				build_cost = -0.1
 
@@ -371,7 +378,7 @@ icon_stendarr = {
 				}
 			}
 
-icon_zenithar = {
+			icon_zenithar = {
 				development_cost = -0.10
 				build_cost = -0.1
 
@@ -383,7 +390,7 @@ icon_zenithar = {
 				}
 			}
 
-icon_talos = {
+			icon_talos = {
 				development_cost = -0.10
 				build_cost = -0.1
 
@@ -397,7 +404,7 @@ icon_talos = {
 
 		}
 
-on_convert = {
+		on_convert = {
 			change_religion = nine_divines_rel
 			add_prestige = -100
 
@@ -405,34 +412,34 @@ on_convert = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
+		}
 
+		harmonized_modifier = harmonized_divines
 
+		crusade_name = Crusade
 	}
 
-harmonized_modifier = harmonized_divines
-
-	crusade_name = Crusade
-
-}
-
-nord_religion = {
+	nord_religion = {
 		icon = 21
 		color = { 191 191 191 }
-allowed_conversion = {
+
+		allowed_conversion = {
 			eight_divines_rel
 		}
+
 		country = {
 			vassal_income = 0.1
 			tolerance_own = 2
 		}
+
 		country_as_secondary = {
 			vassal_income = 0.1
 			tolerance_own = 1
 		}
+
 		province = {
 			local_missionary_strength = -0.01
 		}
-
 
 		heretic = { DAEDRA }
 
@@ -604,7 +611,7 @@ allowed_conversion = {
 			}
 		}
 
-on_convert = {
+		on_convert = {
 			change_religion = nine_divines_rel
 			add_prestige = -100
 
@@ -612,15 +619,14 @@ on_convert = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
+		}
 
+		harmonized_modifier = harmonized_divines
 
+		crusade_name = Crusade
 	}
 
-harmonized_modifier = harmonized_divines
-
-	crusade_name = Crusade
-
-}
+	#End of Divines Group
 }
 
 reachmen_religion_group = {
@@ -633,16 +639,19 @@ reachmen_religion_group = {
 	flags_with_emblem_percentage = 0 # default == 0
 	flag_emblem_index_range = { 1 57 }
 
-old_gods_rel = {
+	old_gods_rel = {
 		color = { 127 76 76 }
 		icon = 12
+
 		country = {
 			tolerance_heathen = 2
 			culture_conversion_cost = -0.25
 		}
+
 		province = {
 			local_missionary_strength = 0.02
 		}
+
 		country_as_secondary = {
 			tolerance_own = 2
 			loot_amount = 0.25
@@ -651,12 +660,9 @@ old_gods_rel = {
 		fetishist_cult = yes
 		heretic = { GOAT_SKULL }
 
+		harmonized_modifier = harmonized_dragon
 
-
-
-harmonized_modifier = harmonized_dragon
-
-	crusade_name = Holy War
+		crusade_name = Holy War
 	}
 
 }
@@ -674,9 +680,10 @@ dragon_religion_group = {
 	flags_with_emblem_percentage = 0 # default == 0
 	flag_emblem_index_range = { 1 57 }
 
-dragon_cult_rel = {
+	dragon_cult_rel = {
 		icon = 3
 		color = { 10 10 10 }
+
 		country = {
 			land_forcelimit_modifier = 0.10
 			infantry_power = 0.1
@@ -690,9 +697,9 @@ dragon_cult_rel = {
 
 		personal_deity = yes
 
-    heretic = { DAEDRA }
+    	heretic = { DAEDRA }
 
-on_convert = {
+		on_convert = {
 			change_religion = dragon_cult_rel
 			add_prestige = -100
 
@@ -700,16 +707,11 @@ on_convert = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
+		}
 
-
-       }
-
-
-harmonized_modifier = harmonized_dragon
-
-	crusade_name = Crusade
-
-}
+		harmonized_modifier = harmonized_dragon
+		crusade_name = Crusade
+	}
 }
 
 
@@ -724,7 +726,7 @@ hist_religion_group = {
 	flags_with_emblem_percentage = 0 # default == 0
 	flag_emblem_index_range = { 1 57 }
 
-hist_rel = {
+	hist_rel = {
 		icon = 3
 		color = { 44 224 38 }
 		country = {
@@ -732,14 +734,16 @@ hist_rel = {
 			infantry_power = 0.15
                         hostile_attrition = 2
 		}
+
 		country_as_secondary = {
 			prestige = 0.5
 		}
+
 		province = {
 			local_missionary_strength = -0.03
 		}
 
-on_convert = {
+		on_convert = {
 			change_religion = hist_rel
 			add_prestige = -100
 
@@ -747,21 +751,12 @@ on_convert = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
+		heretic = { DAEDRA }
+	}
 
-
-
-    heretic = { DAEDRA }
-
-
-
-
-       }
-
-harmonized_modifier = harmonized_hist
-
-	crusade_name = Crusade
-
-}
+	harmonized_modifier = harmonized_hist
+	crusade_name = CRUSADE
+	}
 }
 
 
@@ -799,7 +794,6 @@ aldmer_religion_group = {
 	}
 
 	crusade_name = CRUSADE
-
 }
 
 khajiit_religion_group = {
@@ -812,8 +806,6 @@ khajiit_religion_group = {
 	flags_with_emblem_percentage = 0 # default == 0
 	flag_emblem_index_range = { 1 57 }
 
-
-	# Stub religion name
 	riddle_thar_rel = {
 		color = { 189 190 113 }
 	}
@@ -833,9 +825,9 @@ daedra_religion_group = {
 
 	daedra_cult_rel = {
 
-	heretic = { AEDRA }
+		heretic = { AEDRA }
 
-	uses_piety = yes				# Uses piety mechanics
+		uses_piety = yes
 
 		color = { 208 127 255 }
 		icon = 5
@@ -852,7 +844,7 @@ daedra_religion_group = {
 		}
 	}
 
-cult_of_malacath_rel = {
+	cult_of_malacath_rel = {
 		color = { 83 130 74 }
 		icon = 5
 		country = {
@@ -870,27 +862,20 @@ cult_of_malacath_rel = {
 
 		fervor = yes	# Uses Fervor Mechanics
 
- on_convert = {
+ 		on_convert = {
 			change_religion = cult_of_malacath_rel
 			add_prestige = -100
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
-
-
-
-
-	}
+		}
 
 	harmonized_modifier = harmonized_daedra
 
 	crusade_name = Crusade
 
-}
-
-}
-
+	}
 }
 
 #######################################
@@ -1195,11 +1180,3 @@ bosmer_religious_group = {
 		color = { 121 111 24 }
 	}
 }
-
-
-
-
-}
-
-
-

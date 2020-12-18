@@ -30,17 +30,17 @@ Number;Province Name;tax;prod;manpower;religion
 1547;New Joy;2;3;1;green_pact_religion
 1548;Malgek (M);1;1;2;green_pact_religion
 1549;Gil-Var-Delle;3;2;3;green_pact_religion
-1550;Mossgreen Pike (M);2;1;1;cult_of_malacath
+1550;Mossgreen Pike (M);2;1;1;cult_of_malacath_rel
 1551;Andhres (M);2;1;2;green_pact_religion
-1552;Rillan (M);2;1;1;cult_of_malacath
+1552;Rillan (M);2;1;1;cult_of_malacath_rel
 1553;Allhearth (M);2;3;2;wilderking_religion
-1554;Goldfolly;2;1;3;cult_of_malacath
+1554;Goldfolly;2;1;3;cult_of_malacath_rel
 1555;Selene's Web;1;1;2;green_pact_religion
 1556;Fangcrest (M);2;2;3;green_pact_religion
 1557;Lissendran (M);2;1;2;green_pact_religion
 1558;Oakhold Fort (M);2;1;3;green_pact_religion
-1559;Redfur;3;1;3;cult_of_malacath
-1560;Moonmont Approach;2;1;1;cult_of_malacath
+1559;Redfur;3;1;3;cult_of_malacath_rel
+1560;Moonmont Approach;2;1;1;cult_of_malacath_rel
 1561;Longhaven;3;1;2;green_pact_religion
 1562;Falinesti (Autumn);2;2;2;green_pact_religion
 1563;Shaagravine;1;1;2;green_pact_religion
@@ -54,8 +54,8 @@ Number;Province Name;tax;prod;manpower;religion
 1571;Rheli Sul (M);3;2;2;wilderking_religion
 1572;Spinner's Village;2;2;1;wilderking_religion
 1573;Bramblebreach;3;2;3;wilderking_religion
-1574;1574;1;1;2;cult_of_malacath
-1575;Gushnukbar;2;1;2;cult_of_malacath
+1574;1574;1;1;2;cult_of_malacath_rel
+1575;Gushnukbar;2;1;2;cult_of_malacath_rel
 1576;Rootwater Grove;3;2;2;green_pact_religion
 1577;Driladan Pass;1;1;2;wilderking_religion
 1578;Verrant Morass;2;1;1;green_pact_religion
@@ -84,8 +84,8 @@ Number;Province Name;tax;prod;manpower;religion
 1601;Archen;2;1;2;green_pact_religion
 1602;Fort Blackvale;1;1;3;green_pact_religion
 1603;Abamath;2;2;3;green_pact_religion
-1604;Belarata;2;1;2;cult_of_malacath
-1605;Jathsogur;3;2;4;cult_of_malacath
+1604;Belarata;2;1;2;cult_of_malacath_rel
+1605;Jathsogur;3;2;4;cult_of_malacath_rel
 1606;Vehem;1;1;2;green_pact_religion
 1607;Fort Bluewatch;2;1;3;green_pact_religion
 1608;Thormar Keep;1;2;3;riddle_thar_rel
@@ -105,17 +105,17 @@ Number;Province Name;tax;prod;manpower;religion
 1622;Thromil;3;1;1;green_pact_religion
 1623;Ebon Ro;1;2;1;bosmer_religion
 1624;Four Quarry Islet;1;1;2;green_pact_religion
-1625;Bloodtoil Valley;1;1;2;cult_of_malacath
+1625;Bloodtoil Valley;1;1;2;cult_of_malacath_rel
 1626;Valeguard;1;1;1;green_pact_religion
-1627;Deepwoods;1;1;1;cult_of_malacath
+1627;Deepwoods;1;1;1;cult_of_malacath_rel
 1628;Tanglehaven;2;1;2;green_pact_religion
-1629;Shael;1;1;2;cult_of_malacath
+1629;Shael;1;1;2;cult_of_malacath_rel
 1630;Silvenar;9;4;6;green_pact_religion
 1631;Riel Rehlem;1;1;2;green_pact_religion
 1632;Zagrasha (M);2;1;2;green_pact_religion
 1633;Longvale;2;2;3;green_pact_religion
 1634;Falinesti (Summer);2;2;2;green_pact_religion
-1635;Tomb of the Apostates;1;1;1;cult_of_malacath
+1635;Tomb of the Apostates;1;1;1;cult_of_malacath_rel
 1636;Nacdik (M);2;1;2;green_pact_religion
 1637;Strid Basin;2;2;1;bosmer_religion
 1638;Baandari;1;2;3;green_pact_religion
@@ -123,7 +123,7 @@ Number;Province Name;tax;prod;manpower;religion
 1640;Ogrim's Yawn;2;1;3;green_pact_religion
 1641;Wilding Run;2;2;1;green_pact_religion
 1642;Vekres (M);2;1;2;green_pact_religion
-1643;Dra'bul;2;2;3;cult_of_malacath
+1643;Dra'bul;2;2;3;cult_of_malacath_rel
 1644;Tempest Island;2;2;4;maormer_religion
 1645;Ilayas;2;1;2;green_pact_religion
 1646;Black Park;2;1;2;green_pact_religion
@@ -151,7 +151,7 @@ Number;Province Name;tax;prod;manpower;religion
 3051;Barkbite Stronghold;2;1;3;wilderking_religion
 3052;Ouze;2;3;2;green_pact_religion
 3053;Marathorin;2;1;3;green_pact_religion
-3054;Reman's Bluff;2;1;2;cult_of_malacath
+3054;Reman's Bluff;2;1;2;cult_of_malacath_rel
 3055;Moonmont;2;1;1;green_pact_religion
 3056;Lynpan March;2;1;1;green_pact_religion
 3057;Fort Crowfeather;1;1;3;green_pact_religion

@@ -1,8 +1,7 @@
 #1574-1574
 
-
 culture = woodorc
-religion = cult_of_malacath
+religion = cult_of_malacath_rel
 hre = no
 base_tax = 1
 base_production = 1

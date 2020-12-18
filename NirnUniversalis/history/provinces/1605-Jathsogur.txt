@@ -2,7 +2,7 @@
 
 
 culture = woodorc
-religion = cult_of_malacath
+religion = cult_of_malacath_rel
 hre = no
 base_tax = 3
 base_production = 2
