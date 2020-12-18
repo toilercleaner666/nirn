@@ -2,7 +2,7 @@
 
 
 culture = graymire
-religion = green_pact_religion
+religion = hist_rel
 hre = no
 base_tax = 3
 base_production = 4

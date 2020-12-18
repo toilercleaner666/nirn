@@ -5,6 +5,6 @@ government = tribal_kingdom
 government_rank = 1
 mercantilism = 0.0
 primary_culture = wilderking
-religion = eight_divines_rel
+religion = wilderking_religion
 technology_group = western
 capital = 3050

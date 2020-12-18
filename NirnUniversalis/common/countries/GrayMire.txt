@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 186  2  11 }
 
-preferred_religion = 
+preferred_religion = hist_rel
 
 historical_idea_groups = {
 

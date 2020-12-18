@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 195  95  240 }
 
-preferred_religion = 
+preferred_religion = wilderking_religion
 
 historical_idea_groups = {
 

@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 234  148  200 }
 
-preferred_religion = 
+preferred_religion = bosmer_religion
 
 historical_idea_groups = {
 

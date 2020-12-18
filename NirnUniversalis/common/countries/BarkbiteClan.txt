@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 22  191  246 }
 
-preferred_religion = 
+preferred_religion = cult_of_malacath_rel
 
 historical_idea_groups = {
 

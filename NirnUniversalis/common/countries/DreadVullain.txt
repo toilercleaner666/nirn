@@ -4,7 +4,7 @@ graphical_culture = westerngfx
 
 color = { 132  133  11 }
 
-preferred_religion = 
+preferred_religion = green_pact_religion
 
 historical_idea_groups = {
 
