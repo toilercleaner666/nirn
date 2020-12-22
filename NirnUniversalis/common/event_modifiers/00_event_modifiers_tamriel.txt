@@ -9,3 +9,16 @@ eastskyrim_empire = {
 westskyrim_empire = {
 	reduced_liberty_desire = 50
 }
+
+proclaim_ruler_ysmir = {
+	global_manpower_modifier = 0.30	
+	global_tax_modifier = 0.10
+	land_morale = 0.10
+	yearly_patriarch_authority = 0.1
+	prestige = 0.5
+}
+
+disorder_nords = {
+	land_morale = 0.05
+	land_maintenance_modifier = -0.05
+}

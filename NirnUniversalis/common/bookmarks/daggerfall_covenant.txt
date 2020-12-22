@@ -9,5 +9,7 @@ bookmark =
 	country = WAY
 	country = SNL
 	country = SHR
+	country = SOL
+	country = WNH
 			
 }

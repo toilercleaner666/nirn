@@ -1,5 +1,12 @@
 spriteTypes = {
 
+	#NIRN
+	spriteType = {
+		name = "GFX_russian_icons_strip"
+		texturefile = "gfx//interface//nord_icons_strip.dds"
+		noOfFrames = 1
+	}
+
 	spriteType = {
 		name = "GFX_country_religion_view_bg"
 		texturefile = "gfx/interface/defender_of_the_faith/country_religion_view_bg.dds"

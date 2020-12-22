@@ -1,0 +1,35 @@
+nordic_jarldom = {
+	rank = {
+		3 = EMPIRE
+		2 = JARLDOM
+		1 = PETTY_JARLDOM
+	}
+
+	ruler_male = {
+		3 = HIGH_KING
+		2 = JARL
+		1 = THANE		
+	}
+	
+	ruler_female = {
+		3 = HIGH_QUEEN
+		2 = JARL
+		1 = THANE		
+	}
+	
+	consort_male = {
+		1 = THANE
+		2 = JARL
+		3 = HIGH_KING
+	}
+
+	consort_female = {
+		1 = THANE	
+		2 = JARL
+		3 = HIGH_QUEEN
+	}
+	trigger = {
+		government = monarchy
+		has_reform = jarldom_reform
+	}
+}

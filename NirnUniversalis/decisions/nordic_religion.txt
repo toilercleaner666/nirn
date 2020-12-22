@@ -7,12 +7,11 @@ country_decisions = {
 		}
 		allow = {
 			stability = 3
-			dip_power = 200
-			prestige > 50
+			dip_power = 100
 			legitimacy > 90
 		}
 		effect = {
-			add_dip_power = -200
+			add_dip_power = -100
 			add_ruler_modifier = {
 				name = "proclaim_ruler_ysmir"
 			}

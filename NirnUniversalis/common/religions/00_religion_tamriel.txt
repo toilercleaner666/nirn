@@ -668,8 +668,6 @@ reachmen_religion_group = {
 }
 
 
-
-
 dragon_religion_group = {
 	defender_of_faith = no
 	can_form_personal_unions = no

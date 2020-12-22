@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = jarldom_reform
 primary_culture = eastmarcher
 add_accepted_culture = windhelm
 add_accepted_culture = greenwooder

@@ -384,6 +384,23 @@ haafingar_East_group = {
   potential = {
     tag = SOL
   }
+  haf_intergrate_whiterun = {
+		icon = mission_alliances
+		required_missions = { haf_svartr_legacy}
+		position = 2
+		
+		trigger = {
+		karthwasten_area = {
+				type = all
+				religion_group = ROOT
+			}
+	}
+		effect = {
+
+		}
+  
+  }
+  
 }
 haafingar_dip_group = {
   slot = 4
@@ -392,6 +409,69 @@ haafingar_dip_group = {
   potential = {
     tag = SOL
   }
+  haf_svartr_legacy = {
+		icon = mission_monarch_in_throne_room
+		required_missions = { }
+		position = 1
+		
+		trigger = {
+			NOT = { has_ruler = "Svartr" }
+			legitimacy > 90
+			dip_power = 100
+	}
+		effect = {
+			add_dip_power = -100
+  			add_country_modifier = {
+				name = "svartr_legacy"
+				duration = 5475
+			}
+		}
+  
+  }
+  haf_intergrate_morthal = {
+		icon = mission_alliances
+		required_missions = { haf_svartr_legacy}
+		position = 2
+		
+		trigger = {
+		karthwasten_area = {
+				type = all
+				religion_group = ROOT
+			}
+	}
+		effect = {
+
+		}
+  
+  }
+  haf_centralize_west = {
+		icon = mission_empire
+		required_missions = { 
+			haf_intergrate_morthal
+			haf_intergrate_whiterun
+			haf_deal_falkreth
+		}
+		position = 2
+		
+		trigger = {
+		karthwasten_area = {
+				type = all
+				religion_group = ROOT
+			}
+	}
+		effect = {
+			override_country_name = WEST_SKYRIM
+			hjaalmarch_skyrim_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { is_permanent_claim = ROOT }
+			}
+				add_permanent_claim = ROOT
+			}
+		}
+  
+  }
+  
 }
 haafingar_east_group = {
   slot = 5
@@ -399,6 +479,22 @@ haafingar_east_group = {
   ai = yes
   potential = {
     tag = SOL
+  }
+  haf_deal_falkreth = {
+		icon = mission_alliances
+		required_missions = {haf_svartr_legacy }
+		position = 2
+		
+		trigger = {
+		karthwasten_area = {
+				type = all
+				religion_group = ROOT
+			}
+	}
+		effect = {
+
+		}
+  
   }
 }
 

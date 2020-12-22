@@ -65,7 +65,7 @@ NDefines.NFrontend.CONTENT_POS_Y = 922.0
 NDefines.NFrontend.CONTENT_POS_Z = 1308.0
 NDefines.NFrontend.CONTENT_LOOK_X = 2218
 NDefines.NFrontend.CONTENT_LOOK_Y = 0.0	
-NDefines.NFrontend.CONTENT_LOOK_Z = 1519.0
+NDefines.NFrontend.CONTENT_LOOK_Z = 1135.0
 	
 NDefines.NFrontend.CREDITS_POS_X = 3077.0
 NDefines.NFrontend.CREDITS_POS_Y = 231.0

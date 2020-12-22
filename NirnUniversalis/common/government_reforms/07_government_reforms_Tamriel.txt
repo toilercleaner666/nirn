@@ -4,15 +4,18 @@ jarldom_reform = {
 	potential = {
 		religion_group = divines_religion_group
 	}
-	legacy_equivalent = feudal_monarchy
-	valid_for_nation_designer = yes
+	valid_for_nation_designer = no 
 	nation_designer_cost = 0
+	lock_level_when_selected = yes
+	legacy_equivalent = jarldom_legacy
+	valid_for_nation_designer = yes
 	modifiers = {
+		land_maintenance_modifier = -0.1
+		global_manpower_modifier = 0.1
 		vassal_income = 0.25
-		nobles_influence_modifier = 0.05
-		ae_impact = -0.2
+		global_unrest = 1
 	}
-	ai = {
-		factor = 0.5 #generic
+	custom_attributes = {
+		locked_government_type = yes
 	}
 }

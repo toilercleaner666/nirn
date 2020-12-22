@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = jarldom_reform
 primary_culture = haafingar
 add_accepted_culture = dragonbridger
 religion = nord_religion
@@ -13,29 +13,30 @@ capital = 991
 		name = "Svartr"
 		dynasty = "Solitude"
 		birth_date = 1377.2.20
-		death_date = 1455.1.1
 		adm = 2
 		dip = 5
 		mil = 0
+		leader = { name = "Svartr" type = general	fire = 0	shock = 0	manuever = 1	siege = 0}
 		religion = eight_divines_rel
 		culture = haafingar
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = craven_personality
 	add_ruler_personality = benevolent_personality
-	add_ruler_personality = charismatic_negotiator_personality
+	#add_ruler_personality = charismatic_negotiator_personality
 }
 1399.2.20 = {
 	heir = {
 		name = "Svargrim"
-		monarch_name = "Eerika"
-		birth_date = 1379.2.20
+		monarch_name = "Svargrim"
+		birth_date = 1400.2.20
 		death_date = 1475.1.1
 		dynasty = "Solitude"
-		claim = 80
+		claim = 75
 		adm = 5
 		dip = 3
 		mil = 2
+		#leader = { name = "Svargrim" type = general	fire = 6	shock = 4	manuever = 5	siege = 2}
 		religion = eight_divines_rel
 		culture = falkreathan
 	}

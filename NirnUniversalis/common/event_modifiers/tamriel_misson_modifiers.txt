@@ -3,14 +3,8 @@ bannermist_forrest_recovery = {
 	culture_conversion_cost = -0.15
 }
 
-proclaim_ruler_ysmir = {
-	#manpower
-	#national tax modifier
-	#moral of army
-	#yearly patriarch authority
-	global_manpower_modifier = 0.30	
-	global_tax_modifier = 0.10
-	land_morale = 0.10
-	yearly_patriarch_authority = 0.1
-	prestige = 0.5
+svartr_legacy = {
+	reduced_liberty_desire = 25
+	diplomatic_annexation_cost = -0.15
+	
 }

@@ -1,4 +1,9 @@
 ﻿l_english:
-
+#decisions
 proclaim_ruler_ysmir_title: "Proclaim Ruler Ysmir"
 proclaim_ruler_ysmir_desc: "Our ruler is certainly an avatar of the great Warrior King of Atmora!"
+#Icons
+nord_religion_flavor.6.t:0 "Worship of Alduin"
+nord_religion_flavor.6.d:0 "Big scary dragon come to eat us all in these dark times"
+nord_religion_flavor.6.a:0 "Worship him!"
+nord_religion_flavor.6.b:0 "What's wrong with you???"
