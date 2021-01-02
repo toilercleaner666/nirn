@@ -410,7 +410,7 @@ hlaalu_ideas = {
 		trade_range_modifier = 0.10
 	}
 	hlaalu_espionage = {
-		fabricate_claims_cost = -0.25
+		prestige = 1
 		province_warscore_cost = -0.1
 	}
 	hlaalu_tolerance = {
@@ -518,7 +518,7 @@ redoran_ideas = {
 	}
 
 	bonus = {
-		province_warscore_cost = -0.35
+		province_warscore_cost = -0.15
 		years_of_nationalism = -5
 	}
 	
