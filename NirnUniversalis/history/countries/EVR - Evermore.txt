@@ -4,7 +4,7 @@ primary_culture =  Ephesian
 religion = eight_divines_rel
 technology_group = western
 capital = 172
-
+elector = yes
 
 1437.2.20 = {
 	monarch = {

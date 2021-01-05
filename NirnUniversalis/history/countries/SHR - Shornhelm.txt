@@ -5,7 +5,7 @@ add_accepted_culture = Northpointer
 religion = eight_divines_rel
 technology_group = western
 capital = 230
-
+elector = yes
 
 1400.2.20 = {
 	monarch = {

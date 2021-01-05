@@ -5,7 +5,7 @@ add_accepted_culture = Alcairn
 religion = auri_el_rel
 technology_group = western
 capital = 216
-
+elector = yes
 
 1437.2.20 = {
 	monarch = {
