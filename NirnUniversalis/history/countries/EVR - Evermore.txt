@@ -6,15 +6,14 @@ technology_group = western
 capital = 172
 elector = yes
 
-1437.2.20 = {
+1444.1.1 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Blaise"
+		dynasty = "Guimard"
+                birth_date = 1411.7.12
+		adm = 4
+		dip = 3
+		mil = 4
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
 
