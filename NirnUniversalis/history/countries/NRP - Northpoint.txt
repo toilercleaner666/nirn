@@ -4,17 +4,15 @@ primary_culture = Northpointer
 religion = eight_divines_rel
 technology_group = western
 capital = 204
+elector = yes
 
-
-1437.2.20 = {
+1442.1.4 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Ellic"
+		dynasty = "Dorell"
+                birth_date = 1424.1.4
+		adm = 1
+		dip = 5
+		mil = 4
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
-

@@ -6,15 +6,13 @@ technology_group = western
 capital = 169
 
 
-1437.2.20 = {
+1415.12.12 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Uela"
+		dynasty = "The Black"
+                birth_date = 1385.7.12
+		adm = 5
+		dip = 3
+		mil = 2
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
-

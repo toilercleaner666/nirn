@@ -1,20 +1,18 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = western_reachmen
-religion = old_gods_rel
+religion = cult_of_malacath_rel
 technology_group = western
 capital = 159
 
 
-1437.2.20 = {
+1432.1.4 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Urfon"
+		dynasty = "Ice-Heart"
+                birth_date = 1412.1.4
+		adm = 2
+		dip = 1
+		mil = 2
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
-

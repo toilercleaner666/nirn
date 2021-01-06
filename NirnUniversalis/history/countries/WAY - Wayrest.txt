@@ -4,7 +4,7 @@ primary_culture = Menevian
 religion = eight_divines_rel
 technology_group = western
 capital = 212
-
+elector = yes
 
 1415.12.12 = {
 	monarch = {

@@ -5,7 +5,7 @@ add_accepted_culture = Daenian
 religion = eight_divines_rel
 technology_group = western
 capital = 4281
-
+elector = yes
 
 1417.2.20 = {
 	monarch = {

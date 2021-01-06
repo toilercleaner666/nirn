@@ -4,7 +4,7 @@ primary_culture = Camlornian
 religion = eight_divines_rel
 technology_group = western
 capital = 247
-
+elector = yes
 
 1437.2.20 = {
 	monarch = {
