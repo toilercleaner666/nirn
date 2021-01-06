@@ -6,15 +6,15 @@ technology_group = western
 capital = 152
 
 
-1437.2.20 = {
+1441.12.12 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Kurog"
+		dynasty = "gro-Bagrakh"
+                birth_date = 1421.7.12
+		adm = 4
+		dip = 6
+		mil = 5
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
+
 

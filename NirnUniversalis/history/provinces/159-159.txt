@@ -3,7 +3,7 @@
 
 
 culture = western_reachmen
-religion = old_gods_rel
+religion = cult_of_malacath_rel
 hre = no
 base_tax = 3
 base_production = 3
