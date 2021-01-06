@@ -1,0 +1,314 @@
+
+
+anvil_ideas = {
+	start = {
+		global_sailors_modifier = 0.25
+		global_spy_defence = 0.20
+	}
+
+	bonus = {
+		naval_morale = 0.20
+	}
+	
+	trigger = {
+		tag = ANV
+	}
+	free = yes		#will be added at load.
+
+	anvil_blessings = {
+		heir_chance = 0.50
+	}
+	anvil_harborside= {
+		global_ship_cost = -0.10
+	}
+	anvil_lighthouse = {
+		range = 0.20
+		trade_range_modifier = 0.20
+	}
+	anvil_mercenaries = {
+		merc_maintenance_modifier = -0.10
+	}
+	anvil_traders = {
+		trade_efficiency = 0.15
+	}
+	anvil_ultimate_heist = {
+		privateer_efficiency = 0.10
+	}
+	anvil_home_of_prophet = {
+		global_missionary_strength = 0.01
+	}
+}
+
+kvatch_ideas = {
+	start = {
+		stability_cost_modifier = -0.1
+		global_missionary_strength = 0.01
+	}
+
+	bonus = {
+		missionaries = 1
+	}
+	
+	trigger = {
+		tag = KVA
+	}
+	free = yes		#will be added at load.
+
+	kvatch_arena = {
+		prestige_from_land = 0.5
+	}
+	kvatch_signet_ring = {
+		legitimacy = 1
+		republican_tradition = 0.2
+	}
+	kvatch_antus_pinder = {
+		land_morale = 0.15
+	}
+	kvatch_independence = {
+		garrison_size = 0.25
+	}
+	kvatch_order_of_hour = {
+		discipline = 0.05
+	}
+	kvatch_great_chapel = {
+		tolerance_own = 1
+	}
+	kvatch_rebuilding = {
+		build_cost = -0.20
+	}
+}
+
+skingrad_ideas = {
+	start = {
+		diplomatic_reputation = 1
+		development_cost = -0.1
+	}
+
+	bonus = {
+		build_cost = -0.10
+	}
+	
+	trigger = {
+		tag = SKI
+	}
+	free = yes		#will be added at load.
+
+	skingrad_west_weald_wine = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	skingrad_prosperity = {
+		global_tax_modifier = 0.10
+	}
+	skingrad_strategic_fortifications = {
+		defensiveness = 0.20
+	}
+	skingrad_rislav_legacy = {
+		land_morale = 0.15
+	}
+	skingrad_paranoia = {
+		spy_offence = 0.20
+	}
+	skingrad_vampires = {
+		global_unrest = -2
+	}
+	skingrad_blessing_julianos = {
+		idea_cost = -0.1
+	}
+}
+
+chorrol_ideas = {
+	start = {
+		trade_efficiency = 0.10
+		global_tax_modifier = 0.10
+	}
+
+	bonus = {
+		manpower_recovery_speed = 0.15
+	}
+	
+	trigger = {
+		tag = CHO
+	}
+	free = yes		#will be added at load.
+
+	chorrol_kantus_jeril = {
+		leader_land_shock = 1
+	}
+	chorrol_academy = {
+		technology_cost = -0.05
+	}
+	chorrol_great_oak = {
+		prestige = 1
+	}
+	chorrol_colovian_estates = {
+		global_manpower_modifier = 0.20
+	}
+	chorrol_fighters_guild = {
+		merc_maintenance_modifier = -0.15
+	}
+	chorrol_escutcheon = {
+		discipline = 0.05
+	}
+	chorrol_dynastic_ties = {
+		diplomatic_upkeep = 1
+	}
+}
+
+bruma_ideas = {
+	start = {
+		shock_damage_received = -0.1
+		army_tradition = 0.5
+	}
+
+	bonus = {
+		leader_land_manuever = 1
+	}
+	
+	trigger = {
+		tag = BRU
+	}
+	free = yes		#will be added at load.
+
+	bruma_guardsmen = {
+		land_attrition = -0.15
+		fort_maintenance_modifier = -0.2
+	}
+	bruma_crossroads = {
+		trade_efficiency = 0.1
+		num_accepted_cultures = 1
+	}
+	bruma_diversity = {
+		religious_unity = 0.20
+	}
+	bruma_berserkers = {
+		shock_damage = 0.10
+	}
+	bruma_pale_pass = {
+		loot_amount = 0.30
+	}
+	bruma_jeralls = {
+		hostile_attrition = 1
+	}
+	bruma_great_gate = {
+		defensiveness = 0.10
+	}
+}
+
+cheydinhal_ideas = {
+	start = {
+		global_tax_modifier = 0.10
+		num_accepted_cultures = 1
+	}
+
+	bonus = {
+		improve_relation_modifier = 0.20
+	}
+	
+	trigger = {
+		tag = CHE
+	}
+	free = yes		#will be added at load.
+
+	cheydinhal_knights = {
+		prestige = 0.25
+		cavalry_power = 0.1
+	}
+	cheydinhal_dunmer_influence = {
+		diplomatic_upkeep = 1
+	}
+	cheydinhal_blessing_arkay = {
+		land_attrition = -0.10
+	}
+	cheydinhal_black_waterside_stables = {
+		movement_speed = 0.15
+		cavalry_flanking = 0.5
+	}
+	cheydinhal_orcish_population = {
+		land_morale = 0.10
+	}
+	cheydinhal_lythandas = {
+		stability_cost_modifier = -0.2
+	}
+	cheydinhal_abandoned_buildings = {
+		spy_offence = 0.10
+	}
+}
+
+bravil_ideas = {
+	start = {
+		global_trade_power = 0.1
+		galley_power = 0.2
+	}
+
+	bonus = {
+		trade_efficiency = 0.15
+	}
+	
+	trigger = {
+		tag = BRV
+	}
+	free = yes		#will be added at load.
+
+	bravil_teo_bravillius_tasus = {
+		shock_damage_received = -0.05
+		fire_damage_received = -0.05
+	}
+	bravil_lucky_lady = {
+		global_unrest = -1
+	}
+	bravil_forlorn_sailors = {
+		naval_morale = 0.10
+	}
+	bravil_diplomacy = {
+		unjustified_demands = -0.2
+	}
+	bravil_ayleid_ruin = {
+		technology_cost = -0.1
+	}
+	bravil_castle_gardens = {
+		prestige = 0.5
+	}
+	bravil_strange_doors = {
+		trade_range_modifier = 0.33
+	}
+}
+
+leyawiin_ideas = {
+	start = {
+		improve_relation_modifier = 0.25
+		hostile_attrition = 1
+	}
+
+	bonus = {
+		light_ship_cost = -0.20
+	}
+	
+	trigger = {
+		tag = LYW
+	}
+	free = yes		#will be added at load.
+
+	leyawiin_trans_nibenese_acceptance = {
+		num_accepted_cultures = 2
+	}
+	leyawiin_history_of_worship = {
+		tolerance_heretic = 1
+		tolerance_heathen = 1
+	}
+	leyawiin_blackwood_company = {
+		mercenary_discipline = 0.05
+	}
+	leyawiin_guild_plaza = {
+		merc_maintenance_modifier = -0.10
+	}
+	leyawiin_zenithar_blessing = {
+		trade_efficiency = 0.1
+	}
+	leyawiin_knights_stallion = {
+		land_morale = 0.1
+	}
+	leyawiin_court_parties = {
+		heir_chance = 0.50
+		spy_offence = 0.10
+	}
+}

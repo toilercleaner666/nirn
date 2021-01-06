@@ -3025,44 +3025,8 @@ CHICK_ideas = {
 
 
 
-CHE_ideas = {
-	start = {
-		advisor_cost = -0.10
-		enemy_core_creation = 0.25
-	}
-	
-	bonus = {
-		global_institution_spread = 0.1
-	}
-	
-	trigger = {
-		tag = CHE
-	}
-	free = yes		# will be added at load
-	
-	moundbilders_legacy_CHE = {
-		build_cost = -0.1
-	}
-	massacre_of_the_anikutani = {
-		stability_cost_modifier = -0.1
-	}
-	red_chiefs = {
-		global_manpower_modifier = 0.20
-	}
-	cherokee_adaptability = {
-		idea_cost = -0.10
-	}
-	ghigau = {
-		land_morale = 0.1
-	}
-	mountainous_isolation = {
-		defensiveness = 0.10
-	}
-	cherokee_emperor = {
-		diplomats = 1
-	}
 
-}
+
 
 PUE_ideas = {
 	start = {
