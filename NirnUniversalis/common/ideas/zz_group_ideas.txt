@@ -387,6 +387,213 @@ rimmenian_ideas = {
     }
 }
 
+hlaalu_ideas = {
+	start = {
+		trade_efficiency = 0.1
+	}
+
+	bonus = {
+		global_tax_modifier = 0.10
+	}
+	
+	trigger = {
+		tag = HLU
+	}
+	free = yes		#will be added at load.
+
+	hlaalu_expeditions = {
+		merchants = 1
+		trade_range_modifier = 0.10
+	}
+	hlaalu_espionage = {
+		prestige = 1
+		province_warscore_cost = -0.1
+	}
+	hlaalu_tolerance = {
+		religious_unity = 0.25
+		culture_conversion_cost = -0.15
+	}
+	hlaalu_accounting_tricks = {
+		merc_maintenance_modifier = -0.15
+		mercenary_discipline = 0.1
+	}
+	hlaalu_taxation = {
+		global_tax_modifier = 0.25
+	}
+	hlaalu_telvanni_defectors = {
+		artillery_power = 0.15
+	}
+	hlaalu_create_new_councillors = {
+		state_governing_cost = -0.1
+	}
+}
+
+dres_ideas = {
+	start = {
+		trade_efficiency = 0.1
+		global_unrest = +1
+	}
+
+	bonus = {
+		global_unrest = -2
+	}
+	
+	trigger = {
+		tag = DRS
+	}
+	free = yes		#will be added at load.
+
+	dres_slave_plantations = {
+		production_efficiency = 0.25
+	}
+	dres_slave_merchants = {
+		diplomatic_reputation = 1
+	}
+	dres_corsairs = {
+		infantry_power = 0.1
+		global_ship_cost = -0.2
+	}
+	dres_slave_armies = {
+		infantry_cost = -0.25
+		global_manpower_modifier = 0.25
+	}
+	dres_expansion = {
+		province_warscore_cost = -0.1
+	}
+	dres_hlaalu_tactics = {
+		global_trade_power = 0.1
+	}
+	dres_courier_system = {
+		core_creation = -0.10
+	}
+}
+
+indoril_ideas = {
+	start = {
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		prestige_decay = -0.05
+	}
+	
+	trigger = {
+		tag = IDL
+	}
+	free = yes		#will be added at load.
+
+	indoril_purge_outlanders = {
+		land_morale = 0.1
+	}
+	indoril_integrate_conquered_people = {
+		global_unrest = -1
+	}
+	indoril_train_ordinators = {
+		infantry_power = 0.15
+	}
+	indoril_honor_the_three = {
+		tolerance_own = 5
+		global_missionary_strength = 0.05
+	}
+	indoril_tithes = {
+		global_tax_modifier = 0.2
+	}
+	indoril_seat_of_gods = {
+		legitimacy = 1
+		devotion = 1
+	}
+	indoril_for_the_three = {
+		ae_impact = -0.10
+	}
+}
+
+redoran_ideas = {
+	start = {
+		army_tradition_decay = -0.01
+		land_forcelimit_modifier = 0.25
+	}
+
+	bonus = {
+		province_warscore_cost = -0.15
+		years_of_nationalism = -5
+	}
+	
+	trigger = {
+		tag = RDN
+	}
+	free = yes		#will be added at load.
+
+	redoran_hardened_bonemold = {
+		infantry_power = 0.15
+	}
+	redoran_effective_administration = {
+		stability_cost_modifier = -0.1
+		global_tax_modifier = 0.15
+	}
+	redoran_conscript_troops = {
+		global_manpower_modifier = 0.10
+	}
+	redoran_defenders_of_the_west = {
+		defensiveness = 0.15
+		fort_maintenance_modifier = -0.2
+	}
+	redoran_honorable_service = {
+		infantry_cost = -0.15
+		army_tradition = 0.5
+	}
+	redoran_professional_army = {
+		land_morale = 0.20
+	}
+	redoran_uniters_of_morrowind = {
+		ae_impact = -0.2
+	}
+}
+
+telvanni_ideas = {
+	start = {
+		development_cost = -0.15
+		army_tradition = 0.5
+	}
+
+	bonus = {
+		artillery_power = 0.25
+		global_tax_modifier = 0.15
+		global_colonial_growth = 20
+	}
+	
+	trigger = {
+		tag = TLV
+	}
+	free = yes		#will be added at load.
+
+	telvanni_establish_towers = {
+		governing_capacity_modifier = 0.1
+		fort_maintenance_modifier = -0.2
+	}
+	telvanni_end_isolation = {
+		fabricate_claims_cost = -0.25
+		core_creation = -0.10
+	}
+	telvanni_akaviri_trade = {
+		global_own_trade_power = 0.25
+	}
+	telvanni_emmisaries = {
+		diplomatic_reputation = 1
+		siege_ability = 0.15
+	}
+	telvanni_naval_power = {
+		navy_tradition = 1
+		global_sailors_modifier = 0.25
+	}
+	telvanni_mage_training = {
+		artillery_cost = -0.25
+	}
+	telvanni_grand_army = {
+		land_forcelimit_modifier = 0.20
+		global_manpower_modifier = 0.20
+	}
+}
+
 #################
 # Skyrim Empire #
 #################
