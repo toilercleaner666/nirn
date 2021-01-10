@@ -868,19 +868,19 @@ pyrrha_bay_node={
 		}
 	}
 	members={
-		0 0 3248 
+		3248 
 	}
 	ai_will_propagate_through_trade=yes
 }
 orgnums_hold_node={
-	location=3259
+	location=1189
 	outgoing={
 		name="topal_bay_node"
 		path={
 			3272 
 		}
 		control={
-			1685.000000 865.000000 
+			2084.429932 520.059998 2303.000000 719.000000 
 		}
 	}
 	outgoing={
@@ -889,11 +889,11 @@ orgnums_hold_node={
 			3272 
 		}
 		control={
-			1685.000000 865.000000 
+			1954.000000 540.000000 
 		}
 	}
 	members={
-		0 0 3259 
+		1189 1190 
 	}
 	ai_will_propagate_through_trade=yes
 }
