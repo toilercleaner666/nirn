@@ -18,4 +18,9 @@ jarldom_reform = {
 	custom_attributes = {
 		locked_government_type = yes
 	}
+	factions = {
+		fighters_guild_faction
+		mages_guild_faction
+		thieves_guild_faction
+	}
 }
