@@ -1,5 +1,5 @@
 jarldom_reform = {
-	icon = "castle"
+	icon = "crown"
 	allow_normal_conversion = yes
 	potential = {
 		religion_group = divines_religion_group

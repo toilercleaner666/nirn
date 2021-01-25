@@ -32,6 +32,7 @@ monarchy = {
 				austrian_archduchy_reform
 				#####TAMRIEL CHANGES#####
 				jarldom_reform
+				#####TAMRIEL CHANGES END#####
 			}
 		}
 		hereditary_vs_nobility = {
@@ -134,6 +135,8 @@ monarchy = {
 		principality_legacy
 		tsardom_legacy
 		holy_state_legacy
+		jarldom_legacy
+
 	}
 
 	# Each group of exclusive reforms are mutually exclusive to each other
@@ -175,6 +178,7 @@ monarchy = {
 		celestial_empire
 		#####TAMRIEL CHANGES#####
 		jarldom_reform
+		#####TAMRIEL CHANGES END#####
 	}
 
 	#Flavor
@@ -228,7 +232,7 @@ republic = {
 		protectorate_parliament_legacy
 		prussian_republic
 		united_cantons_legacy
-		jarldom_legacy
+
 	}
 	reform_levels = {
 		oligarchy_merchant_class_noble_elite = {

@@ -147,7 +147,7 @@ haafingar_Reach_group = {
 		}
 	}
 	haf_take_karthwasten = {
-		icon = mission_unite_home_region
+		icon = mission_cannons_firing
 		required_missions = { haf_recover_delta }
 		position = 1
 		
@@ -175,7 +175,7 @@ haafingar_Reach_group = {
 		}
 	}
 	haf_recover_markarth = {
-		icon = mission_unite_home_region
+		icon = mission_conquer_50_development
 		required_missions = { haf_take_karthwasten }
 		position = 1
 		
@@ -355,7 +355,7 @@ haafingar_test_group = {
 	}
 
   haf_convert_reach = {
-		icon = mission_pf_cross
+		icon = mission_religious
 		required_missions = { haf_recover_markarth }
 		position = 5
 		
@@ -390,13 +390,15 @@ haafingar_East_group = {
 		position = 2
 		
 		trigger = {
-		karthwasten_area = {
+		whiterun_area = {
 				type = all
 				religion_group = ROOT
+				country_or_non_sovereign_subject_holds = ROOT				
 			}
 	}
 		effect = {
-
+			add_accepted_culture = whiterunner
+			add_accepted_culture = rorikstead 
 		}
   
   }
@@ -434,12 +436,14 @@ haafingar_dip_group = {
 		position = 2
 		
 		trigger = {
-		karthwasten_area = {
+		morthal_area = {
 				type = all
 				religion_group = ROOT
+				country_or_non_sovereign_subject_holds = ROOT
 			}
 	}
 		effect = {
+			add_accepted_culture = hjaalmarcher 
 
 		}
   
@@ -454,23 +458,49 @@ haafingar_dip_group = {
 		position = 2
 		
 		trigger = {
-		karthwasten_area = {
+		whiterun_area = {
 				type = all
 				religion_group = ROOT
+				country_or_non_sovereign_subject_holds = ROOT
 			}
 	}
 		effect = {
+			if = {
+				limit = {
+					NOT = {
+						government_rank = 3
+					}
+				}
+				set_government_rank = 3
+			}
 			override_country_name = WEST_SKYRIM
 			hjaalmarch_skyrim_region = {
 			limit = {
 				NOT = { is_core = ROOT }
 				NOT = { is_permanent_claim = ROOT }
 			}
+			}
+			whiterun_skyrim_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { is_permanent_claim = ROOT }
+			}
+			}
+			falkreth_skyrim_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { is_permanent_claim = ROOT }
+			}
 				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
 			}
 		}
   
   }
+
   
 }
 haafingar_east_group = {
@@ -486,13 +516,15 @@ haafingar_east_group = {
 		position = 2
 		
 		trigger = {
-		karthwasten_area = {
+		falkreth_area = {
 				type = all
 				religion_group = ROOT
+				country_or_non_sovereign_subject_holds = ROOT
 			}
 	}
 		effect = {
-
+			add_accepted_culture = helgener 
+			add_accepted_culture = falkreathan 
 		}
   
   }

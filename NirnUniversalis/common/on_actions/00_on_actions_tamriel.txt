@@ -464,6 +464,9 @@ on_new_monarch = {
 		muslim_school_events.20 #No Religious School
 		flavor_daimyo.4			#Shiba Yoshikado
 		flavor_fra.9000			# François Villon
+		##################
+		#NIRN UNIVERSALIS#
+		##################
 		flavor_SOL.1			#Death of Svartr
 		flavor_WND.1			#Death of Freydis
 	}

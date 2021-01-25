@@ -36,7 +36,7 @@ country_event = {
 				NOT = { tag = ROOT }
 				OR = {
 					is_subject_of = ROOT
-					religion = old_gods_rel
+					#religion = old_gods_rel
 				}
 			}
 			country_event = { id = flavor_WND.4 }
@@ -67,7 +67,7 @@ country_event = {
 	immediate = { set_global_flag = death_of_Freydis }
 	
 	option = { 
-		name = "flavor_WND.1.a" # My time has come!
+		name = "flavor_WND.1.a" # What will we do without her??
 		custom_tooltip = flavor_WND.1.a.tt
 		hidden_effect = {
 			every_country = {
@@ -106,6 +106,7 @@ country_event = {
 					capital_scope = {
 						superregion = skyrim_superregion
 						is_core = ROOT
+						NOT = { religion = old_gods_rel}
 					}
 			}
 
@@ -114,7 +115,7 @@ country_event = {
 }
 
 
-# High King Freydis of Solitude (Other nations)
+# High Queen Freydis of Windhelm (Other nations)
 country_event = {
 	id = flavor_WND.4
 	title = "flavor_WND.0.t"

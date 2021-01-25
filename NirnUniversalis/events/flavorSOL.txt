@@ -1,7 +1,7 @@
 ########################################
 # Flavor Events for Haafingar/Solitude
 #
-# written by ScienceGu23
+# written by ScienceGuy23
 ########################################
 
 namespace = flavor_SOL
@@ -101,15 +101,19 @@ country_event = {
 	option = {
 		name = "flavor_SOL.2.b" #
 		trigger = {NOT = {is_subject_of = SOL} }
-		custom_tooltip = flavor_SOL.2.b.tt
+		#custom_tooltip = flavor_SOL.2.b.tt
 		if = {
 			limit = {
 					capital_scope = {
 						superregion = skyrim_superregion
 						is_core = ROOT
+						religion = old_gods_rel
 					}
 			}
-
+			add_country_modifier = {
+				name = "disorder_nords"
+				duration = 5475
+			}
 		}
 	}
 }

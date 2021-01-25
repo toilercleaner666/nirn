@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = eastern_reachman
-add_accepted_culture = karth
+primary_culture = karth
+add_accepted_culture = eastern_reachman
 religion = old_gods_rel
 technology_group = western
 unlock_cult = enkai_cult
@@ -12,11 +12,11 @@ capital = 118
 
 1437.2.20 = {
 	monarch = {
-		name = "Despot"
-		dynasty = Markarth
-		adm = 4
-		dip = 6
-		mil = 5
+		name = "Ard"
+		dynasty = Caddach
+		adm = 3
+		dip = 3
+		mil = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

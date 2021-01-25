@@ -1083,6 +1083,29 @@ gond_kingdom = {
 	}
 }
 
+###############TAMRIEL CHANGES#################
+jarldom_reform = {
+	icon = "crown"
+	allow_normal_conversion = yes
+	potential = {
+		religion_group = divines_religion_group
+	}
+	valid_for_nation_designer = no 
+	nation_designer_cost = 0
+	lock_level_when_selected = yes
+	legacy_equivalent = jarldom_legacy
+	modifiers = {
+		land_maintenance_modifier = -0.1
+		global_manpower_modifier = 0.1
+		vassal_income = 0.25
+		global_unrest = 1
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+###############END TAMRIEL CHANGES#############
+
 #Hereditary vs Nobility
 enforce_privileges_reform = {
 	icon = "people_walking"

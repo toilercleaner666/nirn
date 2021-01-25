@@ -67,7 +67,7 @@ defaults_reform = {
 
 #################TAMRIEL Changes##########################
 jarldom_legacy = {
-	icon = "crown_highlighted"
+	icon = "crown"
 	allow_normal_conversion = no 
 	legacy_government = yes
 	monarchy = yes
@@ -88,6 +88,7 @@ jarldom_legacy = {
 }
 
 #################TAMRIEL Changes END ##########################
+
 despotic_monarchy = {
 	# government mechanics flags go here
 	icon = "crown"

@@ -377,3 +377,41 @@ RFT_ideas = {
 
 }
 
+#########
+# Reach #
+#########
+MAR_Ideas = {
+start = {
+	fort_maintenance_modifier = -0.10
+	Tolerance_own = 2
+	}
+	bonus = {
+		trade or something idk
+		}
+	trigger = {
+		culture_group = reachmen_group
+	}
+	free = yes
+	MAR_defend_reach = {
+		enemy_core_creation = 0.2
+		hostile_attrition = .1
+	}
+	MAR_blood_and_silver = {
+		production_efficiency = 0.1
+	}
+	MAR_briarhearts = {
+		land_morale = 0.10
+	}
+	MAR_tribal_councils ={
+		advisor_cost = -0.05
+	}
+	MAR_hagravens = {
+		artillery_power = 0.10
+	}
+	MAR_old_gods = {
+		global_missionary_strength = 0.03
+	}
+	MAR_improve_image = {
+		improve_relation_modifier = 0.33
+	}	
+}

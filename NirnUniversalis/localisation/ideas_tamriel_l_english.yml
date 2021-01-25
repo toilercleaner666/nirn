@@ -152,6 +152,25 @@ WND_navy_desc: ""
 WND_religion: "The Faithful of Windhelm"
 WND_religion_desc: "Windhelm has a reputation for piety and honesty."
 
+#Reachmen
+MAR_Ideas: "Reachmen Ideas"
+MAR_ideas_start: "Reachmen Traditions"
+MAR_ideas_bonus: "Reachmen Ambitions"
+MAR_defend_reach: "Defend the Reach"
+MAR_defend_reach_desc: ""
+MAR_blood_and_silver: "Blood and Silver"
+MAR_blood_and_silver_desc: ""
+MAR_briarhearts: "Briarhearts"
+MAR_briarhearts_desc: ""
+MAR_tribal_councils: "Tribal Councils"
+MAR_tribal_councils_desc: ""
+MAR_hagravens: "Hagravens"
+MAR_hagravens_desc: ""
+MAR_old_gods: "The Old gods"
+MAR_old_gods_desc: ""
+MAR_improve_image: "Improve our Image"
+MAR_improve_image_desc: ""
+
 #########################
 #HIGH ROCK IDEAS	#
 #########################
