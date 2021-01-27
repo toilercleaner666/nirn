@@ -102,7 +102,7 @@ country_event = {
 	}
 }
 
-# Reduce the Independence of the Church
+# Reduce the Independence of the Temples
 country_event = {
 	id = nord_religion_flavor.4
 	title = nord_religion_flavor.4.t

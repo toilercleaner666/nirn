@@ -12,7 +12,6 @@ jarldom_reform = {
 	modifiers = {
 		land_maintenance_modifier = -0.1
 		global_manpower_modifier = 0.1
-		vassal_income = 0.25
 		global_unrest = 1
 	}
 	custom_attributes = {
