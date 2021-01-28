@@ -6,13 +6,16 @@ technology_group = western
 capital = 757
 
 
-1437.2.20 = {
+1432.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Murberius"
+		dynasty = "Novatian"
+		birth_date = 1394.1.3
+		adm = 3
+		dip = 3
+		mil = 4
+		religion = eight_divines_rel
+		culture = hastrelan
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

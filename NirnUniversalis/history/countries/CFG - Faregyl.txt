@@ -7,13 +7,16 @@ technology_group = western
 capital = 802
 
 
-1437.2.20 = {
+1435.8.25 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Percius"
+		dynasty = "Proximus"
+		birth_date = 1412.4.20
+		adm = 5
+		dip = 3
+		mil = 4
+		religion = eight_divines_rel
+		culture = bravilese
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

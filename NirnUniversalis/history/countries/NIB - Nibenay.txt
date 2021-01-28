@@ -8,15 +8,19 @@ technology_group = western
 capital = 879
 
 
-1437.2.20 = {
+1444.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Abnur"
+		dynasty = "Tharn"
+		birth_date = 1429.2.20
+		adm = 6
+		dip = 6
+		mil = 4
+		religion = eight_divines_rel
+		culture = nibenayan
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
 

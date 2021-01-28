@@ -16,7 +16,7 @@ capital = 818
 		dip = 2
 		mil = 4
 		religion = eight_divines_rel
-		culture = heartlander
+		culture = western_reachmen
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
@@ -33,7 +33,7 @@ capital = 818
 		dip = 1
 		mil = 5
 		religion = eight_divines_rel
-		culture = heartlander
+		culture = western_reachmen
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

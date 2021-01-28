@@ -7,13 +7,16 @@ technology_group = western
 capital = 925
 
 
-1437.2.20 = {
+1436.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Ormax"
+		dynasty = "Hayn"
+		birth_date = 1395.12.1
+		adm = 3
+		dip = 3
+		mil = 4
+		religion = eight_divines_rel
+		culture = aurusian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

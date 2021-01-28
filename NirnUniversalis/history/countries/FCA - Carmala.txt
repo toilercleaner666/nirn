@@ -6,13 +6,16 @@ technology_group = western
 capital = 721
 
 
-1437.2.20 = {
+1439.7.25 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Belisarius"
+		dynasty = "Julus"
+		birth_date = 1391.6.15
+		adm = 3
+		dip = 3
+		mil = 6
+		religion = eight_divines_rel
+		culture = carmelan
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

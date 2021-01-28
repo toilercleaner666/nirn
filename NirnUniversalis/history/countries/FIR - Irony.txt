@@ -6,13 +6,16 @@ technology_group = western
 capital = 825
 
 
-1437.2.20 = {
+1441.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Lorgren"
+		dynasty = "Vinicius"
+		birth_date = 1411.2.6
+		adm = 4
+		dip = 1
+		mil = 4
+		religion = eight_divines_rel
+		culture = bravilese
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

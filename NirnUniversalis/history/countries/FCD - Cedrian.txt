@@ -6,15 +6,19 @@ technology_group = western
 capital = 901
 
 
-1437.2.20 = {
+1431.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Gallus"
+		dynasty = "Secundus"
+		birth_date = 1393.4.10
+		adm = 3
+		dip = 1
+		mil = 4
+		religion = eight_divines_rel
+		culture = aurusian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
 

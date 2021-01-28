@@ -6,13 +6,16 @@ technology_group = western
 capital = 919
 
 
-1437.2.20 = {
+1437.11.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Noster"
+		dynasty = "Herminia"
+		birth_date = 1402.6.2
+		adm = 1
+		dip = 2
+		mil = 1
+		religion = eight_divines_rel
+		culture = chalmani
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

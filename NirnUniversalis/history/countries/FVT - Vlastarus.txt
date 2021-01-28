@@ -6,13 +6,16 @@ technology_group = western
 capital = 790
 
 
-1437.2.20 = {
+1432.6.5 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Surus"
+		dynasty = "Pictor"
+		birth_date = 1398.5.21
+		adm = 2
+		dip = 1
+		mil = 3
+		religion = eight_divines_rel
+		culture = wealdish
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

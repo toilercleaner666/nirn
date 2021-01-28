@@ -6,13 +6,16 @@ technology_group = western
 capital = 740
 
 
-1437.2.20 = {
+1436.3.30 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Crottus"
+		dynasty = "Curatius"
+		birth_date = 1392.4.15
+		adm = 5
+		dip = 5
+		mil = 2
+		religion = eight_divines_rel
+		culture = carmelan
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

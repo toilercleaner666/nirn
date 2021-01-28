@@ -6,15 +6,19 @@ technology_group = western
 capital = 896
 
 
-1437.2.20 = {
+1423.2.22 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Dion"
+		dynasty = "Isauricus"
+		birth_date = 1388.10.16
+		adm = 2
+		dip = 2
+		mil = 4
+		religion = eight_divines_rel
+		culture = valusian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
 
