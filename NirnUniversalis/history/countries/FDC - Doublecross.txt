@@ -6,15 +6,19 @@ technology_group = western
 capital = 853
 
 
-1437.2.20 = {
+1436.12.8 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Tinus"
+		dynasty = "Apinia"
+		birth_date = 1409.11.4
+		adm = 2
+		dip = 1
+		mil = 4
+		religion = eight_divines_rel
+		culture = blackwooder
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
 
