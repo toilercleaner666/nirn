@@ -1,0 +1,307 @@
+provinces;province_name;trade_good
+660;Pale Pass;gems
+661;Wildeye;livestock
+662;Gnoll Mountain;fur
+663;Frostcrag Spire;magical_supplies
+664;Fort Dragonclaw;salt
+665;Cloud Ruler Temple;paper
+666;Rielle;cloth
+667;Boreal Stone;salt
+668;Alessia's Rest;livestock
+669;Jagged Hills;gems
+670;Lipsand Tarn;cloth
+671;Sancre Tor;iron
+672;Ninendava;cloth
+673;Applewatch;grain
+674;Underpall;iron
+675;Bruma;salt
+676;Plundered Gates;salt
+677;Toadstool Hollow;copper
+678;Bleaker's Outpost;livestock
+679;Anga;cloth
+680;Ice-Heart;gems
+681;Bleaker's Way;grain
+682;Endre;grain
+683;Piukanda;magical_supplies
+684;Fort Coldcorn;grain
+685;Sheltered Leaves;timber
+686;Sercen;cloth
+687;Grenshire;grain
+688;Glademist;grain
+689;Orange Cliff;gems
+690;Moranda;magical_supplies
+691;Windy Highlands;gems
+692;Shaderton;salt
+693;Cloud Top;timber
+694;Fort Rayles;livestock
+695;Hrotanda Vale;magical_supplies
+696;Journeyman's Clearing;fur
+697;Odiil;grain
+698;Forrest Glades;timber
+699;Chorrol Forrest;timber
+700;Yellow Tick;grain
+701;Fort Empire;copper
+702;Weye;fish
+703;Wawnet;wine
+704;Breakneck;grain
+705;Narfinsel;cloth
+706;Brindle Home;livestock
+707;Gottlesfont Priory;grain
+708;Haynote;grain
+709;Grayrock;iron
+710;Fort Wooden Hand;livestock
+711;Elenglynn;cloth
+712;Fort Ash;copper
+713;Dibella's Pond;timber
+714;Weynon Priory;wool
+715;Chorrol;fur
+716;Nonungalo;cloth
+717;Pitch Cliff;salt
+718;Rickare;iron
+719;Everteen;salt
+720;Anderian;timber
+721;Fort Carmala;livestock
+722;Sanguine's Log;timber
+723;Kynareth's Hills;timber
+724;Greenfield;grain
+725;Grateful Pass;wine
+726;Shadeleaf Copse;wine
+727;Ceyatatar;cloth
+728;Skingrad;wine
+729;Bloodcrust;copper
+730;Silorn;magical_supplies
+731;Arkay's Pillars;timber
+732;Fat Ramp Camp;wool
+733;Cursed Cliffs;gold
+734;Fyrelight;livestock
+735;Bleak Flats;copper
+736;Fort Dirich;wine
+737;Balley View;grain
+738;Hackdirt;grain
+739;Brotch;fur
+740;Fort Ontus;livestock
+741;Echo Hills;iron
+742;Infested Clearing;grain
+743;Varondo;magical_supplies
+744;Talwinque;cloth
+745;Atronach's Field;livestock
+746;Fallen Rock;copper
+747;Shardrock;wool
+748;Gnoll's Meeting;fur
+749;Fort Istirus;copper
+750;Miscarcand;paper
+751;Dasek Moor;iron
+752;Troll Candle Camp;fur
+753;Ra'sava;fur
+754;Fort Linchal;livestock
+755;Dagny;fur
+756;Ales;wine
+757;Fort Hastrel;livestock
+758;Mongrel's Tooth;copper
+759;Wariel;copper
+760;Kvatch;cloth
+761;Shattered Mine;gold
+762;Sithian Rock;timber
+763;Last Chance;fur
+764;Niryastare;cloth
+765;Trumbe;cloth
+766;Fort Wariel;livestock
+767;Gottshaw;grain
+768;Belletor's Folly;iron
+769;Jodestone;cloth
+770;Egriril (M);fish
+771;Enclave Of The Hourglass;livestock
+772;Gweden Farm;grain
+773;Dunbarrow Cove;fish
+774;Fort Strand;copper
+775;Anvil;naval_supplies
+776;Garlas Agea;cloth
+777;Whitmond Farm;wool
+778;Bodean;fur
+779;Atrene;livestock
+780;Golden Lighthouse;fish
+781;Garlas Malatar;magical_supplies
+782;Fort Crowhaven;iron
+783;Fort Sutch;grain
+784;Drad Estate;tobacco
+785;Beldaburo;cloth
+786;Fort Virtue;fish
+787;Fanacasecul;cloth
+788;Vindasel;cloth
+789;Felgageldt;grain
+790;Vlastarus;grain
+791;gro-Bak;gems
+792;Collarbone;fur
+793;Nisin;ebony
+794;Castle Roebeck;grain
+795;Priory of the Nine;grain
+796;Old Bridge;fish
+797;Fort Homestead;gold
+798;Pell's Gate;cloth
+799;Hircine's Rock;fur
+800;Sweetwater Camp;fur
+801;Robber's Glen;copper
+802;Castle Faregyl;livestock
+803;Harcane Grove;timber
+804;Fort Black Foot;grain
+805;Wenyandawik;magical_supplies
+806;Anutwyll;silk
+807;Bravil;naval_supplies
+808;Bloodmayne;grain
+809;Zenithar's Chapel;gems
+810;Flooded Mine;iron
+811;Veyond;magical_supplies
+812;Fort Variela;copper
+813;Fort Alessia;iron
+814;Fatback;fur
+815;Arcane University;magical_supplies
+816;Waterfront District;naval_supplies
+817;Arboretum;timber
+818;White Gold Tower;cloth
+819;Imperial Sewers;cloth
+820;Arena District;iron
+821;Market District;silk
+822;Garden District;cloth
+823;Rumare Gatehouse;fish
+824;Dzonot;grain
+825;Fort Irony;naval_supplies
+826;Bawn;silk
+827;Reedstand Cave;copper
+828;Fort Nomore;gold
+829;Rockmilk;grain
+830;Border Watch;wool
+831;Water's Edge;grain
+832;White Stallion;livestock
+833;Undertow;salt
+834;Telepe;cloth
+835;Leyawiin;naval_supplies
+836;Greyland;spices
+837;Somberstorm (M);fish
+838;Forasken Min;gold
+839;Deepscorn Hollow;livestock
+840;Tidewater Cove;fish
+841;Fort Blueblood;paper
+842;Topal's Rest;fish
+843;Swampwraith;timber
+844;Darkfathom;fish
+845;Onyx Hamlet;iron
+846;Misty Glades;timber
+847;Veyond;magical_supplies
+848;Fisherman's Rock;fish
+849;Blankenmarch;grain
+850;Fieldhouse;grain
+851;Marsh's Edge;tropical_wood
+852;Bilegulch;spices
+853;Fort Doublecross;iron
+854;Mara's Rest;timber
+855;Arpenia;cloth
+856;Vinthak;fish
+857;Brackishville (M);grain
+858;Panter's Spill;fish
+859;Magnus rock;salt
+860;Barren Mine;gold
+861;Atatar;magical_supplies
+862;Marsh-Punk;tropical_wood
+863;Fort Bulwark;gems
+864;Marshwatch;tropical_wood
+865;Fort Teleman;iron
+866;Garnet Camp;fur
+867;Haunted Mine;gold
+868;Morahame;cloth
+869;Redwater;naval_supplies
+870;Leafrot;fish
+871;Seran Camp;fur
+872;Wendelbek;magical_supplies
+873;Fort Cuptor;naval_supplies
+874;Mir Corrup;fish
+875;Nayon Camp;grain
+876;Gold-Throat;copper
+877;Panterville;livestock
+878;Fort Grief;naval_supplies
+879;Nenalata;magical_supplies
+880;Imperial Bridge;fish
+881;Fort Warden;grain
+882;Waxmoth Fort;iron
+883;Sundercliff Watch;iron
+884;West Septim's Gate;gems
+885;Malada;paper
+886;Lost Boy;copper
+887;Collapsed Mines;iron
+888;Arrowshaft Caves;grain
+889;Bedrock Caverns;fur
+890;Ondo;paper
+891;Fort Flecia;iron
+892;Cadlew Chapel;spices
+893;Crestbridge Camp;grain
+894;Mackamentain;magical_supplies
+895;Trossan Camp;fur
+896;Fort Entius;gems
+897;Mage's Gathering;salt
+898;Forestville;timber
+899;Deserted Mine;gold
+900;Crayfish;grain
+901;Fort Cedrian;iron
+902;Riverglade;fish
+903;Souzare;grain
+904;Timberscarn Hollow;spices
+905;Newt Caverns;fish
+906;Culotte;cloth
+907;Cropsford;grain
+908;Cracked Wood;copper
+909;Vanua;cloth
+910;Fort Magia;naval_supplies
+911;Blue Road Keep;iron
+912;Nagastani;silk
+913;Memorial Barrow;fish
+914;Fort Urasek;naval_supplies
+915;Vilverin;paper
+916;Fort Chalman;naval_supplies
+917;Fort Caractacus;iron
+918;Fathis Aren's Tower;iron
+919;Aleswell;wool
+920;Roxeyville;grain
+921;Frostfire Glade;gems
+922;Highlands;wool
+923;Chalman Keep;grain
+924;Silver Tooth;grain
+925;Fort Horunn;copper
+926;Exhausted Rock;gold
+927;Beast Maw;iron
+928;White Fall Ranges;timber
+929;Steed Valley;livestock
+930;Entin;livestock
+931;Mist Morrow;grain
+932;Nornal;magical_supplies
+933;Wendelbek;magical_supplies
+934;Drakelowe;grain
+935;Fort Facian;livestock
+936;Sheltered Hills;grain
+937;Hame;paper
+938;Boethia's Peaks;copper
+939;Fort Naso;copper
+940;Carbo;fish
+941;Muck Valley;livestock
+942;Poppod Hamlet;livestock
+943;Harlun's Watch;grain
+944;Knights of the Thorn Lodge;grain
+945;Quick-Water;fish
+946;Barren Falls;salt
+947;Wind Range;fur
+948;Cheydinhal;cloth
+949;Jerral Hills;copper
+950;Hidden Camp;fur
+951;Mountain Camp;fur
+952;Sedor;silk
+953;Frostbitten Hills;salt
+954;Gnoll Mountain;fur
+955;Rugdumph's Estate;grain
+956;Dive Rock;copper
+957;Ancestor Moth Hill;paper
+958;Farragut Keep;livestock
+959;Kemen;magical_supplies
+960;Rickety Mine;iron
+961;Akatosh's Rock;grain
+962;Fort Scinia;wine
+963;Hero Hill;copper
+964;Shetcombe;livestock
+994;Harm's Folly;grain
