@@ -1,0 +1,21 @@
+#950-Hidden Camp
+
+add_core = FHN
+add_core = CHE
+owner = CHE
+controller = CHE
+culture = horunian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fur
+base_manpower = 3
+capital = "Hidden Camp"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

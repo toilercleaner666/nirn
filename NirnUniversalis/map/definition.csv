@@ -1,4 +1,4 @@
-﻿provinces;red;green;blue;x;x
+provinces;red;green;blue;x;x
 1;104;154;101;Jylkurfyk;x
 2;229;162;120;Skorraholt (M);x
 3;241;191;154;Kolssonafell (M);x
@@ -422,7 +422,7 @@
 421;165;242;123;Nchuleft;x
 422;82;201;64;Venim Meadow;x
 423;102;133;136;Zainab Camp;x
-424;255;244;252;Aralen Grasslands ;x
+424;255;244;252;Aralen Grasslands;x
 425;87;180;183;Sethan Groves;x
 426;102;170;238;Falensarano;x
 427;73;165;63;Lenith Cliffs;x
@@ -481,7 +481,7 @@
 480;247;223;105;Khuu;x
 481;139;53;254;Falasmaryon;x
 482;24;8;205;Valenvaryon;x
-483;125;119;150;Urshilaku ;x
+483;125;119;150;Urshilaku;x
 484;74;167;207;Snowline;x
 485;41;13;115;Dragon Gate;x
 486;92;163;4;Darastra;x
@@ -736,19 +736,19 @@
 735;84;162;96;Bleak Flats;x
 736;25;8;143;Fort Dirich;x
 737;67;228;21;Balley View;x
-738;196;228;47;Dusty ;x
+738;196;228;47;Hackdirt;x
 739;189;54;83;Brotch;x
 740;2;42;179;Fort Ontus;x
 741;142;224;76;Echo Hills;x
 742;219;127;129;Infested Clearing;x
 743;109;234;88;Varondo;x
 744;89;221;200;Talwinque;x
-745;62;181;106;Shetcombe;x
+745;62;181;106;Atronach's Field;x
 746;162;237;139;Fallen Rock;x
-747;232;111;194;Miscarcand;x
+747;232;111;194;Shardrock;x
 748;245;65;126;Gnoll's Meeting;x
 749;235;114;172;Fort Istirus;x
-750;106;30;69;Shardrock;x
+750;106;30;69;Miscarcand;x
 751;235;159;26;Dasek Moor;x
 752;188;82;34;Troll Candle Camp;x
 753;186;129;185;Ra'sava;x
@@ -809,13 +809,13 @@
 808;202;163;68;Bloodmayne;x
 809;152;221;72;Zenithar's Chapel;x
 810;111;104;74;Flooded Mine;x
-811;69;185;83;Veyond ;x
+811;69;185;83;Veyond;x
 812;37;149;213;Fort Variela;x
 813;64;190;116;Fort Alessia;x
 814;100;161;69;Fatback;x
 815;245;133;19;Arcane University;x
 816;249;99;228;Waterfront District;x
-817;70;151;111;Arboretum ;x
+817;70;151;111;Arboretum;x
 818;116;194;94;White Gold Tower;x
 819;49;68;109;Imperial Sewers;x
 820;111;31;83;Arena District;x
@@ -831,7 +831,7 @@
 830;177;98;164;Border Watch;x
 831;32;183;79;Water's Edge;x
 832;159;206;152;White Stallion;x
-833;240;94;59;Undertow ;x
+833;240;94;59;Undertow;x
 834;250;167;174;Telepe;x
 835;243;15;171;Leyawiin;x
 836;20;162;112;Greyland;x
@@ -853,7 +853,7 @@
 852;35;197;129;Bilegulch;x
 853;111;178;152;Fort Doublecross;x
 854;231;74;24;Mara's Rest;x
-855;152;120;109;Arpenia ;x
+855;152;120;109;Arpenia;x
 856;173;95;122;Vinthak;x
 857;231;216;132;Brackishville (M);x
 858;193;233;191;Panter's Spill;x
@@ -863,7 +863,7 @@
 862;0;237;45;Marsh-Punk;x
 863;135;77;167;Fort Bulwark;x
 864;243;82;205;Marshwatch;x
-865;217;161;13;Murky waters;x
+865;217;161;13;Fort Teleman;x
 866;103;204;94;Garnet Camp;x
 867;35;73;17;Haunted Mine;x
 868;241;76;131;Morahame;x
@@ -888,7 +888,7 @@
 887;246;104;143;Collapsed Mines;x
 888;55;72;93;Arrowshaft Caves;x
 889;11;225;98;Bedrock Caverns;x
-890;170;133;247;Ondo Ruins;x
+890;170;133;247;Ondo;x
 891;124;101;116;Fort Flecia;x
 892;77;100;38;Cadlew Chapel;x
 893;47;247;173;Crestbridge Camp;x
@@ -898,12 +898,12 @@
 897;252;121;10;Mage's Gathering;x
 898;64;57;10;Forestville;x
 899;170;241;195;Deserted Mine;x
-900;222;247;91;Crayfish ;x
+900;222;247;91;Crayfish;x
 901;57;221;255;Fort Cedrian;x
 902;75;55;141;Riverglade;x
 903;61;105;230;Souzare;x
-904;53;141;151;Newt Caverns;x
-905;168;116;89;Timberscarn Hollow;x
+904;53;141;151;Timberscarn Hollow;x
+905;168;116;89;Newt Caverns;x
 906;252;178;171;Culotte;x
 907;108;178;246;Cropsford;x
 908;252;196;168;Cracked Wood;x
@@ -913,25 +913,25 @@
 912;96;204;105;Nagastani;x
 913;131;67;46;Memorial Barrow;x
 914;245;38;18;Fort Urasek;x
-915;76;77;136;Fort Chalman;x
-916;54;38;107;Vilverin;x
+915;76;77;136;Vilverin;x
+916;54;38;107;Fort Chalman;x
 917;98;4;208;Fort Caractacus;x
 918;197;80;230;Fathis Aren's Tower;x
 919;4;144;169;Aleswell;x
 920;10;125;152;Roxeyville;x
-921;215;14;148;Frostfire Glade  ;x
+921;215;14;148;Frostfire Glade;x
 922;29;38;223;Highlands;x
 923;140;113;52;Chalman Keep;x
 924;253;136;64;Silver Tooth;x
 925;124;32;244;Fort Horunn;x
-926;254;166;127;Blaze Rock;x
+926;254;166;127;Exhausted Rock;x
 927;13;34;87;Beast Maw;x
 928;102;153;179;White Fall Ranges;x
 929;185;2;147;Steed Valley;x
 930;180;83;172;Entin;x
-931;8;137;187;Arkved's Tower;x
+931;8;137;187;Mist Morrow;x
 932;25;37;128;Nornal;x
-933;61;128;187;Wenderbek ;x
+933;61;128;187;Wendelbek;x
 934;103;190;51;Drakelowe;x
 935;204;135;76;Fort Facian;x
 936;229;39;92;Sheltered Hills;x
@@ -961,8 +961,8 @@
 960;205;91;132;Rickety Mine;x
 961;65;62;225;Akatosh's Rock;x
 962;35;142;9;Fort Scinia;x
-963;142;78;144;Arrius;x
-964;199;90;51;Hal Verovar;x
+963;142;78;144;Hero Hill;x
+964;199;90;51;Shetcombe;x
 965;106;190;194;Stirk;x
 966;241;193;134;Skywatch;x
 967;48;67;11;Ezduiin;x
@@ -992,7 +992,7 @@
 991;21;4;173;Solitude;x
 992;238;75;0;Shadowgreen;x
 993;218;244;239;Fort Hraggstad;x
-994;154;164;238;Missed Cyrodiil Province;x
+994;154;164;238;Harm's Folly;x
 995;201;241;207;2528 and a half;x
 996;212;60;54;UNUSED;x
 997;40;112;176;UNUSED;x
@@ -1432,7 +1432,7 @@
 1431;236;127;152;Giovesse;x
 1432;254;133;160;Tardorn Wood;x
 1433;193;246;53;Goldcrown;x
-1434;192;45;227;King's Walk ;x
+1434;192;45;227;King's Walk;x
 1435;118;31;109;Semrit (M);x
 1436;86;145;197;Dragonscour;x
 1437;127;114;12;The Tangle;x
@@ -1454,7 +1454,7 @@
 1453;83;178;186;Parched Hills (M);x
 1454;212;109;243;Travler's Rest (M);x
 1455;33;230;198;Blistering Sands (M);x
-1456;148;237;49;Darkam ;x
+1456;148;237;49;Darkam;x
 1457;252;132;37;Alabaster;x
 1458;127;17;54;Shimmering Sands (M);x
 1459;91;115;182;Tilllams Cove (M);x
@@ -1496,7 +1496,7 @@
 1495;6;73;102;Jungle's Watch (M);x
 1496;169;45;77;Valenwood Gate (M);x
 1497;111;213;0;Anchorhead (M);x
-1498;37;137;163;Toshe (M) ;x
+1498;37;137;163;Toshe (M);x
 1499;198;76;199;Jungle's End (M);x
 1500;128;45;79;Ein Meirvale;x
 1501;110;105;143;Flatlands (M);x
@@ -1505,7 +1505,7 @@
 1504;143;149;81;Rawl'kha;x
 1505;200;67;234;Heimthor Mount;x
 1506;248;9;245;Verkarth Hills;x
-1507;115;110;215;Neumar Walk ;x
+1507;115;110;215;Neumar Walk;x
 1508;75;11;88;Dune;x
 1509;25;194;48;Cori Darglade;x
 1510;92;47;160;Dawnshadow;x
@@ -1797,7 +1797,7 @@
 1796;76;226;197;Falmoth;x
 1797;73;158;6;Postma;x
 1798;36;61;44;Fortsev;x
-1799;70;145;141; Bone Isle;x
+1799;70;145;141;Bone Isle;x
 1800;202;248;244;Riverhold;x
 1801;74;230;108;Southpoint;x
 1802;87;56;207;Vroom;x
@@ -1821,8 +1821,8 @@
 1820;25;132;0;Dragonsrest;x
 1821;31;58;203;Tyran;x
 1822;91;106;84;Minolka;x
-1823;224;75;200; Trinid;x
-1824;156;233;59; Kalenko;x
+1823;224;75;200;Trinid;x
+1824;156;233;59;Kalenko;x
 1825;182;146;200;Kalenza;x
 1826;245;211;90;Narhas;x
 1827;204;21;231;Last Sight;x

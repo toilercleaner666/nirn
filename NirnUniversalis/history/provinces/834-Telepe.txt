@@ -1,0 +1,21 @@
+#834-Telepe
+
+
+add_core = LYW
+owner = LYW 
+controller = LYW
+culture = alabastrian
+religion = eight_divines_rel
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 2
+capital = "Telepe"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

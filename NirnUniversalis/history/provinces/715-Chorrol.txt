@@ -1,0 +1,21 @@
+#715-Chorrol
+
+
+add_core = CHO
+owner = CHO
+controller = CHO
+culture = chorrolian
+religion = eight_divines_rel
+hre = no
+base_tax = 6
+base_production = 7
+trade_goods = fur
+base_manpower = 5
+capital = "Chorrol"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

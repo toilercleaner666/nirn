@@ -1,0 +1,21 @@
+#758-Mongrel's Tooth
+
+add_core = FCH
+add_core = FHT
+owner = FHT 
+controller = FHT
+culture = hastrelian
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = copper
+base_manpower = 2
+capital = "Linchal"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

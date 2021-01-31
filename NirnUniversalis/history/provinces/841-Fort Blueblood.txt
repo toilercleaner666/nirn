@@ -1,0 +1,21 @@
+#841-Fort Blueblood
+
+
+add_core = FBB 
+owner = FBB 
+controller = FBB
+culture = topalian
+religion = eight_divines_rel
+hre = no
+base_tax = 3
+base_production = 1
+trade_goods = paper
+base_manpower = 4
+capital = "Fort Blueblood"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

@@ -1,0 +1,21 @@
+#784-Drad Estate
+
+
+add_core = SUT
+owner = SUT
+controller = SUT
+culture = sutchi
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = tobacco
+base_manpower = 2
+capital = "Drad"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

@@ -1,0 +1,21 @@
+#699-Chorrol Forrest
+
+
+add_core = FCC 
+owner = FCC 
+controller = FCC 
+culture = faciani
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = timber
+base_manpower = 1
+capital = "Chorrel Forrest"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
