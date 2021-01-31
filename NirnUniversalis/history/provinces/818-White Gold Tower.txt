@@ -1,0 +1,22 @@
+#818-White Gold Tower
+
+
+add_core = HRT
+owner = HRT
+controller = HRT
+culture = heartlander
+religion = eight_divines_rel
+hre = no
+base_tax = 13
+base_production = 13
+trade_goods = cloth
+base_manpower = 9
+capital = "White Gold Tower"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+center_of_trade = 3
+fort_15th = yes 
+

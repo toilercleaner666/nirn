@@ -1,0 +1,21 @@
+#948-Cheydinhal
+
+
+add_core = CHE
+owner = CHE
+controller = CHE
+culture = cheydinhalian
+religion = eight_divines_rel
+hre = no
+base_tax = 6
+base_production = 7
+trade_goods = cloth
+base_manpower = 6
+capital = "Cheydinhal"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

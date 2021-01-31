@@ -1,0 +1,21 @@
+#739-Brotch
+
+
+add_core = FON 
+owner = FON  
+controller = FON 
+culture = carmelan
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 3
+trade_goods = fur
+base_manpower = 2
+capital = "Brotch"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

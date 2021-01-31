@@ -1,0 +1,20 @@
+#860-Barren Mine
+
+add_core = NIB 
+owner = NIB 
+controller = NIB
+culture = blackwooder
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = gold
+base_manpower = 2
+capital = "Barren Mine"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

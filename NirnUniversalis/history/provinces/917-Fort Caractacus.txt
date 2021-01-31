@@ -1,0 +1,21 @@
+#917-Fort Caractacus
+
+
+add_core = ALW
+owner = ALW 
+controller = ALW
+culture = chalmani
+religion = eight_divines_rel
+hre = no
+base_tax = 4
+base_production = 3
+trade_goods = iron
+base_manpower = 4
+capital = "Caractacus"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

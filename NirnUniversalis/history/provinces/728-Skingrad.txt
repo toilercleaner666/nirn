@@ -1,0 +1,21 @@
+#728-Skingrad
+
+
+add_core = SKI 
+owner = SKI
+controller = SKI
+culture = wealdish
+religion = eight_divines_rel
+hre = no
+base_tax = 6
+base_production = 7
+trade_goods = wine
+base_manpower = 6
+capital = "Skingrad"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
