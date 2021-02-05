@@ -1,0 +1,21 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = skaal
+religion = eight_divines_rel
+technology_group = western
+capital = 11
+
+
+1437.2.20 = {
+	monarch = {
+		name = "Morryn "
+		dynasty = "Whiterun" 
+		adm = 2
+		dip = 3
+		mil = 1
+		female = yes
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}
+

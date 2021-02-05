@@ -183,6 +183,10 @@ WHR = "countries/Whiterun.txt"
 WND = "countries/Windhelm.txt"
 WNH = "countries/Winterhold.txt"
 
+#Solstheim
+
+SEM = "countries/Solstheim.txt"
+
 #Thras
 THR = "countries/Thras.txt"
 

@@ -1,5 +1,5 @@
 jarldom_reform = {
-	icon = "crown"
+	icon = "crown_highlighted"
 	allow_normal_conversion = yes
 	potential = {
 		religion_group = divines_religion_group
@@ -17,4 +17,8 @@ jarldom_reform = {
 	custom_attributes = {
 		locked_government_type = yes
 	}
+}
+
+high_jarldom_reform = {
+
 }

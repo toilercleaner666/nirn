@@ -4,7 +4,7 @@ country_decisions = {
 		major = yes
 		potential = {
 		
-		culture_group = nordic
+			culture_group = nordic
 				
 		}
 		provinces_to_highlight = {
@@ -53,7 +53,7 @@ country_decisions = {
 			}
 			add_prestige = 25
 			set_country_flag = SKY
-				}
+			}
 	}
 
 }

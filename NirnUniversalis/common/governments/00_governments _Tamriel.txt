@@ -32,6 +32,7 @@ monarchy = {
 				austrian_archduchy_reform
 				#####TAMRIEL CHANGES#####
 				jarldom_reform
+				high_jarldom_reform
 				#####TAMRIEL CHANGES END#####
 			}
 		}
@@ -136,6 +137,7 @@ monarchy = {
 		tsardom_legacy
 		holy_state_legacy
 		jarldom_legacy
+		high_jarldom_legacy
 
 	}
 
@@ -178,6 +180,7 @@ monarchy = {
 		celestial_empire
 		#####TAMRIEL CHANGES#####
 		jarldom_reform
+		high_jarldom_reform
 		#####TAMRIEL CHANGES END#####
 	}
 

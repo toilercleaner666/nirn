@@ -1,0 +1,39 @@
+# INSTRUCTIONS:
+# -------------
+# is_triggered_only - Triggered from within the code or by event effects. DO NOT REMOVE THE STOCK ONES.
+# months - The number of months this CB will be valid. Only works for triggered CBs.
+# prerequisites - A condition that automatically activates a CB. Does not work for triggered CBs.
+# no_opinion_hit - If yes you get no negative opinion from this
+#
+# ROOT = attacker
+# FROM = target
+#
+# NOTE: The order in which the peace options are listed is the order in which the AI will normally prioritize them in peace treaties
+#
+# TRIGGERED - Triggered from within the code or by event effects
+# --------------------------------------------------------------
+
+#Season Unending
+
+cb_SeasonUnending = {
+	valid_for_subject = no
+
+	prerequisites = {
+		OR = {
+			has_reform = jarldom_reform
+
+		}
+		is_neighbor_of = FROM
+		is_subject = yes
+		from = {
+			OR = {
+				has_reform = jarldom_reform
+
+			}
+			is_subject = yes
+		}
+		is_revolutionary = no
+	}
+
+	war_goal = season_unending
+}

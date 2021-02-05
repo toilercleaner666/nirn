@@ -1,0 +1,26 @@
+country_decisions = {
+	
+	bards_college_epic = {
+		potential = {
+			culture_group = nordic
+			has_reform = jarldom_reform
+		}
+		allow = {
+			stability = 1
+			legitimacy > 80
+		}
+		effect = {
+			add_years_of_income = -0.25
+  			add_country_modifier = {
+				name = "bard_epic"
+				duration = 5475
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+
+}
