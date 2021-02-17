@@ -53,7 +53,9 @@ FTM = "countries/Teleman.txt"
 FRW = "countries/Redwater.txt"
 FAU = "countries/Aurus.txt"
 NIB = "countries/Nibenay.txt"
-
+CYR = "countries/Cyrodiil.txt"
+AYL = "countries/Ayleids.txt"
+CLV = "countries/Colovia.txt"
 
 # Elswyer
 
