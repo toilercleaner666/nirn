@@ -204,3 +204,44 @@ ORS_ideas = {
         army_tradition_decay = -0.01
 	}
 }
+
+DAN_ideas = {
+	#Daenian Minors
+	start = {
+        infantry_power = 0.10
+        num_accepted_cultures = 2
+
+
+
+	}
+	bonus = {
+	governing_capacity_modifier = 0.2
+	}
+
+	trigger = {
+		primary_culture = daenian
+	}
+	free = yes
+
+	DAN_culture_of_quests = {
+	global_unrest = -2
+	}
+        DAN_fiercely_independent = {
+	discipline = 0.05
+	}
+	DAN_beldama_wyrd = {
+	hostile_attrition = 2
+	}
+	DAN_serf_to_noble = {
+        leader_land_shock = 1
+	}
+	DAN_illiac_bay = {
+        global_trade_power = 0.2
+	}
+	DAN_glenumbran_heartland = {
+	prestige = 1
+	}
+	DAN_endless_forrests = {
+	local_production_efficiency = 0.1
+	}
+}
