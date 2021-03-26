@@ -232,6 +232,9 @@ DAN_ideas = {
 	DAN_beldama_wyrd = {
 	hostile_attrition = 2
 	}
+	DAN_endless_forrests = {
+	local_production_efficiency = 0.1
+	}
 	DAN_serf_to_noble = {
         leader_land_shock = 1
 	}
@@ -241,7 +244,46 @@ DAN_ideas = {
 	DAN_glenumbran_heartland = {
 	prestige = 1
 	}
-	DAN_endless_forrests = {
-	local_production_efficiency = 0.1
+}
+
+KSG_ideas = {
+	#Guarder Minors
+	start = {
+        global_tax_modifier = 0.10
+        discipline = 0.05
+
+
+
+
+	}
+	bonus = {
+	province_warscore_cost = -0.1
+	}
+
+	trigger = {
+		primary_culture = guarder
+	}
+	free = yes
+
+	KSG_crossroads_of_crosswych = {
+	trade_steering = 0.2
+	}
+        KSG_melting_pot_of_highrock = {
+	technology_cost = -0.1
+	}
+	KSG_cath_badraud = {
+	prestige_from_land = 0.20
+	}
+	KSG_war_on_banditry = {
+	harsh_treatment_cost = -0.33
+	}
+	KSG_kings_guard_mountains = {
+        leader_land_manuever = 2
+	}
+	KSG_small_but_fierce = {
+        land_morale = 0.20
+	}
+	KSG_burial_mounds = {
+	diplomatic_reputation = 1
 	}
 }
