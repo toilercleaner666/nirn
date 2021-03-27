@@ -368,3 +368,45 @@ WTM_ideas = {
 	stability_cost_modifier = -0.2
 	}
 }
+
+DNL_ideas = {
+	#Wrothgarian Minors
+	start = {
+        leader_land_manuever = 1
+        garrison_size = 0.10
+
+
+
+	}
+	bonus = {
+	discipline = 0.05
+	}
+
+	trigger = {
+		primary_culture = wrothgarian
+	}
+	free = yes
+
+	DNL_borders_of_highrock = {
+	num_accepted_cultures = 2
+	}
+        DNL_push_back_the_orcs = {
+	land_morale = 0.10
+	}
+	DNL_diversty_of_wrothgar = {
+	tolerance_heathen = 2
+        religious_unity = 0.25
+	}
+	DNL_find_a_new_hill_find_a_new_threat = {
+	infantry_power = 0.10
+	}
+	DNL_wealth_of_wrothgar = {
+        global_tax_modifier = 0.10
+	}
+	DNL_unite_the_east = {
+        ae_impact = -0.1
+	}
+	DNL_harsh_upbringing = {
+	global_manpower_modifier = 0.10
+	}
+}
