@@ -451,3 +451,44 @@ EVR_ideas = {
 	global_missionary_strength = 0.02
 	}
 }
+
+SMT_ideas = {
+	#Seamount Ideas
+	start = {
+        may_perform_slave_raid = yes
+        global_ship_cost = -0.1
+
+
+	}
+	bonus = {
+	discipline = 0.05
+	}
+
+	trigger = {
+		tag = SMT
+	}
+	free = yes
+
+	SMT_experienced_sailors = {
+	global_sailors_modifier = 0.1
+        naval_forcelimit_modifier = 0.25
+	}
+        SMT_conquerors_of_betony = {
+	siege_ability = 0.10
+	}
+	SMT_war_on_bloodthorn_cult = {
+	global_spy_defence = 0.5
+	}
+	SMT_malacath_worship = {
+	global_missionary_strength = 0.02
+	}
+	SMT_defend_our_sovereignty = {
+        land_morale = 0.10
+	}
+	SMT_born_at_sea = {
+        naval_forcelimit_modifier = 0.33
+	}
+	SMT_trained_killer_whales = {
+	heavy_ship_power = 0.2
+	}
+}
