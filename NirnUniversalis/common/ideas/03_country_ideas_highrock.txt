@@ -287,3 +287,43 @@ KSG_ideas = {
 	diplomatic_reputation = 1
 	}
 }
+
+MNV_ideas = {
+	#Menevian Minors
+	start = {
+        land_morale = 0.10
+        improve_relation_modifier = 0.5
+
+	}
+	bonus = {
+	siege_ability = 0.20
+	}
+
+	trigger = {
+		primary_culture = menevian
+	}
+	free = yes
+
+	MNV_alluvial_soil = {
+	development_cost = -0.1
+	}
+        MNV_direnni_connections = {
+	prestige = 1
+        tolerance_heretic = 1
+	}
+	MNV_dibella_worship = {
+	tolerance_own = 1
+	}
+	MNV_pariah_abbey = {
+	global_unrest = -2
+	}
+	MNV_legacy_of_norvulk = {
+        artillery_power = 0.15
+	}
+	MNV_waters_of_the_bjoulsae_river = {
+        global_tax_modifier = 0.10
+	}
+	MNV_protect_stormhaven = {
+	naval_forcelimit_modifier = 0.20
+	}
+}
