@@ -1301,5 +1301,37 @@ spriteTypes = {
 		name = "GFX_revolution_spreading"
 		texturefile = "gfx/interface/revolution/spread_of_revolution_63x63.dds"
 	}
+
+
+	# NIRN UNIVERSALIS
+
+	spriteType = {
+		name = "fighters_modifier_icon"
+		texturefile = "gfx//interface//ideas_EU4//fighters_modifier_icon.dds"
+	}
+
+	spriteType = {
+		name = "knights_modifier_icon"
+		texturefile = "gfx//interface//ideas_EU4//knights_modifier_icon.dds"
+	}
+
+	spriteType = {
+		name = "mages_modifier_icon"
+		texturefile = "gfx//interface//ideas_EU4//mages_modifier_icon.dds"
+	}
+
+	spriteType = {
+		name = "thieves_modifier_icon"
+		texturefile = "gfx//interface//ideas_EU4//thieves_modifier_icon.dds"
+	}
 	
+	spriteType = {
+		name = "companions_modifier_icon"
+		texturefile = "gfx//interface//ideas_EU4//companions_modifier_icon.dds"
+	}
+
+	spriteType = {
+		name = "college_of_winterhold_modifier_icon"
+		texturefile = "gfx//interface//ideas_EU4//college_of_winterhold_modifier_icon.dds"
+	}
 }
