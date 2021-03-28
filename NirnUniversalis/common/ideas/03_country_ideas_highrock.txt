@@ -533,3 +533,44 @@ FAH_ideas = {
 	legitimacy = 1
 	}
 }
+
+ALC_ideas = {
+	#Alcairn Minors
+	start = {
+        merchants = 1
+        advisor_pool = 1
+
+
+
+	}
+	bonus = {
+	core_creation = -0.1
+	}
+
+	trigger = {
+		primary_culture = alcairn
+	}
+	free = yes
+
+	ALC_order_of_the_raven = {
+	leader_fire = 2
+	}
+        ALC_goods_of_illiac_bay = {
+	trade_goods_size_modifier = 0.20
+	}
+	ALC_knights_of_the_flame = {
+	infantry_power = 0.10
+	}
+	ALC_scorched_earth_tactics = {
+	hostile_attrition = 2
+	}
+	ALC_tibedetha = {
+        prestige = 1
+	}
+	ALC_sword_masters_of_alcaire = {
+        shock_damage_received = -0.10
+	}
+	ALC_rulers_of_stormhaven = {
+	ship_power_propagation = 0.2
+	}
+}
