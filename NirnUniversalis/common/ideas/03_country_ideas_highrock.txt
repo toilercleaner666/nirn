@@ -492,3 +492,44 @@ SMT_ideas = {
 	heavy_ship_power = 0.2
 	}
 }
+
+FAH_ideas = {
+	#Orcish Minors
+	start = {
+        infantry_power = 0.10
+        heir_chance = 1
+
+
+
+	}
+	bonus = {
+	discipline = 0.05
+	}
+
+	trigger = {
+		primary_culture = orsimer
+	}
+	free = yes
+
+	FAH_strong_survive = {
+	leader_land_shock = 1
+	}
+        FAH_devout_worshippers = {
+	tolerance_own = 1
+	}
+	FAH_orcish_architecture = {
+	build_cost = -0.1
+	}
+	FAH_orcish_ways = {
+	manpower_recovery_speed = 0.10
+	}
+	FAH_spread_across_tamriel = {
+        core_creation = -0.1
+	}
+	FAH_retake_orsinium = {
+        unjustified_demands = -0.1
+	}
+	FAH_rule_of_the_strongest = {
+	legitimacy = 1
+	}
+}
