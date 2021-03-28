@@ -574,3 +574,42 @@ ALC_ideas = {
 	ship_power_propagation = 0.2
 	}
 }
+
+CAM_ideas = {
+	#Camlorn
+	start = {
+        technology_cost = -0.1
+        development_cost = -0.1
+
+	}
+	bonus = {
+	diplomats = 1
+	}
+
+	trigger = {
+		tag = CAM
+	}
+	free = yes
+
+	CAM_aristocrats_and_artisans = {
+	advisor_pool = 1
+	}
+        CAM_the_iron_son = {
+	land_morale = 0.10
+	}
+	CAM_festival_of_flowers = {
+	war_exhaustion = -0.10
+	}
+	CAM_melting_pot = {
+	ae_impact = -0.1
+	}
+	CAM_crossroads_of_trade = {
+        trade_efficiency = 0.1
+	}
+	CAM_diplomatic_balance = {
+        shock_damage_received = -0.10
+	}
+	CAM_cambrayhills_academy_of_art = {
+	advisor_cost = -0.10
+	}
+}
