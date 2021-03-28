@@ -22,5 +22,6 @@ jarldom_reform = {
 		fighters_guild_faction
 		mages_guild_faction
 		thieves_guild_faction
+		knightly_orders_faction
 	}
 }

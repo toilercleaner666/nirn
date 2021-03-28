@@ -17,19 +17,21 @@ fighters_guild_faction = {
 		name = companions_faction
 
 		trigger = {
-			OR = {
-				AND = {
-					culture_group = nordic
-					NOT = { culture = bruman }
-					NOT = { culture = horunian }
-					capital_scope = {
-						superregion = skyrim_superregion
+			AND = {
+				OR = {
+					AND = {
+						culture_group = nordic
+						NOT = { culture = bruman }
+						NOT = { culture = horunian }
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
 					}
-				}
-				AND = {
-					culture_group = reachmen_group
-					capital_scope = {
-						superregion = skyrim_superregion
+					AND = {
+						culture_group = reachmen_group
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
 					}
 				}
 				owns = 86
@@ -53,29 +55,27 @@ mages_guild_faction = {
 	triggered_faction_name = {
 		name = college_of_winterhold_faction
 
-		triggered_faction_name = {
-		name = companions_faction
-
 		trigger = {
-			OR = {
-				AND = {
-					culture_group = nordic
-					NOT = { culture = bruman }
-					NOT = { culture = horunian }
-					capital_scope = {
-						superregion = skyrim_superregion
+			AND = {
+				OR = {
+					AND = {
+						culture_group = nordic
+						NOT = { culture = bruman }
+						NOT = { culture = horunian }
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
 					}
-				}
-				AND = {
-					culture_group = reachmen_group
-					capital_scope = {
-						superregion = skyrim_superregion
+					AND = {
+						culture_group = reachmen_group
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
 					}
 				}
 				owns = 14
 			}
 		}
-	}
 	}
 }
 
@@ -98,17 +98,23 @@ thieves_guild_faction = {
 			culture_group = Dunmeri
 		}
 	}
+
+	triggered_faction_name = {
+		name = silver_crescent_faction
+
+		trigger = {
+			culture_group = bosmer_group
+		}
+	}
 }
 
-########################################
-# REGION-SPECIFIC FACTIONS             #
-########################################
-
 # Knightly Orders of Daggerfall, Cyrodiil, Hammerfell
+# Though the modifiers are regional, the faction is global
+# You just have to own a province in any of those regions to get the faction
 
 knightly_orders_faction = {
 	monarch_power = MIL
-	capital_scope = {
+	any_owned_province = {
 		OR = {
 			superregion = high_rock_superregion
 			superregion = cyrodiil_superregion
@@ -123,6 +129,10 @@ knightly_orders_faction = {
 		improve_relation_modifier = -0.1
 	}
 }
+
+########################################
+# REGION-SPECIFIC FACTIONS             #
+########################################
 
 # Knights of Stendarr in High Rock and Hammerfell, Vigilants in Skyrim
 
