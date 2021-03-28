@@ -889,7 +889,10 @@ fighters_guild_hall = {
 		}
 	}
 	
-	fighters_guild_faction_influence = 0.003
+	fighters_guild_faction_influence = 0.002
+	local_manpower_modifier = 0.25
+	local_regiment_cost = 0.05
+	regiment_recruit_speed = -0.2
 }
 
 fighters_guild_presence = {
@@ -904,6 +907,9 @@ fighters_guild_presence = {
 	}
 	
 	fighters_guild_faction_influence = 0.001
+	local_manpower_modifier = 0.1
+	regiment_recruit_speed = -0.05
+
 }
 
 mages_guild_hall = {
@@ -917,7 +923,9 @@ mages_guild_hall = {
 		}
 	}
 	
-	mages_guild_faction_influence = 0.003
+	mages_guild_faction_influence = 0.002
+	local_development_cost = -0.05
+	local_tax_modifier = -0.1
 }
 
 mages_guild_presence = {
@@ -932,6 +940,8 @@ mages_guild_presence = {
 	}
 	
 	mages_guild_faction_influence = 0.001
+	local_development_cost = -0.025
+	local_tax_modifier = -0.05
 }
 
 thieves_guild_hall = {
@@ -945,7 +955,9 @@ thieves_guild_hall = {
 		}
 	}
 	
-	thieves_guild_faction_influence = 0.01
+	thieves_guild_faction_influence = 0.002
+	yearly_corruption = 0.003
+	local_unrest = -2
 }
 
 thieves_guild_presence = {
@@ -960,9 +972,11 @@ thieves_guild_presence = {
 	}
 	
 	thieves_guild_faction_influence = 0.001
+	yearly_corruption = 0.001
+	local_unrest = -1
 }
 
-jorrvaskr = {
+jorrvaskr_fighters_guild = {
 	potential = {
 		always = yes
 	}
@@ -985,9 +999,14 @@ jorrvaskr = {
 	}
 	
 	fighters_guild_faction_influence = 0.02
+	local_manpower_modifier = 1
+	local_regiment_cost = 0.1
+	regiment_recruit_speed = -0.4
+	land_morale = 0.025
+	shock_damage = 0.025
 }
 
-college_of_winterhold = {
+college_of_winterhold_mages_guild = {
 	potential = {
 		always = yes
 	}
@@ -998,7 +1017,10 @@ college_of_winterhold = {
 		}
 	}
 	
-	mages_guild_faction_influence = 0.05
+	mages_guild_faction_influence = 0.02
+	all_power_cost -0.03
+	tax_income = 24
+	local_development_cost = -0.15
 }
 
 blackwood_company = {
@@ -1033,7 +1055,7 @@ knights_of_iron = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	manpower_recovery_speed = 0.02
 }
 
@@ -1048,7 +1070,7 @@ knights_mentor = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	drill_gain_modifier = 0.05
 }
 
@@ -1063,7 +1085,7 @@ knights_of_the_circle = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	discipline = 0.005
 }
 
@@ -1078,7 +1100,7 @@ knights_of_the_dragon = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	shock_damage_received = -0.02
 }
 
@@ -1093,7 +1115,7 @@ knights_of_the_eight = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	global_missionary_strength = 0.01
 }
 
@@ -1108,7 +1130,7 @@ knights_of_the_flame = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	defensiveness = 0.03
 }
 
@@ -1123,7 +1145,7 @@ knights_of_the_hawk = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	movement_speed = 0.02
 }
 
@@ -1138,7 +1160,7 @@ knights_of_the_moon = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	yearly_army_professionalism = 0.002
 }
 
@@ -1153,7 +1175,7 @@ knights_of_the_owl = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	siege_ability = 0.03
 }
 
@@ -1168,7 +1190,7 @@ knights_of_the_rose = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	shock_damage = 0.02
 }
 
@@ -1183,7 +1205,7 @@ knights_of_the_wheel = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	global_manpower_modifier = 0.05
 }
 
@@ -1198,7 +1220,7 @@ knights_of_the_white_stallion = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	cavalry_power = 0.02
 }
 
@@ -1213,7 +1235,7 @@ kynarian_order = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	infantry_power = 0.01
 }
 
@@ -1228,7 +1250,7 @@ crusaders_of_stendarr = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	land_morale = 0.005
 }
 
@@ -1243,7 +1265,7 @@ order_of_diagna = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	fire_damage_received = -0.02
 }
 
@@ -1258,7 +1280,7 @@ order_of_the_crypt = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	defensiveness = 0.03
 }
 
@@ -1273,7 +1295,7 @@ order_of_the_lamp = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	artillery_power = 0.02
 }
 
@@ -1288,7 +1310,7 @@ order_of_the_lily = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	reserves_organisation = 0.1
 }
 
@@ -1303,7 +1325,7 @@ order_of_the_raven = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	reinforce_speed = 0.075
 }
 
@@ -1318,7 +1340,7 @@ order_of_the_scarab = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	fire_damage = 0.02
 }
 
@@ -1333,6 +1355,6 @@ order_of_the_silver_dawn = {
 		}
 	}
 	
-	knightly_orders_faction_influence = 0.0007
+	knightly_orders_faction_influence = 0.001
 	promote_culture_cost = -0.05
 }

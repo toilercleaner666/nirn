@@ -114,11 +114,16 @@ thieves_guild_faction = {
 
 knightly_orders_faction = {
 	monarch_power = MIL
-	any_owned_province = {
-		OR = {
-			superregion = high_rock_superregion
-			superregion = cyrodiil_superregion
-			superregion = hammerfell_superregion
+
+	always = yes
+
+	trigger = {
+		any_owned_province = {
+			OR = {
+				superregion = high_rock_superregion
+				superregion = cyrodiil_superregion
+				superregion = hammerfell_superregion
+			}
 		}
 	}
 

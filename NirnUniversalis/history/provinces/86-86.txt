@@ -18,5 +18,4 @@ discovered_by = ottoman
 discovered_by = eastern
 center_of_trade = 2
 fort_15th = yes 
-
-
+add_province_triggered_modifier = jorrvaskr_fighters_guild
