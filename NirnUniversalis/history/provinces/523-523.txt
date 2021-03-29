@@ -1,7 +1,7 @@
 #523-523
 
 
-
+center_of_trade = 1
 culture = Sentinelese
 religion = eight_divines_rel
 hre = no
