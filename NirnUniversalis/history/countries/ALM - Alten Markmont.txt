@@ -6,15 +6,14 @@ technology_group = western
 capital = 1406
 
 
-1437.2.20 = {
+1421.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Agristyr"
+		dynasty = Tristyrick
+		adm = 2
+		dip = 1
+		mil = 5
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
 

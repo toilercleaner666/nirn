@@ -7,15 +7,3 @@ technology_group = western
 capital = 256
 
 
-1437.2.20 = {
-	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
-}
-

@@ -6,15 +6,14 @@ technology_group = western
 capital = 168
 
 
-1437.2.20 = {
+1419.12.18 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Andre"
+		dynasty = Peryrick
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
 

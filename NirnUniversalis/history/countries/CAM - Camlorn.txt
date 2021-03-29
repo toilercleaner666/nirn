@@ -6,15 +6,14 @@ technology_group = western
 capital = 247
 elector = yes
 
-1437.2.20 = {
+1428.8.12 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Sebastien"
+		dynasty = Ironson
+		adm = 4
+		dip = 3
+		mil = 4
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
 
