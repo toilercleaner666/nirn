@@ -663,7 +663,7 @@ daenian_breton_ideas = {
 	}
 
 	trigger = {
-		primary_culture = daenian
+		primary_culture = Daenian
 	}
 	free = yes
 
@@ -705,7 +705,7 @@ guarder_breton_ideas = {
 	}
 
 	trigger = {
-		primary_culture = guarder
+		primary_culture = Guarder
 	}
 	free = yes
 
@@ -744,7 +744,7 @@ menevian_breton_ideas = {
 	}
 
 	trigger = {
-		primary_culture = menevian
+		primary_culture = Menevian
 	}
 	free = yes
 
@@ -785,7 +785,7 @@ moorish_breton_ideas = {
 	}
 
 	trigger = {
-		primary_culture = moorish
+		primary_culture = Moorish
 	}
 	free = yes
 
@@ -827,7 +827,7 @@ wrothgarian_breton_ideas = {
 	}
 
 	trigger = {
-		primary_culture = wrothgarian
+		primary_culture = Wrothgarian
 	}
 	free = yes
 
@@ -867,7 +867,7 @@ ephesian_breton_ideas = {
 	}
 
 	trigger = {
-		primary_culture = ephesian
+		primary_culture = Ephesian
 	}
 	free = yes
 
@@ -911,7 +911,7 @@ orcish_wrothgar_ideas = {
 	}
 
 	trigger = {
-		primary_culture = orsimer
+		primary_culture = Orsimer
 	}
 	free = yes
 
@@ -952,12 +952,12 @@ alcairn_breton_ideas = {
 	}
 
 	trigger = {
-		primary_culture = alcairn
+		primary_culture = Alcairn
 	}
 	free = yes
 
 	ALC_order_of_the_raven = {
-	leader_fire = 2
+	leader_land_fire = 2
 	}
         ALC_goods_of_illiac_bay = {
 	trade_goods_size_modifier = 0.20

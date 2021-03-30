@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = wrothgrarian
+primary_culture = Wrothgrarian
 religion = eight_divines_rel
 technology_group = western
 capital = 168
