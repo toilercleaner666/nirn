@@ -1,0 +1,128 @@
+country_decisions = {
+
+direnni_hegemony = {
+major = yes
+
+potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_direnni_hegemony_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+                        tag = DNI
+}
+provinces_to_highlight = {
+OR = {
+				AND = {
+					OR = {
+					region = glenumbra_highrock_region
+	                                                        region = northern_bangkorai_highrock_region
+	                                                        region = wrothgar_highrock_region
+	                                                        region = rivenspire_highrock_region
+	                                                        region = stormhaven_highrock_region
+					root = {
+						NOT = {
+							num_of_owned_provinces_with = {
+								value = 75
+								region = glenumbra_highrock_region
+	                                                        region = northern_bangkorai_highrock_region
+	                                                        region = wrothgar_highrock_region
+	                                                        region = rivenspire_highrock_region
+	                                                        region = stormhaven_highrock_region
+								is_core = root
+							}
+						}
+						owns_core_province = 216 # Balfiera
+						owns_core_province = 273 # Daggerfall
+						owns_core_province = 212 # Wayrest
+                                                owns_core_province = 230 # Shornhelm
+					}
+				}
+				province_id = 216 # Balfiera
+				province_id = 273 # Daggerfall
+				province_id = 212 # Wayrest
+                                province_id = 230 # Shornhelm
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+
+allow = {
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no			
+			owns_core_province = 216 # Balfiera
+			owns_core_province = 273 # Daggerfall
+			owns_core_province = 212 # Wayrest
+                        owns_core_province = 230 # Shornhelm
+			num_of_owned_provinces_with = {
+				value = 75
+				region = glenumbra_highrock_region
+	                                                        region = northern_bangkorai_highrock_region
+	                                                        region = wrothgar_highrock_region
+	                                                        region = rivenspire_highrock_region
+	                                                        region = stormhaven_highrock_region
+				is_core = root
+			}
+		}
+
+effect = {
+			if = {
+				limit = {
+					NOT = {
+						government_rank = 3
+					}
+				}
+				set_government_rank = 3
+			}
+			override_country_name = DIRENNI_HEGEMONY
+
+                        northern_bangkorai_highrock_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = DNI
+			}		
+  wrothgar_highrock_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = DNI
+			}
+  rivenspire_highrock_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = DNI
+			}
+ stormhaven_highrock_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = DNI
+			}
+glenumbra_highrock_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = DNI
+			}
+	
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = formed_direnni_hegemony_flag	
+			add_country_modifier = {
+				name = highrock_subjugated_direnni
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
