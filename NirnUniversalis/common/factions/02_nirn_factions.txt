@@ -109,67 +109,17 @@ thieves_guild_faction = {
 }
 
 # Knightly Orders of Daggerfall, Cyrodiil, Hammerfell
-# Though the modifiers are regional, the faction is global
-# You just have to own a province in any of those regions to get the faction
+# Apply to the entire world, otherwise the ui looks bad and thats unacceptable
 
 knightly_orders_faction = {
 	monarch_power = MIL
 
 	always = yes
 
-	trigger = {
-		any_owned_province = {
-			OR = {
-				superregion = high_rock_superregion
-				superregion = cyrodiil_superregion
-				superregion = hammerfell_superregion
-			}
-		}
-	}
-
 	modifier = {
-		discipline = 0.05
-		global_regiment_recruit_speed = -0.1
-		global_regiment_cost = -0.15
-		improve_relation_modifier = -0.1
-	}
-}
-
-########################################
-# REGION-SPECIFIC FACTIONS             #
-########################################
-
-# Knights of Stendarr in High Rock and Hammerfell, Vigilants in Skyrim
-
-# WIP
-# DO NOT ENABLE THIS FACTION FOR ANY COUNTRY.
-# THE VIGIL/KNIGHTS OF STENDARR WERE ONLY FOUNDED POST THE OBLIVION CRISIS
-# ONCE THE OBLIVION CRISIS HAS BEEN CODED IN, THEN WE CAN ENABLE THIS
-
-knights_of_stendarr_faction = {
-	monarch_power = MIL
-	capital_scope = {
-		OR = {
-			superregion = highrock_superregion
-			superregion = hammerfell_superregion
-			superregion = skyrim_superregion
-		}
-	}
-
-	triggered_faction_name = {
-		name = vigilants_of_stendarr_faction
-
-		trigger = {
-			capital_scope = {
-				superregion = skyrim_superregion
-			}
-		}
-	}
-
-	modifier = {
-		discipline = 0.05
-		global_regiment_recruit_speed = -0.1
-		global_regiment_cost = -0.15
-		improve_relation_modifier = -0.1
+		land_morale = 0.05
+		prestige = 1
+		leader_fire = 1
+		autonomy_change_time = 0.05
 	}
 }
