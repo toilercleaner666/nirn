@@ -119,7 +119,7 @@ knightly_orders_faction = {
 	modifier = {
 		land_morale = 0.05
 		prestige = 1
-		leader_fire = 1
-		autonomy_change_time = 0.05
+		leader_land_fire = 1
+		global_autonomy = 0.05
 	}
 }
