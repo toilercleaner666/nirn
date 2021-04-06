@@ -16,7 +16,7 @@ potential = {
 provinces_to_highlight = {
 OR = {
 				AND = {
-					OR = {
+					
 					region = glenumbra_highrock_region
 	                                                        region = northern_bangkorai_highrock_region
 	                                                        region = wrothgar_highrock_region
@@ -51,6 +51,8 @@ OR = {
 			}
 		}
 
+
+
 allow = {
 			is_at_war = no
 			is_free_or_tributary_trigger = yes
@@ -79,7 +81,7 @@ effect = {
 				}
 				set_government_rank = 3
 			}
-			override_country_name = DIRENNI_HEGEMONY
+		
 
                         northern_bangkorai_highrock_region = {
 				limit = {
@@ -121,6 +123,7 @@ glenumbra_highrock_region = {
 			add_country_modifier = {
 				name = highrock_subjugated_direnni
 			}
+                        override_country_name = DIRENNI_HEGEMONY
 		}
 		ai_will_do = {
 			factor = 1
