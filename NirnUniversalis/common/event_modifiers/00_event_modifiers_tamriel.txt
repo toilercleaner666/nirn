@@ -26,3 +26,73 @@ disorder_nords = {
 bard_epic = {
 	prestige = 0.5
 }
+
+######################################
+# FACTIONS MODIFIERS                 #
+######################################
+
+boosting_fighters_guild = {
+	fighters_guild_faction_influence = 0.21
+
+	mages_guild_faction_influence = -0.07
+	thieves_guild_faction_influence = -0.07
+	knightly_orders_faction_influence = -0.07
+
+	picture = "fighters_modifier_icon"
+}
+
+boosting_mages_guild = {
+	mages_guild_faction_influence = 0.21
+
+	fighters_guild_faction_influence = -0.07
+	thieves_guild_faction_influence = -0.07
+	knightly_orders_faction_influence = -0.07
+}
+
+boosting_thieves_guild = {
+	thieves_guild_faction_influence = 0.21
+
+	fighters_guild_faction_influence = -0.07
+	mages_guild_faction_influence = -0.07
+	knightly_orders_faction_influence = -0.07
+}
+
+boosting_knightly_orders = {
+	knightly_orders_faction_influence = 0.21
+
+	fighters_guild_faction_influence = -0.07
+	mages_guild_faction_influence = -0.07
+	thieves_guild_faction_influence = -0.07
+}
+
+hindering_fighters_guild = {
+	fighters_guild_faction_influence = -0.21
+
+	mages_guild_faction_influence = 0.07
+	thieves_guild_faction_influence = 0.07
+	knightly_orders_faction_influence = 0.07
+}
+
+hindering_mages_guild = {
+	mages_guild_faction_influence = -0.21
+
+	fighters_guild_faction_influence = 0.07
+	thieves_guild_faction_influence = 0.07
+	knightly_orders_faction_influence = 0.07
+}
+
+hindering_thieves_guild = {
+	thieves_guild_faction_influence = -0.21
+
+	fighters_guild_faction_influence = 0.07
+	mages_guild_faction_influence = 0.07
+	knightly_orders_faction_influence = 0.07
+}
+
+hindering_knightly_orders = {
+	knightly_orders_faction_influence = -0.21
+
+	fighters_guild_faction_influence = 0.07
+	mages_guild_faction_influence = 0.07
+	thieves_guild_faction_influence = 0.07
+}

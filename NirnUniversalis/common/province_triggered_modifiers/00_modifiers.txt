@@ -130,3 +130,545 @@ falinesti_display = {
 		move_falinesti = yes
 	}
 }
+
+##########################################
+# FACTION PROVINCE TRIGGERED MODIFIERS   #
+##########################################
+
+fighters_guild_hall = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = fighters_guild_faction
+		}
+	}
+	
+	fighters_guild_faction_influence = 0.002
+	local_manpower_modifier = 0.25
+	local_regiment_cost = 0.05
+	regiment_recruit_speed = -0.2
+
+	picture = "fighters_modifier_icon"
+}
+
+fighters_guild_presence = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = fighters_guild_faction
+		}
+	}
+	
+	fighters_guild_faction_influence = 0.001
+	local_manpower_modifier = 0.1
+	regiment_recruit_speed = -0.05
+
+	picture = "fighters_modifier_icon"
+}
+
+mages_guild_hall = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = mages_guild_faction
+		}
+	}
+	
+	mages_guild_faction_influence = 0.002
+	local_development_cost = -0.05
+	local_tax_modifier = -0.1
+
+	picture = "mages_modifier_icon"
+}
+
+mages_guild_presence = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = mages_guild_faction
+		}
+	}
+	
+	mages_guild_faction_influence = 0.001
+	local_development_cost = -0.025
+	local_tax_modifier = -0.05
+
+	picture = "mages_modifier_icon"
+}
+
+thieves_guild_hall = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = thieves_guild_faction
+		}
+	}
+	
+	thieves_guild_faction_influence = 0.002
+	yearly_corruption = 0.003
+	local_unrest = -2
+
+	picture = "thieves_modifier_icon"
+}
+
+thieves_guild_presence = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = thieves_guild_faction
+		}
+	}
+	
+	thieves_guild_faction_influence = 0.001
+	yearly_corruption = 0.001
+	local_unrest = -1
+
+	picture = "thieves_modifier_icon"
+}
+
+jorrvaskr_fighters_guild = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		AND = {
+			owner = {
+				has_faction = fighters_guild_faction
+			}
+			OR = {
+				culture_group = nordic
+				AND = {
+					culture_group = reachmen_group
+					capital_scope = {
+						superregion = skyrim_superregion
+					}
+				}
+			}
+		}
+	}
+	
+	fighters_guild_faction_influence = 0.02
+	local_manpower_modifier = 1
+	local_regiment_cost = 0.1
+	regiment_recruit_speed = -0.4
+	land_morale = 0.025
+	shock_damage = 0.025
+
+	picture = "companions_modifier_icon"
+}
+
+college_of_winterhold_mages_guild = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = mages_guild_faction
+		}
+	}
+
+	mages_guild_faction_influence = 0.02
+	all_power_cost -0.03
+	tax_income = 24
+	local_development_cost = -0.15
+
+	picture = "college_of_winterhold_modifier_icon"
+}
+
+blackwood_company = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = fighters_guild_faction
+		}
+	}
+	
+	fighters_guild_faction_influence = -0.01
+}
+
+##########################################
+# KNIGHTLY ORDER PTMS                    #
+##########################################
+
+# Controlling the Headquarters of any knightly order gives you a small
+# national bonus, as well as an influence buff to that faction
+
+knights_of_iron = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	manpower_recovery_speed = 0.02
+
+	picture = "knights_modifier_icon"
+}
+
+knights_mentor = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	drill_gain_modifier = 0.05
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_circle = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	discipline = 0.005
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_dragon = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	shock_damage_received = -0.02
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_eight = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	global_missionary_strength = 0.01
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_flame = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	defensiveness = 0.03
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_hawk = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	movement_speed = 0.02
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_moon = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	yearly_army_professionalism = 0.002
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_owl = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	siege_ability = 0.03
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_rose = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	shock_damage = 0.02
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_wheel = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	global_manpower_modifier = 0.05
+
+	picture = "knights_modifier_icon"
+}
+
+knights_of_the_white_stallion = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	cavalry_power = 0.02
+
+	picture = "knights_modifier_icon"
+}
+
+kynarian_order = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	infantry_power = 0.01
+
+	picture = "knights_modifier_icon"
+}
+
+crusaders_of_stendarr = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	land_morale = 0.005
+
+	picture = "knights_modifier_icon"
+}
+
+order_of_diagna = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	fire_damage_received = -0.02
+
+	picture = "knights_modifier_icon"
+}
+
+order_of_the_crypt = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	defensiveness = 0.03
+
+	picture = "knights_modifier_icon"
+}
+
+order_of_the_lamp = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	artillery_power = 0.02
+
+	picture = "knights_modifier_icon"
+}
+
+order_of_the_lily = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	reserves_organisation = 0.1
+
+	picture = "knights_modifier_icon"
+}
+
+order_of_the_raven = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	reinforce_speed = 0.075
+
+	picture = "knights_modifier_icon"
+}
+
+order_of_the_scarab = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	fire_damage = 0.02
+
+	picture = "knights_modifier_icon"
+}
+
+order_of_the_silver_dawn = {
+	potential = {
+		always = yes
+	}
+	
+	trigger = {
+		owner = {
+			has_faction = knightly_orders_faction
+		}
+	}
+	
+	knightly_orders_faction_influence = 0.001
+	promote_culture_cost = -0.05
+
+	picture = "knights_modifier_icon"
+}
