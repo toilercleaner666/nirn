@@ -6,15 +6,19 @@ technology_group = western
 capital = 766
 
 
-1437.2.20 = {
+1440.1.2 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Antus"
+		dynasty = "Sidonia"
+		birth_date = 1423.5.28
+		adm = 3
+		dip = 2
+		mil = 4
+		religion = eight_divines_rel
+		culture = kvatchian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
 

@@ -23,6 +23,10 @@ disorder_nords = {
 	land_maintenance_modifier = -0.05
 }
 
+bard_epic = {
+	prestige = 0.5
+}
+
 ######################################
 # FACTIONS MODIFIERS                 #
 ######################################

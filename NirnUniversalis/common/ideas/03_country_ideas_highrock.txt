@@ -204,3 +204,86 @@ ORS_ideas = {
         army_tradition_decay = -0.01
 	}
 }
+
+SMT_ideas = {
+	#Seamount Ideas
+	start = {
+        may_perform_slave_raid = yes
+        global_ship_cost = -0.1
+
+
+	}
+	bonus = {
+	discipline = 0.05
+	}
+
+	trigger = {
+		tag = SMT
+	}
+	free = yes
+
+	SMT_experienced_sailors = {
+	global_sailors_modifier = 0.1
+        naval_forcelimit_modifier = 0.25
+	}
+        SMT_conquerors_of_betony = {
+	siege_ability = 0.10
+	}
+	SMT_war_on_bloodthorn_cult = {
+	global_spy_defence = 0.5
+	}
+	SMT_malacath_worship = {
+	global_missionary_strength = 0.02
+	}
+	SMT_defend_our_sovereignty = {
+        land_morale = 0.10
+	}
+	SMT_born_at_sea = {
+        naval_forcelimit_modifier = 0.33
+	}
+	SMT_trained_killer_whales = {
+	heavy_ship_power = 0.2
+	}
+}
+
+
+
+
+CAM_ideas = {
+	#Camlorn
+	start = {
+        technology_cost = -0.1
+        development_cost = -0.1
+
+	}
+	bonus = {
+	diplomats = 1
+	}
+
+	trigger = {
+		tag = CAM
+	}
+	free = yes
+
+	CAM_aristocrats_and_artisans = {
+	advisor_pool = 1
+	}
+        CAM_the_iron_son = {
+	land_morale = 0.10
+	}
+	CAM_festival_of_flowers = {
+	war_exhaustion = -0.10
+	}
+	CAM_melting_pot = {
+	ae_impact = -0.1
+	}
+	CAM_crossroads_of_trade = {
+        trade_efficiency = 0.1
+	}
+	CAM_diplomatic_balance = {
+        shock_damage_received = -0.10
+	}
+	CAM_cambrayhills_academy_of_art = {
+	advisor_cost = -0.10
+	}
+}

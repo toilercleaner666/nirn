@@ -6,15 +6,19 @@ technology_group = western
 capital = 782
 
 
-1437.2.20 = {
+1442.2.26 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Quintus"
+		dynasty = "Jarol"
+		birth_date = 1424.6.18
+		adm = 5
+		dip = 2
+		mil = 1
+		religion = eight_divines_rel
+		culture = sutchi
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
 

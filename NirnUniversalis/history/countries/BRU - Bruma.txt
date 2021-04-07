@@ -7,15 +7,19 @@ technology_group = western
 capital = 675
 
 
-1437.2.20 = {
+1421.5.28 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Valvius"
+		dynasty = "Carvain"
+		birth_date = 1406.5.28
+		adm = 1
+		dip = 2
+		mil = 3
+		religion = eight_divines_rel
+		culture = bruman
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
 

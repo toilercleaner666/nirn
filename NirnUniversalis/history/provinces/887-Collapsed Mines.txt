@@ -1,0 +1,21 @@
+#887-Collapsed Mines
+
+
+add_core = ENU
+owner = ENU
+controller = ENU
+culture = valusian
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = iron
+base_manpower = 3
+capital = "Collapsed Mines"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

@@ -6,15 +6,19 @@ technology_group = western
 capital = 807
 
 
-1437.2.20 = {
+1395.4.30 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Sulleric"
+		dynasty = "Terentius"
+		birth_date = 1395.4.30
+		adm = 2
+		dip = 3
+		mil = 1
+		religion = eight_divines_rel
+		culture = bravilese
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
 

@@ -53,7 +53,9 @@ FTM = "countries/Teleman.txt"
 FRW = "countries/Redwater.txt"
 FAU = "countries/Aurus.txt"
 NIB = "countries/Nibenay.txt"
-
+CYR = "countries/Cyrodiil.txt"
+AYL = "countries/Ayleids.txt"
+CLV = "countries/Colovia.txt"
 
 # Elswyer
 
@@ -182,6 +184,10 @@ SOL = "countries/Solitude.txt"
 WHR = "countries/Whiterun.txt"
 WND = "countries/Windhelm.txt"
 WNH = "countries/Winterhold.txt"
+
+#Solstheim
+
+SEM = "countries/Solstheim.txt"
 
 #Thras
 THR = "countries/Thras.txt"

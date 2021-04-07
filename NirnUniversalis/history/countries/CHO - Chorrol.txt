@@ -6,15 +6,35 @@ technology_group = western
 capital = 715
 
 
-1437.2.20 = {
+1407.8.26 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Iniel"
+		dynasty = "Jeril"
+		birth_date = 1407.2.20
+		adm = 3
+		dip = 2
+		mil = 3
+		religion = eight_divines_rel
+		culture = chorrolian
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+
+}
+1438.1.6 = {
+	heir = {
+		name = "Varen"
+		monarch_name = "Varen"
+		birth_date = 1438.1.6
+		death_date = 1484.1.6
+		dynasty = "Aquilarios"
+		claim = 85
+		adm = 5
+		dip = 5
+		mil = 3
+		religion = eight_divines_rel
+		culture = chorrolian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
-

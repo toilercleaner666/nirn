@@ -1,0 +1,21 @@
+#856-Vinthak
+
+
+add_core = NIB 
+owner = NIB 
+controller = NIB
+culture = nibenayan
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Vinthak"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

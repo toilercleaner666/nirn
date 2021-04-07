@@ -6,15 +6,20 @@ technology_group = western
 capital = 864
 
 
-1437.2.20 = {
+1443.11.25 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Fralav"
+		dynasty = "Nirol"
+		birth_date = 1428.11.25
+		adm = 3
+		dip = 2
+		mil = 4
+		religion = eight_divines_rel
+		culture = heartlander
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
+
 

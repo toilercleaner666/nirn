@@ -1,0 +1,21 @@
+#922-Highlands
+
+
+add_core = ALW
+owner = ALW 
+controller = ALW
+culture = chalmani
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 3
+trade_goods = wool
+base_manpower = 1
+capital = "Highlands"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

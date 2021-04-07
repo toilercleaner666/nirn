@@ -1,0 +1,21 @@
+#915-Vilverin
+
+
+add_core = FCL
+owner = FCL 
+controller = FCL
+culture = chalmani
+religion = eight_divines_rel
+hre = no
+base_tax = 5
+base_production = 3
+trade_goods = paper
+base_manpower = 5
+capital = "Fort Chalman"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

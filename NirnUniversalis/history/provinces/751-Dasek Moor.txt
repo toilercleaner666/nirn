@@ -1,0 +1,21 @@
+#751-Dasek Moor
+
+
+add_core = IST
+owner = IST 
+controller = IST
+culture = istirusi
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = iron
+base_manpower = 1
+capital = "Dasek Moor"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

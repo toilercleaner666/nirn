@@ -6,13 +6,16 @@ technology_group = western
 capital = 828
 
 
-1437.2.20 = {
+1438.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Velwyn"
+		dynasty = "Sentulus"
+		birth_date = 1408.7.11
+		adm = 3
+		dip = 5
+		mil = 0
+		religion = eight_divines_rel
+		culture = leyawiinian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

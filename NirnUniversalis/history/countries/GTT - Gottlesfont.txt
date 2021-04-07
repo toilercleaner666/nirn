@@ -7,13 +7,16 @@ technology_group = western
 capital = 707
 
 
-1437.2.20 = {
+1420.2.25 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Ertius"
+		dynasty = "Murrius"
+		birth_date = 1376.2.19
+		adm = 5
+		dip = 5
+		mil = 1
+		religion = eight_divines_rel
+		culture = aurusian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

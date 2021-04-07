@@ -6,15 +6,17 @@ technology_group = western
 capital = 910
 
 
-1437.2.20 = {
+1438.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Adonato"
+		dynasty = "Murrius"
+		birth_date = 1412.7.27
+		adm = 1
+		dip = 1
+		mil = 3
+		religion = eight_divines_rel
+		culture = magian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
-

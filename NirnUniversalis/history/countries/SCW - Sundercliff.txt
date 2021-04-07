@@ -6,15 +6,19 @@ technology_group = western
 capital = 883
 
 
-1437.2.20 = {
+1444.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Haderus"
+		dynasty = "Scaeva"
+		birth_date = 1418.1.12
+		adm = 3
+		dip = 0
+		mil = 5
+		religion = eight_divines_rel
+		culture = valusian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
 

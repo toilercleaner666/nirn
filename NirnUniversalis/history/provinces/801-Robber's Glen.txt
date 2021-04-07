@@ -1,0 +1,21 @@
+#801-Robber's Glen
+
+add_core = FVR
+add_core = CFG
+owner = CFG
+controller = CFG
+culture = varielan
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 3
+trade_goods = copper
+base_manpower = 3
+capital = "Robber's Glen"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

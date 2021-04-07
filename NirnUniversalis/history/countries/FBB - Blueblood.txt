@@ -6,15 +6,20 @@ technology_group = western
 capital = 841
 
 
-1437.2.20 = {
+1420.8.27 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Cadwell"
+		dynasty = "Livianus"
+		birth_date = 1405.2.10
+		adm = 2
+		dip = 2
+		mil = 4
+		religion = eight_divines_rel
+		culture = topalian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
+
 

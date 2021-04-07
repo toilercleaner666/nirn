@@ -6,13 +6,16 @@ technology_group = western
 capital = 760
 
 
-1437.2.20 = {
+1400.11.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Mattius"
+		dynasty = "Aquilarios"
+		birth_date = 1400.11.20
+		adm = 4
+		dip = 5
+		mil = 3
+		religion = eight_divines_rel
+		culture = kvatchian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

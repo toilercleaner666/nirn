@@ -1,0 +1,21 @@
+#720-Anderian
+
+
+add_core = FCA 
+owner = FCA
+controller = FCA
+culture = carmelan
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = timber
+base_manpower = 1
+capital = "Anderjan"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

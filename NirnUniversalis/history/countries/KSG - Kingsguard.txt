@@ -6,15 +6,14 @@ technology_group = western
 capital = 242
 
 
-1437.2.20 = {
+1401.6.10 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Uthard"
+		dynasty = Rodoryan 
+		adm = 5
+		dip = 6
+		mil = 4
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = 
 }
 

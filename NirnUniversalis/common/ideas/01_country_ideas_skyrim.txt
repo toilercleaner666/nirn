@@ -6,7 +6,7 @@
 SOL_ideas = {
 	start = {
 		diplomatic_reputation = 1
-		diplomatic_annexation_cost = -0.15
+		vassal_income = 0.25
 	}
 	bonus = {
 		discipline = 0.05
@@ -50,47 +50,47 @@ SOL_ideas = {
 ##########
 #Morthal #
 ##########
-MOR_ideas = {
-	start = {
-
-	}
-	bonus = {
-
-	}
-	trigger = {
-		tag = MOR
-	}
-	free = yes
-	
-	MOR_me_swamp = {
-
-	}
-	
-	MOR_like_onions = {
-		advisor_cost = -0.15
-	}
-	
-	MOR_run = {
-		administrative_efficiency = 0.25
-	}
-		
-	MOR_some_die = {
-		global_sailors_modifier = 0.1
-		naval_morale = 0.1
-	}
-	
-	MOR_Bards_College = {
-		Prestige = 1
-	}
-	MOR_flexible_administration = {
-		reform_progress_growth = 0.15
-	}
-		
-	MOR_no_one_cares = {
-		improve_relation_modifier = 0.33
-	}
-	
-}
+#MOR_ideas = {
+#	start = {
+#
+#	}
+#	bonus = {
+#
+#	}
+#	trigger = {
+#		tag = MOR
+#	}
+#	free = yes
+#	
+#	MOR_me_swamp = {
+#
+#	}
+#	
+#	MOR_like_onions = {
+#		advisor_cost = -0.15
+#	}
+#	
+#	MOR_run = {
+#		administrative_efficiency = 0.25
+#	}
+#		
+#	MOR_some_die = {
+#		global_sailors_modifier = 0.1
+#		naval_morale = 0.1
+#	}
+#	
+#	MOR_Bards_College = {
+#		Prestige = 1
+#	}
+#	MOR_flexible_administration = {
+#		reform_progress_growth = 0.15
+#	}
+#		
+#	MOR_no_one_cares = {
+#		improve_relation_modifier = 0.33
+#	}
+#	
+#}
 
 ###########
 #Whiterun #
@@ -195,8 +195,8 @@ FAL_ideas = {
 ############
 WND_ideas = {
 	start = {
-		land_maintenance_modifier = -0.05
-		global_manpower_modifier = 0.33
+		ae_impact = -0.15
+		num_accepted_cultures = 2
 	}
 	bonus = {
 		development_cost = -.05
@@ -216,7 +216,7 @@ WND_ideas = {
 		prestige = 1
 	}
 	WND_Reunite_Holds = {
-		num_accepted_cultures = 2
+		years_of_nationalism = -5
 		global_autonomy = -0.10
 	}	
 	WND_Season_Unending = {
@@ -284,50 +284,50 @@ WNH_ideas = {
 ############
 # Dawnstar #
 ############
-DNS_ideas = {
-	start = {
-		naval_morale = 0.20
-		heavy_ship_power = 0.15
-	}
+#DNS_ideas = {
+#	start = {
+#		naval_morale = 0.20
+#		heavy_ship_power = 0.15
+#	}
+#
+#	bonus = {
+#		navy_tradition = 1
+#	}
+#	
+#	trigger = {
+#		tag = DNS
+#	}
+#	free = yes		#will be added at load.
+#
+#	DNS_idea_1 = {
+#
+#	}
+#	
+#	DNS_idea_2 = {
 
-	bonus = {
-		navy_tradition = 1
-	}
+#	}
 	
-	trigger = {
-		tag = DNS
-	}
-	free = yes		#will be added at load.
+#	DNS_idea_3 = {
 
-	DNS_idea_1 = {
-
-	}
+#	}
 	
-	DNS_idea_2 = {
+#	DNS_idea_4 = {
 
-	}
+#	}
 	
-	DNS_idea_3 = {
+#	DNS_idea_5  = {
 
-	}
+#	}
 	
-	DNS_idea_4 = {
+#	DNS_idea_6  = {
 
-	}
+#	}
 	
-	DNS_idea_5  = {
+#	DNS_idea_7 = {
 
-	}
-	
-	DNS_idea_6  = {
+#	}
 
-	}
-	
-	DNS_idea_7 = {
-
-	}
-
-}
+#}
 
 ##########
 # Riften #
@@ -377,3 +377,41 @@ RFT_ideas = {
 
 }
 
+#########
+# Reach #
+#########
+MAR_Ideas = {
+start = {
+	fort_maintenance_modifier = -0.10
+	Tolerance_own = 2
+	}
+	bonus = {
+		trade or something idk
+		}
+	trigger = {
+		culture_group = reachmen_group
+	}
+	free = yes
+	MAR_defend_reach = {
+		enemy_core_creation = 0.2
+		hostile_attrition = .1
+	}
+	MAR_blood_and_silver = {
+		production_efficiency = 0.1
+	}
+	MAR_briarhearts = {
+		land_morale = 0.10
+	}
+	MAR_tribal_councils ={
+		advisor_cost = -0.05
+	}
+	MAR_hagravens = {
+		artillery_power = 0.10
+	}
+	MAR_old_gods = {
+		global_missionary_strength = 0.03
+	}
+	MAR_improve_image = {
+		improve_relation_modifier = 0.33
+	}	
+}

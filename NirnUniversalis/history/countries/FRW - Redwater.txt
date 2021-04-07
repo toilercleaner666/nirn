@@ -6,15 +6,20 @@ technology_group = western
 capital = 869
 
 
-1437.2.20 = {
+1431.5.10 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Tertius"
+		dynasty = "Medilus"
+		birth_date = 1410.3.19
+		adm = 2
+		dip = 4
+		mil = 5
+		religion = eight_divines_rel
+		culture = blackwooder
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
+
 

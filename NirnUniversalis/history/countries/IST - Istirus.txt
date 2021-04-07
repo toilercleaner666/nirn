@@ -6,15 +6,19 @@ technology_group = western
 capital = 749
 
 
-1437.2.20 = {
+1441.7.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Mero"
+		dynasty = "Vittelius"
+		birth_date = 1411.4.17
+		adm = 3
+		dip = 2
+		mil = 5
+		religion = eight_divines_rel
+		culture = istirusi
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
 

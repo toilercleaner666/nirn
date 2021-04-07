@@ -1,0 +1,208 @@
+provinces;province name;trade good
+276;Blacklight;iron
+278;Soluthis;livestock
+279;Cormaris View;naval_supplies
+280;Rhun Huk;livestock
+281;Silgrad Tower;salt
+282;Kogomar;grain
+283;Firemoth Island;naval_supplies
+284;Veranis Hall;grain
+285;Kogotel;livestock
+286;Septim's Gate Pass;iron
+287;Verarchen;grain
+288;Bodrum;ebony
+289;Zaelbalmiran;grain
+290;Omayni;naval_supplies
+291;Bodrum;livestock
+292;Knocker's Neck Pass;salt
+293;Kartur;fish
+294;UNNAMED;grain
+295;Balfalls;grain
+296;Ngelfltingth;dwemer_artifacts
+297;Kragenmoor;grain
+298;Heimlyn;magical_supplies
+299;Ishanuran;livestock
+300;Magmaflow Overlook;malachite
+301;Shadowgate Pass;iron
+302;Hlarud;livestock
+303;Indalruhn;grain
+304;Almas Thirr;cloth
+305;Andotrhen;fish
+306;Hlan Oek;grain
+307;Rivergridge;timber
+308;Juilek Pass;iron
+309;Oaktown;timber
+310;ShortTusk Plains;ivory
+311;Nav Andaram;fur
+312;Brahma's Grove;grain
+313;Mephala's Nest;ebony
+314;Ebonheart;paper
+315;Davon's Watch;naval_supplies
+316;Emberflint Mine;iron
+317;Fort Arand;copper
+318;Steamlake Camp;fur
+319;Shad Astula;magical_supplies
+320;Bthanual;dwemer_artifacts
+321;Nov Andaram;grain
+322;Othmura;malachite
+323;Uld Hleryn;tropical_wood
+324;Narun;iron
+325;Dres Horak;cloth
+326;Old Keep;livestock
+327;Dres Hairab;grain
+328;Muth Gnaar;paper
+329;Narsis;grain
+330;Shipal Sharai;salt
+331;Silnim Dale;cloth
+332;An'drev Bog;slaves
+333;Ald'Mora;slaves
+334;Dres Yengrith;grain
+335;Taj'Xa'thaxi;cloth
+336;Tear;grain
+337;El'vratus Beach;fish
+338;Dres Cove;naval_supplies
+339;Corkarth Run;grain
+340;Kithendis Falls;malachite
+341;Arnesia;grain
+342;Oroynyon Bay;fish
+343;Deepcrag Den;copper
+344;Selfora;incense
+345;Silent Mirr;naval_supplies
+346;Aldsotha;salt
+347;Almalexia;silk
+348;Obsidian Gorge;malachite
+349;Othrenis;grain
+350;Mzithumz;dwemer_artifacts
+351;Selfora;grain
+352;Bosmora;naval_supplies
+353;Tal'Deic Fortress;timber
+354;Amber Forest;timber
+355;Ghorne;naval_supplies
+356;Bosmora;naval_supplies
+357;Dreynim;ebony
+358;Meralog;iron
+359;Dondril Vhul;grain
+360;Bal Foyen;grain
+361;Greenheights;livestock
+362;St Veloth Temple;paper
+363;Dhalmora;cloth
+364;Dragon Glade;iron
+365;Illdrim;naval_supplies
+366;Sailen Vulgate;copper
+367;Enamor Dayn;fish
+368;Salen Vulgate;iron
+369;Rephan Coast;cloth
+370;Necrom;silk
+371;Rephan Cove;naval_supplies
+372;Mephala Temple;ebony
+373;Aldr Cove;fish
+374;Salen;malachite
+375;Darnim Watch;naval_supplies
+376;Green Beach;fish
+377;Greenheights;livestock
+378;Ammar;naval_supplies
+379;Greenheight Lighthouse;fish
+380;Praloris;cloth
+381;Marog;dwemer_artifacts
+382;Nelnim;salt
+383;Mount Melpha;iron
+384;Velothi Beach;fish
+385;Sadrith Hills;copper
+386;Sadrith Woods;naval_supplies
+387;Velothi's Haven;fish
+388;Port Velothi;naval_supplies
+389;Tel Mothriva;paper
+390;Ingun's Run;grain
+391;Llolanthis Heights;ebony
+392;Tel Drew Beachs;fish
+393;Firewatch;malachite
+394;Sadrith Mora;magical_supplies
+395;Tel Aranyon;ebony
+396;Tel Aranyon;ebony
+397;Tel Obada;fish
+398;Bal Oyra;fish
+399;Bthzundcheft;dwemer_artifacts
+400;Gah Sadrith;cloth
+401;Sadas Plantation;grain
+402;Yashazmus;dwemer_artifacts
+403;Port Telvannis;naval_supplies
+404;Dwenven Beach;fish
+405;Telish Hills;copper
+406;Mount Tel;malachite
+407;Tel Forests;naval_supplies
+408;Halaran;fish
+409;Shad Island;fish
+410;Bahrammu;fish
+411;Ald Daedroth;naval_supplies
+412;Dagon Fel;fish
+413;Ald Redaynia;naval_supplies
+414;Ahemmusa;livestock
+415;Vos;grain
+416;Indoranyon;grain
+417;Hanud;copper
+418;Tel Aruhn;slaves
+419;Kushtashpi;iron
+420;Tel Vos;grain
+421;Nchuleft;dwemer_artifacts
+422;Venim Meadow;grain
+423;Zainab Camp;livestock
+424;Aralen Grasslands;grain
+425;Sethan Groves;grain
+426;Falensarano;livestock
+427;Lenith Cliffs;orichalcum
+428;Tel Aruhn;slaves
+429;Tel Fyr;magical_supplies
+430;Kaushtarari;orichalcum
+431;Uvirith's Grave;livestock
+432;Erabenimsun Camp;fur
+433;Arethan Cliffs;livestock
+434;Tusenend;magical_supplies
+435;Shashpilamat;orichalcum
+436;Holyamayan Monastery;paper
+437;Azura's Shrine;livestock
+438;Odirniran;grain
+439;Mawia;fish
+440;Molag Mar;cloth
+441;Tel Branora;livestock
+442;Telasero;salt
+443;Mount Kand;fur
+444;Mzahnch;dwemer_artifacts
+445;Mababi;cloth
+446;Nchuleftingth;dwemer_artifacts
+447;Shishara;iron
+448;Suran;grain
+449;Omani Manor;grain
+450;Marandus;naval_supplies
+451;Sulipund;copper
+452;Arkngthand;dwemer_artifacts
+453;Dren Plantation;grain
+454;Vivec;paper
+455;Ebonheart;naval_supplies
+456;Seyda Neen;fish
+457;Pelagiad;grain
+458;Nimawia;fish
+459;Balmora;cloth
+460;Assarnatamat;ebony
+461;Caldera;ebony
+462;Hlormaren;naval_supplies
+463;Hla Oad;fish
+464;Nilthog's Hollow;fur
+465;Buckmoth Fort;iron
+466;Ald'ruhn;livestock
+467;Gnaar Mok;fish
+468;Odibaal;iron
+469;Bal Isra;livestock
+470;Andasreth;naval_supplies
+471;Ashimanu;livestock
+472;Dushariran;orichalcum
+473;Ashalmawia;livestock
+474;Berandas;grain
+475;Gnisis;livestock
+476;Ald Velothi;naval_supplies
+477;Maelkashishi;incense
+478;Maar Gan;livestock
+479;Shishi;iron
+480;Khuul;fish
+481;Falasmaryon;livestock
+482;Valenvaryon;naval_supplies
+483;Urshilaku;fur

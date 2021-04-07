@@ -6,13 +6,16 @@ technology_group = western
 capital = 813
 
 
-1437.2.20 = {
+1437.2.25 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Aerin"
+		dynasty = "Fortis"
+		birth_date = 1400.2.12
+		adm = 2
+		dip = 5
+		mil = 4
+		religion = eight_divines_rel
+		culture = varielan
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

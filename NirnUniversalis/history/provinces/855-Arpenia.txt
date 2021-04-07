@@ -1,0 +1,21 @@
+#855-Arpenia
+
+add_core = FDC
+add_core = NIB 
+owner = NIB 
+controller = NIB
+culture = nibenayan
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = cloth
+base_manpower = 2
+capital = "Arpenia"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

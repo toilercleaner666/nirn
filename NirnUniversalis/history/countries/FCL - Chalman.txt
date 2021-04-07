@@ -6,13 +6,16 @@ technology_group = western
 capital = 915
 
 
-1437.2.20 = {
+1428.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Matus"
+		dynasty = "Imbrex"
+		birth_date = 1385.2.19
+		adm = 3
+		dip = 2
+		mil = 4
+		religion = eight_divines_rel
+		culture = chalmani
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

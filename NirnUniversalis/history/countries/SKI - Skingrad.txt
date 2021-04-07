@@ -6,15 +6,19 @@ technology_group = western
 capital = 728
 
 
-1437.2.20 = {
+1402.7.2 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Iulus"
+		dynasty = "Larich"
+		birth_date = 1402.7.2
+		adm = 5
+		dip = 1
+		mil = 2
+		religion = eight_divines_rel
+		culture = wealdish
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
 

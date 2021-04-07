@@ -6,15 +6,34 @@ technology_group = western
 capital = 771
 
 
-1437.2.20 = {
+1410.3.26 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Jonas"
+		dynasty = "Coventine"
+		birth_date = 1382.7.11
+		adm = 3
+		dip = 4
+		mil = 2
+		religion = eight_divines_rel
+		culture = kvatchian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
+1444.1.1
+heir = {
+		name = "Artorius"
+		monarch_name = "Artorius"
+		birth_date = 1425.2.20
+		dynasty = "Ancrus"
+		claim = 80
+		adm = 4
+		dip = 0
+		mil = 6
+		religion = eight_divines_rel
+		culture = heartlander
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
 

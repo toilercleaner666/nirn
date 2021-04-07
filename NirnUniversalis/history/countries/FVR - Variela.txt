@@ -6,13 +6,16 @@ technology_group = western
 capital = 812
 
 
-1437.2.20 = {
+1428.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Kantav"
+		dynasty = "Truptor"
+		birth_date = 1406.9.11
+		adm = 2
+		dip = 2
+		mil = 5
+		religion = eight_divines_rel
+		culture = aurusian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

@@ -1,7 +1,7 @@
 #511-511
 
 
-
+center_of_trade = 1
 culture = Satkalamian
 religion = eight_divines_rel
 hre = no

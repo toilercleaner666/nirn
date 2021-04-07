@@ -1,20 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
+government_rank = 1
 primary_culture = Daenian
 religion = eight_divines_rel
 technology_group = western
 capital = 264
-
-
-1437.2.20 = {
-	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = 
-}
 

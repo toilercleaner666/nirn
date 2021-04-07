@@ -6,15 +6,19 @@ technology_group = western
 capital = 775
 
 
-1437.2.20 = {
+1439.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Ephrem"
+		dynasty = "Benirus"
+		birth_date = 1417.2.20
+		adm = 4
+		dip = 4
+		mil = 3
+		religion = eight_divines_rel
+		culture = anvilese
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
 

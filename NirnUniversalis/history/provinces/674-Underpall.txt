@@ -1,0 +1,21 @@
+#674-Underpall
+
+
+add_core = BRU
+owner = BRU
+controller = BRU
+culture = bruman
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = iron
+base_manpower = 1
+capital = "Underpall"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

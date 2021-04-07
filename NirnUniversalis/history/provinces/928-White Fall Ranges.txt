@@ -1,0 +1,21 @@
+#928-White Fall Ranges
+
+
+add_core = FMG
+owner = FMG 
+controller = FMG
+culture = magian
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 4
+trade_goods = timber
+base_manpower = 3
+capital = "White Falls Ranges"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

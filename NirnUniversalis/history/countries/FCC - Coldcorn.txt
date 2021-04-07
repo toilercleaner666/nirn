@@ -6,13 +6,16 @@ technology_group = western
 capital = 684
 
 
-1437.2.20 = {
+1443.11.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Rallus"
+		dynasty = "Pontifio"
+		birth_date = 1415.5.17
+		adm = 2
+		dip = 1
+		mil = 6
+		religion = eight_divines_rel
+		culture = faciani
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

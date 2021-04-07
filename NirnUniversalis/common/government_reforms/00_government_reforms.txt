@@ -67,27 +67,28 @@ defaults_reform = {
 
 #################TAMRIEL Changes##########################
 jarldom_legacy = {
-	icon = "crown_highlighted"
-	allow_normal_conversion = no 
+	# government mechanics flags go here
+	icon = "crown"
+	allow_normal_conversion = yes
 	legacy_government = yes
-	monarchy = yes
-	valid_for_nation_designer = no
-	valid_for_new_country = no 
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
 	nation_designer_cost = 0
-	
-	ai = {
-		factor = 0
-	}
-	
+	monarchy = yes
 	modifiers = {
 		land_maintenance_modifier = -0.1
 		global_manpower_modifier = 0.1
 		ae_impact = -0.1
 
 	}
+	ai = {
+		factor = 0
+	}
+	
 }
 
 #################TAMRIEL Changes END ##########################
+
 despotic_monarchy = {
 	# government mechanics flags go here
 	icon = "crown"

@@ -1,0 +1,21 @@
+#953-Frostbitten Hills
+
+
+add_core = FHN
+owner = FHN 
+controller = FHN
+culture = horunian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = salt
+base_manpower = 1
+capital = "Frostbitten Hills"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

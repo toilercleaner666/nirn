@@ -1,0 +1,22 @@
+#875-Nayon Camp
+
+
+add_core = ENU
+add_core = NIB 
+owner = NIB 
+controller = NIB
+culture = valusian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = grain
+base_manpower = 3
+capital = "Nayon Camp"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

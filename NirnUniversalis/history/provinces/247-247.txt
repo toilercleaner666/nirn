@@ -1,7 +1,7 @@
 #247-247
 
 
-
+center_of_trade = 1
 culture = Camlornian
 religion = eight_divines_rel
 hre = no

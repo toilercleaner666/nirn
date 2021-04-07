@@ -1,0 +1,22 @@
+#930-Entin
+
+
+add_core = FMG
+add_core = CHE
+owner = CHE
+controller = CHE
+culture = magian
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = livestock
+base_manpower = 1
+capital = "Entin"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

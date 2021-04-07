@@ -7,15 +7,34 @@ technology_group = western
 capital = 818
 
 
-1437.2.20 = {
+1400.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Moricar"
+		dynasty = "Longhouse"
+		birth_date = 1380.2.20
+		adm = 3
+		dip = 2
+		mil = 4
+		religion = eight_divines_rel
+		culture = western_reachmen
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
-
+1420.2.20 = {
+	heir = {
+		name = "Leovic"
+		monarch_name = "Leovic"
+		birth_date = 1430.2.20
+		death_date = 1475.1.1
+		dynasty = "Longhouse"
+		claim = 85
+		adm = 5
+		dip = 1
+		mil = 5
+		religion = eight_divines_rel
+		culture = western_reachmen
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = 
+}

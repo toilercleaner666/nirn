@@ -6,15 +6,20 @@ technology_group = western
 capital = 4267
 
 
-1437.2.20 = {
+1432.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Florentius"
+		dynasty = "Eudoxius"
+		birth_date = 1414.10.9
+		adm = 1
+		dip = 1
+		mil = 3
+		religion = eight_divines_rel
+		culture = topalian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
+
+
 

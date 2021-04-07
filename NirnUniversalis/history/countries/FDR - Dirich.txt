@@ -6,13 +6,16 @@ technology_group = western
 capital = 736
 
 
-1437.2.20 = {
+1428.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Furius"
+		dynasty = "Trebellius"
+		birth_date = 1379.5.24
+		adm = 5
+		dip = 2
+		mil = 5
+		religion = eight_divines_rel
+		culture = dirichi
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 

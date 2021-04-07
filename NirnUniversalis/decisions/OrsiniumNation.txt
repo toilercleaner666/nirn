@@ -1,0 +1,119 @@
+country_decisions = {
+
+
+	orsinium_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_orsinium_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = ORS }
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			primary_culture = Orsimer
+}
+		}
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					NOT = { ROOT = { owns_core_province = 152 } }
+					province_id = 187
+				}
+				AND = {
+					NOT = { ROOT = { owns_core_province = 187 } }
+					province_id = 152
+				}
+				AND = {
+					ROOT = {
+						NOT = {
+							num_of_owned_provinces_with = {
+								value = 8
+								culture = Orsimer
+								superregion = highrock_superregion
+								is_core = root
+							}
+						}
+						owns_core_province = 79
+						OR = {
+							owns_core_province = 187
+							owns_core_province = 152
+						}
+					}
+					culture = Orsimer
+				}
+}
+}
+
+
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			OR = {
+				owns_core_province = 187
+				owns_core_province = 152
+			}
+			num_of_owned_provinces_with = {
+				value = 8
+				culture = Orsimer
+				superregion = highrock_superregion
+				is_core = root
+			}
+			OR = {
+				total_development = 150
+				is_elector = yes
+			}
+		}
+		effect = {
+			change_tag = ORS
+			wrothgar_highrock_region = {
+				limit = {
+					NOT = { owned_by = root }
+					NOT = { is_permanent_claim = root }
+				}
+				add_permanent_claim = root
+			}
+
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = formed_orsinium_flag
+
+			if = {
+				limit = {
+					total_development = 150
+					OR = {
+						is_elector = yes
+						is_part_of_hre = no
+					}
+				}
+				set_government_rank = 2
+			}
+
+			swap_non_generic_missions = yes
+
+			if = {
+				limit = {
+					is_playing_custom_nation = no
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+
+
+}

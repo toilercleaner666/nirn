@@ -1,0 +1,21 @@
+#773-Dunbarrow Cove
+
+
+add_core = ANV
+owner = ANV
+controller = ANV
+culture = anvilese
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = fish
+base_manpower = 1
+capital = "Dunbarrow"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

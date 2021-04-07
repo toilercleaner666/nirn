@@ -1,5 +1,5 @@
 jarldom_reform = {
-	icon = "castle"
+	icon = "crown_highlighted"
 	allow_normal_conversion = yes
 	potential = {
 		religion_group = divines_religion_group
@@ -12,7 +12,6 @@ jarldom_reform = {
 	modifiers = {
 		land_maintenance_modifier = -0.1
 		global_manpower_modifier = 0.1
-		vassal_income = 0.25
 		global_unrest = 1
 	}
 	custom_attributes = {
@@ -24,4 +23,8 @@ jarldom_reform = {
 		thieves_guild_faction
 		knightly_orders_faction
 	}
+}
+
+high_jarldom_reform = {
+
 }

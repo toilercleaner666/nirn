@@ -1,0 +1,22 @@
+#796-Old Bridge
+
+
+add_core = ROE
+add_core = HRT
+owner = HRT 
+controller = HRT
+culture = roebecker
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = fish
+base_manpower = 5
+capital = "Old Bridge"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

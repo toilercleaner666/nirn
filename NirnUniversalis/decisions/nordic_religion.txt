@@ -9,9 +9,11 @@ country_decisions = {
 			stability = 3
 			dip_power = 100
 			legitimacy > 90
+			patriarch_authority > 0.75
 		}
 		effect = {
 			add_dip_power = -100
+			add_patriarch_authority = -0.75
 			add_ruler_modifier = {
 				name = "proclaim_ruler_ysmir"
 			}
@@ -21,5 +23,6 @@ country_decisions = {
 			factor = 1
 		}
 	}
+	
 
 }

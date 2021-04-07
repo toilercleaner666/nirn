@@ -312,3 +312,42 @@ leyawiin_ideas = {
 		spy_offence = 0.10
 	}
 }
+
+colovia_ideas = {
+	start = {
+		diplomatic_reputation = 1
+		global_tax_modifier = 0.10
+	}
+
+	bonus = {
+		core_creation = -0.1
+	}
+	
+	trigger = {
+		tag = CLV
+	}
+	free = yes		#will be added at load.
+
+	colovia_colovian_wood = {
+		global_trade_goods_size_modifier = 0.10
+		build_cost = -0.10
+	}
+	colovia_kotn = {
+		land_morale = 0.15
+	}
+	colovia_backbone_legion = {
+		army_tradition = 1
+	}
+	colovia_stridmeet = {
+		trade_efficiency = 0.15
+	}
+	colovia_colovian_estates = {
+		global_manpower_modifier = 0.2
+	}
+	colovia_governorates = {
+		administrative_efficiency = 0.025
+	}
+	colovia_emperor_zero = {
+		prestige = 1
+	}
+}

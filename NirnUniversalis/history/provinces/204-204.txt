@@ -1,7 +1,7 @@
 #204-204
 
 
-
+center_of_trade = 2
 culture = Northpointer
 religion = eight_divines_rel
 hre = no

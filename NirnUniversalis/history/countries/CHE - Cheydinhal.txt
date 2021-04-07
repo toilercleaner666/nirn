@@ -7,15 +7,19 @@ technology_group = western
 capital = 948
 
 
-1437.2.20 = {
+1412.2.20 = {
 	monarch = {
-		name = ""
-		dynasty = 
-		adm = 
-		dip = 
-		mil = 
+		name = "Plautus"
+		dynasty = "Herius"
+		birth_date = 1397.5.7
+		adm = 2
+		dip = 4
+		mil = 2
+		religion = eight_divines_rel
+		culture = cheydinhalian
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
+
 }
 

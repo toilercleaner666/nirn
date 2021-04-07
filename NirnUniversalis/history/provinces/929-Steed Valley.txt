@@ -1,0 +1,22 @@
+#929-Steed Valley
+
+
+add_core = FMG
+add_core = CHE
+owner = CHE
+controller = CHE
+culture = magian
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = livestock
+base_manpower = 2
+capital = "Steed Valley"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

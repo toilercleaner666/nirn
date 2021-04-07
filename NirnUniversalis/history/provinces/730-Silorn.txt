@@ -1,0 +1,21 @@
+#730-Silorn
+
+
+add_core = SKI 
+owner = SKI
+controller = SKI
+culture = wealdish
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = magical_supplies
+base_manpower = 1
+capital = "Silorn"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
