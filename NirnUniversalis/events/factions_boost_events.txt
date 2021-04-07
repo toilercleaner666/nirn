@@ -1,0 +1,146 @@
+#Change the namespace dumb dumb
+namespace = factions_boost_events
+
+#Boost Fighters Guild
+
+country_event = {
+	id = factions_boost_events.1
+	title = factions_boost_events.1.t
+	desc = factions_boost_events.1.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		# Boost the faction
+		name = "factions_boost_events.1a"
+		add_mil_power = -10
+		add_country_modifier = {
+			name = "boosting_fighters_guild"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Hinder the faction
+		name = "factions_boost_events.1b"
+		add_mil_power = -10
+		add_country_modifier = {
+			name = "hindering_fighters_guild"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Exit the menu
+		name = "factions_boost_events.1c"
+	}
+}
+
+#Boost Mages Guild
+
+country_event = {
+	id = factions_boost_events.2
+	title = factions_boost_events.2.t
+	desc = factions_boost_events.2.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		# Boost the faction
+		name = "factions_boost_events.2a"
+		add_adm_power = -10
+		add_country_modifier = {
+			name = "boosting_mages_guild"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Hinder the faction
+		name = "factions_boost_events.2b"
+		add_adm_power = -10
+		add_country_modifier = {
+			name = "hindering_mages_guild"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Exit the menu
+		name = "factions_boost_events.2c"
+	}
+}
+
+#Boost Thieves Guild
+
+country_event = {
+	id = factions_boost_events.3
+	title = factions_boost_events.3.t
+	desc = factions_boost_events.3.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		# Boost the faction
+		name = "factions_boost_events.3a"
+		add_dip_power = -10
+		add_country_modifier = {
+			name = "boosting_thieves_guild"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Hinder the faction
+		name = "factions_boost_events.3b"
+		add_dip_power = -10
+		add_country_modifier = {
+			name = "hindering_thieves_guild"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Exit the menu
+		name = "factions_boost_events.3c"
+	}
+}
+
+#Boost Knightly Orders
+
+country_event = {
+	id = factions_boost_events.4
+	title = factions_boost_events.4.t
+	desc = factions_boost_events.4.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		# Boost the faction
+		name = "factions_boost_events.4a"
+		add_prestige = -15
+		add_country_modifier = {
+			name = "boosting_knightly_orders"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Hinder the faction
+		name = "factions_boost_events.4b"
+		add_prestige = -15
+		add_country_modifier = {
+			name = "hindering_knightly_orders"
+			duration = 1825
+		}
+	}
+
+	option = {
+		# Exit the menu
+		name = "factions_boost_events.4c"
+	}
+}

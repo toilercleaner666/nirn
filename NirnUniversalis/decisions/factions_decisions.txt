@@ -1,0 +1,67 @@
+country_decisions = {
+	
+	boost_fighters_guild = {
+		potential = {
+			NOT = { has_country_modifier = boosting_fighters_guild }
+			NOT = { has_country_modifier = hindering_fighters_guild }
+		}
+		allow = {
+			mil_power = 10
+		}
+		effect = {
+			country_event = {
+				id = factions_boost_events.1
+			}
+		}
+		ai_will_do = { factor = 0 }
+	}
+	
+	boost_mages_guild = {
+		potential = {
+			NOT = { has_country_modifier = boosting_mages_guild }
+			NOT = { has_country_modifier = hindering_mages_guild }
+		}
+		allow = {
+			adm_power = 10
+		}
+		effect = {
+			country_event = {
+				id = factions_boost_events.2
+			}
+		}
+		ai_will_do = { factor = 0 }
+	}
+	
+	boost_thieves_guild = {
+		potential = {
+			NOT = { has_country_modifier = boosting_thieves_guild }
+			NOT = { has_country_modifier = hindering_thieves_guild }
+		}
+		allow = {
+			dip_power = 10
+		}
+		effect = {
+			country_event = {
+				id = factions_boost_events.3
+			}
+		}
+		ai_will_do = { factor = 0 }
+	}
+	
+	boost_knightly_orders = {
+		potential = {
+			NOT = { has_country_modifier = boosting_knightly_orders }
+			NOT = { has_country_modifier = hindering_knightly_orders }
+		}
+		allow = {
+			prestige = 15
+		}
+		effect = {
+			country_event = {
+				id = factions_boost_events.4
+			}
+		}
+		ai_will_do = { factor = 0 }
+	}
+
+}
