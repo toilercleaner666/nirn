@@ -1,7 +1,7 @@
 #1508-1508
 
 
-
+center_of_trade = 2
 culture = duni
 religion = eight_divines_rel
 hre = no

@@ -1,7 +1,7 @@
 #254-254
 
 
-
+center_of_trade = 1
 culture = Alcairn
 religion = eight_divines_rel
 hre = no

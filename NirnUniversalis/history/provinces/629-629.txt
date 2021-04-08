@@ -1,7 +1,7 @@
 #629-629
 
 
-
+center_of_trade = 1
 culture = Skavenian
 religion = eight_divines_rel
 hre = no

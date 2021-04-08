@@ -1,7 +1,7 @@
 #536-536
 
 
-
+center_of_trade = 1
 culture = Gilanian
 religion = eight_divines_rel
 hre = no

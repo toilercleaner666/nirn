@@ -1,7 +1,7 @@
 #242-242
 
 
-
+center_of_trade = 1
 culture = Guarder
 religion = eight_divines_rel
 hre = no

@@ -17,3 +17,4 @@ discovered_by = ottoman
 discovered_by = eastern
 
 add_province_triggered_modifier = falinesti_winter_site
+center_of_trade = 1

@@ -1,7 +1,7 @@
 #1437-1437
 
 
-
+center_of_trade = 1
 culture = orcresti
 religion = eight_divines_rel
 hre = no

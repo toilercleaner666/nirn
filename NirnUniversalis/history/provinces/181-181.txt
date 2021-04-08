@@ -1,7 +1,7 @@
 #181-181
 
 
-
+center_of_trade = 1
 culture = Ephesian
 religion = eight_divines_rel
 hre = no

@@ -1,7 +1,7 @@
 #555-555
 
 
-
+center_of_trade = 1
 culture = Tanethi
 religion = eight_divines_rel
 hre = no

@@ -1,6 +1,6 @@
 #1650-Velyn Harbor
 
-
+center_of_trade = 2
 culture = marrow
 religion = green_pact_religion
 hre = no

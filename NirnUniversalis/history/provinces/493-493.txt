@@ -1,7 +1,7 @@
 #493-493
 
 
-
+center_of_trade = 1
 culture = Dragonstarian
 religion = eight_divines_rel
 hre = no

@@ -1,7 +1,7 @@
 #113-113
 
 
-
+center_of_trade = 1
 culture = karth
 religion =  old_gods_rel
 hre = no

@@ -1,7 +1,7 @@
 #166-166
 
 
-
+center_of_trade = 1
 culture = Orsimer
 religion = cult_of_malacath_rel
 hre = no
