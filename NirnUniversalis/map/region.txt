@@ -611,50 +611,39 @@ esroniet_padomaic_region = {
 # PYANDONEA                            #
 ########################################
 
-northern_pyandonea_pyandonea_region = {
+pyandonean_isles_pyandonea_region = {
 	areas = {
-
-        westpoint_area
-        toran_area
-        pirate_coast_area
-        fields_of_maka_area
-        glowing_jungle_area
-        neklak_area
-        eastern_coast_area
-        the_lost_valley_area
-        covered_cliffs_area
+		misty_isles_area
+		tiguna_area
+		mantu_roa_area
+		toran_area
 	}
 }
 
-pillar_isles_pyandonea_region = {
+northern_pyandonea_pyandonea_region = {
 	areas = {
-
-        fisherman_isle_area
-        jiguna_area
-        roa_area
-        misty_isles_area
-        isle_of_riches_area
-        kowaht_area
-        crab_coast_area
-        sea_serpent_cove_area
+		westpoint_area
+		pirate_coast_area
+		glowing_jungle_area
+		maku_area
+		covered_cliffs_area
+		lost_valley_area
+		bay_of_bones_area
+		eastern_coast_area
+		neklak_region
 	}
 }
 
 southern_pyandonea_pyandonea_region = {
 	areas = {
-
-        vos_area
-        jungle_of_bones_area
-        cursewood_area
-        orgnums_realm_area
-        forgotten_rainwood_area
-        coral_coast_area
-        bay_of_bones_area
-        bamboo_valley_area
-        pearlwater_area
-        raful_area
-        hilapos_area
-
+		orgnums_hold_area
+		forgotten_rainwood_area
+		kituna_area
+		vallas_area
+		gruv_coast_area
+		crab_coast_area
+		kowaht_area
+		baga_area
 	}
 }
 
@@ -756,63 +745,36 @@ weeping_desert_hammerfell_region = {
 # Summerset Isles                      #
 ########################################
 
-firsthold_summerset_isles_region = {
+auridon_summerset_isles_region = {
 	areas = {
-		firsthold_area
-		shimmering_beaches_area
-		vafe_area
-		beacon_coves_area
-		west_guard_area
-	}
-}
-
-skywatch_summerset_isles_region = {
-	areas = {
-		skywatch_area
-		calambar_area
-		gilsailen_bay_area
 		iluvamir_area
-		southern_auridon_area
-		eastern_auridon_shores_area
-		ondil_hills_area
+		calambar_area
+		skywatch_area
+		beacon_coves_area
+		shimmering_beaches_area
+		firsthold_area
 	}
 }
 
-cloudrest_summerset_isles_region = {
+northern_summerset_summerset_isles_region = {
 	areas = {
-		sea_keep_area
-		lillandril_coast_area
-		gradden_shores_area
-		northern_summerset_area
-		krandar_beaches_area
-		crystal_tower_area
 		cloudrest_area
-		northern_vinyards_area
-		shimmerene_coast_area
-	}
-}
-
-dusk_summerset_isles_region = {
-	areas = {
+		crystal_shores_area
+		lillandril_area
+		ebon_coast_area
 		malten_woods_area
-		clemora_beaches_area
-		mountain_rests_area
-		syldarim_foothills_area
-		dusk_area
-		gangrove_beaches_area
+		shimmerene_area
 	}
 }
 
-alinor_summerset_isles_region = {
+southern_summerset_summerset_isles_region = {
 	areas = {
 		alinor_area
-		ebon_coast_area
-		laurenel_fields_area
-		rosefield_peaks_area
-		isque_crags_area
-		welekin_coves_area
-		southern_sands_area
-		sunhold_shores_area
+		sunhold_area
+		eton_nir_area
+		gangrove_beach_area
+		dusk_area
+		syldarim_foothills_area
 	}
 }
 

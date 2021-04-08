@@ -973,7 +973,7 @@ provinces;red;green;blue;x;x
 972;112;36;72;old summerset 7;x
 973;134;202;230;old summerset 8;x
 974;13;97;27;old summerset 9;x
-975;89;32;175;old summerset 10;x
+975;89;32;175;Errinorne Isle;x
 976;138;233;250;old summerset 11;x
 977;241;193;134;old summerset 12;x
 978;166;66;108;old summerset 13;x
@@ -1085,7 +1085,7 @@ provinces;red;green;blue;x;x
 1084;0;133;15;old summerset 119;x
 1085;195;202;212;old summerset 120;x
 1086;235;4;222;old summerset 121;x
-1087;;;;SUMMERSET UNUSED 114;x
+1087;;;;DONT USE THIS PROVINCE FOR ANYTHING!!;x
 1088;70;20;238;old summerset 123;x
 1089;73;248;249;old summerset 124;x
 1090;88;167;251;old summerset 125;x
@@ -1685,7 +1685,7 @@ provinces;red;green;blue;x;x
 1684;14;129;36;Zanzar;x
 1685;105;71;76;1685;x
 1686;18;59;19;Nalonga;x
-1687;89;32;175;Errinome Isle;x
+1687;;;;UNUSED;x
 1688;241;31;32;unnamed bm;
 1689;153;167;53;Klithi;x
 1690;204;181;177;Kamksh;x

@@ -80,8 +80,8 @@ padomaic_superregion = {
 }
 
 pyandonea_superregion = {
+	pyandonean_isles_pyandonea_region
 	northern_pyandonea_pyandonea_region
-	pillar_isles_pyandonea_region
 	southern_pyandonea_pyandonea_region
 }
 
@@ -97,12 +97,9 @@ hammerfell_superregion = {
 }
 
 summerset_isles_superregion = {
-
-	firsthold_summerset_isles_region
-	skywatch_summerset_isles_region
-	cloudrest_summerset_isles_region
-	dusk_summerset_isles_region
-	alinor_summerset_isles_region
+	auridon_summerset_isles_region
+	northern_summerset_summerset_isles_region
+	southern_summerset_summerset_isles_region
 }
 
 elsweyr_superregion = {
