@@ -17,4 +17,5 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 hre = yes
-
+add_province_triggered_modifier = fighters_guild_presence
+add_province_triggered_modifier = kynarian_order

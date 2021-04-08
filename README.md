@@ -14,15 +14,15 @@ We post regular updates on our subreddit: https://www.reddit.com/r/nirnuniversal
 ## Current mod status:
 ### Completed:
 + Fully Functional Map
-+ Trade Nodes (no connections)
++ Political Map for Tamriel, Yokuda
++ Cultures for Tamriel
++ Trade Nodes
++ Factions (for Guilds)
 ### In Progress:
 + Map:
     1. Strait Crossings
     2. Water Map
     3. Province Positions (Manually adjusted)
-    4. Trade Node Connections
-+ Political Map and Countries
-+ Cultures
 + Religions
 + Advisor Portraits
 + Localization
@@ -33,6 +33,7 @@ We post regular updates on our subreddit: https://www.reddit.com/r/nirnuniversal
 	+ data: files used as script input, such as .csv files for province development
 	+ out: where the script output files are generated for bash/python scripts
 + Maps and pdn files: Folder containing various maps used in the mod development
++ Art: Folder containing various art files
 
 ## Nirn Universalis contribution guidelines:
 

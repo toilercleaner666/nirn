@@ -1,0 +1,125 @@
+########################################
+# GENERAL FACTIONS                     #
+########################################
+
+fighters_guild_faction = {
+	monarch_power = MIL
+	always = yes
+
+	modifier = {
+		discipline = 0.05
+		global_regiment_recruit_speed = -0.1
+		global_regiment_cost = -0.15
+		improve_relation_modifier = -0.1
+	}
+
+	triggered_faction_name = {
+		name = companions_faction
+
+		trigger = {
+			AND = {
+				OR = {
+					AND = {
+						culture_group = nordic
+						NOT = { culture = bruman }
+						NOT = { culture = horunian }
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
+					}
+					AND = {
+						culture_group = reachmen_group
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
+					}
+				}
+				owns = 86
+			}
+		}
+	}
+}
+
+mages_guild_faction = {
+	monarch_power = ADM
+	always = yes
+
+	modifier = {
+		prestige = 0.5
+		technology_cost = -0.05
+		idea_cost = -0.05
+		innovativeness_gain = 1
+		land_maintenance_modifier = 0.20
+	}
+
+	triggered_faction_name = {
+		name = college_of_winterhold_faction
+
+		trigger = {
+			AND = {
+				OR = {
+					AND = {
+						culture_group = nordic
+						NOT = { culture = bruman }
+						NOT = { culture = horunian }
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
+					}
+					AND = {
+						culture_group = reachmen_group
+						capital_scope = {
+							superregion = skyrim_superregion
+						}
+					}
+				}
+				owns = 14
+			}
+		}
+	}
+}
+
+thieves_guild_faction = {
+	monarch_power = DIP
+	always = yes
+
+	modifier = {
+		envoy_travel_time = -0.25
+		diplomatic_upkeep = 1
+		spy_offence = 0.75
+		global_spy_defence = 0.75
+		yearly_corruption = 0.1
+	}
+
+	triggered_faction_name = {
+		name = camonna_tong_faction
+
+		trigger = {
+			culture_group = Dunmeri
+		}
+	}
+
+	triggered_faction_name = {
+		name = silver_crescent_faction
+
+		trigger = {
+			culture_group = bosmer_group
+		}
+	}
+}
+
+# Knightly Orders of Daggerfall, Cyrodiil, Hammerfell
+# Apply to the entire world, otherwise the ui looks bad and thats unacceptable
+
+knightly_orders_faction = {
+	monarch_power = MIL
+
+	always = yes
+
+	modifier = {
+		land_morale = 0.05
+		prestige = 1
+		leader_land_fire = 1
+		global_autonomy = 0.05
+	}
+}

@@ -157,7 +157,7 @@ provinces;red;green;blue;x;x
 156;124;181;56;Northwood;x
 157;224;190;245;Frozen Fleet;x
 158;108;59;15;Snowline;x
-159;254;172;31;Jackdaw;x
+159;254;172;31;Mournoth;x
 160;240;182;154;Kerbol's Hollow;x
 161;139;100;193;Troll's Toothpick;x
 162;95;166;137;Azra's Crossing;x
@@ -228,7 +228,7 @@ provinces;red;green;blue;x;x
 227;3;80;27;Old Gate;x
 228;209;6;192;Westwind;x
 229;130;33;125;Veawend Ede;x
-230;209;164;156;Shorhelm;x
+230;209;164;156;Shornhelm;x
 231;40;152;11;Valeguard;x
 232;154;95;237;White Haven;x
 233;162;89;19;Crestshade;x
@@ -789,7 +789,7 @@ provinces;red;green;blue;x;x
 788;137;142;38;Vindasel;x
 789;36;224;72;Felgageldt;x
 790;206;192;24;Vlastarus;x
-791;124;213;212;gro-Bak;x
+791;124;213;212;Gro-Bak;x
 792;255;35;0;Collarbone;x
 793;37;63;71;Nisin;x
 794;92;42;171;Castle Roebeck;x

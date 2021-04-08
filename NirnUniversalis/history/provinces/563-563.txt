@@ -18,3 +18,5 @@ discovered_by = ottoman
 discovered_by = eastern
 center_of_trade = 1
 
+
+add_province_triggered_modifier = mages_guild_hall
