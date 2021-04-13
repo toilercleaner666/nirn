@@ -129,3 +129,9 @@ country_event = {
 		custom_tooltip = flavor_WND.0.a.tt
 	}
 }
+
+#Riekling Invasion 
+#in 2E 582, the Ice-Biter Tribe of rieklings attacked the town of Cragwallow in Eastmarch and were wiped out in retaliation.
+# In 2E 582, The Coldsnap Tribe inhabited the Dwemer Vault of Mhuvak, making the retrieval of the legendary Wrathstone problematic.
+#They used some Dwarven gear as a result of their discovery of an abandoned Dwarven site (even using it to armor a troll), 
+#with some believing that their hoarding of scrap would result in them achieving more advanced civilization, but they were slaughtered by members of the Wrathstone expedition.

@@ -5,10 +5,10 @@ center_of_trade = 1
 culture = Gilanian
 religion = eight_divines_rel
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = copper
-base_manpower = 1
+base_tax = 5
+base_production = 5
+trade_goods = incense
+base_manpower = 5
 capital = "Penryn"
 is_city = yes
 add_core = GIL owner = GIL controller = GIL

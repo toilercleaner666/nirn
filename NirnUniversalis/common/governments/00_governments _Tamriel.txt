@@ -153,7 +153,10 @@ monarchy = {
 		parliamentary_reform
 		english_monarchy
 		states_general_reform
-
+		#####TAMRIEL CHANGES#####
+		jarldom_reform
+		high_jarldom_reform
+		#####TAMRIEL CHANGES END#####
 	}
 	
 	# Dictatorships etc
@@ -182,6 +185,7 @@ monarchy = {
 		jarldom_reform
 		high_jarldom_reform
 		#####TAMRIEL CHANGES END#####
+
 	}
 
 	#Flavor

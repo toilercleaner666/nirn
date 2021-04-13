@@ -75,15 +75,16 @@ jarldom_legacy = {
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	monarchy = yes
+	ai = {
+		factor = 0
+	}	
 	modifiers = {
 		land_maintenance_modifier = -0.1
 		global_manpower_modifier = 0.1
 		ae_impact = -0.1
 
 	}
-	ai = {
-		factor = 0
-	}
+
 	
 }
 

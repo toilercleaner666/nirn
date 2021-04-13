@@ -1092,7 +1092,7 @@ jarldom_reform = {
 	}
 	valid_for_nation_designer = no 
 	nation_designer_cost = 0
-	lock_level_when_selected = yes
+#	lock_level_when_selected = yes
 	legacy_equivalent = jarldom_legacy
 	modifiers = {
 		land_maintenance_modifier = -0.1

@@ -1,0 +1,22 @@
+#991-991
+
+
+
+culture = haafingar
+religion = nord_religion
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = gems
+base_manpower = 5
+capital = "Solitude"
+is_city = yes
+add_core = SOL owner = SOL controller = SOL
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+center_of_trade = 1
+fort_15th = yes 
+
+

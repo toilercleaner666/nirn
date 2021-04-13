@@ -1,15 +1,15 @@
-#10-10
+#11-11
 
 
 
 culture = skaal
 religion = eight_divines_rel
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = timber
-base_manpower = 1
-capital = "Penryn"
+base_tax = 2
+base_production = 3
+trade_goods = fur
+base_manpower = 2
+capital = "Skaal Village"
 is_city = yes
 add_core = SEM owner = SEM controller = SEM 
 discovered_by = western
@@ -18,3 +18,4 @@ discovered_by = ottoman
 discovered_by = eastern
 
 
+add_province_triggered_modifier = riekling_modifier
