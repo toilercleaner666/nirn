@@ -2,10 +2,11 @@
 
 
 
-add_core = FRH
-owner = FRH
-controller = FRH
-culture = firstholder
+add_core = SUM
+add_core = CLO
+owner = SUM
+controller = SUM
+culture = cloudrester
 religion = auri_el_rel
 hre = no
 base_tax = 1

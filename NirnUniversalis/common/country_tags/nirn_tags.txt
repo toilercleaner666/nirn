@@ -313,8 +313,8 @@ LLD = "countries/Lillandril.txt"
 #Auridon
 SKW = "countries/Skywatch.txt"
 FRH = "countries/Firsthold.txt"
-#VLK = "countries/VulkhelGuard.txt"
-#PHR = "countries/PhaerRaiders.txt"
+VLK = "countries/VulkhelGuard.txt"
+PHR = "countries/PhaerRaiders.txt"
 
 ##########################
 # PYANDONEA              #

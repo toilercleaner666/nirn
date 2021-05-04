@@ -1,6 +1,6 @@
 union = {
 	first = SUM
-	second = LLD
+	second = VLK
 	start_date = 1444.1.1
 }
 
