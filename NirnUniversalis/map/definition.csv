@@ -964,30 +964,30 @@ provinces;red;green;blue;x;x
 963;142;78;144;Hero Hill;x
 964;199;90;51;Shetcombe;x
 965;106;190;194;Stirk;x
-966;123;97;104;FIRST AURIDON;x
-967;171;81;3;old summerset 2;x
-968;148;114;164;old summerset 3;x
-969;90;167;132;old summerset 4;x
-970;196;43;92;old summerset 5;x
-971;122;210;122;old summerset 6;x
-972;112;36;72;old summerset 7;x
-973;134;202;230;old summerset 8;x
-974;13;97;27;old summerset 9;x
+966;123;97;104;Eastshore Islets;x
+967;171;81;3;Vulkel Guard;x
+968;148;114;164;Silsailen;x
+969;90;167;132;Ondil;x
+970;196;43;92;Illuvamir;x
+971;122;210;122;Tanzelwil;x
+972;112;36;72;Phaer;x
+973;134;202;230;Mathiisen;x
+974;13;97;27;Buraniim Isle;x
 975;89;32;175;Errinorne Isle;x
-976;138;233;250;old summerset 11;x
-977;241;193;134;old summerset 12;x
-978;166;66;108;old summerset 13;x
-979;70;91;8;old summerset 14;x
-980;101;68;220;old summerset 15;x
-981;48;67;11;old summerset 16;x
-982;176;64;188;old summerset 17;x
-983;5;225;162;old summerset 18;x
-984;52;143;231;old summerset 19;x
-985;44;78;231;old summerset 20;x
-986;162;113;81;old summerset 21;x
-987;255;176;252;old summerset 22;x
-988;24;235;240;old summerset 23;x
-989;179;111;48;LAST AURIDON;x
+976;138;233;250;Toothmaul;x
+977;241;193;134;Skywatch;x
+978;166;66;108;Shattered Grove;x
+979;70;91;8;Nelvanya;x
+980;101;68;220;Ezduiin;x
+981;48;67;11;Wansalen;x
+982;176;64;188;Dawnbreak;x
+983;5;225;162;Beacon Falls;x
+984;52;143;231;Torinaan;x
+985;44;78;231;North Beacon;x
+986;162;113;81;Nine-Prow Landing;x
+987;255;176;252;Firsthold;x
+988;24;235;240;Rilis;x
+989;179;111;48;Greenwater;x
 990;202;248;144;Shattered Sword Hills;x
 991;21;4;173;Solitude;x
 992;238;75;0;Shadowgreen;x
@@ -998,141 +998,141 @@ provinces;red;green;blue;x;x
 997;40;112;176;SUMMERSET UNUSED 116;x
 998;154;226;69;SUMMERSET UNUSED 117;x
 999;151;106;79;SUMMERSET UNUSED 118;x
-1000;254;77;192;old summerset 35;x
-1001;34;149;12;old summerset 36;x
-1002;32;162;180;old summerset 37;x
-1003;104;58;233;old summerset 38;x
-1004;154;43;119;old summerset 39;x
-1005;30;152;188;old summerset 40;x
-1006;243;218;241;old summerset 41;x
-1007;33;168;123;old summerset 42;x
-1008;149;130;207;old summerset 43;x
-1009;187;28;220;old summerset 44;x
-1010;120;219;222;old summerset 45;x
-1011;64;144;49;old summerset 46;x
-1012;56;211;247;old summerset 47;x
-1013;103;112;182;old summerset 48;x
-1014;106;80;43;old summerset 49;x
-1015;224;246;21;old summerset 50;x
-1016;161;178;40;old summerset 51;x
-1017;145;66;170;old summerset 52;x
-1018;199;174;242;old summerset 53;x
-1019;19;44;6;old summerset 54;x
-1020;153;4;108;old summerset 55;x
-1021;55;231;183;old summerset 56;x
-1022;63;190;247;old summerset 57;x
-1023;132;248;250;old summerset 58;x
-1024;210;43;8;old summerset 59;x
-1025;125;187;5;old summerset 60;x
-1026;150;0;75;old summerset 61;x
-1027;224;26;13;old summerset 62;x
-1028;55;56;80;old summerset 63;x
-1029;177;248;85;old summerset 64;x
-1030;142;98;136;old summerset 65;x
-1031;53;0;127;old summerset 66;x
-1032;125;94;251;old summerset 67;x
-1033;69;141;196;old summerset 68;x
-1034;138;102;143;old summerset 69;x
-1035;179;37;117;old summerset 70;x
-1036;175;177;161;old summerset 71;x
-1037;132;141;151;old summerset 72;x
-1038;223;83;109;old summerset 73;x
-1039;184;239;142;old summerset 74;x
-1040;106;49;172;LAST SUMMERSET;x
-1041;228;139;204;FIRST PYANDONEA;x
-1042;81;131;91;old summerset 77;x
-1043;159;90;38;old summerset 78;x
-1044;23;130;174;old summerset 79;x
-1045;15;110;12;old summerset 80;x
-1046;124;139;190;old summerset 81;x
-1047;179;163;56;old summerset 82;x
-1048;234;163;119;old summerset 83;x
-1049;134;173;36;old summerset 84;x
-1050;85;154;216;old summerset 85;x
-1051;202;38;177;old summerset 86;x
-1052;223;235;235;old summerset 87;x
-1053;38;3;76;old summerset 88;x
-1054;255;218;185;old summerset 89;x
-1055;255;250;206;old summerset 90;x
-1056;100;149;237;old summerset 91;x
-1057;1;106;134;old summerset 92;x
-1058;225;78;254;old summerset 93;x
-1059;220;220;220;old summerset 94;x
-1060;255;250;205;old summerset 95;x
-1061;240;128;128;old summerset 96;x
-1062;123;104;238;old summerset 97;x
-1063;91;57;62;old summerset 98;x
-1064;108;202;139;old summerset 99;x
-1065;30;248;213;old summerset 100;x
-1066;198;142;19;old summerset 101;x
-1067;63;43;242;old summerset 102;x
-1068;31;205;98;old summerset 103;x
-1069;196;254;177;old summerset 104;x
-1070;252;176;120;old summerset 105;x
-1071;183;100;212;old summerset 106;x
-1072;162;211;112;old summerset 107;x
-1073;255;228;225;old summerset 108;x
-1074;196;143;14;old summerset 109;x
-1075;170;183;10;old summerset 110;x
-1076;210;23;218;old summerset 111;x
-1077;78;105;238;old summerset 112;x
-1078;241;188;2;old summerset 113;x
-1079;112;22;11;old summerset 114;x
-1080;132;122;6;old summerset 115;x
-1081;205;234;249;old summerset 116;x
-1082;100;22;134;old summerset 117;x
-1083;26;197;16;old summerset 118;x
-1084;0;133;15;old summerset 119;x
-1085;195;202;212;old summerset 120;x
-1086;235;4;222;old summerset 121;x
-1087;;;;DONT USE THIS PROVINCE FOR ANYTHING!!;x
-1088;70;20;238;old summerset 123;x
-1089;73;248;249;old summerset 124;x
-1090;88;167;251;old summerset 125;x
-1091;12;87;215;old summerset 126;x
-1092;204;75;56;old summerset 127;x
-1093;56;210;170;old summerset 128;x
-1094;200;239;183;old summerset 129;x
-1095;107;158;125;old summerset 130;x
-1096;41;83;160;old summerset 131;x
-1097;69;195;36;old summerset 132;x
-1098;51;86;94;old summerset 133;x
-1099;77;203;117;old summerset 134;x
-1100;206;234;54;old summerset 135;x
-1101;140;1;189;old summerset 136;x
-1102;20;62;174;old summerset 137;x
-1103;193;137;30;old summerset 138;x
-1104;173;104;241;old summerset 139;x
-1105;222;22;70;old summerset 140;x
-1106;20;247;145;old summerset 141;x
-1107;196;101;192;old summerset 142;x
-1108;228;118;47;old summerset 143;x
-1109;152;236;189;old summerset 144;x
-1110;15;212;37;old summerset 145;x
-1111;193;29;45;old summerset 146;x
-1112;2;43;14;old summerset 147;x
-1113;126;93;226;old summerset 148;x
-1114;166;192;208;old summerset 149;x
-1115;186;162;142;old summerset 150;x
-1116;134;85;22;old summerset 151;x
-1117;234;179;169;old summerset 152;x
-1118;41;132;137;old summerset 153;x
-1119;255;228;181;old summerset 154;x
-1120;198;138;152;old summerset 155;x
-1121;90;3;22;old summerset 156;x
-1122;104;74;153;old summerset 157;x
-1123;132;8;102;old summerset 158;x
-1124;176;224;230;old summerset 159;x
-1125;174;35;192;LAST PYANDONEA;x
-1126;161;102;204;old summerset 160;x
-1127;196;70;144;old summerset 161;x
-1128;164;202;210;old summerset 162;x
-1129;204;14;54;old summerset 163;x
-1130;183;128;198;old summerset 164;x
-1131;60;48;141;old summerset 165;x
-1132;227;139;157;old summerset 166;x
-1133;101;201;218;old summerset 167;x
-1134;186;26;0;old summerset 168;x
+1000;254;77;192;Corgrad;x
+1001;34;149;12;Sarulas;x
+1002;32;162;180;Slaughter;x
+1003;104;58;233;Ebon Stadmont;x
+1004;154;43;119;Pasetelin;x
+1005;30;152;188;Arata;x
+1006;243;218;241;Lillandril;x
+1007;33;168;123;Rellenthil;x
+1008;149;130;207;Riverfeld;x
+1009;187;28;220;Aldothren;x
+1010;120;219;222;Eldbur Field;x
+1011;64;144;49;Ald Mora;x
+1012;56;211;247;Sungai;x
+1013;103;112;182;Ornandel;x
+1014;106;80;43;Ebonsamon;x
+1015;224;246;21;Scutters Pond;x
+1016;161;178;40;Cey-Tarn;x
+1017;145;66;170;Alinor;x
+1018;199;174;242;The Pearls;x
+1019;19;44;6;Marnor;x
+1020;153;4;108;Felbalin;x
+1021;55;231;183;Eton Tam;x
+1022;63;190;247;Glenvia;x
+1023;132;248;250;Isque;x
+1024;210;43;8;Sunhold;x
+1025;125;187;5;Mariin (M);x
+1026;150;0;75;Holly Falls;x
+1027;224;26;13;Cunelyei;x
+1028;55;56;80;Archen Gangrove;x
+1029;177;248;85;Dusk;x
+1030;142;98;136;Thorheim Guard;x
+1031;53;0;127;Sil-Var-Woad;x
+1032;125;94;251;Syldarim;x
+1033;69;141;196;Alaxon'ald;x
+1034;138;102;143;Croddlehurst;x
+1035;179;37;117;Tor-Hame-Khard;x
+1036;175;177;161;Kingdom Fields;x
+1037;132;141;151;Eldbur Keep;x
+1038;223;83;109;Silver Wood;x
+1039;184;239;142;Celemora;x
+1040;106;49;172;Shimmerene;x
+1041;228;139;204;Cryrga;x
+1042;81;131;91;Tiguna;x
+1043;159;90;38;Qadhel;x
+1044;23;130;174;Haaclonirnir;x
+1045;15;110;12;Cato Ydur;x
+1046;124;139;190;Khael;x
+1047;179;163;56;West Mantu;x
+1048;234;163;119;East Manu;x
+1049;134;173;36;West Roa;x
+1050;85;154;216;East Roa;x
+1051;202;38;177;Cryrgondion;x
+1052;223;235;235;Pyrrahn;x
+1053;38;3;76;Qrileilnondioh;x
+1054;255;218;185;Velu;x
+1055;255;250;206;Arcantys;x
+1056;100;149;237;Cridresnymdah;x
+1057;1;106;134;Nisneth;x
+1058;225;78;254;Baga;x
+1059;220;220;220;Qruungum;x
+1060;255;250;205;Lynraah;x
+1061;240;128;128;West Bondar;x
+1062;123;104;238;East Bondar;x
+1063;91;57;62;Irgno;x
+1064;108;202;139;Nectys;x
+1065;30;248;213;Zodyrwehiosh;x
+1066;198;142;19;Cholmudunwal;x
+1067;63;43;242;Ysmorwalwy;x
+1068;31;205;98;Tyctarlynnul;x
+1069;196;254;177;Vallas Bor;x
+1070;252;176;120;Jarysh;x
+1071;183;100;212;Yallyrmyhy;x
+1072;162;211;112;Dilnias;x
+1073;255;228;225;Gruv;x
+1074;196;143;14;Wega;x
+1075;170;183;10;Corlarda;x
+1076;210;23;218;Nishe;x
+1077;78;105;238;Linior;x
+1078;241;188;2;Engeth;x
+1079;112;22;11;West Kituna;x
+1080;132;122;6;East Kituna;x
+1081;205;234;249;Vos;x
+1082;100;22;134;Vynvioth;x
+1083;26;197;16;Emloth;x
+1084;0;133;15;Kylgel;x
+1085;195;202;212;Vamrir;x
+1086;235;4;222;Criphyri;x
+1087;;;;DONT USE THIS PROVINCE FOR ANYTHING!! IT IS BUGGED PLEASE DONT TOUCH IT PLEASE PRETTY PLEASE;x
+1088;70;20;238;Jareiddim;x
+1089;73;248;249;Qongivylvur;x
+1090;88;167;251;Palni;x
+1091;12;87;215;Yinna;x
+1092;204;75;56;Polmer;x
+1093;56;210;170;Chushirwuh;x
+1094;200;239;183;Hellurwin;x
+1095;107;158;125;Chruhlilwirlih;x
+1096;41;83;160;Gaddu;x
+1097;69;195;36;Hyrle;x
+1098;51;86;94;Chronhulina;x
+1099;77;203;117;Odi;x
+1100;206;234;54;Chruthil;x
+1101;140;1;189;Othelleslosh;x
+1102;20;62;174;Ekhe;x
+1103;193;137;30;Qingah;x
+1104;173;104;241;Rilmitur;x
+1105;222;22;70;Zassuth;x
+1106;20;247;145;Abbarbas;x
+1107;196;101;192;Hynendasan;x
+1108;228;118;47;Qruulmim;x
+1109;152;236;189;Narnatiddul;x
+1110;15;212;37;Pontu;x
+1111;193;29;45;Pini;x
+1112;2;43;14;Cryryysna;x
+1113;126;93;226;Virna;x
+1114;166;192;208;Eenrermessun;x
+1115;186;162;142;Zysna;x
+1116;134;85;22;Dhynruth;x
+1117;234;179;169;Chryduht;x
+1118;41;132;137;Cesmyrasin;x
+1119;255;228;181;Secula;x
+1120;198;138;152;Yrhorwonne;x
+1121;90;3;22;Narrunnith;x
+1122;104;74;153;Asmuosh;x
+1123;132;8;102;Acoht;x
+1124;176;224;230;Etho Sul;x
+1125;174;35;192;Jeirlarnynvuoth;x
+1126;161;102;204;Graddun Spring;x
+1127;196;70;144;Kingshaven;x
+1128;164;202;210;Belport Run;x
+1129;204;14;54;Crystal Tower;x
+1130;183;128;198;Eton Nir;x
+1131;60;48;141;Cloudrest;x
+1132;227;139;157;Old Hall;x
+1133;101;201;218;Krandar Watch;x
+1134;186;26;0;Belotte;x
 1135;;;;SUMMERSET UNUSED 1;x
 1136;;;;SUMMERSET UNUSED 2;x
 1137;;;;SUMMERSET UNUSED 3;x

@@ -1318,7 +1318,7 @@ westpoint_area = {
 	1120 1121 1122
 }
 
-pirate_coast_area = {
+secula_area = {
 	1112 1113 1118 1119
 }
 
@@ -1330,7 +1330,7 @@ maku_area = {
 	1107 1109 1114 1115
 }
 
-covered_cliffs_area = {
+banta_desert_area = {
 	1106 1116 1117
 }
 
@@ -1338,7 +1338,7 @@ lost_valley_area = {
 	1099 1101 1102 1103 1108
 }
 
-bay_of_bones_area = {
+akuna_area = {
 	1083 1084 1085 1104 1105
 }
 
@@ -1366,7 +1366,7 @@ gruv_coast_area = {
 	1064 1065 1071 1072 1073
 }
 
-crab_coast_area = {
+varro_area = {
 	1060 1061 1062 1063
 }
 
@@ -1378,7 +1378,7 @@ baga_area = {
 	1055 1057 1058
 }
 
-neklak_area = {
+gaddu_area = {
 	1092 1093 1094 1096 1100
 }
 

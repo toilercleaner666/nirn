@@ -1,17 +1,17 @@
 union = {
-	first = ALI
+	first = SUM
 	second = LLD
 	start_date = 1444.1.1
 }
 
 vassal = {
-	first = ALI
+	first = SUM
 	second = FRH
 	start_date = 1444.1.1
 }
 
 vassal = {
-	first = ALI
+	first = SUM
 	second = SKW
 	start_date = 1444.1.1
 }

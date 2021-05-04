@@ -623,14 +623,14 @@ pyandonean_isles_pyandonea_region = {
 northern_pyandonea_pyandonea_region = {
 	areas = {
 		westpoint_area
-		pirate_coast_area
+		secula_area
 		glowing_jungle_area
 		maku_area
-		covered_cliffs_area
+		banta_desert_area
 		lost_valley_area
-		bay_of_bones_area
+		akuna_area
 		eastern_coast_area
-		neklak_region
+		gaddu_area
 	}
 }
 
@@ -641,7 +641,7 @@ southern_pyandonea_pyandonea_region = {
 		kituna_area
 		vallas_area
 		gruv_coast_area
-		crab_coast_area
+		varro_area
 		kowaht_area
 		baga_area
 	}

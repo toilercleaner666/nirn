@@ -298,16 +298,50 @@ STO = "countries/Stormhold.txt"
 GID = "countries/Gideon.txt"
 ARG = "countries/Argonia.txt"
 
-#Summerset Isles
+##########################
+# SUMMERSET ISLES        #
+##########################
 
-ALI = "countries/Alinor.txt"
+# Summerset
+SUM = "countries/Summerset.txt"
 SUN = "countries/Sunhold.txt"
 DUS = "countries/Dusk.txt"
 SHM = "countries/Shimmerene.txt"
 CLO = "countries/Cloudrest.txt"
 LLD = "countries/Lillandril.txt"
+
+#Auridon
 SKW = "countries/Skywatch.txt"
 FRH = "countries/Firsthold.txt"
+#VLK = "countries/VulkhelGuard.txt"
+#PHR = "countries/PhaerRaiders.txt"
+
+##########################
+# PYANDONEA              #
+##########################
+
+# Pirates
+TIG = "countries/Tiguna.txt"
+MAT = "countries/Mantu.txt"
+CYD = "countries/CatoYdur.txt"
+KHL = "countries/Khael.txt"
+ROA = "countries/Roa.txt"
+PYR = "countries/Pyrrahn.txt"
+ETH = "countries/EthoSul.txt"
+VLU = "countries/Velu.txt"
+BON = "countries/Bondar.txt"
+GRV = "countries/Gruv.txt"
+KIT = "countries/KitunaVos.txt"
+VIK = "countries/Vikiir.txt"
+
+# Orgnum and Vassals
+ORG = "countries/OrgnumsDomain.txt"
+ARC = "countries/Arcantys.txt"
+GAD = "countries/Gaddu.txt"
+PON = "countries/Pontu.txt"
+AKR = "countries/Akrna.txt"
+SEC = "countries/Secula.txt"
+ABB = "countries/Abbarbas.txt"
 
 
 ##########################
