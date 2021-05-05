@@ -2,6 +2,9 @@
 
 
 
+add_core = ETH
+owner = ETH
+controller = ETH
 culture = maormer_raider
 religion = maormer_religion
 hre = no

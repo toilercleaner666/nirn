@@ -2,10 +2,9 @@
 
 
 
-add_core = SHM 
-add_core = ALI 
-owner = ALI 
-controller = ALI 
+add_core = BON
+owner = BON
+controller = BON
 culture = arcantysi
 religion = maormer_religion
 hre = no
@@ -19,4 +18,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-add_province_triggered_modifier = fighters_guild_hall

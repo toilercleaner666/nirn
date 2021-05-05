@@ -2,9 +2,9 @@
 
 
 
-add_core = ALI
-owner = ALI
-controller = ALI
+add_core = AKR
+owner = AKR
+controller = AKR
 culture = akunan
 religion = maormer_religion
 hre = no

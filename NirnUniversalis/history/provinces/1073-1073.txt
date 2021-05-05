@@ -1,9 +1,10 @@
 #1073-1073
 
-add_core = CLO
-add_core = ALI
-owner = ALI 
-controller = ALI
+
+
+add_core = GRV
+owner = GRV
+controller = GRV
 culture = wegan
 religion = maormer_religion
 hre = no

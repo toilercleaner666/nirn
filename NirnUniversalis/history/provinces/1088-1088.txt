@@ -2,9 +2,9 @@
 
 
 
-add_core = ALI
-owner = ALI
-controller = ALI
+add_core = ORG
+owner = ORG
+controller = ORG
 culture = kitunese
 religion = maormer_religion
 hre = no

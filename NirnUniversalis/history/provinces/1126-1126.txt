@@ -1,4 +1,4 @@
-#1126-1126
+#1126-1126
 
 
 
@@ -7,7 +7,7 @@ add_core = SUM
 owner = SUM
 controller = SUM
 culture = cloudrester
-religion = eight_divines_rel
+religion = auri_el_rel
 hre = no
 base_tax = 1
 base_production = 1

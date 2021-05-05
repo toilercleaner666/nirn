@@ -2,10 +2,9 @@
 
 
 
-add_core = SUN 
-add_core = ALI 
-owner = ALI  
-controller = ALI  
+add_core = GAD
+owner = GAD
+controller = GAD 
 culture = gadovese
 religion = maormer_religion
 hre = no

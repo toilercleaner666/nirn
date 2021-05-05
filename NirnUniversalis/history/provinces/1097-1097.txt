@@ -2,10 +2,9 @@
 
 
 
-add_core = SUN 
-add_core = ALI 
-owner = ALI  
-controller = ALI
+add_core = PON
+owner = PON
+controller = PON
 culture = pontan
 religion = maormer_religion
 hre = no

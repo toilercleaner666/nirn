@@ -2,6 +2,9 @@
 
 
 
+add_core = VIK
+owner = VIK
+controller = VIK
 culture = maormer_raider
 religion = maormer_religion
 hre = no

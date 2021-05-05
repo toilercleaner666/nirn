@@ -2,9 +2,9 @@
 
 
 
-add_core = LLD 
-owner = LLD 
-controller = LLD 
+add_core = TIG
+owner = TIG
+controller = TIG
 culture = maormer_raider
 religion = maormer_religion
 hre = no

@@ -2,9 +2,9 @@
 
 
 
-add_core = LLD 
-owner = LLD 
-controller = LLD 
+add_core = ROA
+owner = ROA
+controller = ROA
 culture = maormer_raider
 religion = maormer_religion
 hre = no
@@ -18,5 +18,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

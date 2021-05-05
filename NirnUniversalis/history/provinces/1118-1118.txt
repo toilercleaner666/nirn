@@ -2,10 +2,9 @@
 
 
 
-add_core = SHM 
-add_core = ALI 
-owner = ALI 
-controller = ALI 
+add_core = SEC
+owner = SEC
+controller = SEC
 culture = bantan
 religion = maormer_religion
 hre = no

@@ -2,10 +2,9 @@
 
 
 
-add_core = DUS
-add_core = ALI
-owner = ALI 
-controller = ALI
+add_core = VLU
+owner = VLU
+controller = VLU
 culture = arcantysi
 religion = maormer_religion
 hre = no
@@ -19,5 +18,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

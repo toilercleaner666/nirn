@@ -2,9 +2,9 @@
 
 
 
-add_core = ALI
-owner = ALI
-controller = ALI
+add_core = AKR
+owner = AKR
+controller = AKR
 culture = akunan
 religion = maormer_religion
 hre = no
@@ -18,5 +18,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-
