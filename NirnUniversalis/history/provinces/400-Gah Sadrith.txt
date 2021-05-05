@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 3
 trade_goods = cloth
 base_manpower = 3
-capital = "Penryn"
+capital = "Gah Sadrith"
 is_city = yes
 add_core = TLV owner = TLV controller = TLV
 discovered_by = western

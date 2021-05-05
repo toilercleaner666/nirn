@@ -1,0 +1,26 @@
+#14-14
+
+
+
+culture = winterholder
+religion = nord_religion
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = magical_supplies
+base_manpower = 6
+capital = "Winterhold"
+is_city = yes
+add_core = WNH owner = WNH controller = WNH
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+center_of_trade = 1
+fort_15th = yes 
+
+add_permanent_province_modifier = {
+	name = bookmarket_of_x
+	duration = -1
+}
+add_province_triggered_modifier = college_of_winterhold_mages_guild

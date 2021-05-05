@@ -1,0 +1,20 @@
+#109-109
+
+
+
+culture = dragonbridger
+religion = nord_religion
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Karth Crossing"
+is_city = yes
+add_core = UKW owner = UKW controller = UKW add_core = DRB
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

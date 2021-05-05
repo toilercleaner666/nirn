@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = iron
 base_manpower = 1
-capital = "Penryn"
+capital = "Kushtashpi"
 is_city = yes
 add_core = AHM owner = AHM controller = AHM
 discovered_by = western

@@ -1,0 +1,20 @@
+#540-540
+
+
+
+culture = Conorrolian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = livestock
+base_manpower = 1
+capital = "Princegate Pass"
+is_city = yes
+add_core = CNL owner = CNL controller = CNL
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

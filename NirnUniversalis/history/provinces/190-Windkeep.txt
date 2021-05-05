@@ -1,0 +1,20 @@
+#190-190
+
+
+
+culture = Ephesian
+religion = eight_divines_rel
+hre = no
+base_tax = 3
+base_production = 4
+trade_goods = copper
+base_manpower = 4
+capital = "Windkeep"
+is_city = yes
+add_core = GAV owner = GAV controller = GAV
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+hre = yes
+

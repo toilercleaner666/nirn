@@ -8,7 +8,7 @@ base_tax = 3
 base_production = 4
 trade_goods = copper
 base_manpower = 3
-capital = "Penryn"
+capital = "Sailen Vulgate"
 is_city = yes
 add_core = IDL owner = IDL controller = IDL
 discovered_by = western

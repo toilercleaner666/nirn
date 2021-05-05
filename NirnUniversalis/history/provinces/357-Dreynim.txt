@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = ebony
 base_manpower = 1
-capital = "Penryn"
+capital = "Dreynim"
 is_city = yes
 add_core = IDL owner = IDL controller = IDL
 discovered_by = western

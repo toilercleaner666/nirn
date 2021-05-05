@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 trade_goods = salt
 base_manpower = 1
-capital = "Penryn"
+capital = "Motalion"
 is_city = yes
 add_core = SNL owner = SNL controller = SNL
 discovered_by = western

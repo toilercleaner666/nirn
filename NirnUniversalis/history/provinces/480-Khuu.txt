@@ -1,0 +1,19 @@
+#480-Khuul
+
+
+culture = Gnisisian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Khuu"
+is_city = yes
+add_core = RDN owner = RDN controller = RDN
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

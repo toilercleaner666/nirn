@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 3
 trade_goods = magical_supplies
 base_manpower = 2
-capital = "Penryn"
+capital = "Heimlyn"
 is_city = yes
 add_core = HLU owner = HLU controller = HLU
 discovered_by = western

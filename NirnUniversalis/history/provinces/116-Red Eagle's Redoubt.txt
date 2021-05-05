@@ -1,0 +1,20 @@
+#116-116
+
+
+
+culture = karth
+religion = old_gods_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Red Eagle's Redoubt"
+is_city = yes
+add_core = LKW owner = LKW controller = LKW
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

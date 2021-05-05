@@ -1,0 +1,20 @@
+#215-215
+
+
+
+culture = Menevian
+religion = eight_divines_rel
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = copper
+base_manpower = 7
+capital = "Menevia"
+is_city = yes
+add_core = MNV owner = MNV controller = MNV
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+hre = yes
+add_province_triggered_modifier = order_of_the_lily

@@ -1,0 +1,20 @@
+#113-113
+
+
+center_of_trade = 1
+culture = karth
+religion =  old_gods_rel
+hre = no
+base_tax = 1
+base_production = 3
+trade_goods = magical_supplies
+base_manpower = 1
+capital = "Harmugstahl"
+is_city = yes
+add_core = MAR owner = MAR controller = MAR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

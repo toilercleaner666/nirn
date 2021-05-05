@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 trade_goods = dwemer_artifacts
 base_manpower = 3
-capital = "Penryn"
+capital = "Stros M'kai"
 is_city = yes
 add_core = SMK owner = SMK controller = SMK
 discovered_by = western

@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 2
 trade_goods = copper
 base_manpower = 3
-capital = "Penryn"
+capital = "Dra'bul"
 is_city = yes
 add_core = DBC owner = DBC controller = DBC
 discovered_by = western

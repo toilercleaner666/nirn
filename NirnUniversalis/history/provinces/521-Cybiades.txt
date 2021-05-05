@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 trade_goods = tea
 base_manpower = 2
-capital = "Penryn"
+capital = "Cybiades"
 is_city = yes
 add_core = SNL owner = SNL controller = SNL
 discovered_by = western

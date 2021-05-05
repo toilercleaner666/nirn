@@ -1,0 +1,21 @@
+#257-257
+
+
+
+culture = Daenian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 2
+capital = "Spindleclutch"
+is_city = yes
+add_core = BHO owner = BHO controller = BHO
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+hre = yes
+add_province_triggered_modifier = fighters_guild_presence
+add_province_triggered_modifier = order_of_the_raven

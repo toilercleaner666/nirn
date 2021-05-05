@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = grain
 base_manpower = 1
-capital = "Penryn"
+capital = "Venim Meadow"
 is_city = yes
 add_core = ZNB owner = ZNB controller = ZNB
 discovered_by = western

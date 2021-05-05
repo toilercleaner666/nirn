@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 3
-capital = "Penryn"
+capital = "Goldfolly"
 is_city = yes
 add_core = GFL owner = GFL controller = GFL
 discovered_by = western

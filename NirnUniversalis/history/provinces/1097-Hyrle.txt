@@ -1,0 +1,20 @@
+#1097-1097
+
+
+
+add_core = PON
+owner = PON
+controller = PON
+culture = pontan
+religion = maormer_religion
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Hyrle"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

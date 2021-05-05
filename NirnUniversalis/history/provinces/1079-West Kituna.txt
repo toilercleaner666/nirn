@@ -1,0 +1,20 @@
+#1079-1079
+
+
+
+add_core = KIT
+owner = KIT
+controller = KIT
+culture = kitunese
+religion = maormer_religion
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "West Kituna"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

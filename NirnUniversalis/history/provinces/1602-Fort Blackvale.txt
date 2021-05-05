@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 3
-capital = "Penryn"
+capital = "Fort Blackvale"
 is_city = yes
 add_core = SIL owner = SIL controller = SIL
 discovered_by = western

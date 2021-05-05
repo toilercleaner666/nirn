@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 2
 trade_goods = dwemer_artifacts
 base_manpower = 2
-capital = "Penryn"
+capital = "Marog"
 is_city = yes
 add_core = TLV owner = TLV controller = TLV
 discovered_by = western

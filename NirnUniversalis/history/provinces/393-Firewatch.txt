@@ -8,7 +8,7 @@ base_tax = 3
 base_production = 3
 trade_goods = malachite
 base_manpower = 4
-capital = "Penryn"
+capital = "Firewatch"
 is_city = yes
 add_core = TLV owner = TLV controller = TLV
 discovered_by = western

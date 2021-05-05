@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Starwalk"
 is_city = yes
 add_core = DRV owner = DRV controller = DRV
 discovered_by = western
