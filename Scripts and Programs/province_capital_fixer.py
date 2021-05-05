@@ -45,6 +45,18 @@ if not os.path.exists('out/' + direct):
 
 # Iterate over every province in the csv
 for prov in provinces[1:]:
+
+	# Provinces to skip
+	if "UNUSED" in prov[4].upper() or "DONT USE" in prov[4].upper():
+		continue
+
+	if int(prov[0]) > 1827:
+		if int(prov[0]) < 3047 or int(prov[0]) > 3057:
+			if int(prov[0]) < 4271 or int(prov[0]) > 4281:
+				if int(prov[0]) != 3263 and int(prov[0]) != 3427:
+					continue
+
+
 	# Old and new province file names
 	infilename = histdir + "/" + prov[0] + "-" + prov[0] + ".txt"
 	outfilename = "out/" + direct + "/" + prov[0] + "-" + prov[4] + ".txt"
@@ -72,7 +84,7 @@ for prov in provinces[1:]:
 		if line.startswith("capital = "):
 			# Set capital name to province name.
 			# It will be very rare that the 2 are different.
-			newlines.append("capital = \"" + prov[4] + "\"")
+			newlines.append("capital = \"" + prov[4] + "\"\n")
 
 		else:
 			newlines.append(line)
