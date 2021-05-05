@@ -1,4 +1,4 @@
-union = {
+vassal = {
 	first = SUM
 	second = VLK
 	start_date = 1444.1.1

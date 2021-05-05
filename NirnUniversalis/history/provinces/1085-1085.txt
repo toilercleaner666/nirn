@@ -5,8 +5,8 @@
 add_core = ALI
 owner = ALI
 controller = ALI
-culture = alinori
-religion = auri_el_rel
+culture = akunan
+religion = maormer_religion
 hre = no
 base_tax = 11
 base_production = 11

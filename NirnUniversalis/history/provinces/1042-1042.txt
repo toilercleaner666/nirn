@@ -5,8 +5,8 @@
 add_core = LLD 
 owner = LLD 
 controller = LLD 
-culture = lillandrilian
-religion = auri_el_rel
+culture = maormer_raider
+religion = maormer_religion
 hre = no
 base_tax = 8
 base_production = 8
