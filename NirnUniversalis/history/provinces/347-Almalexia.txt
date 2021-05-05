@@ -8,7 +8,7 @@ base_tax = 11
 base_production = 11
 trade_goods = silk
 base_manpower = 8
-capital = "Penryn"
+capital = "Almalexia"
 is_city = yes
 add_core = IDL owner = IDL controller = IDL
 discovered_by = western

@@ -1,0 +1,22 @@
+#1264-1264
+
+
+
+add_core = WSK
+owner = WSK
+controller = WSK
+culture = wasseek_haleel
+religion = hist_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Leviathan's Grasp"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

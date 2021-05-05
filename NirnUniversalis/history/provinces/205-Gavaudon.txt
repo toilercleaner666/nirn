@@ -1,0 +1,20 @@
+#205-205
+
+
+
+culture = Menevian
+religion = eight_divines_rel
+hre = no
+base_tax = 4
+base_production = 3
+trade_goods = copper
+base_manpower = 3
+capital = "Gavaudon"
+is_city = yes
+add_core = GAV owner = GAV controller = GAV
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+hre = yes
+add_province_triggered_modifier = knights_of_iron

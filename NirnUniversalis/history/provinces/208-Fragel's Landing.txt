@@ -1,0 +1,20 @@
+#208-208
+
+
+
+culture = Menevian
+religion = eight_divines_rel
+hre = no
+base_tax = 4
+base_production = 3
+trade_goods = copper
+base_manpower = 3
+capital = "Fragel's Landing"
+is_city = yes
+add_core = WAY owner = WAY controller = WAY
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+hre = yes
+

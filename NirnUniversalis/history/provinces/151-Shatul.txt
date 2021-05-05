@@ -1,0 +1,20 @@
+#151-151
+
+
+
+culture = Orsimer
+religion = cult_of_malacath_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Shatul"
+is_city = yes
+add_core = BKH owner = BKH controller = BKH
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

@@ -1,0 +1,20 @@
+#546-546
+
+
+
+culture = Hewsportian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Allavod (M)"
+is_city = yes
+add_core = HSP owner = HSP controller = HSP
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

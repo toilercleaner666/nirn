@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = fur
 base_manpower = 1
-capital = "Penryn"
+capital = "Urshilaku"
 is_city = yes
 add_core = URS owner = URS controller = URS
 discovered_by = western

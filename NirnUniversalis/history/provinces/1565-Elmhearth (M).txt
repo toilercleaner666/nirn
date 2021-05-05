@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Elmhearth (M)"
 is_city = yes
 add_core = ELT owner = ELT controller = ELT
 discovered_by = western

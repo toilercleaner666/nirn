@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Lynpan March"
 is_city = yes
 add_core = CRM owner = CRM controller = CRM
 discovered_by = western

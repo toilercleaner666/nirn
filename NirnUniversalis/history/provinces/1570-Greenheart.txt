@@ -8,7 +8,7 @@ base_tax = 4
 base_production = 5
 trade_goods = copper
 base_manpower = 5
-capital = "Penryn"
+capital = "Greenheart"
 is_city = yes
 add_core = WKC owner = WKC controller = WKC
 discovered_by = western

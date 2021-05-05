@@ -1,0 +1,20 @@
+#514-514
+
+
+
+culture = Skavenian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Na-Totambu's City"
+is_city = yes
+add_core = SKV owner = SKV controller = SKV
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

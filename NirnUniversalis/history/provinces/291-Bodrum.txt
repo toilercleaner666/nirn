@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = livestock
 base_manpower = 1
-capital = "Penryn"
+capital = "Bodrum"
 is_city = yes
 add_core = RDN owner = RDN controller = RDN
 discovered_by = western

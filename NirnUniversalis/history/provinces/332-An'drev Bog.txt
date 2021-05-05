@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 trade_goods = slaves
 base_manpower = 1
-capital = "Penryn"
+capital = "An'drev Bog"
 is_city = yes
 add_core = DRS owner = DRS controller = DRS
 discovered_by = western

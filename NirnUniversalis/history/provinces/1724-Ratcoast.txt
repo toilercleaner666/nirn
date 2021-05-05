@@ -1,0 +1,22 @@
+#1724-1724
+
+
+
+add_core = SAR
+owner = SAR
+controller = SAR
+culture = sarpa
+religion = hist_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Ratcoast"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

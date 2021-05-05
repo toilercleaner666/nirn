@@ -1,0 +1,23 @@
+#523-523
+
+
+center_of_trade = 1
+culture = Sentinelese
+religion = eight_divines_rel
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = copper
+base_manpower = 4
+capital = "Sentinel"
+is_city = yes
+add_core = SNL owner = SNL controller = SNL
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+add_province_triggered_modifier = thieves_guild_presence
+add_province_triggered_modifier = fighters_guild_hall
+add_province_triggered_modifier = mages_guild_hall
+add_province_triggered_modifier = knights_of_the_circle
+add_province_triggered_modifier = knights_of_the_moon

@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 3
 trade_goods = copper
 base_manpower = 2
-capital = "Penryn"
+capital = "Allhearth (M)"
 is_city = yes
 add_core = ALT owner = ALT controller = ALT
 discovered_by = western

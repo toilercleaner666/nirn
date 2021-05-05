@@ -1,0 +1,22 @@
+#968-968
+
+
+
+add_core = VLK 
+owner = VLK  
+controller = VLK 
+culture = vulkheli
+religion = auri_el_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Silsailen"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

@@ -1,0 +1,20 @@
+#193-193
+
+
+
+culture = Moorish
+religion = eight_divines_rel
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = copper
+base_manpower = 4
+capital = "Portdun"
+is_city = yes
+add_core = PDC owner = PDC controller = PDC
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+hre = yes
+

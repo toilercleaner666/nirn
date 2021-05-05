@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 trade_goods = livestock
 base_manpower = 2
-capital = "Penryn"
+capital = "Old Keep"
 is_city = yes
 add_core = DRS owner = DRS controller = DRS
 discovered_by = western

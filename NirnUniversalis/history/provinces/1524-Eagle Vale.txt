@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = copper
 base_manpower = 2
-capital = "Penryn"
+capital = "Eagle Vale"
 is_city = yes
 add_core = ELD owner = ELD controller = ELD
 discovered_by = western

@@ -1,0 +1,20 @@
+#231-231
+
+
+
+culture = Shorhelmer
+religion = eight_divines_rel
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = copper
+base_manpower = 1
+capital = "Valeguard"
+is_city = yes
+add_core = SHR owner = SHR controller = SHR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+hre = yes
+

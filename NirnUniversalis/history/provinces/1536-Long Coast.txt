@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 3
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Long Coast"
 is_city = yes
 add_core = HNP owner = HNP controller = HNP
 discovered_by = western

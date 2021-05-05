@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 1
 trade_goods = iron
 base_manpower = 2
-capital = "Penryn"
+capital = "Septim's Gate Pass"
 is_city = yes
 add_core = RDN owner = RDN controller = RDN
 discovered_by = western

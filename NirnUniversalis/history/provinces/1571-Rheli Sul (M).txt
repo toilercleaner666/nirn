@@ -8,7 +8,7 @@ base_tax = 3
 base_production = 2
 trade_goods = copper
 base_manpower = 2
-capital = "Penryn"
+capital = "Rheli Sul (M)"
 is_city = yes
 add_core = BBB owner = BBB controller = BBB
 discovered_by = western

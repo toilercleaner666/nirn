@@ -8,7 +8,7 @@ base_tax = 3
 base_production = 1
 trade_goods = copper
 base_manpower = 1
-capital = "Penryn"
+capital = "Thromil"
 is_city = yes
 add_core = ARE owner = ARE controller = ARE
 discovered_by = western

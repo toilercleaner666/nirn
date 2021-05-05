@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 3
 trade_goods = grain
 base_manpower = 3
-capital = "Penryn"
+capital = "Balfalls"
 is_city = yes
 add_core = HLU owner = HLU controller = HLU
 discovered_by = western

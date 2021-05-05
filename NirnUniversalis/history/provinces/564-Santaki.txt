@@ -1,0 +1,19 @@
+#564-564
+
+
+
+culture = Tanethi
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Santaki"
+is_city = yes
+add_core = TNH owner = TNH controller = TNH
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+add_province_triggered_modifier = knights_of_the_hawk

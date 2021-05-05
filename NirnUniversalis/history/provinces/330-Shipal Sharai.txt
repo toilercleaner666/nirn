@@ -8,7 +8,7 @@ base_tax = 1
 base_production = 1
 trade_goods = salt
 base_manpower = 1
-capital = "Penryn"
+capital = "Shipal Sharai"
 is_city = yes
 add_core = HLU owner = HLU controller = HLU
 discovered_by = western

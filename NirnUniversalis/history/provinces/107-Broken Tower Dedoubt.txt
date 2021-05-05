@@ -1,0 +1,20 @@
+#107-107
+
+
+
+culture = granitehall
+religion = nord_religion
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Broken Tower Dedoubt"
+is_city = yes
+add_core = MOR owner = MOR controller = MOR add_core = GRH
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

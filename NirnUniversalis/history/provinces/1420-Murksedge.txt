@@ -1,0 +1,21 @@
+#1420-1420
+
+
+add_core = BLR
+owner = BLR
+controller = BLR
+culture = naga_kur
+religion = hist_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Murksedge"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

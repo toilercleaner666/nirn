@@ -8,7 +8,7 @@ base_tax = 2
 base_production = 1
 trade_goods = dwemer_artifacts
 base_manpower = 2
-capital = "Penryn"
+capital = "Mzahnch"
 is_city = yes
 add_core = HLU owner = HLU controller = HLU
 discovered_by = western

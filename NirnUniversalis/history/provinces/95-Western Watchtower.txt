@@ -1,0 +1,20 @@
+#95-95
+
+
+
+culture = rorikstead
+religion = nord_religion
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = livestock
+base_manpower = 2
+capital = "Western Watchtower"
+is_city = yes
+add_core = WHR owner = WHR controller = WHR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

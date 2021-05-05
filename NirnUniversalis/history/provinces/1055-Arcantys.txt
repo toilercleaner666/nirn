@@ -1,0 +1,20 @@
+#1055-1055
+
+
+
+add_core = ARC
+owner = ARC
+controller = ARC
+culture = arcantysi
+religion = maormer_religion
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Arcantys"
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

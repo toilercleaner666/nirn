@@ -1,0 +1,20 @@
+#1818-1818
+
+
+
+culture = Colovian
+religion = eight_divines_rel
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Toileclen"
+is_city = yes
+add_core = AAA owner = AAA controller = AAA
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

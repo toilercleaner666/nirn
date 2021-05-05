@@ -1,0 +1,18 @@
+#29-29
+
+
+
+culture = windhelm
+religion = nord_religion
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = fish
+base_manpower = 2
+capital = "Dragon Wood"
+is_city = yes
+add_core = WND owner = WND controller = WND
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

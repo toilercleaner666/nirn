@@ -8,7 +8,7 @@ base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 5
-capital = "Penryn"
+capital = "Tear"
 is_city = yes
 add_core = DRS owner = DRS controller = DRS
 discovered_by = western
