@@ -9967,7 +9967,7 @@ bosmer_group = {
 # MAORMER CULTURES       #
 ##########################
 
-maormer_culture_group = {
+maormer_group = {
 	graphical_culture = westerngfx
 
 	maormer_raider = {
