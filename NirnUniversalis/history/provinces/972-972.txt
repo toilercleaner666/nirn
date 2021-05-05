@@ -2,11 +2,10 @@
 
 
 
-add_core = SKW 
-add_core = ALI
-owner = ALI
-controller = ALI 
-culture = skywatcher
+add_core = VLK 
+owner = VLK  
+controller = VLK 
+culture = vulkheli
 religion = auri_el_rel
 hre = no
 base_tax = 1

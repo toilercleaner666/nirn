@@ -2,12 +2,11 @@
 
 
 
-add_core = DUS
-add_core = ALI
-owner = ALI 
-controller = ALI
-culture = duskan
-religion = auri_el_rel
+add_core = AKR
+owner = AKR
+controller = AKR
+culture = bantan
+religion = maormer_religion
 hre = no
 base_tax = 7
 base_production = 7
@@ -19,5 +18,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

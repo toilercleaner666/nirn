@@ -2,12 +2,11 @@
 
 
 
-add_core = CLO
-add_core = LLD
-owner = LLD
-controller = LLD
-culture = cloudrester
-religion = auri_el_rel
+add_core = BON
+owner = BON
+controller = BON
+culture = arcantysi
+religion = maormer_religion
 hre = no
 base_tax = 7
 base_production = 7
@@ -19,5 +18,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

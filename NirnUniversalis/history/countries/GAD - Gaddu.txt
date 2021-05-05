@@ -1,0 +1,10 @@
+# GAD - Gaddu
+
+government = monarchy
+government_rank = 1
+mercantilism = 0.0
+primary_culture = gadovese
+add_government_reform = feudalism_reform
+religion = maormer_religion
+technology_group = western
+capital = 1096

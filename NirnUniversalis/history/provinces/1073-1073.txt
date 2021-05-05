@@ -1,11 +1,12 @@
 #1073-1073
 
-add_core = CLO
-add_core = ALI
-owner = ALI 
-controller = ALI
-culture = alinori
-religion = auri_el_rel
+
+
+add_core = GRV
+owner = GRV
+controller = GRV
+culture = wegan
+religion = maormer_religion
 hre = no
 base_tax = 1
 base_production = 1
@@ -17,5 +18,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

@@ -2,10 +2,9 @@
 
 
 
-add_core = SKW 
-add_core = ALI
-owner = ALI
-controller = ALI 
+add_core = SKW
+owner = SKW
+controller = SKW
 culture = skywatcher
 religion = auri_el_rel
 hre = no

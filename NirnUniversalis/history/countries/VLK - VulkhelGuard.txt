@@ -1,0 +1,10 @@
+# VLK - VulkhelGuard
+
+government = monarchy
+government_rank = 1
+mercantilism = 0.0
+primary_culture = vulkheli
+add_government_reform = feudalism_reform
+religion = auri_el_rel
+technology_group = western
+capital = 967

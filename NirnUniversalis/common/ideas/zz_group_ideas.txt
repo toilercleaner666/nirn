@@ -238,8 +238,7 @@ maormer_pirate_ideas = {
 	free = yes
 
 	start = {
-		may_perform_slave_raid
-		may_perform_slave_raid_on_same_religion
+		may_perform_slave_raid = yes
 		leader_naval_shock = 1
 	}
 	bonus = {

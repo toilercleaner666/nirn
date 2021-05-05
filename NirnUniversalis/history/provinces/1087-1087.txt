@@ -1,5 +1,11 @@
 #1087-1087
-
+# DONT FUCKING EDIT THIS PROVINCE
+# PLEASE
+# LEAVE IT BE
+# IF YOU DO ANYTHING TO THIS PROVINCE IT CRASHES THE GAME
+# I LEARNT THIS THE HARD WAY, NOT ONCE BUT TWICE
+# PLEASE
+# <3
 
 
 add_core = ALI
@@ -18,5 +24,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-
