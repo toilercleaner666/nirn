@@ -1,0 +1,83 @@
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = TIG
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = CYD
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = KHL
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = ROA
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = PYR
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = ETH
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = VLU
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = BON
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = GRV
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = KIT
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = VIK
+	start_date = 1444.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = ORG
+	second = MAT
+	start_date = 1444.1.1
+}
