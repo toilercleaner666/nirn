@@ -5,7 +5,7 @@ add_government_reform = feudalism_reform
 primary_culture = skywatcher
 religion = auri_el_rel
 technology_group = western
-capital = 966
+capital = 977
 
 
 1437.2.20 = {
@@ -19,4 +19,3 @@ capital = 966
 	clear_scripted_personalities = yes
 	add_ruler_personality = 
 }
-

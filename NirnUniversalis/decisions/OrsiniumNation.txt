@@ -19,7 +19,7 @@ country_decisions = {
 					is_former_colonial_nation = yes
 					ai = no
 				}
-			primary_culture = Orsimer
+			primary_culture = orsimer
 }
 		}
 		provinces_to_highlight = {

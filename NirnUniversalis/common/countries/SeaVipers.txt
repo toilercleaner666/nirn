@@ -2,9 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 2  167  173 }
-
-preferred_religion = maormer_religion
+color = { 10  40  254 }
 
 historical_idea_groups = {
 

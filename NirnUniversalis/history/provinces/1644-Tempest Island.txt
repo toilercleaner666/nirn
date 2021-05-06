@@ -1,7 +1,7 @@
 #1644-Tempest Island
 
 
-culture = tempest
+culture = sea_viper
 religion = maormer_religion
 hre = no
 base_tax = 2
@@ -15,5 +15,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

@@ -1,10 +1,10 @@
-# PHR - Phaer Raiders
+# PYA - Pyandonea
 
 government = monarchy
 government_rank = 1
 mercantilism = 0.0
-primary_culture = sea_viper
+primary_culture = wegan
 add_government_reform = feudalism_reform
 religion = maormer_religion
 technology_group = western
-capital = 972
+capital = 1074

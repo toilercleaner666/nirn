@@ -9997,7 +9997,7 @@ maormer_group = {
 		}
 	}
 
-	tempest = {
+	sea_viper = {
 		male_names = { 
 			Crenaam Cranas Rysholnior Cyclirliol Vasloth Zyldyrnildu Ysleddos Qrenvah Uusnelrer Milyrloh Cedhe Raphes Isnes Orelnyel Crangaa Cradreiddyrnes Ynwosni Vylgyslom Imrylreirner Ycon Qylgum Lenveddaal Johmolnyoan Leke Asluuldus
 			Lydal Nomlivalron Ceklemeslal Jonwondas Pikalnyyldioh Jacluulvisno Iras Iklam Zylgi Qiriu Pyrgolnen Qrenriur Crire Jolgas Ocio Qralrir Nihmytolror Qashon Padrur Rylium

@@ -316,6 +316,9 @@ FRH = "countries/Firsthold.txt"
 VLK = "countries/VulkhelGuard.txt"
 PHR = "countries/PhaerRaiders.txt"
 
+# Formables
+AUR = "countries/Auridon.txt"
+
 ##########################
 # PYANDONEA              #
 ##########################
@@ -342,6 +345,10 @@ PON = "countries/Pontu.txt"
 AKR = "countries/Akrna.txt"
 SEC = "countries/Secula.txt"
 ABB = "countries/Abbarbas.txt"
+
+# Formables
+PYA = "countries/Pyandonea.txt"
+SVP = "countries/SeaVipers.txt"
 
 
 ##########################

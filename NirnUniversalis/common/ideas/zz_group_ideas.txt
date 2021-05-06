@@ -231,7 +231,7 @@ woodorc_ideas = {
 maormer_pirate_ideas = {
 	trigger = {
 		OR = {
-			primary_culture = tempest
+			primary_culture = sea_viper
 			primary_culture = maormer_raider
 		}
 	}

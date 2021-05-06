@@ -1,0 +1,180 @@
+country_decisions = {
+	form_sea_vipers = {
+		major = yes
+		potential = {
+			primary_culture = sea_viper
+			NOT = { exists = SVP }
+			NOT = { has_country_flag = formed_sea_vipers }
+		}
+		provinces_to_highlight = {
+			OR = {
+				superregion = valenwood_superregion
+				superregion = summerset_isles_superregion
+				superregion = elsweyr_superregion
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				is_city = no
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			owns_core_province = 1644
+			owns_all_provinces = {
+				area = drowned_coast_islands_area
+			}
+			owns_all_provinces = {
+				area = khenarthis_roost_area
+			}
+			num_of_owned_provinces_with = {
+				value = 6
+				AND = {
+					OR = {
+						superregion = valenwood_superregion
+						superregion = summerset_isles_superregion
+						superregion = elsweyr_superregion
+					}
+					NOT = {
+						OR = {
+							area = khenarthis_roost_area
+							area = drowned_coast_islands_area
+							province_id = 1644
+						}
+					}
+				}
+			}
+			all_country = {
+				AND = {
+					exists = THIS
+					NOT = {
+						primary_culture = ROOT
+					}
+				}
+			}
+		}
+		effect = {
+  			set_country_flag = formed_sea_vipers
+			change_tag = SVP
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_prestige = 10
+			if = {
+				limit = { 
+					has_custom_ideas = no 
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	form_pyandonea = {
+		major = yes
+		potential = {
+			culture_group = maormer_group
+			NOT = { exists = PYA }
+			NOT = {
+				ROOT = { tag = ORG }
+			}
+			NOT = { has_country_flag = formed_pyandonea }
+		}
+		provinces_to_highlight = {
+			culture_group = maormer_group
+			OR = {
+				NOT = { owned_by = ROOT }
+				is_city = no
+			}
+		}
+		allow = {
+			NOT = { exists = ORG }
+			is_free_or_tributary_trigger = yes
+			owns_core_province = 1074
+			owns_core_province = 1042
+			owns_core_province = 1119
+			owns_core_province = 1106
+			owns_core_province = 1081
+			OR = {
+				owns_core_province = 1124
+				owns_core_province = 1055
+			}
+			OR = {
+				owns_core_province = 1110
+				owns_core_province = 1045
+			}
+			num_of_owned_provinces_with = {
+				value = 35
+				culture_group = maormer_group
+			}
+		}
+		effect = {
+  			set_country_flag = formed_pyandonea
+			change_tag = PYA
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			set_capital = 1074
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			add_prestige = 25
+			if = {
+				limit = { 
+					has_custom_ideas = no 
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			pyandonea_superregion = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = PYA
+			}
+			every_province = {
+				limit = {
+					AND = {
+						NOT = { owned_by = ROOT }
+						NOT = { superregion = pyandonea_superregion }
+						culture_group = maormer_group
+					}
+				}
+				add_claim = PYA
+			}
+			every_country = {
+				limit = {
+					AND = {
+						exists = yes
+						culture_group = maormer_group
+						NOT = { tag = PYA }
+						NOT = { tag = ROOT }
+						NOT = { is_subject_of = PYA }
+					}
+				}
+				ROOT = {
+					add_casus_belli = {
+						target = PREV
+						type = cb_vassalize_mission
+						months = 240
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}
