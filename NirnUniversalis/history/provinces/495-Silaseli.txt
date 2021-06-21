@@ -1,9 +1,8 @@
-#495-495
-
+#495-Silaseli
 
 
 culture = Dragonstarian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

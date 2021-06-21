@@ -79,3 +79,10 @@ daedra_cult_rel: "Daedra Worship"
 
 #altmer Religions
 auri_el_rel: "Auri-El"
+
+######################
+#Hammerfell Religions#
+######################
+yokudan_group: "Redguard Faiths"
+ra-gada_rel: "Ra-Gada"
+ra-gada_rel_desc: "The pantheon of the Redguard has existed since long before the rise of the Alessian Empire, perhaps before the universe was even created. Through a process of walking at "Strange Angles", the Yokudan gods & the Redguard people managed to avoid the destruction of their universe and now persist in our own. They still venerate these gods despite the crown/forebear split and centuries of Imperial influence."

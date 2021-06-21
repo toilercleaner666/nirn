@@ -1,13 +1,12 @@
-#573-573
-
+#573-Hogon (M)
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = wine
 base_manpower = 1
 capital = "Hogon (M)"
 is_city = yes

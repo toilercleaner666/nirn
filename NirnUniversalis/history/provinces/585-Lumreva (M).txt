@@ -1,9 +1,8 @@
-#585-585
-
+#585-Lumreva (M)
 
 
 culture = Helkati
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

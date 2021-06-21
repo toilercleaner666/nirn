@@ -1,13 +1,12 @@
-#584-584
-
+#584-Fort Smokefork (M)
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = naval_supplies
 base_manpower = 1
 capital = "Fort Smokefork (M)"
 is_city = yes

@@ -1,9 +1,8 @@
-#520-520
-
+#520-Tigonus
 
 
 culture = Sentinelese
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 2
 base_production = 2

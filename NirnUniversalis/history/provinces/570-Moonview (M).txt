@@ -1,13 +1,12 @@
-#570-570
-
+#570-Moonview (M)
 
 
 culture = Tanethi
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = wool
 base_manpower = 1
 capital = "Moonview (M)"
 is_city = yes

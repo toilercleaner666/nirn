@@ -1,13 +1,12 @@
-#613-613
-
+#613-Ronasis (M)
 
 
 culture = Ronasisian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = grain
 base_manpower = 1
 capital = "Ronasis (M)"
 is_city = yes

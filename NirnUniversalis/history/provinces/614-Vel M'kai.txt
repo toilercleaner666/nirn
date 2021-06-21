@@ -1,13 +1,12 @@
-#614-614
-
+#614-Vel M'kai
 
 
 culture = Ronasisian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = livestock
 base_manpower = 1
 capital = "Vel M'kai"
 is_city = yes

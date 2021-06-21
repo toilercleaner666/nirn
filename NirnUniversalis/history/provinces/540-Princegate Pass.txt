@@ -1,13 +1,12 @@
-#540-540
-
+#540-Princegate Pass
 
 
 culture = Conorrolian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = livestock
+trade_goods = wine
 base_manpower = 1
 capital = "Princegate Pass"
 is_city = yes

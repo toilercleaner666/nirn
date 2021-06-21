@@ -1,12 +1,11 @@
-#586-586
-
+#586-Dusty Pass
 
 
 add_core = BRU
 owner = BRU
 controller = BRU
 culture = bruman
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

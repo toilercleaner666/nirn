@@ -1,13 +1,12 @@
-#601-601
-
+#601-Helgar (M)
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = grain
 base_manpower = 1
 capital = "Helgar (M)"
 is_city = yes

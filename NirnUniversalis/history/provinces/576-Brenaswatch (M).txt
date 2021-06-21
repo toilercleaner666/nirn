@@ -1,13 +1,12 @@
-#576-576
-
+#576-Brenaswatch (M)
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = tropical_wood
 base_manpower = 1
 capital = "Brenaswatch (M)"
 is_city = yes

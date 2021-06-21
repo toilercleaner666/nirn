@@ -1,13 +1,12 @@
-#604-604
-
+#604-Fomnillon (M)
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = cloth
 base_manpower = 1
 capital = "Fomnillon (M)"
 is_city = yes

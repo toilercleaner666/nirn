@@ -1,9 +1,8 @@
-#529-529
-
+#529-Oldroren (M)
 
 
 culture = Hegathian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 10
 base_production = 10

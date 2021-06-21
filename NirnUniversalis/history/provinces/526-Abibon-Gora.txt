@@ -1,9 +1,8 @@
-#526-526
-
+#526-Abibon-Gora
 
 
 culture = Hegathian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 3
 base_production = 3

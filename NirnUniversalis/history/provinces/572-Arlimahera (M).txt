@@ -1,13 +1,12 @@
-#572-572
-
+#572-Arlimahera (M)
 
 
 culture = Tanethi
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = copper
+base_tax = 2
+base_production = 3
+trade_goods = paper
 base_manpower = 1
 capital = "Arlimahera (M)"
 is_city = yes

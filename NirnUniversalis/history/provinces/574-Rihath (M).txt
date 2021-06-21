@@ -1,13 +1,12 @@
-#574-574
-
+#574-Rihath (M)
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
-base_tax = 1
+base_tax = 2
 base_production = 1
-trade_goods = copper
+trade_goods = livestock
 base_manpower = 1
 capital = "Rihath (M)"
 is_city = yes

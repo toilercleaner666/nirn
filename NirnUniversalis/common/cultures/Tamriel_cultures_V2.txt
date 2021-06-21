@@ -2661,7 +2661,7 @@ Crown = {
 			  }
 		}
 		
-		Stros M'kain = {
+		stros_mkain = {
 			male_names = {
 			 Abadarun Abal Abanal Abanilu Abazadar Abdahel Abdussah Abelazar Abir Abnajah Abradun Abri Abrunul Achelir Adajan 
 			 Adal Adar Adayyul Adenar Adit Admunayil Adrazan Adruzan Afelir Afshar Afwa Agalir Agha Ahad Ahdan Ahiza Ahmadduh

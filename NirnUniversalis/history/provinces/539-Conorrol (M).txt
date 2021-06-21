@@ -1,9 +1,8 @@
-#539-539
-
+#539-Conorrol (M)
 
 
 culture = Conorrolian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 2
 base_production = 1

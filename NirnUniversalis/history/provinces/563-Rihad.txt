@@ -1,13 +1,12 @@
-#563-563
-
+#563-Rihad
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 6
 base_production = 6
-trade_goods = copper
+trade_goods = coffee
 base_manpower = 3
 capital = "Rihad"
 is_city = yes

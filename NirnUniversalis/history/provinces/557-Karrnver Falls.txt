@@ -1,13 +1,12 @@
-#557-557
-
+#557-Karrnver Falls
 
 
 culture = Tanethi
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = copper
+base_tax = 2
+base_production = 2
+trade_goods = iron
 base_manpower = 1
 capital = "Karrnver Falls"
 is_city = yes

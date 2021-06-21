@@ -1,9 +1,8 @@
-#593-593
-
+#593-Stonemoor
 
 
 culture = Helkati
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

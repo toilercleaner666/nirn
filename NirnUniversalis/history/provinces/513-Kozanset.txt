@@ -1,13 +1,12 @@
-#513-513
-
+#513-Kozanset
 
 
 culture = Skavenian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = livestock
 base_manpower = 1
 capital = "Kozanset"
 is_city = yes

@@ -1,13 +1,12 @@
-#578-578
-
+#578-Lonedale (M)
 
 
 culture = Nokelosian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = copper
+trade_goods = timber
 base_manpower = 1
 capital = "Lonedale (M)"
 is_city = yes
