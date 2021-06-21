@@ -1,9 +1,8 @@
-#639-639
-
+#639-Molavar
 
 
 culture = Elinhirian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

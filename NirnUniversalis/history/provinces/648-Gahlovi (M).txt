@@ -1,9 +1,8 @@
-#648-648
-
+#648-Gahlovi (M)
 
 
 culture = Spellskarian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

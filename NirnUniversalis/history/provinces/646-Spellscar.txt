@@ -1,9 +1,8 @@
-#646-646
-
+#646-Spellscar
 
 
 culture = Spellskarian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

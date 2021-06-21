@@ -1,9 +1,8 @@
-#534-534
-
+#534-Shady Grove
 
 
 culture = Gilanian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

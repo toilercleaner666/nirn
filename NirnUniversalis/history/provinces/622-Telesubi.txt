@@ -1,9 +1,8 @@
-#622-622
-
+#622-Telesubi
 
 
 culture = Arbolian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

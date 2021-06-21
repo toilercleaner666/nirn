@@ -1,9 +1,8 @@
-#628-628
-
+#628-Lakewatch
 
 
 culture = Skavenian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

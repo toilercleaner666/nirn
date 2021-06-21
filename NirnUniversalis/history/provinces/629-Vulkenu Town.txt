@@ -1,9 +1,8 @@
-#629-629
-
+#629-Vulkenu Town
 
 center_of_trade = 1
 culture = Skavenian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

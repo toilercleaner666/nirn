@@ -1,9 +1,8 @@
-#621-621
-
+#621-Ash'abhas
 
 
 culture = Arbolian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

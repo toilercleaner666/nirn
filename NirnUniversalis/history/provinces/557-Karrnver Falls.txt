@@ -1,9 +1,8 @@
-#557-557
-
+#557-Karrnver Falls
 
 
 culture = Tanethi
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 2
 base_production = 2

@@ -1,9 +1,8 @@
-#547-547
-
+#547-Abah's Landing
 
 center_of_trade = 1
 culture = Skilginian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 5
 base_production = 6

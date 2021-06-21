@@ -1,9 +1,8 @@
-#511-511
-
+#511-Satakalaam
 
 center_of_trade = 1
 culture = Satkalamian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
