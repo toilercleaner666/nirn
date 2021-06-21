@@ -5,7 +5,7 @@ government = pirate_republic
 add_government_reform = feudalism_reform
 mercantilism = 31
 primary_culture = Stros M'kain
-religion = eight_divines_rel
+religion = ra-gada_rel
 technology_group = western
 capital = 1658
 
