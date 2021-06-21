@@ -1178,3 +1178,28 @@ bosmer_religious_group = {
 		color = { 121 111 24 }
 	}
 }
+
+#######################################
+# Hammerfell Religion                 #
+#######################################
+
+yokudan_group = {
+		can_form_personal_unions = yes
+        flags_with_emblem_percentage = 0 # default == 0
+		flag_emblem_index_range = { 1 57 }
+		center_of_religion = 529 # Hegathe
+        ra-gada_rel = {
+				uses_piety = yes
+				heretic = { CULTOFEBONARM }
+                icon = 5
+                color = { 249 116 91 }
+                country = {
+                        enemy_core_creation = 0.2
+                        army_tradition = 1
+                }
+                province = {
+                        local_missionary_strength = -0.02
+                }
+			
+        }
+}
