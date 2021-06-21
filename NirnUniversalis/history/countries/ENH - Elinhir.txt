@@ -5,7 +5,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 mercantilism = 31
 primary_culture = Elinhirian
-religion = eight_divines_rel
+religion = ra-gada_rel
 technology_group = western
 capital = 641
 
