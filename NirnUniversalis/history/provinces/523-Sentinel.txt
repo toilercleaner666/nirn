@@ -1,9 +1,8 @@
-#523-523
-
+#523-Sentinel
 
 center_of_trade = 1
 culture = Sentinelese
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 5
 base_production = 5

@@ -1,9 +1,8 @@
-#521-521
-
+#521-Cybiades
 
 
 culture = Sentinelese
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 3
 base_production = 3

@@ -1,9 +1,8 @@
-#493-493
-
+#493-Dragonstar
 
 center_of_trade = 1
 culture = Dragonstarian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 6
 base_production = 6

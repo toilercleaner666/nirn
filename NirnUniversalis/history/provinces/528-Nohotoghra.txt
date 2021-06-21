@@ -1,9 +1,8 @@
-#528-528
-
+#528-Nohotoghra
 
 
 culture = Hegathian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 3
 base_production = 3

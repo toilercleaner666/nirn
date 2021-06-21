@@ -1,9 +1,8 @@
-#494-494
-
+#494-Heldorn
 
 
 culture = Dragonstarian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

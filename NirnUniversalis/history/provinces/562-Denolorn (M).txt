@@ -1,9 +1,8 @@
-#562-562
-
+#562-Denolorn (M)
 
 
 culture = Rihadian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 2
 base_production = 2

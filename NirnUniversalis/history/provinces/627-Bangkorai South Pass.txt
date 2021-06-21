@@ -1,9 +1,8 @@
-#627-627
-
+#627-Bangkorai South Pass
 
 
 culture = Skavenian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

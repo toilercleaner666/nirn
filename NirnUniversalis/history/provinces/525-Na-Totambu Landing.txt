@@ -1,9 +1,8 @@
-#525-525
-
+#525-Na-Totambu Landing
 
 
 culture = Hegathian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 2
 base_production = 2

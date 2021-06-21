@@ -1,9 +1,8 @@
-#544-544
-
+#544-Hubalajad's Reflection
 
 
 culture = Skilginian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1

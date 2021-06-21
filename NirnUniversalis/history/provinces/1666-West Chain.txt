@@ -2,8 +2,8 @@
 
 
 
-culture = Stros M'kain
-religion = eight_divines_rel
+culture = stros_mkain
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
@@ -16,5 +16,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

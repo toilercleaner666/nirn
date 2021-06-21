@@ -1,19 +1,16 @@
-#559-Roseguard
-
-
+#558-Olmer (M)
+center_of_trade = 1
 culture = Tanethi
 religion = ra-gada_rel
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = fish
-base_manpower = 2
-capital = "Roseguard"
+base_tax = 5
+base_production = 6
+trade_goods = cloth
+base_manpower = 5
+capital = "Olmer (M)"
 is_city = yes
 add_core = TNH owner = TNH controller = TNH
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

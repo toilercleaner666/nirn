@@ -1,9 +1,8 @@
-#532-532
-
+#532-Sunkeep
 
 
 culture = Hegathian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 4
 base_production = 4
