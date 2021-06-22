@@ -1,0 +1,128 @@
+country_decisions = {
+	form_hammerfell = {
+	major = yes
+		potential = {
+			OR = {
+				tag = HGT
+				tag = GIL
+				tag = SNL
+				tag = SMK
+				tag = CSP
+				tag = HSP
+				tag = SGN
+				tag = CNL
+				tag = SKV
+				tag = TNH
+				tag = RIH
+				tag = ARB
+				tag = SKM
+				tag = DGS
+				tag = KDL
+				tag = ARB
+				tag = RNS
+				tag = NKS
+				tag = HKL
+				tag = ENH
+				tag = SPS
+				tag = KDL
+				tag = DRT
+			}
+			OR = {
+				owns_core_province = 563
+				owns_core_province= 558
+				owns_core_province= 536
+				owns_core_province= 529
+				owns_core_province= 523
+				owns_core_province = 511
+				owns_core_province = 631
+				owns_core_province = 493
+				owns_core_province= 616
+				owns_core_province = 613
+				owns_core_province = 641
+				owns_core_province = 594
+				owns_core_province = 598
+			}
+			NOT = { exists = HMF }
+			NOT = { has_country_flag = formed_hammerfell }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 563
+				province_id= 558
+				province_id= 536
+				province_id= 529
+				province_id= 523
+				province_id = 511
+				province_id = 631
+				province_id = 493
+				province_id= 616
+				province_id = 613
+				province_id = 641
+				province_id = 594
+				province_id = 598
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				is_city = no
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			adm_tech = 10
+			num_of_owned_provinces_with = {
+				value = 10
+				OR = {
+					province_id = 563
+					province_id= 558
+					province_id= 536
+					province_id= 529
+					province_id= 523
+					province_id = 511
+					province_id = 631
+					province_id = 493
+					province_id= 616
+					province_id = 613
+					province_id = 641
+					province_id = 594
+					province_id = 598
+				}
+				OR = {
+					culture_group = Crown
+					culture_group = Forebear
+				}
+			}
+		}
+		effect = {
+  			set_country_flag = formed_hammerfell
+			change_tag = HMF
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			hammerfell_superregion ={
+				limit = {
+					NOT = { owned_by = ROOT}
+					}
+				add_permanent_claim = HMF
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			add_prestige = 45
+			if = {
+				limit = { 
+				has_custom_ideas = no 
+				}
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+
+}
