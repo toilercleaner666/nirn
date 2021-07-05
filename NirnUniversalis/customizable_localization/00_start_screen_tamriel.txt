@@ -92,3 +92,24 @@ defined_text = {
 	
 
 }
+
+#================#
+# THE REGION TAB #
+#================#
+#Ex: "Looong text about the HRE"
+defined_text = {
+    name = StartScreenDownRightDesc
+	random = no
+
+    text = {
+        localisation_key = string_start_skyrim_description #Haafingar, Windhelm, and Jarldoms
+        trigger = {
+			#has_dlc = "Mandate of Heaven"
+			capital_scope = {
+				OR = {
+					superregion = skyrim_superregion
+				}
+			}
+        }
+    }
+}

@@ -9,6 +9,10 @@ religion = eight_divines_rel
 technology_group = western
 capital = 276
 
+federation = { 
+	name = "iroquois_federation_name" 
+	members = { TLV IDL HLU DRS}
+}
 
 1437.2.20 = {
 	monarch = {
