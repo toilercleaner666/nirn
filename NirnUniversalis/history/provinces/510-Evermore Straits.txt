@@ -4,10 +4,10 @@
 culture = Satkalamian
 religion = ra-gada_rel
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = copper
-base_manpower = 1
+base_tax = 2
+base_production = 2
+trade_goods = fish
+base_manpower = 2
 capital = "Evermore Straits"
 is_city = yes
 add_core = SKM owner = SKM controller = SKM
