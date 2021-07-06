@@ -350,7 +350,7 @@ colovia_ideas = {
 	colovia_emperor_zero = {
 		prestige = 1
 	}
-	
+}	
 nibenay_ideas = {
 	start = {
 		heir_chance = 0.3
