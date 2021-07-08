@@ -701,6 +701,12 @@
  CLV: "Colovia"
  CLV_ADJ: "Colovian"
  CLV_ADJ2: "Colovian"
+ AYL: "Ayleids"
+ AYL_ADJ: "Ayleid"
+ AYL_ADJ2: "Ayleid"
+ CYR: "Cyrodiil"
+ CYR_ADJ: "Cyrodiilic"
+ CYR_ADJ2: "Cyrodiilic"
  # Summerset Isles
  SUM: "Summerset"
  SUM_ADJ: "Summerset"
