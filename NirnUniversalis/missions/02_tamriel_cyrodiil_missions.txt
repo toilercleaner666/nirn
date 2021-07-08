@@ -1,0 +1,145 @@
+skingrad_trade_missions = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = SKI
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	SKI_west_weald_prosperity = {
+		icon = mission_japanese_samurai
+		required_missions = { }
+		provinces_to_highlight = {
+				province_id = 728
+			}
+		
+		trigger = {
+			728 = {
+				country_or_non_sovereign_subject_holds = ROOT
+				is_prosperous = yes
+			}
+		}
+		effect = {
+				add_country_modifier = {
+				name = "skingrad_upgrade_cost"
+				duration = 9125 #25 years
+			}		
+		}
+	}
+	SKI_dominant_merchants = {
+		icon = mission_japanese_fort
+		required_missions = { SKI_west_weald_prosperity }
+		position = 2
+		provinces_to_highlight = {
+				province_id = 728
+		}
+		trigger = {
+			728 = {
+				trade_share = {
+					country = ROOT
+					share = 40
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "skingrad_trade_boost"
+				duration = 9125 #25 years
+			}
+			anvils_coast_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	SKI_control_gold_coast = {
+		icon = mission_steppe_warriors
+		required_missions = { SKI_dominant_merchants }
+		position = 3
+		
+		provinces_to_highlight = {
+			area = anvils_coast_area
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			anvils_coast_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			775 = {
+				trade_share = {
+					country = ROOT
+					share = 25
+				}
+			}
+		}
+		effect = {
+			northern_woods_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			arenthian_borderlands_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			northern_ne_quinal_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	SKI_south_weald	= {
+		icon = mission_steppe_warriors
+		required_missions = { SKI_control_gold_coast }
+		position = 4
+		
+		provinces_to_highlight = {
+			OR = {
+					area = northern_woods_area
+					area = arenthian_borderlands_area
+					area = northern_ne_quinal_area
+				}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			northern_ne_quinal_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			arenthian_borderlands_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			northern_woods_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			
+		}
+		effect = {
+			1611 = { 
+			add_center_of_trade_level = 1
+			}
+		}
+	}
+}

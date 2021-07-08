@@ -8,3 +8,9 @@ svartr_legacy = {
 	diplomatic_annexation_cost = -0.15
 	
 }
+skingrad_upgrade_cost = {
+	center_of_trade_upgrade_cost = -0.2
+}
+skingrad_trade_boost = {
+	global_trade_power = 0.1
+}

@@ -34,3 +34,11 @@ haf_centralize_west_title: "Centralize the West"
 haf_centralize_west_desc:""
 #West Skyrim name
 WEST_SKYRIM:0 "West Skyrim"
+
+#CYRODIIL MISSIONS
+SKI_west_weald_prosperity_title: "West Weald Prosperity"
+SKI_west_weald_prosperity_desc: "The regions we rule contain vast amounts of riches, and fertile soil suitable for growing the best wine in the Empire. Before we can cast our reach outwards, we should first make sure our local wineries and mines are working at their full potential."
+SKI_dominant_merchants_title: "Dominant Merchants"
+SKI_dominant_merchants_desc: "Not enough of our wine is flowing out across Tamriel, despite being the best out there. Our merchants simply don't have the reach to sell our wines in the foreign markets. We must secure a better grip of our local trade, and then focus on branching to the major ports in cyrodiil."
+SKI_control_gold_coast_title: "Control of the Gold Coast"
+SKI_control_gold_coast_desc: "The Gold Coast is home to the second most prestigious wineries in Cyrodiil, being second only to ours. It is also a major trade hub and it would benefit us greatly by both knocking out our competitors as well as securing trade routes with the Redguards and the Altmer."
