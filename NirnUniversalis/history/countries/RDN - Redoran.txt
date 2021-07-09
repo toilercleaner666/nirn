@@ -1,7 +1,6 @@
 # RDN - Redoran
 
 government = monarchy
-government = monarchy
 add_government_reform = feudalism_reform
 mercantilism = 31
 primary_culture = Redoran

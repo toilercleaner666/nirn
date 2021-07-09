@@ -464,6 +464,11 @@ on_new_monarch = {
 		muslim_school_events.20 #No Religious School
 		flavor_daimyo.4			#Shiba Yoshikado
 		flavor_fra.9000			# François Villon
+		##################
+		#NIRN UNIVERSALIS#
+		##################
+		flavor_SOL.1			#Death of Svartr
+		flavor_WND.1			#Death of Freydis
 	}
 	random_events = {
 		1000 = 0
@@ -555,6 +560,8 @@ on_regent = {
 		tribal_succession.1	# harsh anti-tribals.
 		flavor_mlo.1	# The Ambrosian Republic
 		flavor_tim.1			#Death of Shah Rukh
+		flavor_SOL.1			#Death of Svartr
+		flavor_WND.1			#Death of Freydis		
 		flavor_daimyo.4			#Shiba Yoshikado
 	}
 }
@@ -1775,6 +1782,13 @@ on_thri_yearly_pulse_2 = {
 		25 = orthodox_flavor.3
 		25 = orthodox_flavor.4
 		25 = orthodox_flavor.5
+
+		#Nord Religion Pulse
+		25 = nord_religion_flavor.1
+		25 = nord_religion_flavor.2
+		25 = nord_religion_flavor.3
+		25 = nord_religion_flavor.4
+		25 = nord_religion_flavor.5
 
 		# Muslim Piety Events
 		40 = muslim_piety.1
