@@ -1,0 +1,101 @@
+country_decisions = {
+form_ayleids = {
+	major = yes
+		potential = {
+			OR = {
+				culture_group = bosmer_group
+				culture_group = altmer_group
+			}
+			OR = {
+				owns_core_province = 885 # Malada
+				owns_core_province = 747 # Miscarcand
+				owns_core_province = 879 # Nenalata
+				owns_core_province = 818 # White Gold Tower
+			}
+			NOT = { exists = AYL }
+			NOT = { has_country_flag = formed_ayleids }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 818 # Imperial City
+				province_id = 885 # Malada
+				province_id = 747 # Miscarcand
+				province_id = 879 # Nenalata
+				province_id = 861 # Atatar
+				province_id = 932 # Nornal
+				province_id = 847 # Veyond
+				province_id = 916 # Vilverin
+				province_id = 872 # Wendelbek
+				province_id = 727 # Ceyatatar
+				province_id = 781 # Garlas Malatar
+				province_id = 909 # Vanua
+				province_id = 826 # Bawn
+				province_id = 937 # Hame
+				province_id = 894 # Mackamentain
+				province_id = 672 # Ninendava
+				province_id = 686 # Sercen
+				province_id = 744 # Talwinque
+				province_id = 805 # Wenyandawik
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				is_city = no
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			adm_tech = 10
+			owns_core_province = 818 # Imperial City
+			owns_core_province = 885 # Malada
+			owns_core_province = 747 # Miscarcand
+			owns_core_province = 879 # Nenalata
+			num_of_owned_provinces_with = {
+				value = 4
+				OR = {
+					province_id = 861 # Atatar
+					province_id = 932 # Nornal
+					province_id = 847 # Veyond
+					province_id = 916 # Vilverin
+					province_id = 872 # Wendelbek
+					province_id = 727 # Ceyatatar
+					province_id = 781 # Garlas Malatar
+					province_id = 909 # Vanua
+			}
+			}
+			num_of_owned_provinces_with = {
+				value = 4
+				OR = {
+					province_id = 826 # Bawn
+					province_id = 937 # Hame
+					province_id = 894 # Mackamentain
+					province_id = 672 # Ninendava
+					province_id = 686 # Sercen
+					province_id = 744 # Talwinque
+					province_id = 805 # Wenyandawik
+			}
+			}
+		}
+		effect = {
+  			set_country_flag = formed_ayleids
+			change_tag = AYL
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			add_prestige = 50
+			if = {
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
