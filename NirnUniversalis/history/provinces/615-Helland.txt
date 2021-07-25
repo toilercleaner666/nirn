@@ -1,9 +1,8 @@
-#615-615
-
+#615-Helland
 
 
 culture = Arbolian
-religion = eight_divines_rel
+religion = ra-gada_rel
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,10 +10,10 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Helland"
 is_city = yes
-add_core = ARB owner = ARB controller = ARB
+add_core = ARB
+owner = ARB
+controller = ARB
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-
