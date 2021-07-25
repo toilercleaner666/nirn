@@ -2,7 +2,25 @@ jarldom_reform = {
 	icon = "crown_highlighted"
 	allow_normal_conversion = yes
 	potential = {
+		culture_group = nordic
 		religion_group = divines_religion_group
+		capital_scope = {
+			superregion = skyrim_superregion
+		}
+		ROOT = {
+			OR = {
+				tag = SOL
+				tag = MAR
+				tag = MOR
+				tag = DNS
+				tag = WNH
+				tag = WND
+				tag = RFT
+				tag = FAL
+				tag = WHR
+				tag = SKY
+			}
+		}
 	}
 	valid_for_nation_designer = no 
 	nation_designer_cost = 0
@@ -25,6 +43,6 @@ jarldom_reform = {
 	}
 }
 
-high_jarldom_reform = {
-
-}
+#high_jarldom_reform = {
+#
+#}
