@@ -350,4 +350,41 @@ colovia_ideas = {
 	colovia_emperor_zero = {
 		prestige = 1
 	}
+}	
+nibenay_ideas = {
+	start = {
+		heir_chance = 0.3
+		diplomats = 1
+	}
+
+	bonus = {
+		development_cost = -0.1
+	}
+	
+	trigger = {
+		tag = NIB
+	}
+	free = yes		#will be added at load.
+
+	nibenay_imperial_advisors = {
+		diplomatic_reputation = 2
+	}
+	nibenay_reddehand = {
+		production_efficiency = 0.1
+	}
+	nibenay_tharn_every_court = {
+		improve_relation_modifier = 0.25
+	}
+	nibenay_tharn_battlemages = {
+		artillery_power = 0.10
+	}
+	nibenay_ayleid_libraries = {
+		technology_cost = -0.1
+	}
+	nibenay_tharn_in_side = {
+		spy_offence = 0.1
+	}
+	nibenay_five_companions = {
+		land_morale = 0.10
+	}
 }
