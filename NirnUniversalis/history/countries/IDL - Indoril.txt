@@ -1,8 +1,11 @@
 # DRS - Dres
 
-government = theocracy
-government = theocratic_government
-add_government_reform = leading_clergy_reform
+government = monarchy
+add_government_reform = feudalism_reform
+#government = native
+#add_government_reform = native_federation_reform
+#add_government_reform = native_martial_tradition_reform
+#add_government_reform = native_settle_down_reform
 mercantilism = 31
 primary_culture = Indoril
 religion = eight_divines_rel

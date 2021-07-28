@@ -33,6 +33,7 @@ monarchy = {
 				#####TAMRIEL CHANGES#####
 				jarldom_reform
 				high_jarldom_reform
+				dunmer_house_reform
 				#####TAMRIEL CHANGES END#####
 			}
 		}
@@ -138,6 +139,7 @@ monarchy = {
 		holy_state_legacy
 		jarldom_legacy
 		high_jarldom_legacy
+		dunmer_house_legacy
 
 	}
 
@@ -156,6 +158,7 @@ monarchy = {
 		#####TAMRIEL CHANGES#####
 		jarldom_reform
 		high_jarldom_reform
+		dunmer_house_reform
 		#####TAMRIEL CHANGES END#####
 	}
 	
@@ -184,6 +187,7 @@ monarchy = {
 		#####TAMRIEL CHANGES#####
 		jarldom_reform
 		high_jarldom_reform
+dunmer_house_reform
 		#####TAMRIEL CHANGES END#####
 
 	}

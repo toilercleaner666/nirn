@@ -4,10 +4,10 @@
 culture = Skavenian
 religion = ra-gada_rel
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = copper
-base_manpower = 1
+base_tax = 2
+base_production = 3
+trade_goods = malachite
+base_manpower = 2
 capital = "Hallin's Stand"
 is_city = yes
 add_core = SKV owner = SKV controller = SKV
