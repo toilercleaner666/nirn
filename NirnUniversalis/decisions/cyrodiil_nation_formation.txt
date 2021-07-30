@@ -33,7 +33,7 @@ country_decisions = {
 		}
 		allow = {
 			is_free_or_tributary_trigger = yes
-			adm_tech = 10
+			adm_tech = 20
 			num_of_owned_provinces_with = {
 				value = 80
 				subcontinent = cyrodiil_superregion
