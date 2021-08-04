@@ -534,7 +534,7 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "tahoma_60"
-		path = "gfx/fonts/nirn_map_font_v2"
+		path = "gfx/fonts/nirn_map_font_v4"
 		color = 0xff333333
 		#path = "gfx/fonts/tahoma_60"
 		#color = 0xff333333
