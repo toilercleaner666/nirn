@@ -520,7 +520,7 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "ToolTip_Font"
-		path = "gfx/fonts/garamond_16"
+		path = "gfx/fonts/nirn_text_16"
 		color = 0xffffffff
 
 		
@@ -528,7 +528,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "ToolTip_Font_Big"
-		path = "gfx/fonts/garamond_16_bold"
+		path = "gfx/fonts/nirn_text_16_bold"
 		color = 0xffffffff
 	}	
 
@@ -542,169 +542,169 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "standard_18"
-		path = "gfx/fonts/standard_18"
+		path = "gfx/fonts/nirn_text_font_vic_18"
 		color = 0xffffffff
 	}
 	
 	bitmapfont = {
 		name = "standard_22"
-		path = "gfx/fonts/standard_22"
+		path = "gfx/fonts/nirn_text_22"
 		color = 0xffffffff
 	}
 	
 	bitmapfont = {
 		name = "mapfont_small"
-		path = "gfx/fonts/vic_22_bl"
+		path = "gfx/fonts/nirn_text_22"
 		color = 0xff000000	
 	}
 	
 	bitmapfont = {
 		name = "AnimatedMapText"
-		path = "gfx/fonts/tahoma_20_bold"
+		path = "gfx/fonts/nirn_text_20_bold"
 		color = 0xff7799ff
 		border_color = 0xe0000000
 	}
 
 	bitmapfont = {
 		name = "chat_largefont"
-		path = "gfx/fonts/tahoma_20_bold"
+		path = "gfx/fonts/nirn_text_20_bold"
 		color = 0xffffffff
 	}
 	
 	bitmapfont = {
 		name = "Main_24"
-		path = "gfx/fonts/garamond_24"
+		path = "gfx/fonts/nirn_text_24"
 		color = 0xffffffff
 	}
 
 	bitmapfont = {
 		name = "Main_24_black"
-		path = "gfx/fonts/garamond_24"
+		path = "gfx/fonts/nirn_text_24"
 		color = 0xff000000
 	}
 
 	bitmapfont = {
 		name = "pie_headline_20"
-		path = "gfx/fonts/garamond_24"
+		path = "gfx/fonts/nirn_text_24"
 		color = 0xff000000
 	}
 
 	bitmapfont = {
 		name = "messagelog"
-		path = "gfx/fonts/garamond_16_bold"
+		path = "gfx/fonts/nirn_text_16_bold"
 		color = 0xffffff99
 	}
 
 	bitmapfont = {
 		name = "Main_16"
-		path = "gfx/fonts/garamond_16_bold"
+		path = "gfx/fonts/nirn_text_16_bold"
 		color = 0xffffffff
 	}
 
 	bitmapfont = {
 		name = "Main_16_white_bold"
-		path = "gfx/fonts/garamond_16_bold"
+		path = "gfx/fonts/nirn_text_16_bold"
 		color = 0xffffffff
 	}
 
 	bitmapfont = {
 		name = "Main_16_black"
-		path = "gfx/fonts/garamond_16_bold"
+		path = "gfx/fonts/nirn_text_16_bold"
 		color = 0xff000000
 	}
 
 
 	bitmapfont = {
 		name = "Main_14"
-		path = "gfx/fonts/garamond_14"
+		path = "gfx/fonts/nirn_text_14"
 		color = 0xffffffff
 	}
 	bitmapfont = {
 		name = "Main_14_plain"
-		path = "gfx/fonts/garamond_14"
+		path = "gfx/fonts/nirn_text_14"
 		color = 0xff000000
 	}
 
 
 	bitmapfont = {
 		name = "Main_14_grey"
-		path = "gfx/fonts/garamond_14"
+		path = "gfx/fonts/nirn_text_14"
 		color = 0xffbbbbbb
 	}
 
 	bitmapfont = {
 		name = "Main_16_plain"
-		path = "gfx/fonts/garamond_16"
+		path = "gfx/fonts/nirn_text_16"
 		color = 0xffffffff
 	}
 	bitmapfont = {
 		name = "Main_14_black"
-		path = "gfx/fonts/garamond_14_bold"
+		path = "gfx/fonts/nirn_text_14_bold"
 		color = 0xff000000
 	}
 	bitmapfont = {
 		name = "Main_14_red"
-		path = "gfx/fonts/garamond_14_bold"
+		path = "gfx/fonts/nirn_text_14_bold"
 		color = 0xffff0000
 	}
 	bitmapfont = {
 		name = "Main_14_bold"
-		path = "gfx/fonts/garamond_14_bold"
+		path = "gfx/fonts/nirn_text_14_bold"
 		color = 0xffffffff
 	}
 	bitmapfont = {
 		name = "Main_14_orange"
-		path = "gfx/fonts/garamond_14_bold"
+		path = "gfx/fonts/nirn_text_14_bold"
 		color = 0xffffbb00
 	}
 
 	bitmapfont = {
 		name = "Main_14_eu"
-		path = "gfx/fonts/garamond_14"
+		path = "gfx/fonts/nirn_text_14"
 		color = 0xffaaffff
 	}
 
 
 	bitmapfont = {
 		name = "garamond_14"
-		path = "gfx/fonts/garamond_14"
+		path = "gfx/fonts/nirn_text_14"
 		color = 0xffffffff
 	}
 	bitmapfont = {
 		name = "garamond_14_bold"
-		path = "gfx/fonts/garamond_14_bold"
+		path = "gfx/fonts/nirn_text_14_bold"
 		color = 0xffffffff
 	}
 
 	bitmapfont = {
 		name = "garamond_14_bold_orange"
-		path = "gfx/fonts/garamond_14_bold"
+		path = "gfx/fonts/nirn_text_14_bold"
 		color = 0xffffc000
 	}
 
 	bitmapfont = {
 		name = "ledger"
-		path = "gfx/fonts/garamond_14"
+		path = "gfx/fonts/nirn_text_14"
 		color = 0xff000000
 	}
 
 	bitmapfont = {
 		name = "ledger_headline"
-		path = "gfx/fonts/garamond_16_bold"
+		path = "gfx/fonts/nirn_text_16_bold"
 		color = 0xff000000
 	}
 
 ##	bitmapfont = {
 ##		name = "messagelog"
-##		path = "gfx/fonts/garamond_14_bold"
+##		path = "gfx/fonts/nirn_text_14_bold"
 ##		color = 0xffffff99
 ##	}
 
 
 	bitmapfont = {
 		name = "vic_18_black"
-		path = "gfx/fonts/vic_18"
-		color = 0xff000000	
+		path = "gfx/fonts/nirn_text_font_vic_18"
+		color = 0xff000000
 
 		textcolors = {
 			G = { 24 112 26 }
@@ -726,7 +726,7 @@ bitmapfonts = {
 	}
 	bitmapfont = {
 		name = "vic_18s"
-		path = "gfx/fonts/vic_18s"
+		path = "gfx/fonts/nirn_text_font_vic_18"
 		color = 0xffffffff
 				
 		textcolors = {
@@ -738,8 +738,8 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "vic_18_grey"
-		path = "gfx/fonts/vic_18_grey"
-		color = 0xffffffff
+		path = "gfx/fonts/nirn_text_font_vic_18"
+		color = 0xff080808
 				
 		textcolors = {
 			G = { 44 171 50 }
@@ -750,7 +750,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "vic_22_black"
-		path = "gfx/fonts/vic_22"
+		path = "gfx/fonts/nirn_text_22"
 		color = 0xff000000	
 
 		textcolors = {
@@ -762,7 +762,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "vic_22"
-		path = "gfx/fonts/vic_22"
+		path = "gfx/fonts/nirn_text_22"
 		color = 0xffffffff
 				
 		textcolors = {
@@ -773,7 +773,7 @@ bitmapfonts = {
 	}
 	bitmapfont = {
 		name = "vic_22s"
-		path = "gfx/fonts/vic_22s"
+		path = "gfx/fonts/nirn_text_22"
 		color = 0xffffffff
 				
 		textcolors = {
@@ -785,7 +785,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "vic_29_black"
-		path = "gfx/fonts/vic_29"
+		path = "gfx/fonts/nirn_text_29"
 		color = 0xff000000	
 
 		textcolors = {
@@ -797,7 +797,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "vic_29"
-		path = "gfx/fonts/vic_29"
+		path = "gfx/fonts/nirn_text_29"
 		color = 0xffffffff
 				
 		textcolors = {
@@ -809,7 +809,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "vic_29s"
-		path = "gfx/fonts/vic_29s"
+		path = "gfx/fonts/nirn_text_29"
 		color = 0xffffffff
 		
 		textcolors = {
@@ -821,7 +821,7 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "vic_36_black"
-		path = "gfx/fonts/vic_36"
+		path = "gfx/fonts/nirn_text_36"
 		color = 0xff000000
 
 		textcolors = {
@@ -833,7 +833,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "vic_36"
-		path = "gfx/fonts/vic_36"
+		path = "gfx/fonts/nirn_text_36"
 		color = 0xffffffff
 				
 		textcolors = {
@@ -844,7 +844,7 @@ bitmapfonts = {
 	}
 	bitmapfont = {
 		name = "vic_36s"
-		path = "gfx/fonts/vic_36s"
+		path = "gfx/fonts/nirn_text_36"
 		color = 0xffffffff
 		
 		
@@ -897,7 +897,7 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "null_font"
-		path = "gfx/fonts/vic_18"
+		path = "gfx/fonts/nirn_text_font_vic_18"
 		color = 0xffffffff
 				
 		textcolors = {
