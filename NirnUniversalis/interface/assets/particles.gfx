@@ -54,5 +54,11 @@ objectTypes = {
 		name = "artillery_cannon"
 		type = "artillery_cannon"
 		scale = 1.2
-	}	
+	}
+
+	pdxparticle = {
+		name = "red_mountain_smoke_particle"
+		type = "red_mountain_smoke_particle"
+		scale = 2.0
+	}
 }

@@ -423,3 +423,20 @@ type={
 #	x = 1490
 #	y = 948
 #}
+
+type={
+	type="redmountainsmoke"
+	use_animation=yes
+	always_visible=yes
+	scale = 10
+	object={
+		name="1"
+		hidden_on_start=no
+		position={
+			2488.000 18.000 1360.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}

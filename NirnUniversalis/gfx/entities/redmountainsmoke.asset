@@ -1,0 +1,8 @@
+entity = {
+    name = "redmountainsmoke"
+    pdxmesh = "westerngfx_city_0"
+    state = {
+        name = "idle"  
+        event = { time = 0.8    particle = "red_mountain_smoke_particle" }
+    }
+}
