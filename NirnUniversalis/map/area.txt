@@ -5,10 +5,6 @@
 # BLACK MARSH
 ######################################
 
-debug_area = {
-	# this is to test something [by sol].
-}
-
 alten_meirhall_area = {
 	1251 1252 1253 4601
 }
@@ -23,32 +19,26 @@ lillmoth_area = {
 
 blackrose_area = {
 	1255 1257 1258 1259 1261
-
 }
 
 rockpark_area = {
 	1286 1287 1288 1289
-
 }
 
 moonmarsh_area = {
 	1264 1265 1267 1268
-
 }
 
 soulrest_area = {
 	1275 1277 1278 1279 1280
-
 }
 
 stonewastes_area = {
 	1281 1282 1283 1284 1285
-
 }
 
 archon_area = {
 	1293 1294 1296 1297 1298
-
 }
 
 branchgrove_area = {
@@ -59,128 +49,128 @@ seaspring_area = {
 	1260 1262 1302 1303
 }
 
-seafalls_area = { 1305 1306 1307 1308 1295
-
+seafalls_area = {
+	1305 1306 1307 1308 1295
 }
 
-portdun_mont_area = { 1304 1318 1319 1320 1321
-
+portdun_mont_area = {
+	1304 1318 1319 1320 1321
 }
 
-arnesia_area = { 1313 1315 1316 1333 1334 1335
-
+arnesia_area = {
+	1313 1315 1316 1333 1334 1335
 }
 
-branchmont_area = { 1332 1336 1337 1338
-
+branchmont_area = {
+	1332 1336 1337 1338
 }
 
-riverwalk_area = { 1343 1344 1345 1351
-
+riverwalk_area = {
+	1343 1344 1345 1351
 }
 
-thornmarsh_area = { 1346 1347 1348 1349
-
+thornmarsh_area = {
+	1346 1347 1348 1349
 }
 
-rockgrove_area = { 1424 1425 1426 1427 1429
-
+rockgrove_area = {
+	1424 1425 1426 1427 1429
 }
 
-gideon_area = { 1384 1430 1431 1428
-
+gideon_area = {
+	1384 1430 1431 1428 3425
 }
 
-black_marsh_area = { 1379 1381 1382 1383
-
+black_marsh_area = {
+	1379 1381 1382 1383
 }
 
-greenspring_area = { 1409 1410 1411 1413
-
+greenspring_area = {
+	1409 1410 1411 1413
 }
 
-glenbridge_area = { 1385 1386 1423
-
+glenbridge_area = {
+	1385 1386 1423
 }
 
-alten_markmont_area = { 1404 1405 1406 1407
-
+alten_markmont_area = {
+	1404 1405 1406 1407
 }
 
-helstrom_area = { 1387 1388 1396 1398 1399
-
+helstrom_area = {
+	1387 1388 1396 1398 1399
 }
 
-stormhold_area = { 1363 1365 1366 1367
-
+stormhold_area = {
+	1363 1365 1366 1367
 }
 
-reticulated_spine_area = { 1359 1360 1361 1362
-
+reticulated_spine_area = {
+	1359 1360 1361 1362
 }
 
-leafwater_area = { 1350 1352 1355 1357 1358
-
+leafwater_area = {
+	1350 1352 1355 1357 1358
 }
 
-venomous_fens_area = { 1364 1368 1369 1370 1371
-
+venomous_fens_area = {
+	1364 1368 1369 1370 1371
 }
 
-riverbridge_area = { 1314 1317 1327 1328
-
+riverbridge_area = {
+	1314 1317 1327 1328
 }
 
-rockpoint_area = { 1354 1356 1372 1373 1374
-
+rockpoint_area = {
+	1354 1356 1372 1373 1374
 }
 
-greenglade_area = { 1339 1340 1341 1353
-
+greenglade_area = {
+	1339 1340 1341 1353
 }
 
-rockspring_area = { 1414 1415 1416 1417
-
+rockspring_area = {
+	1414 1415 1416 1417
 }
 
-northern_murkwood_area = { 1408 1412 1422
-
+northern_murkwood_area = {
+	1408 1412 1422
 }
 
-southern_murkwood_area = { 1418 1419 1420 1421
-
+southern_murkwood_area = {
+	1418 1419 1420 1421
 }
 
 crimson_coast_area = {
 	1309 1310 1311 1312 1723
 }
 
-inner_marshes_area = { 1395 1400 1401 1402 1403
-
+inner_marshes_area = {
+	1395 1400 1401 1402 1403
 }
 
-outer_marshes_area = { 1342 1375 1393 1394 1397
-
+outer_marshes_area = {
+	1342 1375 1393 1394 1397
 }
 
-eastern_stormwood_area = { 1376 1390 1391 1392
-
+eastern_stormwood_area = {
+	1376 1390 1391 1392
 }
 
-western_stormwood_area = { 1377 1378 1380 1389
-
+western_stormwood_area = {
+	1377 1378 1380 1389
 }
 
 marauder_coast_area = {
 	1271 1272 1273 1274 1276
 }
 
-darkmoot_area = { 1263 1269 1270
-
+darkmoot_area = {
+	1263 1269 1270
 }
 
-gator_glades_area = { 1290 1291 1292
-
+gator_glades_area = {
+	1290 1291 1292
 }
 
 wamasus_area = {
@@ -1102,133 +1092,107 @@ daenia_area = {
 
 cambray_hills_area = {
 	250 251 252 264 265
-
 }
 
 glenpoint_area = {
 	266 267 268 272
-
 }
 
 aldcroft_area = {
 	262 263 269 270 271
-
 }
 
 urvaius_area = {
    258 259 260 261
-
 }
 
 bhoriane_area = {
    216 255 256 257
-
 }
 
 camlorn_area = {
    245 246 247 248 249
-
 }
 
 kambria_area = {
    222 223 240 253 254
-
 }
 
 northern_shores_area = {
    237 239 241 242 243 244
-
 }
 
 
 western_reach_area = {
    159 160 161 162 163
-
 }
 
 ephesus_area = {
    170 171 181 182
-
 }
 
 mournoth_area = {
    169 172 173 175 180
-
 }
 
 orsinium_area = {
    148 151 152 153 158
-
 }
 
 jahanna_area = {
    145 146 147 150 155
-
 }
 
 farrun_area = {
    149 156 157 166 167
-
 }
 
 central_wrothgar_area = {
    154 164 165 168 174
-
 }
 
 old_orsinium_area = {
    176 177 178 185 186 187
-
 }
 
 menevia_area = {
    209 210 211 214 215
-
 }
 
 wayrest_area = {
    206 207 208 212 213
-
 }
 
 gavaudon_area = {
    189 190 191 192 205
-
 }
 
 upper_wrothgar_area = {
    179 183 184 188 193
-
 }
 
 northpoint_area = {
    196 201 202 203 204
-
 }
 
 boralis_area = {
    220 227 228 229 236
-
 }
 
 shornhelm_area = {
    219 221 226 230 231 235
-
 }
 
 white_haven_area = {
    232 233 234 238 4272
-
 }
 
 markwasten_moor_area = {
    195 197 200 217 218
-
 }
 
 lower_wrothgar_area = {
    194 198 199 224 225
-
 }
 
 
@@ -2195,7 +2159,7 @@ upper_tirash_area = {
 }
 
 walsdort_area = {
-2112 2111 2114 2113
+	2112 2111 2114 2113
 }
 
 farinth_area = {
@@ -2215,7 +2179,7 @@ gorhitz_area = {
 }
 
 wyvern_hills_area = {
-2153 2154 2155 2157 2156
+	2153 2154 2155 2157 2156
 }
 
 zlithis_area = {
@@ -2407,7 +2371,7 @@ yalin_area = {
 	2005 2006 2007 2008 2009 2010
 }
 
-ruguo_area = { 
+ruguo_area = {
 	1975 2004 2003 2001 2002 2000
 }
 
@@ -3327,7 +3291,7 @@ western_mer_sea_area = {
 }
 
 southern_padomaeic_ocean_1_area = {
-	3424 3434 3433 3425 3428 3262 3261
+	3424 3434 3433 3428 3262 3261
 }
 
 southern_padomaeic_ocean_2_area = {

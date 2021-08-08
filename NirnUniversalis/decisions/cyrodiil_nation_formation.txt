@@ -24,7 +24,7 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				subcontinent = cyrodiil_superregion
+				superregion = cyrodiil_superregion
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -36,7 +36,7 @@ country_decisions = {
 			adm_tech = 20
 			num_of_owned_provinces_with = {
 				value = 80
-				subcontinent = cyrodiil_superregion
+				superregion = cyrodiil_superregion
 			}
 			owns_core_province = 818 # Imperial City
 			owns_all_provinces = {
