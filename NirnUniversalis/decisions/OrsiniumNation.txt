@@ -57,6 +57,7 @@ country_decisions = {
 		allow = {
 			is_free_or_tributary_trigger = yes
 			is_at_war = no
+			primary_culture = Orsimer
 			OR = {
 				owns_core_province = 187
 				owns_core_province = 152
