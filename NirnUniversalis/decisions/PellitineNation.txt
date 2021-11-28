@@ -1,0 +1,77 @@
+country_decisions = {
+	
+	pellitine_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_pellitine_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = ANQ }
+			NOT = { exists = PEL }
+			culture_group = pellitinian_culture_group
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1482 # Torval
+				province_id = 1484 # Corinth
+				province_id = 1470 # Senchal
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			owns_core_province = 1482 # Torval
+			owns_core_province = 1484 # Corinth
+			owns_core_province = 1470 # Senchal
+		}
+		effect = {
+			change_tag = PEL
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_prestige = 25
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			paalatiin_elsweyr_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = PEL
+			}
+                        quinrawl_elsweyr_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = PEL
+			}
+			set_country_flag = formed_pellitine_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	
