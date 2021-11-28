@@ -1,0 +1,79 @@
+country_decisions = {
+	
+	argonia_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_argonia_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = ARG }
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			culture_group = argonian_group
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1250			#Lilmoth
+				province_id = 1257			#Blackrose
+				province_id = 1293			#Archon
+				province_id = 1347			#Thorn
+				province_id = 1398			#Helstrom
+				province_id = 1280			#Soulrest
+				province_id = 1430			#Gideon
+				province_id = 1366			#Stormhold
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			adm_tech = 10
+			owns_core_province = 1250			#Lilmoth
+			owns_core_province = 1257			#Blackrose
+			owns_core_province = 1293			#Archon
+			owns_core_province = 1347			#Thorn
+			owns_core_province = 1398			#Helstrom
+			owns_core_province = 1280			#Soulrest
+			owns_core_province = 1430			#Gideon
+			owns_core_province = 1366			#Stormhold
+		}
+		effect = {
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			black_marsh_superregion = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ARG
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = formed_argonia_flag
+			change_tag = ARG
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
