@@ -1,10 +1,8 @@
-# SEN - Senchal
+# PEL - Pelletine
 
-government = monarchy
 government = monarchy
 add_government_reform = feudalism_reform
-mercantilism = 26
-primary_culture = helgener
+primary_culture = senchalese
 religion = eight_divines_rel
 technology_group = western
-
+capital = 1470
