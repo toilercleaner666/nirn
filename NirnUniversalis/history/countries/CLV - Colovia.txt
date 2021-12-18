@@ -1,0 +1,10 @@
+# CLV - Colovia
+
+government = monarchy
+government_rank = 1
+mercantilism = 0.0
+primary_culture = heartlander
+add_government_reform = feudalism_reform
+religion = eight_divines_rel
+technology_group = western
+capital = 1
