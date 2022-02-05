@@ -7,7 +7,7 @@ religion = nord_religion
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = livestock
+trade_goods = grain
 base_manpower = 2
 capital = "Rorik's Steading"
 is_city = yes
@@ -18,3 +18,4 @@ discovered_by = ottoman
 discovered_by = eastern
 
 
+add_province_triggered_modifier = Rorikstead_modifier

@@ -48,6 +48,23 @@ riekling_modifier = {
 	
 }
 
+#################################
+# Rorikstead 'Crops Conspiracy' #
+#################################
+Rorikstead_modifier = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		always = yes
+	}
+
+	local_production_efficiency = 0.1
+	local_manpower_modifier = -0.25
+	
+}
+
 ##########################################
 # FALINESTI PROVINCE TRIGGERED MODIFIERS #
 ##########################################
