@@ -164,6 +164,8 @@ technology = {
 	enable = japanese_samurai	
 	enable = shaybani	
 	enable = high_american_horsemen
+	#NIRN#
+	enable = nedic_knights_2
 	
 	combat_width = 2
 }
@@ -245,6 +247,8 @@ technology = {
 	enable = indian_elephant	
 	enable = steppe_riders
 	enable = high_american_rifle_cavalry
+	#NIRN#
+	enable = nedic_knights_3
 }
 
 technology = {
@@ -330,6 +334,10 @@ technology = {
 	enable = reformed_mughal_mansabdar	
 	enable = steppe_lancers
 	enable = high_american_hussar
+	#NIRN#
+	enable = nedic_knights_4_a
+	enable = nedic_knights_4_b
+	enable = nedic_knights_4_c
 	
 	combat_width = 2
 }
@@ -480,8 +488,11 @@ technology = {
 
 	
 	enable = polish_winged_hussar	
-	enable = muscovite_cossack	
-
+	enable = muscovite_cossack
+	#NIRN#	
+	enable = nedic_knights_5_a
+	enable = nedic_knights_5_b
+	
 	enable = coehorn_mortar		
 }
 
@@ -584,6 +595,8 @@ technology = {
 	enable = ha_reformed_influenced_infantry
 	#NIRN#
 	enable = nedic_infantry_8
+	enable = nedic_knights_6_a
+	enable = nedic_knights_6_b
 	
 	combat_width = 2
 }
@@ -622,6 +635,9 @@ technology = {
 	enable = french_impulse
 	enable = british_square
 	enable = steppe_uhlans
+	#NIRN#
+	enable = nedic_knights_7_a
+	enable = nedic_knights_7_b
 }
 
 technology = {
