@@ -12,10 +12,6 @@ base_manpower = 6
 capital = "Winterhold"
 is_city = yes
 add_core = WNH owner = WNH controller = WNH
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 center_of_trade = 1
 fort_15th = yes 
 
@@ -24,3 +20,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 add_province_triggered_modifier = college_of_winterhold_mages_guild
+discovered_by = aldmer_tech
+discovered_by = argonian_tech
+discovered_by = dunmer_tech
+discovered_by = khajiit_tech
+discovered_by = nedic_tech
+discovered_by = orsimer_tech
+discovered_by = sload_tech
+discovered_by = yokudan_tech
