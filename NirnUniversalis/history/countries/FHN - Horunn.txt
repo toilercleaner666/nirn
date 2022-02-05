@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = horunian
 add_accepted_culture = bruman
 religion = eight_divines_rel
-technology_group = western
+technology_group = nedic_tech
 capital = 925
 
 

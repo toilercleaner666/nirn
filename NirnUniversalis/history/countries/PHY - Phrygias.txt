@@ -3,6 +3,6 @@ add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = Daenian
 religion = eight_divines_rel
-technology_group = western
+technology_group = nedic_tech
 capital = 264
 

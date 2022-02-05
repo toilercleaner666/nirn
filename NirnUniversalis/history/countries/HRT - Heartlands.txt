@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = heartlander
 add_accepted_culture = roebecker
 religion = eight_divines_rel
-technology_group = western
+technology_group = nedic_tech
 capital = 818
 
 

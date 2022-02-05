@@ -4,7 +4,7 @@ primary_culture = nibenayan
 add_accepted_culture = aurusian
 add_accepted_culture = valusian
 religion = eight_divines_rel
-technology_group = western
+technology_group = nedic_tech
 capital = 879
 
 

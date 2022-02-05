@@ -3,7 +3,7 @@ add_government_reform = jarldom_reform
 primary_culture = winterholder
 add_accepted_culture = dawnstar
 religion = nord_religion
-technology_group = western
+technology_group = nedic_tech
 capital = 14
 
 

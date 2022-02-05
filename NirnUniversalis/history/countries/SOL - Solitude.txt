@@ -3,7 +3,7 @@ add_government_reform = jarldom_reform
 primary_culture = haafingar
 add_accepted_culture = dragonbridger
 religion = nord_religion
-technology_group = nedic
+technology_group = nedic_tech
 historical_rival = WND
 capital = 991
 

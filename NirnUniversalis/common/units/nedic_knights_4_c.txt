@@ -1,7 +1,7 @@
 # Zaporoghian Cossack
 
 type = cavalry
-unit_type = nedic
+unit_type = nedic_tech
 
 
 maneuver = 2

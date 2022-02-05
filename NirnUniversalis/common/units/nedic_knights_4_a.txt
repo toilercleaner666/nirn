@@ -1,7 +1,7 @@
 # Muscovite Caracolle
 
 type = cavalry
-unit_type = nedic
+unit_type = nedic_tech
 
 maneuver = 2
 offensive_morale = 3

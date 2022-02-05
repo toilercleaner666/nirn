@@ -172,14 +172,50 @@ groups = {
 		}
 	}
 	
-	nedic = {
+	nedic_tech = {
 		start_level = 3
 		start_cost_modifier = 0.20
 	}
 	
-	aldmer = {
+	aldmer_tech = {
 		start_level = 3
 		start_cost_modifier = 0
+
+	}
+	
+	argonian_tech = {
+		start_level = 1
+		start_cost_modifier = 1.5
+		is_primitive = yes
+	}
+	
+	dunmer_tech = {
+		start_level = 3
+		start_cost_modifier = 0.25
+
+	}
+	
+	khajiit_tech = {
+		start_level = 3
+		start_cost_modifier = 0.40
+
+	}
+	
+	orsimer_tech = {
+		start_level = 1
+		start_cost_modifier = 2.5
+		is_primitive = yes
+	}
+	
+	sload_tech = {
+		start_level = 3
+		start_cost_modifier = 0
+	
+	}
+	
+	yokudan_tech = {
+		start_level = 3
+		start_cost_modifier = 0.5
 
 	}
 }

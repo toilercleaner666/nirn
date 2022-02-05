@@ -1,7 +1,7 @@
 # Muscovite Musketeer
 
 type = infantry
-unit_type = nedic
+unit_type = nedic_tech
 
 maneuver = 1
 offensive_morale = 3

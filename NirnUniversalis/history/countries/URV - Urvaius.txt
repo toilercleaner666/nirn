@@ -4,7 +4,7 @@ government_rank = 1
 mercantilism = 25
 primary_culture = Daenian
 religion = eight_divines_rel
-technology_group = western
+technology_group = nedic_tech
 capital = 259
 
 
