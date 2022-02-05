@@ -11,8 +11,12 @@ base_manpower = 2
 capital = "Oaktown"
 is_city = yes
 add_core = HLU owner = HLU controller = HLU
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 
+discovered_by = aldmer_tech
+discovered_by = argonian_tech
+discovered_by = dunmer_tech
+discovered_by = khajiit_tech
+discovered_by = nedic_tech
+discovered_by = orsimer_tech
+discovered_by = sload_tech
+discovered_by = yokudan_tech

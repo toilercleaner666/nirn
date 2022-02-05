@@ -13,9 +13,12 @@ trade_goods = cloth
 base_manpower = 1
 capital = "Ninendava"
 is_city = yes
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 
-
+discovered_by = aldmer_tech
+discovered_by = argonian_tech
+discovered_by = dunmer_tech
+discovered_by = khajiit_tech
+discovered_by = nedic_tech
+discovered_by = orsimer_tech
+discovered_by = sload_tech
+discovered_by = yokudan_tech

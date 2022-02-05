@@ -11,11 +11,15 @@ base_manpower = 3
 capital = "Rihad"
 is_city = yes
 add_core = RIH owner = RIH controller = RIH
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
 center_of_trade = 1
 fort_15th = yes 
 
 add_province_triggered_modifier = mages_guild_hall
+discovered_by = aldmer_tech
+discovered_by = argonian_tech
+discovered_by = dunmer_tech
+discovered_by = khajiit_tech
+discovered_by = nedic_tech
+discovered_by = orsimer_tech
+discovered_by = sload_tech
+discovered_by = yokudan_tech
