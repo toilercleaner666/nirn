@@ -1,3 +1,8 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1;2;sea;3;1;1;2;2;
+701;823;sea;3449;-1;-1;-1;-1; #Imperial Isle
+835;844;sea;3441;-1;-1;-1;-1; #Lelywin to Darkfathom
+812;906;sea;3445;-1;-1;-1;-1;
+#808 to 807 3442
 -1;-1;;-1;-1;-1;-1;-1;-1;
+
