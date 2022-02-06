@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = kota_vimleel
 religion = daedra_cult_rel
-technology_group = western
+technology_group = argonian_tech
 capital = 1305
 
 

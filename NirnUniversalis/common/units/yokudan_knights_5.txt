@@ -1,0 +1,14 @@
+# Yokudan Knights
+#Tech 17
+
+type = cavalry
+unit_type = yokudan_tech
+
+maneuver = 2	
+offensive_fire = 0
+defensive_fire = 2
+offensive_shock = 4
+defensive_shock = 3
+offensive_morale = 3
+defensive_morale = 2	
+

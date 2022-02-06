@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = naga_kur
 religion = hist_rel
-technology_group = western
+technology_group = argonian_tech
 capital = 1408
 
 

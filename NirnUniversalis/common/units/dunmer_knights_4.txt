@@ -1,0 +1,14 @@
+# Dunmer Knights
+#Tech 10
+
+type = cavalry
+unit_type = dunmer_tech
+
+maneuver = 2	
+	
+offensive_fire = 1
+defensive_fire = 1
+offensive_shock = 3
+defensive_shock = 3
+offensive_morale = 3
+defensive_morale = 3

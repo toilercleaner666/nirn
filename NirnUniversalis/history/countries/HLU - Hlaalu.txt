@@ -1,4 +1,4 @@
-# DRS - Dres
+# HLU - Hlaalu
 
 government = monarchy
 add_government_reform = feudalism_reform
@@ -9,7 +9,7 @@ add_government_reform = feudalism_reform
 mercantilism = 31
 primary_culture = Hlaalu
 religion = eight_divines_rel
-technology_group = western
+technology_group = dunmer_tech
 capital = 329
 
 

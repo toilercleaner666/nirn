@@ -6,7 +6,7 @@ add_government_reform = feudalism_reform
 mercantilism = 26
 primary_culture = corinthian
 religion = eight_divines_rel
-technology_group = western
+technology_group = khajiit_tech
 capital = 1484
 
 

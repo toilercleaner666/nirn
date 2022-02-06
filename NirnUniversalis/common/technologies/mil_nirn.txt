@@ -66,7 +66,23 @@ technology = {
 	#NIRN#
 	enable = nedic_infantry_1
 	enable = nedic_knights_1
+	enable = yokudan_infantry_1
+	enable = yokudan_knights_1
+	enable = aldmer_infantry_1_a
+	enable = aldmer_infantry_1_b
+	enable = aldmer_knights_1_a
+	enable = aldmer_knights_1_b
+	enable = dunmer_infantry_1
+	enable = dunmer_knights_1
+	enable = khajiit_infantry_1_a
+	enable = khajiit_infantry_1_b
+	enable = khajiit_knights_1_a
+	enable = khajiit_knights_1_b
+	enable = khajiit_knights_1_c
+	enable = argonian_infantry_1
 
+	
+	
 }
 
 technology = {
@@ -134,8 +150,16 @@ technology = {
 	enable = ha_reformed_xantican_warrior
 	#NIRN#
 	enable = nedic_infantry_2
-	
-	
+	enable = yokudan_infantry_2
+	enable = aldmer_infantry_2_a
+	enable = aldmer_infantry_2_b
+	enable = aldmer_infantry_2_c
+	enable = dunmer_infantry_2
+	enable = khajiit_infantry_2
+	enable = argonian_infantry_2_a
+	enable = argonian_infantry_2_b
+	enable = argonian_infantry_2_c
+
 	combat_width = 2
 }
 
@@ -166,6 +190,10 @@ technology = {
 	enable = high_american_horsemen
 	#NIRN#
 	enable = nedic_knights_2
+	enable = yokudan_knights_2
+	enable = dunmer_knights_2
+	enable = khajiit_knights_2
+	enable = argonian_knights_1
 	
 	combat_width = 2
 }
@@ -214,6 +242,13 @@ technology = {
 	enable = ha_xiuhtecuhtli_soldier
 	#NIRN#
 	enable = nedic_infantry_3
+	enable = yokudan_infantry_3_a
+	enable = yokudan_infantry_3_b
+	enable = aldmer_infantry_3_a
+	enable = aldmer_infantry_3_b
+	enable = aldmer_infantry_3_c
+	enable = dunmer_infantry_3
+	enable = khajiit_infantry_3
 	
 	military_tactics 	= 	0.25
 	combat_width = 1	
@@ -249,6 +284,15 @@ technology = {
 	enable = high_american_rifle_cavalry
 	#NIRN#
 	enable = nedic_knights_3
+	enable = yokudan_knights_3
+	enable = aldmer_knights_2
+	enable = dunmer_knights_3
+	enable = khajiit_knights_3
+	enable = argonian_infantry_3_a
+	enable = argonian_infantry_3_b
+	enable = argonian_infantry_3_c
+	enable = argonian_knights_2
+	
 }
 
 technology = {
@@ -293,6 +337,13 @@ technology = {
 	#NIRN#
 	enable = nedic_infantry_4_a
 	enable = nedic_infantry_4_b
+	enable = yokudan_infantry_4_a
+	enable = yokudan_infantry_4_b
+	enable = aldmer_infantry_4_a
+	enable = aldmer_infantry_4_b
+	enable = dunmer_infantry_4
+	enable = khajiit_infantry_4
+
 }
 
 technology = {
@@ -338,6 +389,13 @@ technology = {
 	enable = nedic_knights_4_a
 	enable = nedic_knights_4_b
 	enable = nedic_knights_4_c
+	enable = yokudan_knights_4
+	enable = aldmer_knights_3
+	enable = khajiit_knights_4
+	enable = argonian_infantry_4_a
+	enable = argonian_infantry_4_b
+	enable = argonian_infantry_4_c
+	enable = argonian_knights_3	
 	
 	combat_width = 2
 }
@@ -366,6 +424,9 @@ technology = {
 	#NIRN#
 	enable = nedic_infantry_5_a
 	enable = nedic_infantry_5_b
+	enable = aldmer_infantry_5_a
+	enable = aldmer_infantry_5_b
+	enable = khajiit_infantry_5
 	
 }
 
@@ -395,6 +456,8 @@ technology = {
 	enable = maharathan_cavalry		
 	enable = manchu_banner		
 	enable = african_swarm
+	enable = yokudan_knights_5
+
 }
 
 technology = {
@@ -414,6 +477,13 @@ technology = {
 	enable = leather_cannon	
 	enable = steppe_mounted_raiders
 	enable = ha_xoloti
+	#NIRN#	
+	enable = yokudan_infantry_5_a
+	enable = yokudan_infantry_5_b
+	enable = aldmer_knights_4
+	enable = dunmer_knights_4
+	enable = khajiit_knights_5_a
+	enable = khajiit_knights_5_b
 	
 	combat_width = 2
 }
@@ -447,6 +517,14 @@ technology = {
 	enable = high_american_swarm
 	#NIRN#
 	enable = nedic_infantry_6
+	enable = aldmer_infantry_6_a
+	enable = aldmer_infantry_6_b
+	enable = aldmer_infantry_6_c
+	enable = dunmer_infantry_5
+	enable = argonian_infantry_5_a
+	enable = argonian_infantry_5_b
+	enable = argonian_knights_4
+	
 }
 
 technology = {
@@ -533,6 +611,21 @@ technology = {
 	enable = high_american_dragoon
 	#NIRN#
 	enable = nedic_infantry_7
+	enable = yokudan_infantry_6
+	enable = yokudan_knights_6
+	enable = aldmer_infantry_7_a
+	enable = aldmer_infantry_7_b
+	enable = aldmer_infantry_7_c
+	enable = aldmer_knights_5_a	
+	enable = aldmer_knights_5_b	
+	enable = aldmer_knights_5_c	
+	enable = dunmer_infantry_6
+	enable = dunmer_knights_5
+	enable = khajiit_infantry_6
+	enable = khajiit_knights_6_a
+	enable = khajiit_knights_6_b
+	enable = argonian_knights_5
+	
 }
 
 technology = {
@@ -597,6 +690,19 @@ technology = {
 	enable = nedic_infantry_8
 	enable = nedic_knights_6_a
 	enable = nedic_knights_6_b
+	enable = aldmer_infantry_8_a
+	enable = aldmer_infantry_8_b
+	enable = aldmer_infantry_8_c
+	enable = aldmer_infantry_8_d
+	enable = aldmer_knights_6_a	
+	enable = aldmer_knights_6_b	
+	enable = aldmer_knights_6_c		
+	enable = dunmer_infantry_7
+	enable = dunmer_knights_6_a
+	enable = dunmer_knights_6_b
+	enable = khajiit_infantry_7
+	enable = argonian_infantry_6_a
+	enable = argonian_infantry_6_b
 	
 	combat_width = 2
 }
@@ -638,6 +744,18 @@ technology = {
 	#NIRN#
 	enable = nedic_knights_7_a
 	enable = nedic_knights_7_b
+	enable = yokudan_knights_7_a
+	enable = yokudan_knights_7_b
+	enable = aldmer_infantry_9_a
+	enable = aldmer_infantry_9_b
+	enable = aldmer_knights_7_a	
+	enable = aldmer_knights_7_b	
+	enable = aldmer_knights_7_c
+	enable = dunmer_knights_7_a
+	enable = dunmer_knights_7_b	
+	enable = khajiit_knights_7_a
+	enable = khajiit_knights_7_b
+
 }
 
 technology = {
@@ -676,6 +794,15 @@ technology = {
 	enable = ha_reformed_xoloti
 	#NIRN#
 	enable = nedic_infantry_9
+	enable = yokudan_infantry_8
+	enable = aldmer_infantry_10_a
+	enable = aldmer_infantry_10_b
+	enable = aldmer_infantry_10_c
+	enable = aldmer_infantry_10_d
+	enable = dunmer_infantry_8
+	enable = khajiit_infantry_8
+	enable = argonian_infantry_7
+	
 }
 
 technology = {

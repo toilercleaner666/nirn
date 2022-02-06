@@ -6,5 +6,5 @@ mercantilism = 0.0
 primary_culture = bantan
 add_government_reform = feudalism_reform
 religion = maormer_religion
-technology_group = western
+technology_group = aldmer_tech
 capital = 1119

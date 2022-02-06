@@ -6,5 +6,5 @@ mercantilism = 0.0
 primary_culture = vulkheli
 add_government_reform = feudalism_reform
 religion = auri_el_rel
-technology_group = western
+technology_group = aldmer_tech
 capital = 967

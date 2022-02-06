@@ -7,23 +7,23 @@
  nedic_infantry_1DESCR:0 "A rabble of peasants and farmers raised by the local ruler."
  nedic_infantry_2:0 "Nedic Militia"
  nedic_infantry_2DESCR:0 "A more organized militia composed of levies and a small amount of trained fighters."
-  nedic_infantry_3:0 "Nedic Pikemen"
+ nedic_infantry_3:0 "Nedic Pikemen"
  nedic_infantry_3DESCR:0 "Pikemen of the human variety."
-  nedic_infantry_4_a:0 "Defensive Nedic army"
+ nedic_infantry_4_a:0 "Defensive Nedic army"
  nedic_infantry_4_aDESCR:0 "A blend of the Akaviri dragonguard and the Imperials of Cyrodiil."
-  nedic_infantry_4_b:0 "Offensive Nedic army"
+ nedic_infantry_4_b:0 "Offensive Nedic army"
  nedic_infantry_4_bDESCR:0 "A blend of the Akaviri dragonguard and the Imperials of Cyrodiil."
-   nedic_infantry_5_a:0 "Nedic army1"
+ nedic_infantry_5_a:0 "Nedic army1"
  nedic_infantry_5_aDESCR:0 "A blend of the Akaviri dragonguard and the Imperials of Cyrodiil."
-  nedic_infantry_5_b:0 "Nedic army2"
+ nedic_infantry_5_b:0 "Nedic army2"
  nedic_infantry_5_bDESCR:0 "A blend of the Akaviri dragonguard and the Imperials of Cyrodiil."
-  nedic_infantry_6:0 "Early Legion"
+ nedic_infantry_6:0 "Early Legion"
  nedic_infantry_6DESCR:0 "The Early Legions were a return to the forms and discipline of the Reman Empire."
  nedic_infantry_7:0 "Classic Legion"
  nedic_infantry_7DESCR:0 "A blend of the Akaviri dragonguard and the Imperials of Cyrodiil these were the Legions during the golden age of the Third Empire."
-  nedic_infantry_8:0 "Standardized Legion"
+ nedic_infantry_8:0 "Standardized Legion"
  nedic_infantry_8DESCR:0 "A blend of the Akaviri dragonguard and the Imperials of Cyrodiil."
-   nedic_infantry_9:0 "Late Legion"
+ nedic_infantry_9:0 "Late Legion"
  nedic_infantry_9DESCR:0 "A blend of the Akaviri dragonguard and the Imperials of Cyrodiil."
  
  ###############
@@ -54,3 +54,10 @@
  nedic_knights_7_b:0 "Heavy Nordic Cataphract"
  nedic_knights_7_bDESCR:0 "Equiped with the finest steel from Skyrim the Heavily armored Nordic Cataphract is a deadly and unrivaled unit."
  
+################
+#ALDMER INFANTRY#
+################
+ aldmer_infantry_1_a:0 "Aldmer Infantry"
+aldmer_infantry_1_b:0 "Aldmer Infantry"
+aldmer_knights_1_a:0 "Aldmer Knights"
+aldmer_knights_1_b:0 "Aldmer Knights"

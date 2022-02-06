@@ -6,7 +6,7 @@ add_government_reform = feudalism_reform
 mercantilism = 31
 primary_culture = Skavenian
 religion = ra-gada_rel
-technology_group = western
+technology_group = yokudan_tech 
 capital = 631
 
 

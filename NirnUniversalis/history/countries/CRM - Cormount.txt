@@ -5,5 +5,5 @@ government_rank = 1
 mercantilism = 0.0
 primary_culture = cormountian
 religion = green_pact_religion
-technology_group = western
+technology_group = aldmer_tech
 capital = 1545

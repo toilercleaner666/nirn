@@ -1,0 +1,14 @@
+# Yokudan Knights
+#Tech 28
+
+type = cavalry
+unit_type = yokudan_tech
+
+maneuver = 1	
+offensive_fire = 1
+defensive_fire = 2
+offensive_shock = 4
+defensive_shock = 4
+offensive_morale = 4
+defensive_morale = 3	
+

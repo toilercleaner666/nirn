@@ -1,0 +1,14 @@
+# Dunmer Knights
+#Tech 28
+
+type = cavalry
+unit_type = dunmer_tech
+
+maneuver = 2	
+	
+offensive_fire = 2
+defensive_fire = 2
+offensive_shock = 3
+defensive_shock = 3
+offensive_morale = 4
+defensive_morale = 4
