@@ -10,7 +10,7 @@ dwemer_artifacts = {
 		idea_cost = -0.05
 	}
 	province = {
-		production_efficiency_modifier = -0.1
+		#production_efficiency_modifier = -0.1
 	}
 	chance = {
 		factor = 5
@@ -68,7 +68,7 @@ magical_supplies = {
 		artillery_power = +0.15
 	}
 	province = {
-		production_efficiency_modifier = -0.1
+		#production_efficiency_modifier = -0.1
 	}
 	chance = {
 		factor = 5
@@ -122,7 +122,7 @@ ebony = {
 		discipline = +0.025
 	}
 	province = {
-		production_efficiency_modifier = -0.25
+		#production_efficiency_modifier = -0.25
 	}
 	chance = {
 		factor = 5
@@ -147,7 +147,7 @@ malachite = {
 		shock_damage= 0.1
 	}
 	province = {
-		local_friendly_movement_speed = .15
+		local_friendly_movement_speed = 0.15
 	}
 	chance = {
 		factor = 5
@@ -169,7 +169,7 @@ malachite = {
 moonstone = {
 	color = { 0.87 0.90 0.77 }
 	modifier = {
-		movement_speed = .05
+		movement_speed = 0.05
 	}
 	province = {
 		global_regiment_recruit_speed = -0.15
@@ -194,7 +194,7 @@ moonstone = {
 orichalcum = {
 	color = { 0.11 0.37 0.15 }
 	modifier = {
-		fire_damage = .1
+		fire_damage = 0.1
 	}
 	province = {
 		province_warscore_cost = +0.25
@@ -219,7 +219,7 @@ orichalcum = {
 stalhrim = {
 	color = { 0.05 0.56 0.62 }
 	modifier = {
-		discipline = .025
+		discipline = 0.025
 	}
 	province = {
 		local_hostile_movement_speed = +0.25

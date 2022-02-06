@@ -13,7 +13,7 @@ tags={
 	"New Nations"
 	"Religion"
 }
-supported_version="1.30.*.*"
+supported_version="1.32.*.*"
 replace_path="history/advisors"
 replace_path="history/countries"
 replace_path="history/diplomacy"

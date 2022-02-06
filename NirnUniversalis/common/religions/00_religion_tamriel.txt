@@ -414,7 +414,7 @@ divines_religion_group = {
 			}
 		}
 
-		harmonized_modifier = harmonized_divines
+		#harmonized_modifier = harmonized_divines
 
 		crusade_name = Crusade
 	}
@@ -621,7 +621,7 @@ divines_religion_group = {
 			}
 		}
 
-		harmonized_modifier = harmonized_divines
+		#harmonized_modifier = harmonized_divines
 
 		crusade_name = Crusade
 	}
@@ -660,7 +660,7 @@ reachmen_religion_group = {
 		fetishist_cult = yes
 		heretic = { GOAT_SKULL }
 
-		harmonized_modifier = harmonized_dragon
+		#harmonized_modifier = harmonized_dragon
 
 		crusade_name = Holy War
 	}
@@ -707,7 +707,7 @@ dragon_religion_group = {
 			}
 		}
 
-		harmonized_modifier = harmonized_dragon
+		#harmonized_modifier = harmonized_dragon
 		crusade_name = Crusade
 	}
 }
@@ -749,10 +749,10 @@ hist_religion_group = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
-		heretic = { DAEDRA }
+		#heretic = { DAEDRA }
 	}
 
-	harmonized_modifier = harmonized_hist
+	#harmonized_modifier = harmonized_hist
 	crusade_name = CRUSADE
 	}
 }
@@ -784,7 +784,7 @@ aldmer_religion_group = {
 		heretic = { DAEDRA }
 		uses_isolationism = yes
 
-		harmonized_modifier = harmonized_auriel
+		#harmonized_modifier = harmonized_auriel
 	}
 
 	maormer_religion = {
@@ -869,7 +869,7 @@ daedra_religion_group = {
 			}
 		}
 
-	harmonized_modifier = harmonized_daedra
+	#harmonized_modifier = harmonized_daedra
 
 	crusade_name = Crusade
 
@@ -910,7 +910,7 @@ bosmer_religious_group = {
 		papacy = {
 			papal_tag = SIL
 			election_cost = 5
-			set_of_papacy = 1630
+			seat_of_papacy = 1630
 
 			#Council of Trent Positions - FROM BASE GAME
 			harsh = {
